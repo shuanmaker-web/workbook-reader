@@ -1,0 +1,108 @@
+# Translation (二) · 試題以「動詞」開頭 (book p.5–7) — from the 翻譯／寫作 workbook
+# 歷屆試題解題範例 1–6: printed. 試題演練 1–8: derived by Claude (~!), need teacher review.
+# Student marks on the scan are NOT transcribed.
+@section tr-2 | 翻譯（二）：試題以「動詞」開頭 | Translation: sentences starting with a verb | 學測重點：試題句子以「動詞」為開頭
+@overview 中文以動詞或動作開頭時，通常可用祈使句、動名詞當主詞、不定詞當主詞、分詞構句這四種句型。先判斷中文動作是「主詞」還是「附帶／原因」，再選句型。歷屆範例 6 題附書上的替換詞；試題演練 8 題的參考答案為本 app 推導，請老師審閱。
+
+@group 學測重點：試題句子以「動詞」為開頭
+@page 5
+= 祈使句
++例 Think before you make your move. | 行動前請三思。
++例 Check your email before replying. | 回覆前請檢查你的電子郵件。
+= 動名詞為主詞
++例 Smoking is harmful to your health. | 吸煙有害健康。
++例 Saving money helps in emergencies. | 存錢在緊急時有幫助。
+= 不定詞為主詞
++例 To travel around the world is my dream. | 環遊世界是我的夢想。
++例 To learn from mistakes leads to growth. | 從錯誤中學習能促進成長。
+= 分詞構句
++例 Not knowing the answer, I stayed silent. | （由於）不知道答案，我保持沉默。
++例 Shocked by the news, David froze. | 被這個消息震驚，David 愣住了。
+
+@group 歷屆試題解題範例
+
+Q 1 | trans | 112學測
+stem: 避免衝突、確保世界和平應該是所有人類追求的目標。
+= Avoiding conflicts and ensuring world peace should be the goal pursued by all human beings.
+~替換 Avoiding: Preventing
+~替換 conflicts: confrontations / clashes
+~替換 goal: aim / purpose
+
+Q 2 | trans | 106學測
+stem: 征服玉山一直是國內外登山者最困難的挑戰之一。
+= Conquering Jade Mountain has been one of the most difficult challenges for local and foreign mountain climbers.
+~替換 the most difficult: the toughest / the hardest
+~替換 for local and foreign mountain climbers: for mountain climbers at home and abroad
+
+Q 3 | trans | 105學測
+stem: 相較於他們父母的世代，現今年輕人享受較多的自由和繁榮。
+= Compared to the generation of their parents, nowadays, the youth enjoy more freedom and prosperity.
+~替換 Compared to: Compared with / In comparison with
+~替換 the generation of their parents: their parents' generation
+~替換 nowadays: now / today
+~替換 the youth: youngsters / young people
+~替換 more: greater
+
+Q 4 | trans | 103指考
+stem: 食用過多油炸食物可能會導致學童體重過重，甚至更嚴重的健康問題。
+= Eating too much deep-fried food may lead to school children's overweight and even more serious health problems.
+~替換 Eating: Having
+~替換 too much: excessive
+
+Q 5 | trans | 102指考
+stem: 對許多學生而言，在課業與課外活動間取得平衡是一大挑戰。
+= For many students nowadays, striking a balance between schoolwork and extracurricular activities is a big challenge.
+~替換 nowadays: today
+~替換 schoolwork: academic work
+~替換 big: great
+
+Q 6 | trans | 95指考
+stem: 為提供一個無煙的用餐環境，許多餐廳不允許室內抽菸。
+= To provide a non-smoking dining environment, many restaurants do not allow smoking inside.
+~替換 non-smoking: smoke-free
+~替換 dining environment: eating environment
+~替換 allow: permit
+~替換 inside: indoors
+
+@group 試題演練
+@page 6
+
+Q 7 | trans | 試題演練 1
+stem: 已經去過數十個國家，Jessica 總是有許多有趣故事可以分享。
+= Having been to dozens of countries, Jessica always has many interesting stories to share.
+~! 「已經去過」用完成式分詞構句 Having been to …，表示去過的動作發生在「總是有故事」之前；「數十個」dozens of；stories to share 用不定詞修飾名詞。
+
+Q 8 | trans | 試題演練 2
+stem: 從天空看，這個小村莊看起來就像是個小圓點。
+= Seen from the sky, the small village looks like a small round dot.
+~! 分詞構句：village 是被「看」，用過去分詞 Seen from the sky；主詞需與主要子句相同（the village）；look like + N. 看起來像…。
+
+Q 9 | trans | 試題演練 3
+stem: 所有的參賽者都感到很焦慮，等待比賽結果宣布。
+= All the contestants felt very anxious, waiting for the results of the competition to be announced.
+~! 「等待」與「感到焦慮」同時進行，用現在分詞 waiting for … 表附帶狀況；wait for + N. + to be + Vpp（等待…被宣布）。也可改寫成 Waiting for the results … to be announced, all the contestants felt very anxious.
+
+Q 10 | trans | 試題演練 4
+stem: 提早做足準備可以增加你成功的機會。
+= Preparing well in advance can increase your chances of success.
+~! 動名詞當主詞：Preparing well in advance；「提早」in advance；「成功的機會」chances of success；動名詞主詞視為單數，後接助動詞 can。
+
+Q 11 | trans | 試題演練 5
+stem: 直走三個街區，然後你會看到右手邊有一間新開的書店。
+= Go straight for three blocks, and you will see a newly opened bookstore on your right.
+~! 祈使句 Go straight …，用 and 連接「然後你會…」（祈使句 + and + S + will V.）；「新開的」newly opened；「右手邊」on your right。
+
+Q 12 | trans | 試題演練 6
+stem: 位於市中心，那個公園受到當地人和遊客的歡迎。
+= Located in the city center, the park is popular with both locals and tourists.
+~! 分詞構句：park 被「位於」，用過去分詞 Located in …（= Because/Since it is located in …）；be popular with sb. 受…歡迎。
+
+Q 13 | trans | 試題演練 7
+stem: 有別於多數人的看法，眼見不一定為憑。
+= Different from what most people think, seeing is not necessarily believing.
+~! 「有別於」Different from / Contrary to；what most people think 為名詞子句；「眼見為憑」Seeing is believing，部分否定用 not necessarily。
+
+Q 14 | trans | 試題演練 8
+stem: 不確定他是否通過考試，他整晚輾轉難眠。
+= Not sure whether he had passed the exam, he tossed and turned all night.
+~! 否定的分詞構句：Not (being) sure …，not 放在分詞前；whether 子句表「是否」，「通過」發生在「不確定」之前，用過去完成式 had passed；toss and turn 輾轉難眠。

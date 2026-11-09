@@ -1,0 +1,4 @@
+# original-book scans (copyrighted; personal use only) and dictionary source
+assets/page-*.jpg
+ecdict.csv
+*.csv

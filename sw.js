@@ -1,0 +1,8 @@
+const CACHE='workbook-reader-v2'; // keep in sync with app.js
+const CORE=['./','index.html','style.css','app.js','data.js','dictionary.js','manifest.webmanifest','assets/icon-192.png','assets/icon-512.png'];
+// original-page scans are optional: cached when present, ignored when missing
+const PAGES=Array.from({length:40},(_,i)=>i+1).flatMap(n=>[`assets/page-${n}.jpg`,...(n<10?[`assets/page-0${n}.jpg`]:[])]);
+async function notify(message){for(const client of await self.clients.matchAll({includeUncontrolled:true}))client.postMessage(message)}
+self.addEventListener('install',e=>{e.waitUntil((async()=>{try{const c=await caches.open(CACHE);await c.addAll(CORE);await Promise.allSettled(PAGES.map(u=>c.add(u)));await c.put('offline-ready',new Response('ready'));await notify('offline-ready');await self.skipWaiting()}catch(error){await notify('offline-error');throw error}})())});
+self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const k of await caches.keys())if(k!==CACHE&&k.startsWith('workbook-reader-'))await caches.delete(k);await self.clients.claim();await notify('offline-ready')})()));
+self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith((async()=>{const c=await caches.open(CACHE);let cached=await c.match(e.request);if(cached)return cached;try{let response=await fetch(e.request);if(response.ok&&!response.redirected&&response.type==='basic')await c.put(e.request,response.clone());return response}catch(error){if(e.request.mode==='navigate'){let home=await c.match('index.html');if(home)return home}throw error}})())});

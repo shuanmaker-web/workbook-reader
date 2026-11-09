@@ -1,0 +1,105 @@
+# Translation (一) · 表「目的」句法 (book p.2–4) — from the 翻譯／寫作 workbook
+# 歷屆試題解題範例 1–5: answers + 替換詞 copied from the book (printed).
+# 試題演練 1–8: book has no printed answers; reference answers derived by Claude (~!), need teacher review.
+# Student pencil/red-pen marks on the scan are NOT transcribed.
+@section tr-1 | 翻譯（一）：表「目的」句法 | Translation: purpose clauses | 學測重點：表「目的」句法
+@overview 中文出現「為了…」「以…」等目的關鍵字時，用目的句型作答。先確認句型，再用較不易出錯的字詞完整表達文意。歷屆範例 5 題附書上的替換詞；試題演練 8 題的參考答案為本 app 推導，書中沒有印出解答，請老師審閱。
+
+@group 學測重點：表「目的」句法
+@page 2
+= to / in order to / so as to + VR
+試題中描述目的相關資訊，會出現「為了…」「以…」等關鍵字。
++例 Tom moved to the city to/in order to/so as to find a better job. | 湯姆搬到城市以尋找更好的工作。
++句首 To/In order to find a better job, Tom moved to the city.
+= [so that / in order that] + S + V
++例 We took a shortcut so that/in order that we could reach the station faster. | 我們抄近路，以便更快到達車站。
+= for the purpose of / with a view to / with an eye to + V-ing
++例 I joined the club for the purpose of/with a view to/with an eye to making new friends. | 我加入這個社團是為了結交新朋友。
+
+@group 歷屆試題解題範例
+
+Q 1 | trans | 104學測改
+stem: 一個企業應該負起社會責任，以增進大眾的福祉。
+= An enterprise should take on the social responsibilities to enhance people's welfare.
+~替換 take on: take up / shoulder / bear / assume
+~替換 enhance: promote / improve / increase
+~替換 people's: the public's / public
+~替換 welfare: well-being / wellbeing
+
+Q 2 | trans | 102學測
+stem: 政府正推出新的政策，以滿足人們的住房需求。
+= The government is launching new policies to satisfy people's housing needs.
+~替換 launching: putting forward
+~替換 satisfy: meet / fulfill
+~替換 needs: demands / requirements
+
+Q 3 | trans | 103指考
+stem: 因此，家長與老師應該共同合作，（以）找出處理這個棘手議題的有效措施。
+= Therefore, parents and teachers should work together to find out effective ways to deal with this difficult issue.
+~替換 should: ought to
+~替換 work together: join hands
+~替換 find out: figure out
+~替換 ways: measures
+~替換 deal with: handle
+~替換 difficult: troublesome / thorny
+
+Q 4 | trans | 100指考
+stem: 科學家正尋求安全、乾淨又不昂貴的綠色能源，以滿足我們對電的需求。
+= Scientists are looking for safe, clean and inexpensive green energy in order to satisfy our needs for electricity.
+~替換 looking for: seeking / searching for
+~替換 inexpensive: economical / reasonably priced / affordable
+~替換 green: eco-friendly
+~替換 satisfy: meet / fulfill
+~替換 needs: demands / requirements
+
+Q 5 | trans | 98指考改
+stem: 大家在網路上投票給玉山，要讓它成為世界七大奇觀之一。
+= Everyone voted for Mt. Jade online to make it one of the world's Seven Wonders.
+~替換 Everyone: People
+~替換 online: on the website
+~替換 make it: help it become
+~替換 world's Seven Wonders: Seven Wonders of/in the World
+~補充 help + (人) + (to) VR
+
+@group 試題演練
+@page 3
+
+Q 6 | trans | 試題演練 1
+stem: 為了減輕他課業上的壓力，他在閒暇時間會去遛狗或是慢跑。
+= To relieve the stress from his schoolwork, he would walk the dog or go jogging in his free time.
+~! 「為了減輕…」用 To/In order to + VR 放句首；「會…」表習慣用 would；「閒暇時間」in his free/leisure time。relieve 後接 stress/pressure（relieve the pressure of …）。
+
+Q 7 | trans | 試題演練 2
+stem: 為了防止學生上課時分心，Amy 要求所有學生在上課前交出手機。
+= To keep students from being distracted in class, Amy required all students to hand in their phones before class.
+~! 目的句型 To/In order to + VR；「防止…分心」可用 keep/prevent students from being distracted（或 avoid distracting students）；require sb. to V.；「交出」hand in。
+
+Q 8 | trans | 試題演練 3
+stem: 為了吃得健康，Mark 開始在家自己種植有機蔬菜和水果。
+= In order to eat healthily, Mark started growing organic vegetables and fruits at home.
+~! 「為了吃得健康」用 In order to eat healthily（或 To have a healthy diet）；start + V-ing/to V 皆可；「有機」organic 修飾 vegetables and fruits。
+
+Q 9 | trans | 試題演練 4
+stem: 我們上司要求我們匿名提出我們對於同事的意見，以幫助解決工作上的問題。
+= Our boss asked us to give our opinions about our colleagues anonymously to help solve problems at work.
+~! ask sb. to V.；「匿名地」anonymously（或 without giving our names）；句尾 to help (to) solve … 表目的，也可寫成 so that problems at work could be solved。
+
+Q 10 | trans | 試題演練 5
+stem: 為了增進工作的效率，我們讓機器人做大部分的工作。
+= In order to improve work efficiency, we let robots do most of the work.
+~! In order to + VR 放句首；improve/enhance work efficiency；let + 受詞 + VR（let robots do …）。
+
+Q 11 | trans | 試題演練 6
+stem: 為了不要讓自己生病，他規律運動並且早睡早起。
+= In order not to get sick, he exercises regularly and goes to bed and gets up early.
+~! 目的句型的否定把 not 放在 to 前：in order not to / so as not to + VR（不能寫 not in order to）；「早睡早起」go to bed and get up early。注意本句為現在習慣，用現在式。
+
+Q 12 | trans | 試題演練 7
+stem: 為了克服她對於人群的恐懼，她嘗試參與新的社團並結交來自不同背景的朋友。
+= To overcome her fear of crowds, she tried joining new clubs and making friends from different backgrounds.
+~! overcome one's fear of N.；try + V-ing 表「嘗試做做看」；join 為及物動詞，不加 in；「來自不同背景」from different backgrounds。
+
+Q 13 | trans | 試題演練 8
+stem: 為了在面試時留下深刻的印象，Gary 穿上他最好看的西裝，並且提早到達。
+= In order to make a good impression at the interview, Gary put on his best suit and arrived early.
+~! make a good/strong impression 留下好印象；「穿上」put on（動作）；兩個動詞 put on / arrived 並列，時態皆為過去式。
