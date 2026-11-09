@@ -1,0 +1,116 @@
+# Unit 1 · 04 閱讀測驗、混合題 (PDF p.13–16, source pages 18–21)
+# NOTE: source page 18 was photographed at an angle; a few words at the right edge are cut off and were reconstructed from context.
+@section u1-reading | 閱讀測驗、混合題 | Main idea questions | 學測重點：全文主旨題 & 段落主旨題
+@pages 18,19,20,21
+@overview 主旨題先看首段文意與各段首句；段落主旨題只看該段首句。歷屆範例 2 題附原書解析；類題練習 4 題（混合題）的答案為本 app 推導。
+
+@group 學測重點：全文主旨題 & 段落主旨題
+@page 18
+= 全文主旨題
+判斷關鍵為全文首段文意與各段落首句。
+> What is the purpose/main idea of this passage?
+> What is the passage/article mainly about?
+> Which of the following is the best title for this passage?
+> Which of the following titles best describes/summarizes the main idea of this passage?
+> Where does this passage most likely appear?
+> Which of the following sayings best captures the spirit of ... story?
+> What is the purpose of the study described in this passage?
+> In the passage, the author is primarily concerned with which of the following?
+= 段落主旨題
+題目會明確提及特定段落，判斷關鍵為該段首句。
+> What is the ... paragraph mainly about?
+
+@group 歷屆試題範例
+
+@passage
+You've most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the "sitting disease."
+
+Sitting for too long slows down the body's metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure. Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down. And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise. But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. In essence, fundamental changes in biology occur if you sit for too long.
+
+But wait, you're a runner. You needn't worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, not so fast. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren't exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.
+
+Scared straight out of your chair? Good. The remedy is as simple as standing up and taking activity breaks.
+@end
+
+Q 1 | choice | 104學測
+stem: What is the purpose of this passage?
+A: To point out the challenges of the modern lifestyle.
+B: To discuss how a modern epidemic may spread quickly.
+C: To explore the effects of regular exercise to our body.
+D: To explain the threat to our health from long hours of sitting.
+= D
+~ 全文主旨看首段文意與各段落首句文意，可知本文主旨為選項 (D)。
+~首段文意 …我們花在椅子上的所有時間與增加許多致命疾病的風險相關，專家們將這種現代健康流行病稱為「久坐病」。
+~段2首句 久坐降低身體的新陳代謝，減緩酵素分解脂肪的速度，導致血糖和血壓升高。
+~段3首句 等等，你有在跑步，規律運動就不必擔心久坐帶來的傷害，對吧？嗯，這話別說得太早。
+
+@passage
+❶ The planet's deepest point is in the Pacific Ocean's Mariana Trench, which lies miles below the sea surface. ❷ According to a new study published in Nature Ecology & Evolution, even in this remote locale, creatures cannot escape pollution.
+
+A team of researchers recently sent a remotely operated vehicle into the depths of the Mariana Trench. ❸ They found that extraordinarily high levels of forbidden industrial chemicals are contaminating marine life more than 7 miles deep in the trench. The small hard-shelled marine life that the robotic submarine brought to the surface was polluted with toxic chemicals, with toxin levels 50 times greater than those of the most heavily polluted rivers in the world.
+
+❹ These pollution levels were not the only alarming aspect of the discovery. The types of compounds found were all considered "persistent organic pollutants" (POPs), meaning they stick around in the environment for a very long time. Two of the most prevalent types are PCBs and PBDEs. ❺ PCBs were once used in many industrial applications, but were outlawed in the United States in the 1970s after being linked to cancer. Similarly, PBDEs were used in a wide range of products—from electronics to couch cushions. Neither chemical breaks down in the environment.
+
+❻ These compounds stick to the surface of materials like plastic. Many creatures mistakenly eat this colorful but toxic material, causing the POPs to build up in their bodies, lurking in their fat tissues. When these sea creatures die, their POP-riddled bodies sink to the ocean floor, where deep-sea marine life eat their remains. ❼ POPs are therefore transferred to other creatures along the food chain.
+
+❽ The Mariana Trench is many miles away from any industrial source. This suggests that these pollutants travel over long distances despite having been prohibited worldwide decades ago.
+@end
+
+Q 2 | fill | 109指考改
+stem: The sentences in this passage are marked ❶ to ❽. Four of the sentences are closely related to the main idea. Write down the NUMBER of the sentence.
+= 2,3,4,7
+~ 依本文主旨為馬里亞納海溝汙染問題；依 8 個標示句文意判斷，可知答案為 ❷、❸、❹、❼。其他選項皆為段落細節，但無法承先啟後呼應主旨，故不為答案。
+~❶文意 地球最深的點位於太平洋的馬里亞納海溝，位於海面下數英里處。
+~❷文意 根據《自然生態學與演化》發表的一項新研究，即使在這個偏遠地區，生物也無法逃脫汙染。
+~❸文意 他們發現，異常高濃度的違禁工業化學物質正在汙染海溝超過 7 英里深處的海洋生物。
+~❹文意 這些汙染程度並不是這項發現的唯一令人震驚的面向。
+~❺文意 PCB 曾經被用於許多工業用途，但由於與癌症有關而在 1970 年代在美國被禁止。
+~❻文意 這些化合物附著在塑膠等材料的表面。
+~❼文意 因此，持久性有機汙染物會沿著食物鏈轉移到其他生物身上。
+~❽文意 馬里亞納海溝距離任何工業來源都有數英里。
+
+@group 類題練習
+
+@passage
+❶ ______. The mortality rate of many diseases has dropped significantly. 30 years ago, only 5 percent of those diagnosed with leukemia, the most common cancer of child, would survive. Today, the mortality rate is reduced by 85 percent. Six thousand children each year who would have previously died of this disease are cured. Heart disease used to be a top killer, particularly for men in their 40s. Today, the mortality rate is reduced by 63 %, which means a remarkable 1.1 million deaths are averted every year.
+
+❷ ______. Suicide is the third most common cause of death amongst people between the ages of 15 and 25, and 90 percent of suicides are related to a mental illness such as depression and bipolar disorder. In the US, one person commits suicide every 15 minutes. Disorders like schizophrenia, bipolar and depression are highly prevalent. About one in five people will suffer from one of these disorders in the course of their lifetime.
+
+❸ ______. In other words, shifting our understanding to focus on brain function rather than symptoms may lead to new, effective approaches to diagnosis and treatment. Though neurologists have yet to have an in-depth understanding of the role of the brain in these illnesses, they have been able to identify some connectional differences between normal brains and those tormented by mental disorders. They observe that it is the "traffic jams" or "detours" caused by these disorders that affect the way that the brain functions.
+
+❹ ______. Advanced imaging techniques, such as MRI and PET scans, along with genetic testing, provide us with early insights into these brain changes. This means we are able to detect the signs of mental disorder years earlier and take the necessary steps to intervene, and early intervention can greatly alleviate the conditions patients are expected to suffer.
+@end
+
+Q 3 | choice | 類題 1
+stem: Please find the best sentence for the blank ❶～❹ in each of the four paragraphs, from the first to the last.
+  a. Amazing progress has been made in the medical field over the past few decades.
+  b. Recent studies suggest that these mental disorders might be re-considered brain disorders.
+  c. The tools that we have now allow us to detect these brain changes much earlier, long before the symptoms emerge.
+  d. Unfortunately, the news is not all good.
+A: a.→b.→c.→d.
+B: a.→d.→b.→c.
+C: b.→c.→a.→d.
+D: b.→d.→c.→a.
+= B
+~! ❶ 段先講疾病死亡率大幅下降，對應 a（醫學進步驚人）；❷ 段轉談自殺與精神疾病的高盛行率，對應 d（壞消息）；❸ 段 In other words 改以腦功能看待這些疾病，承接 b（精神疾病可被重新視為腦部疾病）；❹ 段講影像與基因檢測能及早發現腦部變化，對應 c。順序為 a → d → b → c。
+
+Q 4 | multi | 類題 2
+stem: Please choose the CORRECT statements according to the passage.
+A: This passage offers care-taking advice for people with mental illness.
+B: Nowadays people are less likely to die from leukemia than before.
+C: There are ways we can detect a disease before symptoms strike.
+D: Doctors understand more about mental disorders than about cancers.
+E: Suicide attempts have little to do with mental disorders like depression.
+= BC
+~! (B) 第 1 段指出白血病死亡率下降 85%；(C) 第 4 段指出影像與基因檢測能在症狀出現前就偵測腦部變化。(A) 全文沒有給照護建議；(D) 第 3 段說神經學家對腦部的角色尚未有深入了解；(E) 第 2 段說 90% 的自殺與精神疾病有關，故皆不正確。
+
+Q 5 | fill | 類題 3
+stem: Please fill in the blank below with a word from the first paragraph. Please remember to change the form of the word if necessary.
+  These days, we are able to ______ more cases of death caused by a great number of diseases such as cancer or heart disease.
+= avert
+~! 第 1 段末句 1.1 million deaths are averted every year；are able to 後接原形，故填 avert（避免、防止）。
+
+Q 6 | fill | 類題 4
+stem: Which word from the third paragraph means "experiencing intense suffering, distress, or pain, either physically or emotionally"?
+= tormented
+~! 第 3 段 those tormented by mental disorders；tormented（a. 飽受折磨的）符合題目的英文解釋。

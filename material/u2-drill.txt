@@ -1,0 +1,110 @@
+# Unit 2 · 01 單字、片語 · 試題演練 (PDF p.21–22, source pages 26–27)
+# No printed answer key; answers derived from context by Claude.
+@section u2-drill | 試題演練 | Vocabulary practice | 1–14
+@pages 26,27
+@overview 先做文意字彙與詞類變化（看首尾字母拼出單字，必要時變化詞類）、單字配合題，最後是學測詞彙題。本段答案皆為本 app 依語意推導，書中沒有印出解答。
+
+@group 文意字彙與詞類變化（依首尾字母填入單字）
+
+Q 1 | fill | 試題演練
+stem: The air f______ter in the lab removes harmful particles effectively, so the scientists can work safely without fear of contamination.
+= filter
+~! air filter 空氣過濾器，能有效去除有害微粒（particles），故填 filter。
+
+Q 2 | fill | 試題演練
+stem: The company always adjusts its strategies to suit the changing c______ces of the market, and this flexibility helps it stay competitive.
+= circumstances
+~! the changing circumstances of the market 市場不斷變化的情況；the 後接複數名詞，故為 circumstances。
+
+Q 3 | fill | 試題演練
+stem: Sandpaper feels c______se to the touch and is most often used by carpenters for smoothing rough wood surfaces.
+= coarse
+~! 砂紙用來磨平粗糙的木頭表面，摸起來是「粗糙的」，故填 coarse。
+
+Q 4 | fill | 試題演練
+stem: The students asked the teacher to c______y the confusing problem so that they could understand it better.
+= clarify
+~! 問題令人困惑，學生請老師把它「釐清」，才能更理解，故填 clarify（本字不在本單元單字表中）。
+
+@group 單字配合題
+@bank
+A: visible
+B: criticize
+C: agreement
+D: inspection
+E: accomplish
+F: scratches
+G: slippery
+H: objective
+
+Q 5 | bank | 試題演練
+stem: The cat ______ the furniture whenever it feels nervous, and its owner tries to calm it down by giving it toys to play with.
+= F
+~! 主詞 The cat 為第三人稱單數，whenever 子句用現在式，故填 scratches（抓、刮傢俱）。
+
+Q 6 | bank | 試題演練
+stem: The stars were ______ after the clouds cleared from the night sky, and everyone was amazed by the beautiful sight.
+= A
+~! 雲散去後星星變得「看得見」，故選 visible。
+
+Q 7 | bank | 試題演練
+stem: The mechanic performed a thorough ______ of the car before approving it for long-distance journeys. The driver appreciated his careful work.
+= D
+~! a thorough inspection 徹底的檢查；技師核准車輛長途行駛前做的是檢查。
+
+Q 8 | bank | 試題演練
+stem: To ______ the task within the deadline, the team worked tirelessly, collaborating effectively to overcome every obstacle.
+= E
+~! To + 原形動詞表目的；accomplish the task within the deadline 在期限內完成任務。
+
+Q 9 | bank | 試題演練
+stem: The floor has just been cleaned and is still ______, so there is a sign to warn people to walk carefully.
+= G
+~! 地板剛清潔完還是濕的，立牌提醒小心走，故選 slippery（濕滑的）。
+
+@group 學測詞彙題
+
+Q 10 | choice | 學測詞彙題
+stem: Nouns like "apple" and "book" are ______ and so they have a common plural form. The students are practicing these nouns with numbers.
+A: indifferent
+B: countable
+C: minimal
+D: agreeable
+= B
+~! apple、book 是可以用數字計數、有複數形的名詞，即可數名詞 countable nouns。
+
+Q 11 | choice | 學測詞彙題
+stem: The ______ of the meeting was supposed to be an hour, but it had to be extended for additional discussion because we still couldn't reach an agreement.
+A: duration
+B: tribute
+C: combination
+D: dispute
+= A
+~! 會議原本預計一小時，指會議的「持續時間」，故選 duration。
+
+Q 12 | choice | 學測詞彙題
+stem: The technician carefully ______ the samples before placing them in storage so that they could be easily identified during later analysis.
+A: assured
+B: labeled
+C: objected
+D: attributed
+= B
+~! 為了日後分析時容易辨識，存放前先在樣本上「貼標籤」，故選 labeled。
+
+Q 13 | choice | 學測詞彙題
+stem: Brian felt great ______ after working every day for a month, so he decided to take a phone-free vacation to recover.
+A: essence
+B: fatigue
+C: compassion
+D: insurance
+= B
+~! 連續工作一個月後感到極度疲勞，才決定度假恢復，故選 fatigue。
+
+Q 14 | choice | 學測詞彙題
+stem: Water is ______ for human survival, playing a vital role in maintaining body functions and overall health in daily life.
+A: invisible
+B: muscular
+C: essential
+D: global
+= C
+~! be essential for N. 對…是必要的；水對人類生存扮演關鍵角色。

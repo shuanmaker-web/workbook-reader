@@ -1,0 +1,343 @@
+# Unit 1 · 01 單字、片語 · A 學測重點單字 (PDF p.6–9, source pages 06–09)
+# Format: "= word" starts an entry; plain lines are senses (pos. 中文); "> phrase  中文" phrases;
+# "+同義/+反義/+諺語/+例 ..." notes; "* source | English | 中文" boxed exam sentence.
+@section u1-vocab
+@group A 學測重點單字
+
+@page 6
+= clumsy
+a. 笨拙的；不靈巧的
+= awkward
+a. 尷尬的；笨拙的
+= puppet
+n. 木偶；傀儡
+= security
+n. 安全；保安
+= toss
+vt. 拋；扔
+= mutual
+a. 互相的；共同的
+= virus
+n. 病毒；惡意程式
+= grim
+a. 嚴肅的；陰森的
+= impact
+vt./n. 影響；衝擊
+= hostile
+a. 敵對的；有敵意的
+= split
+vt./vi. 分裂；劈開
+n. 分裂；裂縫
+= foul
+a. 骯髒的；惡臭的
+n. 犯規、vt. 弄髒、vi. 腐敗
+= desirable
+a. 理想的；值得嚮往的
+= misunderstand
+vt./vi. 誤解；誤會
+= adequate
+a. 足夠的；適當的
+= strategy
+n. 策略；戰略
+= immense
+a. 巨大的；廣大的
+= particle
+n. 粒子；微粒
+= pedal
+n. 踏板、vt./vi. 踏；踩
+= colleague
+n. 同事；同僚
+= wrap
+vt. 包裹；覆蓋
+= visual
+a. 視覺的；看得見的
+= prolong
+vt. 延長；拖延
+= differ
+vi. 不同；相異
+= freeze
+vt./vi. 結冰；凍結
+= innocent
+a. 無辜的；天真的
+= scoop
+n. 勺子；獨家新聞
+vt. 舀取；搶先報導
+= launch
+vt./vi. 發射；發動；開始從事
+n. 發射；發行
+= abandon
+vt. 放棄；拋棄
+= magnetic
+a. 磁性的；有吸引力的
+= penetrate
+vt./vi. 滲透；穿透
+= precaution
+n. 預防措施；警惕
+= necessity
+n. 必要性
+n. 必需品
+> necessity of N./V-ing  …的必要性
+> daily necessities  生活必需品
+= necessary
+a. 必要的
+> make it necessary to V.  使…變得必要
+> necessary for N.  對…是必要的
+= necessarily
+adv. 必然地
+> not necessarily  未必
+
+@page 7
+= complicate
+vt. 使複雜
++反義 simplify 簡化、精簡
+= complicated
+a. 複雜的
++同義 complex, intricate
++反義 simple 簡單的、簡易的
+= complication
+n. 糾紛/混亂；複雜；〔醫〕併發症
+= associate
+vt./vi. 聯繫；與…相關
+n. 夥伴；同事
+> be associated with...  與…有關
++同義 colleague, partner
+= association
+n. 關聯；聯盟
+> direct association  直接關聯
+= account
+n. 帳戶
+n. 描述；報告
+vt./vi. 解釋；說明
+> bank account  銀行帳戶、savings account  儲蓄帳戶
+> first-hand account  第一手報告
+> account for  解釋…原因；佔比
+* 96指考 | However, these account for less than 50% of the GDP now that Bhutan has become an exporter of hydroelectricity. | 然而，這些佔比少於國內生產總值的50%，現在不丹已成為水力發電的出口者。
+= accounting
+n. 會計學
+> accountant n.  會計師
+= accountable
+a. 應負責的
+> be accountable for  對…負責
+> hold sb. accountable for  要某人對…負責
+= occupy
+vt. 占據
+vt. 擔任
+vt. 使忙碌
+> occupy space/time  占用空間/時間
+> occupy a position  擔任職位
+> be occupied with ...  忙於…
+= occupation
+n. 占據；居住
+n. 職業
+> military occupation  軍事占領
++同義 job, profession
+= occupational
+a. 職業的；由工作引起的
+> occupational disease/hazard  職業疾病/危害
+= intend
+vt. 打算；計畫
+> intend to V...  打算做…、intend for...  為…設計或準備
+= intention
+n. 意圖；目的
+> good intention  善意
++同義 purpose, aim
+= intentionally
+adv. 刻意地
+> = deliberately, on purpose, by design
+
+@page 8
+= apply
+vt./vi. 使用；運用
+vi. 申請；請求
+vi. 塗抹；敷用
+vi. 適用；應用
+vi. 致力於；專心於
+> apply sth. to N.  將…運用於某處
++同義 utilize、implement
+> apply for N./to N./to V.  申請…/向…申請/申請做…
+> apply sth. to N.  將…塗抹於某處、apply sunscreen  塗防曬霜
+> apply to N.  適用於…
+> apply oneself to...  致力於…、apply effort  投入努力
+= application
+n. 應用；應用程式
+n. 申請
+> mobile application  手機 app
+> application for N.  申請…
+> application to N.  向…申請
+= applicant
+n. 申請人；應徵者
+> job applicant  求職者
++同義 candidate
+= ignore
+vt. 忽視；不理會
+vt. 冷落；不尊重
+> ignore a problem  忽視問題
+> ignore someone's feelings  忽視某人的感受
+* 94學測 | Mr. Chang always tries to answer all questions from his students. He will not ignore any of them even if they may sound stupid. | 張老師總是盡力回答學生們的所有問題。即使有些問題聽起來很愚蠢，他也不會忽略任何一個。
+= ignorance
+n. 無知；愚昧；不知
+> ignorance of...  對…不知
+= ignorant
+a. 無知的，不學無術
+a. 不知情的
+a. 粗魯的；顯示無知的
+> completely ignorant  完全無知
+> ignorant of/about/that...  對…不知情
+> ignorant behavior  缺乏禮貌的行為
+= persist
+vi. 持續；存留
+vi. 堅持；執意
++同義 last, stay, continue
+> persist in/with...  堅持於…
++同義 persevere
+= persistence
+n. 堅持不懈；執意
+n. 持續存在
+> persistence in...  堅持於…
++諺語 Persistence pays off.  堅持會有回報
+> the persistence of a problem  問題持續存在
+= persistent
+a. 堅持不懈的
+a. 持續的；不間斷的
+> be persistent in...  堅持不懈地做…
+> persistent rain/symptoms  持續的雨/症狀
+= oppose
+vi. 反對；反抗
+vt. 使相對；使對抗
+> oppose N./V-ing  反對…
+> be opposed to/against...  反對…
+= opposite
+a. 相反的；對立的；對面的
+n. 對立面
+prep. 在…對面
+adv. 在對面
+> opposite to...  相反的；對面的
+> the opposite effect  反效果、the opposite sex  異性
+> the opposite of N.  …的對立面，…的相反
++例 The school is opposite the bank. | 學校在銀行對面
++例 We sat opposite on the ground. | 我們面對面坐在地上。
+= opposition
+n. 反對；反抗
+n. 敵對；對立；意見相反
+> opposition to...  反對…
+> in opposition  反對立場
+
+@page 9
+= prevent
+vt./vi. 避免；預防
+> prevent... from V-ing  避免…發生
+= prevention
+n. 預防；阻止
++諺語 Prevention is better than cure.  預防勝於治療
+= preventive
+a. 預防的，防止的
+> preventive measures  預防措施
++同義 precaution
+= offend
+vt. 冒犯；得罪；觸怒
+vi. 違反；犯罪
+> offend someone  冒犯某人
+> to offend against...  違反/觸犯…
+= offense
+n. 犯罪
+n. 冒犯
+n. 進攻；攻勢
+> to commit an offense  犯下罪行
++同義 crime
+> no offense  沒有冒犯的意思、無惡意
+> offense against...  對…的進攻
+= offensive
+a. 冒犯的；令人不快的
+a. 攻擊的
+n. 攻勢
+> offensive remarks  冒犯性言論
+> offensive weapons  攻擊性武器
+> to launch an offensive  發動攻勢
+* 114學測 | Racist remarks are by nature offensive and hurtful, and should be avoided on all occasions. | 種族歧視的言論在本質上是冒犯且傷人的，在任何情況下應該都要避免。
+= perceive
+vt. 察覺；意識到；理解
+> perceive... as N./a.  將某事物視為…
+= perception
+n. 知覺；見解；看法
+> public perception  公眾看法
+= fortune
+n. 財富
+n. 運氣；命運
+> make a fortune  賺大錢
++諺語 Fortune favors the brave.  幸運青睞勇敢的人。
+= fortunate
+a. 幸運的
+> feel fortunate to V./that...  感到幸運…
+> be fortunate in N./V-ing  在某事上很幸運
+= misfortune
+n. 不幸
++諺語 Misfortune tests the sincerity of friends.  患難見真情。
+= economy
+n. 經濟
+n. 節約
+> boost/stimulate the economy  促進經濟
+> economy in N.  在…方面的節約
+= economic
+a. 經濟（相關）的
+> economic boom/impacts  經濟景氣/影響
+= economical
+a. 節約的；省錢的
+> be economical with N.  節約使用某物
+> be economical to V.  做…是經濟實惠的
+= orientation
+n. 新生訓練；職前訓練
+n. 取向；喜好
+> religious/political orientation  宗教/政治傾向
+> the eco-friendly orientation  環保的取向
+= N-oriented
+a. 以…為導向的
+> profit-oriented  營利導向
+> market-oriented  市場導向
+> goal-oriented  目標導向
+
+@group B 學測重點片語
+@page 10
+= abide by ...
+遵守
+= above all
+最重要的是
+= according to N.
+根據
+= account for ...
+占比(%)；解釋說明
+= adapt to N.
+適應
+= after a while
+一段時間後
+= after all
+畢竟
+= agree to N./to V./with sb.
+同意…
+= along with ...
+以及
+= answer for ...
+應為…負責；因…而受責罰
+= anything but
+一點也不(= not ... at all)
+> *but: 除了
+= aside from
+除了…外(= except)
+除了…之外，還…(= besides)
+= apart from ...
+除…之外；還(= besides)
+= appeal to + N.
+吸引…；呼籲…
+= apply to N.
+申請…；應用於…
+> *apply 本身還有「塗抹」之意(= treat)
+> e.g. insecticide-treated  塗有殺蟲劑的
+= approve of ...
+贊成
+= around the clock
+日以繼夜地
+= as a result
+因此
+= as a result of ...
+由於…
+= as far as sb./sth. be concerned
+就…而言

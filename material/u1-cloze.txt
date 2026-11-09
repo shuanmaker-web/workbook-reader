@@ -1,0 +1,306 @@
+# Unit 1 · 02 綜合測驗 (PDF p.12–15, source pages 12–15)
+# Question grammar: "Q n | type | src" then "stem:", "A:".."J:", "= answer", "~ analysis" ("~!" = derived by Claude, needs teacher review,
+# "~文意" = Chinese translation). "@passage" = paragraphs (blank lines separate); "[[n]]" marks the blank of question n.
+@section u1-cloze | 綜合測驗 | Prepositions & cloze | 學測重點：介係詞
+@pages 12,13,14,15
+@overview 先抓空格前後的搭配（in / on / at / for 的固定用法）與前後文語意關係（對比、因果、補充），再選介係詞。歷屆範例 7 題附原書解析；類題練習 10 題 + 10 題為本 app 推導的答案。
+
+@group 學測重點：介係詞 in、on、at、for
+@page 12
+= in + 一段時間
+在一段時間內
++例 He will arrive here in 10 minutes. | 他十分鐘內會到這裡。
+= in + 衣物
+穿著
++例 She went shopping in a red dress. | 她穿著紅色洋裝去逛街。
+= in + 尺寸
+尺寸
++例 This shirt comes in sizes S, M, L, and XL. | 這件襯衫有 S、M、L、XL 尺寸。
+= in + 形狀
+以…形狀
++例 The cookie is in the shape of a star. | 這塊餅乾是星星的形狀。
+= in + 語言
+以…語言
++例 This email is written in English. | 這封電子郵件是用英文寫的。
+= in + 顏色
+以…顏色
++例 The painting is in bright colors. | 這幅畫用了鮮豔的顏色。
+= in + 聲音
+以…聲音
++例 She sang a song to her baby in a soft voice. | 她用輕柔的聲音對寶寶唱歌。
+= on + 名詞/動名詞
+一…就…
++例 On my arrival, I went straight to the hotel. | 我一到就直接去旅館。
+= on + 人/事物
+關於…
++例 The report is on the latest bacteria research. | 這份報告是關於最新的細菌研究。
+= at + 年紀
+在…年紀
++例 My uncle retired at the age of 65. | 我叔叔在六十五歲時退休。
+= at + 速率(度)/步調
+以…速度
++例 This train is going at 130 km per hour. | 這列火車以時速 130 公里行駛。
+= at + 價格
+以…價格
++例 This house was sold at a reasonable price. | 這間房子以合理的價格售出。
+= for + 目的
+為了…
++例 Soldiers sometimes die for their country. | 軍人有時會為國捐軀。
+= for + 一段時間
+持續…
++例 I have known Matt for about three years. | 我認識 Matt 大約三年了。
+= for + 某人
+對某人而言
++例 For people who love animals, going to the zoo is a good choice. | 對愛動物的人而言，去動物園是個好選擇。
+
+@group 大考常考介係詞
+@page 12
+= with
+具有；伴隨
+> with + 受詞 + 受詞補語  (*受詞補語：Vpp / V-ing / 介係詞片語 / 形容詞)
++例 He walked in with a briefcase in his hand. | 他手裡拿著公事包走進來。
+= without
+不…；沒有…；
+若非 = but for
++例 I left my home without keys this morning. | 我今早沒帶鑰匙就出門了。
+= like
+像；如；和…一樣
++例 Joe is good at sports like baseball and football. | Joe 擅長棒球和足球之類的運動。
+= unlike
+與…不像；不同於… = different from...
++例 Unlike Melody who doesn't much like Korean pop singers, Stella is crazy about them. | 不像 Melody 不太喜歡韓國流行歌手，Stella 對他們很著迷。
+= as
+像；如同
+作為…
++例 She can do it as well as I do. | 她做得跟我一樣好。
++例 My sister works as a doctor in the hospital. | 我姊姊在醫院擔任醫生。
+= against
+反對、抵制
+對抗；競爭
+倚；靠
++例 We all voted against the proposal. | 我們全都投票反對這項提案。
++例 Our team will play against yours in the final game. | 我們隊會在決賽對上你們隊。
++例 She leaned against the wall for support. | 她倚著牆來支撐自己。
+= beyond
+(範圍)超出…；無法…(搭配特定詞表)
+在…的那一邊，越過
+> beyond + description/recognition/belief/repair/recall/imagination/control/doubt  無法言喻/無法辨識/難以置信/無法修理/無法挽回/超乎想像/無法控制/毫無疑問
+> (within 表達「在…時間、距離範圍內」)  within reach = can be reached
++例 We noticed that his intelligence goes beyond his age. | 我們注意到他的智力超乎他的年齡。
++例 The famous temple is located beyond this forest. | 這座著名的寺廟位於這片森林的另一邊。
+
+@page 13
+= into
+進入，移動到
+變成
+深入
+直到
++例 He put his stuffs into this big bag. | 他把東西放進這個大袋子裡。
++例 The water turned into ice immediately. | 水立刻變成了冰。
++例 The police are looking into the case now. | 警方正在深入調查這個案件。
++例 We stayed up into the night finishing the report. | 我們熬夜到深夜完成報告。
+= throughout
+遍佈
+從頭到尾
++例 The smell of cookies wafted throughout the house. | 餅乾的香味飄滿整間屋子。
++例 She stayed in Japan throughout the summer vacation. | 她整個暑假都待在日本。
+= through
+穿越(空間)
+透過(管道)
++例 I'll have to walk through a park to get to my school. | 我得穿過一座公園才能到學校。
++例 You can edit your photos through this app. | 你可以透過這個 app 編輯照片。
+= among
+在…之中(三者以上)
++例 Lisa is very popular among her classmates. | Lisa 在同學之間很受歡迎。
+= between
+在…之間(兩者)
++例 The train station is between these two locations. | 火車站位於這兩個地點之間。
+= despite
+儘管；雖然 = in spite of
++例 Despite being rich, he lives a simple and frugal life. | 儘管很有錢，他過著簡樸節儉的生活。
+= regarding
+關於；就…而言
+> = concerning = with regard to = with respect to
++例 I've received an email regarding this event. | 我收到一封關於這個活動的電子郵件。
+= given
+有鑑於
+> *given that S + V ...
++例 Given that Christmas is just a few weeks away, I need to start buying gifts. | 有鑑於聖誕節再幾週就到了，我得開始買禮物。
+
+@group 歷屆試題範例
+
+Q 1 | choice | 112學測
+stem: Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. ______ decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.
+A: For
+B: Besides
+C: Despite
+D: Concerning
+= C
+~ 空格句中的前後語意為對比：多年調查←→冠羞現象的原因仍沒有共識，故可判斷答案為 (C) Despite 儘管；選項 (A) 因為、(B) 除了、(D) 關於，皆不符合文意。
+~文意 此外，透過讓樹枝不接觸比鄰的樹枝，樹木可能能夠限制食葉昆蟲的傳播，並有可能限制疾病在樹木之間的傳播。儘管經過數十年的調查，對於究竟是什麼原因導致了這種美麗而神秘的冠羞現象還沒有達成共識。
+
+Q 2 | choice | 110學測
+stem: Street pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same ______ encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares.
+A: as
+B: for
+C: though
+D: without
+= D
+~ 依文意及空格前的 not，可推斷答案為 (D) without 沒有；透過雙重否定來表達肯定；選項 (A) 作為、(B) 對於、(C) 雖然，皆不符合文意。
+~文意 街頭鴿子在許多歐洲城市很常見。事實上，沒有看到鴿子沐浴於噴水池裡、停留在歷史建築上或是群聚於廣場中，歐洲之旅就會走味。
+
+Q 3 | choice | 109指考
+stem: Since its establishment, the Consumer Protection Committee has taken measures to ensure that all labels and advertisements conform to regulations. In addition, the Committee collaborates with various international consumer protection organizations. ______ its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.
+A: From
+B: With
+C: Despite
+D: Beyond
+= B
+~ 依文意可推斷答案為 (B) with 憑藉；選項 (A) 來自、(C) 儘管、(D) 超越，皆不符合文意。
+~文意 自成立以來，消費者保護委員會已採取措施確保所有標籤和廣告符合規定。此外，委員會也與多個國際消費者保護組織合作。憑藉其監管權力和行政資源，該委員會在保護臺灣消費者方面發揮著至關重要的作用。
+
+Q 4 | choice | 108學測
+stem: A camera and a viewing system are built ______ these glasses. As the wearer brings the food toward their mouth, the camera captures an image of the food.
+A: beyond
+B: into
+C: from
+D: with
+= B
+~ 依文意可推斷答案為 (B) into，表 be built into …被內建進…；選項 (A) 超越、(C) 從…、(D) 和…、與…，皆不符合文意。
+~文意 相機和觀察系統被內建進這些眼鏡。當佩戴者將食物放入口中時，相機會捕捉食物的圖像。
+
+Q 5 | choice | 107學測
+stem: Another way to increase creativity is to take risks. This is because many breakthroughs come up when people venture ______ their usual routines or areas of expertise.
+A: into
+B: without
+C: under
+D: beyond
+= D
+~ 依文意可推斷答案為 (D) beyond 超出；選項 (A) 進入、(B) 沒有、(C) 低於，皆不符合文意。
+~文意 增加創造力的另一種方法是去冒險。這是因為當人們進行冒險超出他們的日常習慣或專業領域時，許多突破就會出現。
+
+Q 6 | choice | 106學測
+stem: You might speed up healing time by gently pressing a warm washcloth ______ your eyelid for 10 minutes, 3 or 4 times a day.
+A: against
+B: among
+C: about
+D: after
+= A
+~ 空格句使用固定片語 press A against B 將 A 壓靠在 B 上，答案為 (A) against；選項 (B) 在…之中、(C) 關於、(D) 之後，皆不符合文意。
+~文意 您可以用溫熱的毛巾輕輕按壓眼瞼 10 分鐘，每天 3 或 4 次，這樣可以加快癒合速度。
+
+Q 7 | choice | 106學測
+stem: The innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come ______ two sizes, and can expand in three places.
+A: by
+B: in
+C: from
+D: down
+= B
+~ 空格句使用 come in ... size 有…尺寸呈現用法，故答案為 (B) in；選項 (A) 由、(C) 從、(D) 向下，皆不符合文意。
+~文意 這款創新的鞋子類似涼鞋，由皮革和橡膠鞋底構成，鞋底材質與輪胎相似。鞋子有兩種尺寸，每雙鞋都有三個地方可以伸縮。
+
+@group 類題練習 ①
+
+@passage
+There's no denying that ChatGPT has received a great deal of attention these days. In fact, the journey of ChatGPT's development has been characterized by ongoing innovation and improvement. Initially introduced [[8]] a language model, it quickly evolved to include more advanced features, such as understanding context, generating natural language, and [[9]] task-oriented conversations. With each update, ChatGPT has become better at understanding and producing human-like responses on a wide range of topics.
+
+Looking forward, the future of ChatGPT's development [[10]]. Continued advancements in artificial intelligence and machine learning will further enhance its capabilities, allowing it to understand and respond to increasingly complex inquiries. Efforts to improve its understanding of context and emotional intelligence will equip ChatGPT [[11]] abilities to have more empathetic and meaningful conversations. As ChatGPT continues to progress, it is expected to play a more significant role in various fields, [[12]] customer service and education [[12]] healthcare. ChatGPT will keep transforming the way people interact with technology and one another.
+@end
+
+Q 8 | choice | 類題 1
+stem: （第 1 格）
+A: in
+B: as
+C: for
+D: into
+= B
+~! introduce sth. as ... 表「把…當作…推出」；Initially introduced as a language model 指最初是以語言模型的身分推出。
+
+Q 9 | choice | 類題 2
+stem: （第 2 格）
+A: turning down
+B: standing for
+C: engaging in
+D: hanging up
+= C
+~! 與前面 understanding context, generating natural language 並列，後接 task-oriented conversations，指「從事（以任務為導向的）對話」，故選 engage in。
+
+Q 10 | choice | 類題 3
+stem: （第 3 格）
+A: experiences ups and downs
+B: falls into many categories
+C: raises a few concerns
+D: holds great promise
+= D
+~! 下一句談持續進步將提升能力，語氣正面，故選 holds great promise 前景看好；其餘三項與正面展望不符。
+
+Q 11 | choice | 類題 4
+stem: （第 4 格）
+A: with
+B: from
+C: through
+D: onto
+= A
+~! equip A with B 為固定用法，表「使 A 具備 B」。
+
+Q 12 | choice | 類題 5
+stem: （第 5 格，兩個空格）
+A: with ... against ...
+B: from ... to ...
+C: between ... and ...
+D: either ... or ...
+= B
+~! from customer service and education to healthcare 表示涵蓋的領域範圍「從…到…」，故選 from ... to ...。
+
+@passage
+Glamping, a fusion of "glamorous" and "camping," offers a lavish outdoor experience blending modern comforts with nature's tranquility. It provides upscale accommodations, often [[13]] chic tents or yurts. Usually also available are cozy bedding, electricity, and private bathrooms. Glamping destinations vary from scenic wilderness spots to vineyards and beachfronts, catering to those seeking a luxurious retreat [[14]] natural beauty.
+
+The advantages of glamping are numerous. It offers a refreshing escape from urban life's hustle and bustle. Moreover, glamping promotes eco-tourism by minimizing environmental impact [[15]] eco-friendly accommodations and responsible management of natural resources.
+
+However, there are concerns about the impact of glamping [[16]] authenticity and the environment. Some argue that it overlooks traditional camping's essence by going after luxury instead of outdoor skills and self-sufficiency. Besides, developing glamping sites may damage animals' natural habitats, [[17]] local ecosystems and wildlife. All in all, we should emphasize the need for responsible planning and sustainable practices in the glamping industry.
+@end
+
+Q 13 | choice | 類題 6
+stem: （第 6 格）
+A: in the wake of
+B: in place of
+C: in recognition of
+D: in the form of
+= D
+~! often in the form of chic tents or yurts 指住宿「以時髦的帳篷或蒙古包的形式」提供；其餘三項（隨…之後、取代、為表彰）不通。
+
+Q 14 | choice | 類題 7
+stem: （第 7 格）
+A: amidst
+B: onto
+C: by
+D: between
+= A
+~! seeking a luxurious retreat amidst natural beauty 指在大自然美景「之中」的奢華度假；amidst = in the middle of。
+
+Q 15 | choice | 類題 8
+stem: （第 8 格）
+A: into
+B: through
+C: against
+D: among
+= B
+~! 以「透過」環保住宿與負責任的自然資源管理來減少環境衝擊，故選 through（方法、管道）。
+
+Q 16 | choice | 類題 9
+stem: （第 9 格）
+A: across
+B: from
+C: throughout
+D: on
+= D
+~! the impact of ... on ... 為固定搭配：glamping 對真實性與環境的影響。
+
+Q 17 | choice | 類題 10
+stem: （第 10 格）
+A: accessing
+B: persisting
+C: pursuing
+D: disturbing
+= D
+~! 前半說開發可能破壞動物的自然棲地，後接 local ecosystems and wildlife，語意延續負面影響，故選 disturbing（干擾）；accessing / persisting / pursuing 皆不通。

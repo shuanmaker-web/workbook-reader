@@ -1,0 +1,90 @@
+# Unit 2 · 03 篇章結構 (PDF p.25–26, source pages 30–31)
+# Printed explanations copied for 歷屆範例 1–4; 類題練習 5–8 answers derived by Claude.
+@section u2-struct | 篇章結構 | Transitions in passages | 學測重點：轉承語詞
+@pages 30,31
+@overview 篇章結構題先看空格前後句的關係：轉折（yet / but / in contrast）、因果（therefore / consequently）、舉例、換句話說，再配合轉承語詞挑出能銜接的句子。歷屆範例 4 題附原書解析；類題練習 4 題為本 app 推導的答案。
+
+@group 學測重點：轉承語詞
+@page 30
+= 轉承語詞
+篇章結構常出現轉承語詞，表轉折、承接、舉例、換句話說等，是語意重要判斷關鍵詞。
+= 因此、總結
+> therefore、thus、consequently、as a result、in consequence、accordingly、to sum up、to summarize、in summary、in a nutshell、in a word
+= 轉折
+> yet、on the contrary、in contrast、by contrast、despite that、on the other hand、in fact
+= 舉例
+> for example、for instance、to illustrate
+= 換句話說
+> in other words、to put it differently、to put it from another way、to put it from another angle、namely、that is (to say)
+
+@group 歷屆試題範例
+@bank
+A: Therefore, aged Japanese are now being encouraged to work longer in life.
+B: In other words, the government plans to provide additional financial incentives for companies that raise the retirement age.
+C: But by 2025, they won't get any until they are 65.
+D: Consequently, there was much opposition from corporations to the new retirement law.
+E: And, unlike the U.S., Japan has no law against discrimination based on age.
+
+@passage
+Japan is dealing with a problem that's just starting to sweep the world—an aging population combined with a shrinking work force. [[1]] By so doing, it is hoped that Japan's government will save its increasingly burdened pension (i.e., payment received after retirement) system from going bankrupt. In 2000, the Japanese could get a full pension from the government at 60. [[2]] What's more, premiums paid by workers every month are set to rise while payouts they get after retirement fall.
+
+To help workers to cope with this, Japan passed a law last year that requires companies by 2013 to raise their retirement age from 60 to 65 or rehire their retired workers. The new policy could be a strain for employers. In a country where forced layoffs are a last resort, large companies traditionally have relied on retirement to reduce payrolls. They were just about to enjoy a big cut in personnel costs because of the mass retirement of Japan's baby boomers. These people born between 1947 and 1949 make up 5.2 million members of the work force. [[3]] Early signs suggest that large corporations will hesitate in raising their retirement ages. [[4]] Violators of the new law would face only "administrative guidance," not penalties. Such resistance is hurting the effectiveness of the policies, which may thus prolong the aging problem.
+@end
+
+Q 1 | bank | 96指考改
+stem: （第 1 格）請由方框中選出最適合的句子。
+= A
+~ 空格前句為問題；後句為執行後期望結果，可知空格應為解決方法，故推斷答案為選項 (A)。
+~文意 日本正面臨一個正席捲全球的問題——人口老化和勞動力萎縮。(A) 因此，現在鼓勵日本老年人延長工作壽命。藉此，日本政府有望避免其負擔日益沉重的退休金制度破產。
+
+Q 2 | bank | 96指考改
+stem: （第 2 格）請由方框中選出最適合的句子。
+= C
+~ 空格前後句語意完全相反，可知空格為轉折句，故推斷答案為選項 (C)。選項 (C) 與前句有轉折文意呼應：年代（2000 → 2025）、年紀（60 歲 → 65 歲）。
+~文意 2000 年，日本人可以在 60 歲時從政府領取全額退休金。(C) 但是到了 2025 年，他們得要到 65 歲才能得到任何福利。此外，每月由勞工支付的保費將上調，同時他們退休後領取的金額則會減少。
+
+Q 3 | bank | 96指考改
+stem: （第 3 格）請由方框中選出最適合的句子。
+= D
+~ 此空格單依前後句難以判斷語意關係，故再往前確認文意，可推斷答案為選項 (D)，說明大公司為何不希望提高退休年齡，因此他們反對新法令，也就是新法令造成的結果。
+~文意 日本去年通過了一項法律，要求公司在 2013 年之前將退休年齡從 60 歲提高到 65 歲，或重新僱用退休工人。新政策可能會給雇主帶來壓力。在一個強制裁員是最後手段的國家，大公司傳統上依賴退休來減少薪資。由於日本嬰兒潮世代的大規模退休，他們即將享受人員成本的大幅削減。這些出生於 1947 年至 1949 年之間的人構成了 520 萬名勞動成員。(D) 結果，企業對新退休法提出了強烈反對。前期跡象顯示，大公司並不願意提高退休年齡。
+
+Q 4 | bank | 96指考改
+stem: （第 4 格）請由方框中選出最適合的句子。
+= E
+~ 前句提及企業對新法令的反對態度，後句提及違反新法令的處罰，僅是告誡而非處罰，故依語意可推斷答案為選項 (E)。*選項 (B) 換句話說，政府計劃為提高退休年齡的公司提供額外的財務誘因。
+~文意 前期跡象顯示，大公司並不願意提高退休年齡。(E) 而且，與美國不同的是，日本沒有針對年齡歧視的法律。違反新法令的公司只會面臨「行政指導」，而不是處罰。
+
+@group 類題練習
+@bank
+A: Students can get to explore potential career options as well as give back to their community.
+B: In other words, not attending school can lead to missed coursework, making it challenging for students to keep up with their studies.
+C: Meanwhile, despite the benefits, there are notable drawbacks to international educational trips.
+D: In fact, popular destinations are America, Japan, and the United Kingdom.
+E: In doing so, teachers are capable of facilitating cultural exchange and language practice without the need for travel.
+
+@passage
+Many high schools now organize international educational trips, which come with various advantages and disadvantages. On the one hand, these trips provide invaluable learning experiences. After all, students can immerse themselves in different cultures, practice foreign languages, and gain firsthand knowledge of global issues. [[5]] Firstly, the financial burden can be substantial, making it difficult for all students to participate, creating a divide between those who can afford it and those who cannot. Moreover, extended time away from classes can disrupt academic schedules and strain teachers and students alike. [[6]] Therefore, while these trips offer enriching experiences, the potential drawbacks must be considered.
+
+Instead of international trips, high schools could implement several alternative programs to provide enriching experiences. For instance, virtual exchange programs can connect students with peers in other countries. [[7]] This is also a lot more affordable for both school teachers and students' parents as well. Furthermore, community service projects and internships provide practical learning experiences and foster a sense of responsibility and engagement. [[8]] By considering these alternatives, schools can offer diverse educational opportunities that are more inclusive and manageable.
+@end
+
+Q 5 | bank | 類題 1
+stem: （第 1 格）請由方框中選出最適合的句子。
+= C
+~! 前面講出國教育旅行的優點（On the one hand），後面接 Firstly, the financial burden ... 列舉缺點，所以空格要先轉折並點出「缺點」，故選 (C)。
+
+Q 6 | bank | 類題 2
+stem: （第 2 格）請由方框中選出最適合的句子。
+= B
+~! 前句說離開課堂過久會打亂課業進度；(B) 用 In other words 換句話說：缺課導致進度落後，學生難以跟上，語意銜接最自然。
+
+Q 7 | bank | 類題 3
+stem: （第 3 格）請由方框中選出最適合的句子。
+= E
+~! 前句提到虛擬交流計畫連結各國同儕；(E) In doing so 承接此做法，說明老師不必出國也能促進文化交流與語言練習；下一句 This is also a lot more affordable 的 This 指的就是這個做法。
+
+Q 8 | bank | 類題 4
+stem: （第 4 格）請由方框中選出最適合的句子。
+= A
+~! 前句談社區服務與實習提供實作經驗；(A) 補充說明學生可探索職涯選項並回饋社區。(D) 講熱門旅遊地點，與替代方案的論述無關，是多餘選項。

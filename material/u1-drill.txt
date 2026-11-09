@@ -1,0 +1,110 @@
+# Unit 1 · 01 單字、片語 · 試題演練 (PDF p.5–6, source pages 10–11)
+# The book has no printed answer key for these; answers are derived from context (they also match the pencil answers on the scan).
+@section u1-drill | 試題演練 | Vocabulary practice | 1–14
+@pages 10,11
+@overview 先做文意字彙與詞類變化（看首尾字母拼出單字，必要時變化詞類／時態），再做單字配合題，最後是學測詞彙題。本段答案皆為本 app 依語意推導，書中沒有印出解答。
+
+@group 文意字彙與詞類變化（依首尾字母填入單字）
+
+Q 1 | fill | 試題演練
+stem: Successful partnerships are built on m______l understanding and trust between all parties in the arrangement.
+= mutual
+~! 前後有 understanding and trust between all parties，指「互相的」理解與信任，故填 mutual（a. 互相的；共同的）。
+
+Q 2 | fill | 試題演練
+stem: The company plans to l______ch a new, eco-friendly product designed to attract customers who are focused on sustainability.
+= launch
+~! plans to + 原形動詞；launch a new product 推出新產品。
+
+Q 3 | fill | 試題演練
+stem: If you m______d my instructions, it could lead to errors that might delay the project, so listen carefully and ask questions if necessary.
+= misunderstand
+~! If 子句用現在式；misunderstand my instructions 誤解我的指示，才會導致錯誤。
+
+Q 4 | fill | 試題演練
+stem: Due to the lawyer's successful defense, her client was found i______t of the crime and released.
+= innocent
+~! 辯護成功、當事人獲釋，故被判定 found innocent of the crime 無罪（a. 無辜的）。
+
+@group 單字配合題
+@bank
+A: immense
+B: preventive
+C: strategy
+D: foul
+E: tossed
+F: differ
+G: precaution
+H: offend
+
+Q 5 | bank | 試題演練
+stem: The garbage has a(n) ______ smell that has spread throughout the neighborhood, and residents have made multiple complaints.
+= D
+~! 居民多次抱怨的氣味是「惡臭的」，故選 (D) foul（a. 骯髒的；惡臭的）。
+
+Q 6 | bank | 試題演練
+stem: To succeed in this competitive market, the company must develop a clear ______ for attracting new customers and retaining loyal ones.
+= C
+~! a clear 後接名詞；develop a clear strategy 制定明確的策略。
+
+Q 7 | bank | 試題演練
+stem: I didn't mean to ______ you by saying that. It's just that I want to help you improve your efficiency in every way that I can.
+= H
+~! didn't mean to 後接原形動詞；後句說明只是想幫忙，所以前句是「無意冒犯你」，故選 (H) offend。
+
+Q 8 | bank | 試題演練
+stem: Worried about her father's brain surgery, Alice couldn't sleep, and she ______ and turned all night long.
+= E
+~! 固定搭配 toss and turn 輾轉難眠；空格與 turned 並列，過去式用 tossed。
+
+Q 9 | bank | 試題演練
+stem: The ______ popularity of the new smartphone has exceeded all expectations and significantly boosted the company's annual revenue.
+= A
+~! 人氣超乎預期、營收大增，形容詞用 (A) immense（巨大的）修飾 popularity。
+
+@group 學測詞彙題
+
+Q 10 | choice | 學測詞彙題
+stem: It is ______ for all employees to attend a safety training session to ensure a secure and healthy working environment.
+A: clumsy
+B: magnetic
+C: necessary
+D: persistent
+= C
+~! It is necessary for sb. to V. 為「對…來說有必要做…」；為確保安全健康的工作環境，員工參加安全訓練是必要的。
+
+Q 11 | choice | 學測詞彙題
+stem: Switching to energy-efficient appliances is the ______ choice and is good both for the environment and our wallet.
+A: economical
+B: ignorant
+C: complex
+D: visual
+= A
+~! 省能源的家電對環境和荷包都好，故為「節約的、經濟實惠的」選擇，選 economical。注意 economic 指「經濟（相關）的」，不是此義。
+
+Q 12 | choice | 學測詞彙題
+stem: The general ______ of sexual harassment is that it often happens in the workplace, where male bosses harass female employees; however, it can happen between female bosses and male employees too.
+A: economy
+B: perception
+C: misfortune
+D: opposition
+= B
+~! the general perception of ... 指大眾對…的一般看法；後面的 that 子句說明這個看法，其後 however 補充實際上也可能不同。
+
+Q 13 | choice | 學測詞彙題
+stem: It's cruel to ______ a pet once you get tired of it, so make sure you really want the animal before you get one.
+A: abandon
+B: scoop
+C: complicate
+D: perceive
+= A
+~! 養膩了就拋棄寵物很殘忍，故選 abandon（vt. 放棄；拋棄）。
+
+Q 14 | choice | 學測詞彙題
+stem: The unexpected announcement from the government ______ the economy dramatically, causing uncertainty among investors and anxiety in the public.
+A: persisted
+B: intended
+C: impacted
+D: occupied
+= C
+~! 後接受詞 the economy，且造成投資人不安，故用 impact（vt. 影響；衝擊）的過去式 impacted；persist 為不及物動詞，不能直接接受詞。

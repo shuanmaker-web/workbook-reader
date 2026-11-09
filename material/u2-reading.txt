@@ -1,0 +1,89 @@
+# Unit 2 · 04 閱讀測驗、混合題 (PDF p.27–29, source pages 32–34)
+# NOTE: source pages 32 and 34 were photographed at an angle; a few words at the right edge are cut off and were reconstructed from context.
+@section u2-reading | 閱讀測驗、混合題 | Pronoun reference questions | 學測重點：代名詞題
+@pages 32,33,34
+@overview 代名詞題：先找出該代名詞所在的句子，往前一句找它代替的名詞，注意單複數，並判斷它是否代替「整件事情」。歷屆範例 2 題附原書解析；類題練習 4 題（混合題）的答案為本 app 推導。
+
+@group 學測重點：代名詞題
+@page 32
+= 代名詞題
+主要判斷關鍵為前一句話，需特別注意單複數、是否代替前方整件事情。
+> What does "it / they / this / these..." in the... paragraph refer to?
+
+@group 歷屆試題範例
+
+@passage
+When you enjoy your morning cup of tea, you are probably not aware that those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.
+
+In the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population. Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs. The trenches, however, can be death traps for the elephants. Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms. Moreover, because there are fewer humans around, pregnant females often use tea-growing areas as safe shelters to give birth. But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out. When mothers try to dig their babies out, both may be trapped and smothered by thick mud. Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.
+
+Is it possible for elephants to coexist with the prosperous tea business? Elephant Friendly Tea is an organization that takes the initiative to make it possible. The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right. Until now, only smaller tea brands have been certified, but awareness is growing. The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.
+@end
+
+Q 1 | choice | 112學測
+stem: What does "it" in this paragraph refer to?
+A: To certify elephant-friendly trenches and organizations.
+B: To reward tea growers for protecting the environment.
+C: To encourage consumers to choose high-quality brands.
+D: To create a win-win situation for elephants and tea farms.
+= D
+~ 依上下文可知，it 作為回應前句文意 Is it possible for elephants to coexist with the prosperous tea business? 的代名詞，故答案為選項 (D) 創造大象與茶園的雙贏。
+~文意 大象有可能與繁榮的茶產業共存嗎？大象友善茶會是一個主動讓這一切成為可能的組織。該組織鼓勵消費者選擇採取預防措施保護大象的品牌，並制定了認證計劃來獎勵採取正確措施的茶農。
+
+@passage
+Benjamin Franklin, one of the Founding Fathers of the United States, was not only a great politician but also a highly accomplished scientist and inventor. Of his many achievements, probably the least well-known are his accomplishments in music. He invented an instrument for which both Mozart and Beethoven composed music — the glass armonica.
+
+In 1761, while living in England, Franklin heard a performer playing musical glasses. Franklin was charmed by the music, but felt that there was a better way to create the same sound. He had a glassmaker create thirty-seven hemispheres made of glass, with each being a different size and thickness to produce different pitches. The glass hemispheres were color coded with paint to identify the notes. Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest. He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate. Franklin moistened his fingers and held them against the rims of the glass hemispheres as they turned, producing a unique sound. He mastered the instrument and took it to parties and gatherings to play for his friends and acquaintances. The instrument became so popular that thousands were built and sold.
+
+But musical fashions changed. Music was moving out of the relatively small halls of Mozart's day into the large concert halls of the 19th century, and without amplification, the glass armonica simply couldn't be heard. Concert reviews from the period mourned the fact that the armonica sounded wonderful — only when it could be heard. So, alas, Franklin's marvelous invention was ultimately abandoned. The popularity of the instrument faded early in the 19th century, but it is still played occasionally today.
+@end
+
+Q 2 | fill | 110學測
+stem: What does the "they" in the sentence "Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest." refer to?
+= glass hemispheres | the glass hemispheres | hemispheres
+~ 依上下文可知，they 作為替代前句某個事物的代名詞，依文意可判斷答案為 glass hemispheres（玻璃半球）。
+~原文 … The glass hemispheres were color coded with paint to identify the notes. Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest. He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate. …
+~文意 …玻璃半球塗上不同顏色來區分音符。富蘭克林用一根鐵棒穿過每顆半球頂部的孔，以使它們可以從最大到最小套在一起。富蘭克林接著將所有玻璃半球連接到形狀像紡車的設備上，並由一個用腳控制的裝置來轉動鐵棒，以便轉動玻璃半球。…
+
+@group 類題練習
+
+@passage
+"Doc McStuffins" is one of the UK's most popular children's TV programs. The main character is a female, African-American girl named Doc, who is a doctor to her toy animals, capable of "fixing" broken toys with the help from her stuffed animal friends. She wants to be a doctor like her mother. When she puts on her stethoscope, all of her toys come to life and she can communicate with them. The little girl helps her toy patients "recover" by giving them check-ups and diagnosing their diseases with "The Big Book of Boo Boos." The series is the first animated children's program that explains medical procedures in a clear and accessible way.
+
+With the cartoon character becoming a big hit on TV and in the shops, Time magazine even named this little black figure one of the most influential toys of all time, ahead of Star Wars figurines. On top of her popularity among all races and the enormous sales profits she brings in, the most convincing reason is that she smashes gender and race stereotypes. Girls no longer play the role of nursing only. Black children can also grow up without discrimination. African-American girls can dream big as Doc does. It provides a source of hope for girls who have been subject to discrimination or unfair treatment because of their ethnicity.
+
+The creator of Doc McStuffins Chris Nee said she got the idea for the program in a kismet moment when she was in hospital with her son, who was fighting against asthma. It was then that she realized there was nothing medical she could do but something in TV. With a strong proposition that there was no need to have another boy leading the pack, she created a female doctor for her son. The program, in reality, appeals to both boys and girls. There is always a dichotomy in children's programs - for girls or for boys - on the ground of how the toys are going to be sold. Whether Doc McStuffins was initially set for which gender, it has undoubtedly broken down the industry gospel built by toy makers.
+@end
+
+Q 3 | choice | 類題 1
+stem: What can be inferred from the passage?
+A: Doc McStuffins was initially designed as a role model specifically for boys.
+B: Doc McStuffins has been more successful among young black girls.
+C: The character of Doc McStuffins helps promote racial and gender diversity.
+D: The program has been criticized for focusing too much on medical themes.
+= C
+~! 第 2 段說 Doc 打破性別與種族刻板印象，並為受歧視的女孩帶來希望，可推論這個角色有助於促進種族與性別的多元。(A) 原文說 Doc 是為兒子設計的女醫生，但並非「專為男孩」；(B) 沒有比較哪一群觀眾較成功；(D) 沒有提到批評。
+
+Q 4 | choice | 類題 2
+stem: What does the pronoun "It" refer to in the second paragraph?
+A: Time magazine.
+B: Being able to have one's own dreams.
+C: The toy company's commercial success.
+D: The sales profit generated by the program.
+= B
+~! 前一句 African-American girls can dream big as Doc does 說非裔女孩也能像 Doc 一樣勇於作夢；It 指這件「能擁有自己的夢想」的事（整句文意），並為受歧視的女孩帶來希望。
+
+Q 5 | fill | 類題 3
+stem: Which word from the passage means "a difference between two completely opposite ideas or things"?
+= dichotomy
+~! 第 3 段 There is always a dichotomy in children's programs - for girls or for boys；dichotomy（n. 二分法；兩極對立）符合題目的英文解釋。
+
+Q 6 | multi | 類題 4
+stem: What is NOT mentioned in the passage?（多選題）
+A: Negative reviews of Doc McStuffins.
+B: The significance of Doc McStuffins for the audience.
+C: The source of inspiration for Doc McStuffins.
+D: How the content for children TV program is decided.
+E: Other animation works in progress.
+= AE
+~! (B) 第 2 段談對受歧視女孩的意義；(C) 第 3 段談 Chris Nee 在醫院的靈感來源；(D) 第 3 段指出兒童節目常依玩具怎麼賣而分成給女孩或給男孩，可視為「節目內容怎麼決定」。全文沒有提到 (A) 負面評論與 (E) 其他製作中的動畫。注意：(D) 是否算「有提到」較有解釋空間，請老師確認。

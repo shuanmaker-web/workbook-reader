@@ -1,0 +1,92 @@
+# Unit 1 · 03 篇章結構 (PDF p.11–12, source pages 16–17)
+# NOTE: source page 16 was photographed at an angle; a few words at the right edge are cut off and were
+# reconstructed from context (marked in STATUS.md).
+@section u1-struct | 篇章結構 | Pronouns in passages | 學測重點：代名詞
+@pages 16,17
+@overview 篇章結構題先看空格前後句：代名詞（it / they / this / these / one …）會回指前句的人事物，甚至整個句意，據此判斷哪一句能銜接。歷屆範例 4 題附原書解析；類題練習 4 題為本 app 推導的答案。
+
+@group 學測重點：代名詞
+@page 16
+= 代名詞的用法
+文章中的代名詞，常用以代替、呼應前文提及的人事物，或前方整個文意。
+> 常見代名詞：he、she、it、they、him、her、them、this、that、these、those、myself、yourself、himself、herself、ourselves、themselves、itself
++例 Even though John was nervous about the competition, he still gave it his best shot. | he 為前句 John 的代名詞；it 則是前句指的 competition。
++例 Emily sewed her own dress for the event. Her design was very unique. | Her design 為前句 her own dress 的代名詞（Emily 創作的服裝）。
++例 The government passed a new law to protect endangered species. This was widely praised by environmentalists. | This 為前句整個文意的代名詞。
++例 The director used bold lighting and dramatic music to heighten the tension in the film. These intense elements made the climax unforgettable. | These intense elements 意指前句的 bold lighting 和 dramatic music。
+
+@group 歷屆試題範例
+@bank
+A: Scientists call this unidirectional regeneration.
+B: The same thing happens for lobsters, salamanders, and many other animals.
+C: When it comes to regeneration, few animals can equal the magic of the planarian.
+D: They hope that this line of research will make regeneration possible in humans someday.
+E: Humans aren't completely without regenerative talents.
+
+@passage
+One of the most difficult things for a human to face is the loss of a limb. If a person loses an arm or a leg, he/she must be fitted with an artificial limb.
+
+The situation is very different for a starfish. If a starfish loses an arm, it can grow a new one. [[1]] Snails can even regrow their heads—imagine what the world would be like if humans could do that. But we can't. Nor can we grow new limbs or even fingers. That's why scientists are studying animals that can regrow body parts, that is, regenerate. [[2]]
+
+Many different kinds of animals show some form of regeneration. Most of them are, however, limited to the sort a lizard is capable of, like regrowing a lost tail. A cockroach can grow back a missing limb, but the limb itself can't generate a new cockroach. [[3]] Bidirectional regeneration, on the other hand, refers to a situation in which splitting of an animal will result in separate fully functional animals. This type of regeneration is demonstrated in a few animals, such as hydras and sea stars. Cut a hydra in half, and you'll get two hydras. Cut it into four pieces, and you'll get four. [[4]] A single one can be cut into hundreds of pieces and each will grow back into a whole new worm in a week or so. Because of this remarkable ability, one planarian can be created over and over, giving it a sort of immortality. Whether this phenomenon can be achieved in humans will likely require years of research.
+@end
+
+Q 1 | bank | 106指考
+stem: （第 1 格）請由方框中選出最適合的句子。
+= B
+~ The same thing 即意指前句 If a starfish loses an arm, it can grow a new one.；依文意可推斷答案為選項 (B)。
+~文意 對海星來說，情況大不相同。如果海星失去一隻手臂，牠能長出一隻新的手臂。(B) 同樣的事也發生在龍蝦、蠑螈和許多其他動物。蝸牛連頭都能長回——想像假如人類能這樣，世界會變什麼樣子。
+
+Q 2 | bank | 106指考
+stem: （第 2 格）請由方框中選出最適合的句子。
+= D
+~ this line of research 即意指前句 that is, regenerate.；依文意可推斷答案為選項 (D)。
+~文意 這就是為什麼科學家正研究能重新長出身體部位（也就是再生）的動物。(D) 他們希望這項研究將使人類有一天能再生。
+
+Q 3 | bank | 106指考
+stem: （第 3 格）請由方框中選出最適合的句子。
+= A
+~ 句中的 this 即意指前句 A cockroach can grow back a missing limb, but the limb itself can't generate a new cockroach.；依文意可推斷答案為選項 (A)。
+~文意 蟑螂能長回斷肢，但那截斷肢不能生成一隻新蟑螂。(A) 科學家稱此為單向再生。另一方面，雙向再生是指動物分裂後，各自長成功能健全的動物。
+
+Q 4 | bank | 106指考
+stem: （第 4 格）請由方框中選出最適合的句子。
+= C
+~ 後句 A single one 可知為前句中某人事物的代名詞。依空格後句往前推斷文意，可知答案為選項 (C)；one 即是選項 (C) 中 planarian（渦蟲）的代名詞。*選項 (E) 人類並非完全沒有再生能力。
+~文意 (C) 當提到再生，幾乎沒有動物能和渦蟲的能力相比。單一隻渦蟲可以切成數百段，約一週後，每段都會長成完整個體。
+
+@group 類題練習
+@bank
+A: Chances are that they will then project their stress onto their peers.
+B: Many of them consider it a normal part of growing up rather than a serious issue requiring intervention.
+C: Social media provides those who dare not speak up with a platform to share their thoughts and opinions.
+D: Schools should ensure that students and staff are trained to recognize and respond to bullying effectively.
+E: In these countries, bullying often manifests in various forms, including physical violence, verbal harassment, and increasingly, cyberbullying.
+
+@passage
+School bullying is a significant issue across Asia. In Japan, for instance, a government survey in 2019 indicated over 600,000 cases of school bullying, highlighting its widespread nature. South Korea also faces severe challenges, with reports of bullying leading to tragic consequences, including student suicides. China and India, with their vast populations, encounter similar issues. [[5]]
+
+Several factors contribute to the prevalence of school bullying in Asia. Cultural norms and social pressures play a significant role. In many Asian cultures, maintaining family honor and high academic performance can lead to immense pressure on students. [[6]] Moreover, a lack of awareness and inadequate anti-bullying policies in schools contribute to the issue's persistence. In some cases, teachers and administrators may overlook or underestimate bullying. [[7]]
+
+Addressing school bullying in Asia requires a comprehensive approach involving students, parents, educators, and policymakers. Firstly, increasing awareness through education campaigns can help communities understand the severity of bullying and its long-term impacts on mental health. [[8]] Providing support services, such as counseling and peer support groups, can help victims recover and build resilience. By taking these steps, Asian countries can create safer and more inclusive school environments, reducing the prevalence and impact of bullying.
+@end
+
+Q 5 | bank | 類題 1
+stem: （第 1 格）請由方框中選出最適合的句子。
+= E
+~! 前文列舉日本、南韓、中國、印度的霸凌狀況，空格句開頭的 In these countries 回指這幾個國家，接著說明霸凌的多種形式。
+
+Q 6 | bank | 類題 2
+stem: （第 2 格）請由方框中選出最適合的句子。
+= A
+~! 前句談家庭榮譽與課業成績帶給學生的巨大壓力；(A) 的 they 回指 students，說明壓力可能轉嫁到同儕身上，延續霸凌成因的討論。
+
+Q 7 | bank | 類題 3
+stem: （第 3 格）請由方框中選出最適合的句子。
+= B
+~! 前句說老師與行政人員可能忽視或低估霸凌；(B) 的 Many of them 回指這些師長，並解釋原因——把霸凌當成成長過程中的正常現象。
+
+Q 8 | bank | 類題 4
+stem: （第 4 格）請由方框中選出最適合的句子。
+= D
+~! 本段列舉解決方法：Firstly 提升意識之後，接 (D) 學校應確保師生受過辨識與回應霸凌的訓練，再接 Providing support services。(C) 談社群媒體，與全文的成因與對策無關，是多餘選項。

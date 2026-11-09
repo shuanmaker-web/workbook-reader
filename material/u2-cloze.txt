@@ -1,0 +1,165 @@
+# Unit 2 · 02 文意選填 (PDF p.23–24, source pages 28–29)
+# Printed explanations (歷屆範例 1–10) copied from the book; 類題練習 11–20 answers derived by Claude.
+@section u2-cloze | 文意選填 | Word-bank cloze | 學測重點：主題：生活與科學
+@pages 28,29
+@overview 文意選填：先判斷選項詞性，再用句構（空格前後是什麼詞性）縮小範圍，最後依文意與詞意選出答案。歷屆範例 10 題附原書解析；類題練習 10 題為本 app 推導的答案。
+
+@group 解題步驟
+@page 28
+= 先判斷選項詞性
+(A) familiar 形　(B) honor 名/動　(C) device 名　(D) removable 形　(E) known as 動(pp)
+(F) protest 名/動　(G) symbol 名　(H) twisted into 動(ed/pp)　(I) associated with 動(ed/pp)，當形容詞用　(J) historical 形
+= 以句構判斷各空格詞性，再依文意和詞意選出正答
+空格前後的詞性與語法位置（名詞、形容詞、被動語態需要的 pp…）先縮小範圍，再看文意。
+
+@group 歷屆試題範例
+@bank
+A: familiar
+B: honor
+C: device
+D: removable
+E: known as
+F: protest
+G: symbol
+H: twisted into
+I: associated with
+J: historical
+
+@passage
+A paperclip, made of steel wire bent into a hooped shape, is an instrument used to hold sheets of paper together. This common [[1]] is a wonder of simplicity and function. But where did this simple, cheap, and indispensable invention come from?
+
+In the late 19th century, the most common way to hold papers together was by using a pin. Although the pin was an inexpensive tool and was easily [[2]], it would leave holes in the paper. Later, as steel wire became more common, inventors began to notice its elastic feature. With this feature, it could be stretched and [[3]] various clip-like objects. In the years just prior to 1900, quite a few paperclip designs emerged. The name most frequently [[4]] the paperclip invention is Johan Vaaler, a Norwegian inventor. However, Vaaler's clips were not the same as the paperclips currently in use. Specifically, they did not have the interior loop we see today. The [[5]] looped design was invented by Gem Manufacturing Ltd. in England. This clip is therefore sometimes [[6]] the Gem clip.
+
+Because of Vaaler, the paperclip played an important [[7]] role in Norway. During World War II, Norway was occupied by the Nazis. Norwegians were prohibited from wearing any [[8]] of their national unity, such as buttons with the initials of their king. Thus, in [[9]], they started wearing paperclips to show their solidarity. The reason for doing this was simple: Paperclips were a Norwegian invention whose original function was to bind together. After the war, a giant paperclip statue was erected in Oslo to [[10]] Vaaler—even though his design was never actually manufactured.
+@end
+
+Q 1 | bank | 104學測
+stem: （第 1 格）
+= C
+~ common 是形容詞，空格應為名詞，依文意可判斷答案為 (C) device 設備、裝置。
+~文意 這個常見的裝置，是個設計簡單、功能性高的驚奇發明。
+
+Q 2 | bank | 104學測
+stem: （第 2 格）
+= D
+~ easily 是副詞，空格應為形容詞或被動語態所需的動詞 (pp)；除了依文意可判斷答案為 (D) removable 可移動的。*選項 known as、twisted into 跟 associated with 後面都必須有受詞。
+~文意 雖然別針是個不昂貴的工具，也很容易取下來，不過總是會在紙張上留下一個洞。
+
+Q 3 | bank | 104學測
+stem: （第 3 格）
+= H
+~ and（對等連接詞）前後字彙詞性要一致，空格前面是被動語態 be stretched，所以空格應和 stretched 一樣為動詞 (pp)；依文意可判斷答案為 (H) twisted into 被捻成。
+~文意 因為有彈性，可以彎折，也可以捻成各種夾子的形狀。
+
+Q 4 | bank | 104學測
+stem: （第 4 格）
+= I
+~ frequently 是副詞，paperclip invention 是名詞，空格應該是形容詞；由於本句主詞是 the name，動詞是 is，可見中間所有字都是在修飾 name，再依文意可判斷答案為當形容詞用的動詞 (pp)：(I) associated with 與…有關聯的、被提及的。
+~文意 迴紋針的發明，最常被提及的名字就是 Johan Vaaler，一位挪威發明家。
+
+Q 5 | bank | 104學測
+stem: （第 5 格）
+= A
+~ looped design 是名詞，空格應為形容詞；依文意可判斷答案為 (A) familiar 眾所皆知的。
+~文意 大家熟悉的雙迴圈設計出自英國的 Gem 製造公司。
+
+Q 6 | bank | 104學測
+stem: （第 6 格）
+= E
+~ is 是 be 動詞，the Gem clip 是名詞，空格應為被動語態所需的動詞 (pp)；依文意可判斷答案為 (E) known as 被稱為。
+~文意 因此這個迴紋針有時也被稱為 Gem clip。
+
+Q 7 | bank | 104學測
+stem: （第 7 格）
+= J
+~ role 是名詞，空格應為形容詞；由後面提到 World War II 及 Nazis，依文意可判斷答案為 (J) historical 歷史的。
+~文意 拜 Vaaler 所賜，迴紋針在挪威具有很重要的歷史地位。
+
+Q 8 | bank | 104學測
+stem: （第 8 格）
+= G
+~ any 是形容詞，of 是介系詞，空格應為名詞；依文意可判斷答案為 (G) symbol 象徵。
+~文意 納粹禁止挪威人民配戴任何象徵國家團結的物品。
+
+Q 9 | bank | 104學測
+stem: （第 9 格）
+= F
+~ in 是介系詞，空格應為名詞；依文意可判斷答案為 (F) protest 抗議。*in protest 作為抗議
+~文意 因此，作為抗議，他們開始佩戴迴紋針以表示團結。
+
+Q 10 | bank | 104學測
+stem: （第 10 格）
+= B
+~ 從句構可知 was erected to ____ 為不定詞 to V. 用法，空格即為原形動詞；依文意可判斷答案為 (B) honor 給予榮譽。
+~文意 戰後，奧斯陸豎立了一座巨大的迴紋針雕像以紀念 Vaaler……
+
+@group 類題練習
+@bank
+A: impact
+B: generated
+C: reliance
+D: absorb
+E: adoption
+F: resemble
+G: charged
+H: process
+I: varies
+J: convert
+
+@passage
+Solar panels, often seen on rooftops or across vast fields, are a sight increasingly familiar in our modern landscape. These sleek, shiny rectangles, typically composed of photovoltaic cells, [[11]] a patchwork of glossy tiles when installed. Their appearance [[12]], sometimes appearing as uniform arrays, while other times they are scattered across surfaces randomly. Regardless of their layout, their purpose remains clear: to make use of the sun's energy and [[13]] it into usable electricity.
+
+Functioning as miniature power plants atop our homes or in expansive solar farms, solar panels operate through a fascinating [[14]] known as the photovoltaic effect. When sunlight strikes the surface of these panels, they will [[15]] photons, or particles of light, and then release electrons from the atoms within the semiconductor material. Afterward, the direct current (DC) electricity [[16]] is changed into alternating current (AC) through an inverter for use in households.
+
+The [[17]] of solar panels brings with it advantages and disadvantages. On the positive side, they provide a clean, renewable source of energy, reducing [[18]] on fossil fuels and reducing greenhouse gas emissions. However, their production involves some environmental [[19]]. The treatment of waste water during production, for instance, is a costly and troublesome matter. The prices [[20]] for installation may also discourage regular homeowners from such an idea. That being said, improvements in technology and government incentives are making solar power more accessible and affordable over time.
+@end
+
+Q 11 | bank | 類題 1
+stem: （第 1 格）
+= F
+~! 主詞 These sleek, shiny rectangles 後缺現在式動詞（複數）；resemble a patchwork of glossy tiles 「看起來像一塊塊亮面磁磚拼成的拼布」。
+
+Q 12 | bank | 類題 2
+stem: （第 2 格）
+= I
+~! Their appearance 為主詞，空格需要動詞（單數現在式）；後文說有時整齊排列、有時隨機散布，表示外觀「各有不同」，故用 varies。
+
+Q 13 | bank | 類題 3
+stem: （第 3 格）
+= J
+~! to make use of ... and ___ it into usable electricity：and 連接兩個原形動詞；convert A into B 把太陽能轉換成可用的電。
+
+Q 14 | bank | 類題 4
+stem: （第 4 格）
+= H
+~! a fascinating ___ known as the photovoltaic effect：空格為名詞，process（過程）符合「稱為光伏效應的迷人過程」。
+
+Q 15 | bank | 類題 5
+stem: （第 5 格）
+= D
+~! they will + 原形動詞；面板被陽光照到時會「吸收」光子（photons），再釋出電子，故選 absorb。
+
+Q 16 | bank | 類題 6
+stem: （第 6 格）
+= B
+~! the direct current (DC) electricity ___ is changed into AC：空格為過去分詞，修飾 electricity，指「所產生的」直流電，故選 generated。
+
+Q 17 | bank | 類題 7
+stem: （第 7 格）
+= E
+~! The ___ of solar panels brings with it advantages and disadvantages：空格為名詞，the adoption of solar panels 指「採用太陽能板」會帶來利弊。
+
+Q 18 | bank | 類題 8
+stem: （第 8 格）
+= C
+~! reducing ___ on fossil fuels：reliance on 表「對…的依賴」，故選 reliance。
+
+Q 19 | bank | 類題 9
+stem: （第 9 格）
+= A
+~! some environmental ___：下一句舉汙水處理為例，指生產過程對環境的「影響」，故選 impact。
+
+Q 20 | bank | 類題 10
+stem: （第 10 格）
+= G
+~! The prices ___ for installation：過去分詞作後位修飾，指「安裝所收取的價格」，故選 charged。

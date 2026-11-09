@@ -328,7 +328,10 @@ def build_dictionary(sections, ecdict_path):
     csv.field_size_limit(10 ** 9)
     ec = {}
     need = set(tokens) | set(book)
-    with open(ecdict_path, encoding='utf-8') as f:
+    if not os.path.exists(ecdict_path):
+        print('WARNING: ECDICT csv not found; dictionary = book glosses only')
+    else:
+      with open(ecdict_path, encoding='utf-8') as f:
         for row in csv.DictReader(f):
             w = row['word'].lower()
             if w in need:
