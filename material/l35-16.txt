@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 16 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-16 | Unit 16 | Vocabulary practice · Unit 16 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Compared to her first novel, which was a bestseller, Chris' l______t novel barely sold any copies.
+= latest
+~詞義 latest（adj.）最新的
+~原文 Compared to her first novel, which was a bestseller, Chris' latest novel barely sold any copies.
+
+Q 2 | fill | 文意字彙
+stem: My friends and I enjoyed a l______y vacation in the countryside last winter.
+= leisurely
+~詞義 leisurely（adj.）悠閒的
+~原文 My friends and I enjoyed a leisurely vacation in the countryside last winter.
+
+Q 3 | fill | 文意字彙
+stem: Suddenly, the door b______ged shut, which scared everyone in the room.
+= banged
+~詞義 bang（v.）發出巨響
+~原文 Suddenly, the door banged shut, which scared everyone in the room.
+
+Q 4 | fill | 文意字彙
+stem: Mr. Brown is a c______r; his job is to make and repair wooden objects.
+= carpenter
+~詞義 carpenter（n.）木匠
+~原文 Mr. Brown is a carpenter; his job is to make and repair wooden objects.
+
+Q 5 | fill | 文意字彙
+stem: The queen waved to everybody from her c______e as it slowly made its way down the street.
+= carriage
+~詞義 carriage（n.）四輪馬車
+~原文 The queen waved to everybody from her carriage as it slowly made its way down the street.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The mailman came this morning while I was out, so my neighbor received the ______ for me.
+A: parcel
+B: hallway
+C: navy
+D: ladder
+= A
+~詞義 parcel（n.）包裹
+~原文 The mailman came this morning while I was out, so my neighbor received the parcel for me.
+
+Q 7 | choice | 選擇題
+stem: You have to tighten the ______ of your shoes, or you may trip and fall down when you are walking.
+A: rags
+B: jars
+C: baits
+D: laces
+= D
+~詞義 lace（n.）鞋帶
+~原文 You have to tighten the laces of your shoes, or you may trip and fall down when you are walking.
+
+Q 8 | choice | 選擇題
+stem: Some companies allow their employees to wear ______ clothes to work on Fridays.
+A: icy
+B: casual
+C: magnetic
+D: formal
+= B
+~詞義 casual（adj.）隨意的
+~原文 Some companies allow their employees to wear casual clothes to work on Fridays.
+
+Q 9 | choice | 選擇題
+stem: My father used to ______ on the horse races, but eventually, he quit because he had lost too much money.
+A: cast
+B: chop
+C: lace
+D: gamble
+= D
+~詞義 gamble（v.）賭博
+~原文 My father used to gamble on the horse races, but eventually, he quit because he had lost too much money.
+
+Q 10 | choice | 選擇題
+stem: David invited his old ______ from college to celebrate his birthday at a small restaurant.
+A: pads
+B: jaws
+C: pals
+D: oaks
+= C
+~詞義 pal（n.）好友
+~原文 David invited his old pals from college to celebrate his birthday at a small restaurant.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: leisure
+B: lately
+C: hairdresser
+D: comma
+E: rag
+F: maid
+
+Q 11 | bank | 配合題
+stem: During the summer break, Lily finally had time to read novels and paint at her ______.
+= A
+~詞義 leisure（n.）有空時(at one's leisure)
+~原文 During the summer break, Lily finally had time to read novels and paint at her leisure.
+
+Q 12 | bank | 配合題
+stem: Molly wiped her shoes with an old ______ and then threw it away.
+= E
+~詞義 rag（n.）破布;舊布
+~原文 Molly wiped her shoes with an old rag and then threw it away.
+
+Q 13 | bank | 配合題
+stem: I never go to a ______. In fact, I cut my hair by myself.
+= C
+~詞義 hairdresser（n.）美髮師
+~原文 I never go to a hairdresser. In fact, I cut my hair by myself.
+
+Q 14 | bank | 配合題
+stem: Sometimes a ______ can totally change the meaning of a sentence.
+= D
+~詞義 comma（n.）逗點
+~原文 Sometimes a comma can totally change the meaning of a sentence.
+
+Q 15 | bank | 配合題
+stem: ______, many students have become addicted to live streaming apps.
+= B
+~詞義 lately（adv.）最近
+~原文 Lately, many students have become addicted to live streaming apps.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: chop
+B: icy
+C: magnetic
+D: crew
+E: barn
+F: cast
+
+Q 16 | bank | 配合題
+stem: Every ______ member played an important role in ensuring the ship's safe journey across the ocean.
+= D
+~詞義 crew（n.）(船上的)全體人員
+~原文 Every crew member played an important role in ensuring the ship's safe journey across the ocean.
+
+Q 17 | bank | 配合題
+stem: The little boy ______ a stone into the lake, smiling as circles spread across the calm surface.
+= F
+~詞義 cast（v.）投擲
+~原文 The little boy cast a stone into the lake, smiling as circles spread across the calm surface.
+
+Q 18 | bank | 配合題
+stem: The children often use ______ letters to spell words on the fridge.
+= C
+~詞義 magnetic（adj.）磁鐵的
+~原文 The children often use magnetic letters to spell words on the fridge.
+
+Q 19 | bank | 配合題
+stem: If you ______ the wood into two pieces, it will be easier for us to carry it.
+= A
+~詞義 chop（v.）砍;劈
+~原文 If you chop the wood into two pieces, it will be easier for us to carry it.
+
+Q 20 | bank | 配合題
+stem: The farmer raised many animals, such as ducks and chickens, in his ______.
+= E
+~詞義 barn（n.）穀倉
+~原文 The farmer raised many animals, such as ducks and chickens, in his barn.

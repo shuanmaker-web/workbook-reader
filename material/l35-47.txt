@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 47 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-47 | Unit 47 | Vocabulary practice · Unit 47 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Taipei 101 is the most famous l______k in Taipei.
+= landmark
+~詞義 landmark（n.）地標
+~原文 Taipei 101 is the most famous landmark in Taipei.
+
+Q 2 | fill | 文意字彙
+stem: My trip to Japan last spring was great because the cherry blossoms there looked s______d!
+= splendid
+~詞義 splendid（adj.）燦爛的;壯麗的
+~原文 My trip to Japan last spring was great because the cherry blossoms there looked splendid!
+
+Q 3 | fill | 文意字彙
+stem: The boys were full of m______f and kept whispering and throwing paper balls to one another during class.
+= mischief
+~詞義 mischief（n.）頑皮
+~原文 The boys were full of mischief and kept whispering and throwing paper balls to one another during class.
+
+Q 4 | fill | 文意字彙
+stem: These women are protesting for e______y in pay between the sexes.
+= equality
+~詞義 equality（n.）平等
+~原文 These women are protesting for equality in pay between the sexes.
+
+Q 5 | fill | 文意字彙
+stem: Our teacher reminded us that we should check for g______l errors in our essays before turning them in.
+= grammatical
+~詞義 grammatical（adj.）文法的
+~原文 Our teacher reminded us that we should check for grammatical errors in our essays before turning them in.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Critics gave the movie bad reviews because the ______ was boring and predictable.
+A: cord
+B: bloom
+C: drill
+D: plot
+= D
+~詞義 plot（n.）情節
+~原文 Critics gave the movie bad reviews because the plot was boring and predictable.
+
+Q 7 | choice | 選擇題
+stem: This ______ is home to some of the country's most expensive apartments.
+A: district
+B: extent
+C: divorce
+D: riddle
+= A
+~詞義 district（n.）區域
+~原文 This district is home to some of the country's most expensive apartments.
+
+Q 8 | choice | 選擇題
+stem: Being on time is a ______ that many people lack nowadays.
+A: postage
+B: virtue
+C: copper
+D: fossil
+= B
+~詞義 virtue（n.）美德
+~原文 Being on time is a virtue that many people lack nowadays.
+
+Q 9 | choice | 選擇題
+stem: I want to come back to this garden next June because all the cherry trees usually ______ at that time.
+A: mislead
+B: blossom
+C: dodge
+D: converse
+= B
+~詞義 blossom（v.）開花
+~原文 I want to come back to this garden next June because all the cherry trees usually blossom at that time.
+
+Q 10 | choice | 選擇題
+stem: The teacher let David off the ______ this time, but she warned him that she wouldn't ignore late homework again.
+A: stem
+B: hook
+C: curve
+D: arch
+= B
+~詞義 hook（n.）放某人一馬(let sb. off the hook)
+~原文 The teacher let David off the hook this time, but she warned him that she wouldn't ignore late homework again.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: bloom
+B: mislead
+C: correspond
+D: dodge
+E: bulletin
+F: fleas
+
+Q 11 | bank | 配合題
+stem: Sally used to ______ with her pen pal, exchanging long letters about school life and personal dreams.
+= C
+~詞義 correspond（v.）互通信件
+~原文 Sally used to correspond with her pen pal, exchanging long letters about school life and personal dreams.
+
+Q 12 | bank | 配合題
+stem: Please don't ______ my question. Answer me honestly, and I won't be mad at you.
+= D
+~詞義 dodge（v.）躲避
+~原文 Please don't dodge my question. Answer me honestly, and I won't be mad at you.
+
+Q 13 | bank | 配合題
+stem: Sometimes, there may be ______ in your pet's fur, so you should check regularly.
+= F
+~詞義 flea（n.）跳蚤
+~原文 Sometimes, there may be fleas in your pet's fur, so you should check regularly.
+
+Q 14 | bank | 配合題
+stem: The cunning salesman tried to ______ the woman into believing that the product was fantastic.
+= B
+~詞義 mislead（v.）誤導
+~原文 The cunning salesman tried to mislead the woman into believing that the product was fantastic.
+
+Q 15 | bank | 配合題
+stem: If there is any important information, it will be displayed on the ______ board in the front of the classroom.
+= E
+~詞義 bulletin（n.）公告
+~原文 If there is any important information, it will be displayed on the bulletin board in the front of the classroom.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: stingy
+B: honeymoon
+C: convenience
+D: drifted
+E: mystery
+F: frowned
+
+Q 16 | bank | 配合題
+stem: Most of us like the ______ of credit cards for buying things, but they can easily cause us to accidentally spend too much money.
+= C
+~詞義 convenience（n.）便利
+~原文 Most of us like the convenience of credit cards for buying things, but they can easily cause us to accidentally spend too much money.
+
+Q 17 | bank | 配合題
+stem: The fallen leaves ______ on the river and were carried away.
+= D
+~詞義 drift（v.）漂流
+~原文 The fallen leaves drifted on the river and were carried away.
+
+Q 18 | bank | 配合題
+stem: Steve and his wife went to Hawaii for their ______.
+= B
+~詞義 honeymoon（n.）蜜月
+~原文 Steve and his wife went to Hawaii for their honeymoon.
+
+Q 19 | bank | 配合題
+stem: Vivian loved reading ______ novels because solving the hidden clues made her feel clever and excited.
+= E
+~詞義 mystery（n.）神祕;懸疑
+~原文 Vivian loved reading mystery novels because solving the hidden clues made her feel clever and excited.
+
+Q 20 | bank | 配合題
+stem: Mary ______ at her son because he was making too much noise in the restaurant.
+= F
+~詞義 frown（v.）皺眉
+~原文 Mary frowned at her son because he was making too much noise in the restaurant.

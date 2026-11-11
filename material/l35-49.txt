@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 49 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-49 | Unit 49 | Vocabulary practice · Unit 49 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Joan's f______y about living in a magical kingdom inspired her to write stories filled with dragons and brave heroes.
+= fantasy
+~詞義 fantasy（n.）幻想
+~原文 Joan's fantasy about living in a magical kingdom inspired her to write stories filled with dragons and brave heroes.
+
+Q 2 | fill | 文意字彙
+stem: The workers sat i______e for hours, not doing any work because the factory machines suddenly stopped working.
+= idle
+~詞義 idle（adj.）無所事事的
+~原文 The workers sat idle for hours, not doing any work because the factory machines suddenly stopped working.
+
+Q 3 | fill | 文意字彙
+stem: The ballet dancer made a g______l leap into the air and then struck an ending pose.
+= graceful
+~詞義 graceful（adj.）優雅的
+~原文 The ballet dancer made a graceful leap into the air and then struck an ending pose.
+
+Q 4 | fill | 文意字彙
+stem: You should not exercise until your food has had a chance to d______t, or you may feel uncomfortable.
+= digest
+~詞義 digest（v.）消化
+~原文 You should not exercise until your food has had a chance to digest, or you may feel uncomfortable.
+
+Q 5 | fill | 文意字彙
+stem: The U.K. economy is heavily d______t on international trade. Most British companies sell their products overseas.
+= dependent
+~詞義 dependent（adj.）依賴的
+~原文 The U.K. economy is heavily dependent on international trade. Most British companies sell their products overseas.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Many people believe that children learn language through ______. That is, they just repeat what their parents and other people say.
+A: admission
+B: imitation
+C: disadvantage
+D: celebration
+= B
+~詞義 imitation（n.）模仿
+~原文 Many people believe that children learn language through imitation. That is, they just repeat what their parents and other people say.
+
+Q 7 | choice | 選擇題
+stem: It is much easier to ______ a point by giving examples rather than trying to explain it.
+A: furnish
+B: devise
+C: illustrate
+D: classify
+= C
+~詞義 illustrate（v.）說明
+~原文 It is much easier to illustrate a point by giving examples rather than trying to explain it.
+
+Q 8 | choice | 選擇題
+stem: John felt ______ about forgetting his girlfriend's birthday again.
+A: guilty
+B: delightful
+C: functional
+D: crunchy
+= A
+~詞義 guilty（adj.）內疚的
+~原文 John felt guilty about forgetting his girlfriend's birthday again.
+
+Q 9 | choice | 選擇題
+stem: The ______ against unfair labor practices attracted national attention and sparked important discussions.
+A: illustration
+B: classification
+C: constitution
+D: demonstration
+= D
+~詞義 demonstration（n.）示威
+~原文 The demonstration against unfair labor practices attracted national attention and sparked important discussions.
+
+Q 10 | choice | 選擇題
+stem: Julia bought a birthday gift for her father to show her ______ for what he had done for her.
+A: appreciation
+B: emphasis
+C: commerce
+D: disadvantage
+= A
+~詞義 appreciation（n.）感激
+~原文 Julia bought a birthday gift for her father to show her appreciation for what he had done for her.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: comedy
+B: classified
+C: confidence
+D: burglar
+E: dyed
+F: drowsy
+
+Q 11 | bank | 配合題
+stem: The books are ______ by general subject. For example, if you want to find something related to World War I, you should go to the history section.
+= B
+~詞義 classify（v.）分類
+~原文 The books are classified by general subject. For example, if you want to find something related to World War I, you should go to the history section.
+
+Q 12 | bank | 配合題
+stem: My house was robbed by a ______ a few months ago when we were away on a trip.
+= D
+~詞義 burglar（n.）竊賊
+~原文 My house was robbed by a burglar a few months ago when we were away on a trip.
+
+Q 13 | bank | 配合題
+stem: The actor achieved great popularity and success after appearing on the ______ show.
+= A
+~詞義 comedy（n.）喜劇
+~原文 The actor achieved great popularity and success after appearing on the comedy show.
+
+Q 14 | bank | 配合題
+stem: You should have ______ in yourself, and I believe you can make it.
+= C
+~詞義 confidence（n.）信心
+~原文 You should have confidence in yourself, and I believe you can make it.
+
+Q 15 | bank | 配合題
+stem: After eating the big dinner, Henry felt very ______ and lay down on the sofa.
+= F
+~詞義 drowsy（adj.）困倦的
+~原文 After eating the big dinner, Henry felt very drowsy and lay down on the sofa.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: concerning
+B: disadvantages
+C: diploma
+D: admission
+E: crunchy
+F: functional
+
+Q 16 | bank | 配合題
+stem: Those under 18 are refused ______ to the night club because it is illegal for them to drink alcohol.
+= D
+~詞義 admission（n.）允許進入
+~原文 Those under 18 are refused admission to the night club because it is illegal for them to drink alcohol.
+
+Q 17 | bank | 配合題
+stem: Stella earned a(n) ______ in nursing, which allowed her to work in hospitals and care for patients.
+= C
+~詞義 diploma（n.）文憑
+~原文 Stella earned a(n) diploma in nursing, which allowed her to work in hospitals and care for patients.
+
+Q 18 | bank | 配合題
+stem: Although the idea sounded good at first, a final evaluation revealed that its potential ______ were greater than its advantages.
+= B
+~詞義 disadvantage（n.）缺點
+~原文 Although the idea sounded good at first, a final evaluation revealed that its potential disadvantages were greater than its advantages.
+
+Q 19 | bank | 配合題
+stem: To make sure the alarm clock was ______, Andy tested it before going to bed.
+= F
+~詞義 functional（adj.）正常使用的
+~原文 To make sure the alarm clock was functional, Andy tested it before going to bed.
+
+Q 20 | bank | 配合題
+stem: If you want to learn more about issues ______ gender or race, you should read this magazine.
+= A
+~詞義 concerning（prep.）關於
+~原文 If you want to learn more about issues concerning gender or race, you should read this magazine.

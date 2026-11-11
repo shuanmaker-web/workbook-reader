@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 40 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-40 | Unit 40 | Vocabulary practice · Unit 40 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Michael's company had a p______s year. They earned a lot of money.
+= prosperous
+~詞義 prosperous（adj.）繁榮的
+~原文 Michael's company had a prosperous year. They earned a lot of money.
+
+Q 2 | fill | 文意字彙
+stem: Ben was extremely disappointed when he received the r______n letter from his dream university.
+= rejection
+~詞義 rejection（n.）拒絕
+~原文 Ben was extremely disappointed when he received the rejection letter from his dream university.
+
+Q 3 | fill | 文意字彙
+stem: The bag is made of g______e leather, so it is a bit more expensive than the other ones.
+= genuine
+~詞義 genuine（adj.）真的
+~原文 The bag is made of genuine leather, so it is a bit more expensive than the other ones.
+
+Q 4 | fill | 文意字彙
+stem: Jean s______es to improve her writing skills by reading widely and practicing daily, even when feeling tired.
+= strives
+~詞義 strive（v.）努力
+~原文 Jean strives to improve her writing skills by reading widely and practicing daily, even when feeling tired.
+
+Q 5 | fill | 文意字彙
+stem: Decisions made in i______e can cause serious harm, especially when people refuse to learn basic facts.
+= ignorance
+~詞義 ignorance（n.）無知
+~原文 Decisions made in ignorance can cause serious harm, especially when people refuse to learn basic facts.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: When the fire alarm rings, everyone has to leave the building and ______ in the playground.
+A: assemble
+B: isolate
+C: frustrate
+D: dominate
+= A
+~詞義 assemble（v.）聚集
+~原文 When the fire alarm rings, everyone has to leave the building and assemble in the playground.
+
+Q 7 | choice | 選擇題
+stem: The company surveyed the customers to collect their ______ on the new product.
+A: intuition
+B: frustration
+C: maximum
+D: feedback
+= D
+~詞義 feedback（n.）回饋
+~原文 The company surveyed the customers to collect their feedback on the new product.
+
+Q 8 | choice | 選擇題
+stem: You could include more ______ in your presentation to make it easier for people to understand the meaning of the data.
+A: assemblies
+B: choruses
+C: funerals
+D: diagrams
+= D
+~詞義 diagram（n.）圖表
+~原文 You could include more diagrams in your presentation to make it easier for people to understand the meaning of the data.
+
+Q 9 | choice | 選擇題
+stem: Many teenagers are ______ to social media platforms, checking their phones even during important conversations.
+A: addicted
+B: exhausted
+C: generous
+D: brutal
+= A
+~詞義 addicted（adj.）成癮的
+~原文 Many teenagers are addicted to social media platforms, checking their phones even during important conversations.
+
+Q 10 | choice | 選擇題
+stem: Adam can ______ an apple in half with his bare hands.
+A: dread
+B: crash
+C: grieve
+D: split
+= D
+~詞義 split（v.）分開
+~原文 Adam can split an apple in half with his bare hands.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: dew
+B: injected
+C: maximum
+D: grieved
+E: psychology
+F: furious
+
+Q 11 | bank | 配合題
+stem: When the sun rose in the east, the ______ vanished from the tree leaves.
+= A
+~詞義 dew（n.）露水
+~原文 When the sun rose in the east, the dew vanished from the tree leaves.
+
+Q 12 | bank | 配合題
+stem: After the school shooting, the entire community ______ for the ten students who had died.
+= D
+~詞義 grieve（v.）哀悼
+~原文 After the school shooting, the entire community grieved for the ten students who had died.
+
+Q 13 | bank | 配合題
+stem: Tim wants to study ______ at university because he is interested in the human mind.
+= E
+~詞義 psychology（n.）心理學
+~原文 Tim wants to study psychology at university because he is interested in the human mind.
+
+Q 14 | bank | 配合題
+stem: This elevator can carry a(n) ______ load of 2,000 kilograms.
+= C
+~詞義 maximum（adj.）最大量的
+~原文 This elevator can carry a(n) maximum load of 2,000 kilograms.
+
+Q 15 | bank | 配合題
+stem: Mrs. Norris is ______ with her son for breaking her favorite vase.
+= F
+~詞義 furious（adj.）狂怒的
+~原文 Mrs. Norris is furious with her son for breaking her favorite vase.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: instinct
+B: imposing
+C: claws
+D: dread
+E: rhythm
+F: crushing
+
+Q 16 | bank | 配合題
+stem: Teachers should avoid ______ personal opinions on students and encourage creative thought instead.
+= B
+~詞義 impose（v.）強加於
+~原文 Teachers should avoid imposing personal opinions on students and encourage creative thought instead.
+
+Q 17 | bank | 配合題
+stem: Danny has a very good sense of ______; that is why he is so good at playing the drums.
+= E
+~詞義 rhythm（n.）節奏
+~原文 Danny has a very good sense of rhythm; that is why he is so good at playing the drums.
+
+Q 18 | bank | 配合題
+stem: Whenever Ron thinks of the final exam, his heart fills with ______.
+= D
+~詞義 dread（n.）恐懼
+~原文 Whenever Ron thinks of the final exam, his heart fills with dread.
+
+Q 19 | bank | 配合題
+stem: My cat has long ______. I have to be careful when I play with her, or else I might get scratched.
+= C
+~詞義 claw（n.）爪子
+~原文 My cat has long claws. I have to be careful when I play with her, or else I might get scratched.
+
+Q 20 | bank | 配合題
+stem: It is a natural human ______ to want to pursue happiness and avoid pain.
+= A
+~詞義 instinct（n.）本能
+~原文 It is a natural human instinct to want to pursue happiness and avoid pain.

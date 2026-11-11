@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 48 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-48 | Unit 48 | Vocabulary practice · Unit 48 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: We're going to have a Halloween party next Friday, so I'm thinking about what kind of c______e I should wear.
+= costume
+~詞義 costume（n.）服裝
+~原文 We're going to have a Halloween party next Friday, so I'm thinking about what kind of costume I should wear.
+
+Q 2 | fill | 文意字彙
+stem: The student is not very familiar with the university grounds because he is just a f______n.
+= freshman
+~詞義 freshman（n.）新生
+~原文 The student is not very familiar with the university grounds because he is just a freshman.
+
+Q 3 | fill | 文意字彙
+stem: Though Mr. Williams was born into a poor family, he worked hard and managed to become a m______e.
+= millionaire
+~詞義 millionaire（n.）百萬富翁
+~原文 Though Mr. Williams was born into a poor family, he worked hard and managed to become a millionaire.
+
+Q 4 | fill | 文意字彙
+stem: It was c______s of the captain to rescue several sailors from the sinking ship.
+= courageous
+~詞義 courageous（adj.）勇敢的
+~原文 It was courageous of the captain to rescue several sailors from the sinking ship.
+
+Q 5 | fill | 文意字彙
+stem: The hotel we stayed in was so l______s that I felt like I was staying in a palace.
+= luxurious
+~詞義 luxurious（adj.）豪華的
+~原文 The hotel we stayed in was so luxurious that I felt like I was staying in a palace.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Studying abroad is a good opportunity to expand your ______.
+A: monuments
+B: horizons
+C: cottages
+D: bracelets
+= B
+~詞義 horizon（n.）視野
+~原文 Studying abroad is a good opportunity to expand your horizons.
+
+Q 7 | choice | 選擇題
+stem: We live in a(n) ______ of instant communication. Through social networking sites and messaging apps, it's very easy for us to stay in touch with others.
+A: era
+B: hive
+C: bin
+D: atom
+= A
+~詞義 era（n.）時代
+~原文 We live in a(n) era of instant communication. Through social networking sites and messaging apps, it's very easy for us to stay in touch with others.
+
+Q 8 | choice | 選擇題
+stem: The teacher ______ students with the lab rules before letting them do experiments on their own.
+A: awaited
+B: acquainted
+C: resolved
+D: drafted
+= B
+~詞義 acquaint（v.）使熟悉
+~原文 The teacher acquainted students with the lab rules before letting them do experiments on their own.
+
+Q 9 | choice | 選擇題
+stem: It was a miracle that the patient fully recovered from a severe ______.
+A: hose
+B: frost
+C: craft
+D: stroke
+= D
+~詞義 stroke（n.）中風
+~原文 It was a miracle that the patient fully recovered from a severe stroke.
+
+Q 10 | choice | 選擇題
+stem: My grandmother just had ______ on her knees, so she has to use a wheelchair for the next few months.
+A: council
+B: audio
+C: surgery
+D: privacy
+= C
+~詞義 surgery（n.）外科手術
+~原文 My grandmother just had surgery on her knees, so she has to use a wheelchair for the next few months.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: technological
+B: misunderstand
+C: succeed
+D: poisonous
+E: atomic
+F: sympathies
+
+Q 11 | bank | 配合題
+stem: Please don't ______ what I said. I did say that Gina could do better, but it doesn't mean that I want to fire her.
+= B
+~詞義 misunderstand（v.）誤解
+~原文 Please don't misunderstand what I said. I did say that Gina could do better, but it doesn't mean that I want to fire her.
+
+Q 12 | bank | 配合題
+stem: ______ advances have changed how students learn, allowing them to access information quickly through the Internet.
+= A
+~詞義 technological（adj.）科技的
+~原文 Technological advances have changed how students learn, allowing them to access information quickly through the Internet.
+
+Q 13 | bank | 配合題
+stem: Bella hoped to ______ in balancing schoolwork and part-time jobs without losing her energy or motivation.
+= C
+~詞義 succeed（v.）成功
+~原文 Bella hoped to succeed in balancing schoolwork and part-time jobs without losing her energy or motivation.
+
+Q 14 | bank | 配合題
+stem: In this book on how to survive in the wild, there is a chapter on which fruit and vegetables one can eat and which ones are ______.
+= D
+~詞義 poisonous（adj.）有毒的
+~原文 In this book on how to survive in the wild, there is a chapter on which fruit and vegetables one can eat and which ones are poisonous.
+
+Q 15 | bank | 配合題
+stem: Please accept my deepest ______ on the loss of your father.
+= F
+~詞義 sympathy（n.）慰問
+~原文 Please accept my deepest sympathies on the loss of your father.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: acquaintance
+B: leaned
+C: counter
+D: respectful
+E: audible
+F: proceeded
+
+Q 16 | bank | 配合題
+stem: Ian is just a casual ______. We chat for a bit when we run into each other, but I don't really know him well.
+= A
+~詞義 acquaintance（n.）點頭之交
+~原文 Ian is just a casual acquaintance. We chat for a bit when we run into each other, but I don't really know him well.
+
+Q 17 | bank | 配合題
+stem: Lisa has good manners. For example, she is ______ to her elders and kind to her juniors.
+= D
+~詞義 respectful（adj.）尊敬的
+~原文 Lisa has good manners. For example, she is respectful to her elders and kind to her juniors.
+
+Q 18 | bank | 配合題
+stem: After I finished cleaning my bedroom, I ______ to paint its walls.
+= F
+~詞義 proceed（v.）繼續進行
+~原文 After I finished cleaning my bedroom, I proceeded to paint its walls.
+
+Q 19 | bank | 配合題
+stem: The store clerk ______ the ladder against the wall so she could reach the top shelf safely.
+= B
+~詞義 lean（v.）倚;靠(lean… against…)
+~原文 The store clerk leaned the ladder against the wall so she could reach the top shelf safely.
+
+Q 20 | bank | 配合題
+stem: After arriving at the airport, the passenger headed straight for the check-in ______.
+= C
+~詞義 counter（n.）櫃臺
+~原文 After arriving at the airport, the passenger headed straight for the check-in counter.

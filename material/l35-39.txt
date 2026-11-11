@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 39 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-39 | Unit 39 | Vocabulary practice · Unit 39 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The document g______ed that the diamond was real and of the highest quality.
+= guaranteed
+~詞義 guarantee（v.）保證
+~原文 The document guaranteed that the diamond was real and of the highest quality.
+
+Q 2 | fill | 文意字彙
+stem: This board game requires a m______m of four players, but if more people want to join, there can be as many as ten.
+= minimum
+~詞義 minimum（n.）最少量
+~原文 This board game requires a minimum of four players, but if more people want to join, there can be as many as ten.
+
+Q 3 | fill | 文意字彙
+stem: During the long hike, Alice's dog proved a loyal c______n, staying alert and close by her side on the narrow trails.
+= companion
+~詞義 companion（n.）同伴
+~原文 During the long hike, Alice's dog proved a loyal companion, staying alert and close by her side on the narrow trails.
+
+Q 4 | fill | 文意字彙
+stem: So far, scientists have not found a definite e______n for how the universe was created.
+= explanation
+~詞義 explanation（n.）解釋
+~原文 So far, scientists have not found a definite explanation for how the universe was created.
+
+Q 5 | fill | 文意字彙
+stem: Rabbits are easy to b______d because they can produce babies in a period of only thirty days.
+= breed
+~詞義 breed（v.）繁殖
+~原文 Rabbits are easy to breed because they can produce babies in a period of only thirty days.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The color red is often ______ with war, energy, and danger.
+A: criticized
+B: interfered
+C: motivated
+D: associated
+= D
+~詞義 associate（v.）聯想
+~原文 The color red is often associated with war, energy, and danger.
+
+Q 7 | choice | 選擇題
+stem: The tired family ______ themselves to taking a slower route home, accepting that the main road would remain blocked for hours.
+A: prompted
+B: resigned
+C: explained
+D: attached
+= B
+~詞義 resign（v.）無奈接受(resign oneself to V-ing)
+~原文 The tired family resigned themselves to taking a slower route home, accepting that the main road would remain blocked for hours.
+
+Q 8 | choice | 選擇題
+stem: The new electric car has the most ______ battery of all time.
+A: critical
+B: fluent
+C: durable
+D: grateful
+= C
+~詞義 durable（adj.）耐用的
+~原文 The new electric car has the most durable battery of all time.
+
+Q 9 | choice | 選擇題
+stem: After a month of silence, the United Nations finally decided to ______ in the country's civil war.
+A: maintain
+B: interfere
+C: retain
+D: dismiss
+= B
+~詞義 interfere（v.）干涉
+~原文 After a month of silence, the United Nations finally decided to interfere in the country's civil war.
+
+Q 10 | choice | 選擇題
+stem: In order to be successful, you need to have high ______. Otherwise, you will give up easily.
+A: motivation
+B: outcome
+C: retirement
+D: dynasty
+= A
+~詞義 motivation（n.）動機
+~原文 In order to be successful, you need to have high motivation. Otherwise, you will give up easily.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: fundamentals
+B: monitor
+C: moderate
+D: renewable
+E: assured
+F: prompted
+
+Q 11 | bank | 配合題
+stem: Even experienced musicians revisit the ______ to improve rhythm, accuracy, and overall performance quality.
+= A
+~詞義 fundamental（n.）基本法則
+~原文 Even experienced musicians revisit the fundamentals to improve rhythm, accuracy, and overall performance quality.
+
+Q 12 | bank | 配合題
+stem: Solar panels are becoming popular because they provide ______ power without producing harmful pollution.
+= D
+~詞義 renewable（adj.）可再生的
+~原文 Solar panels are becoming popular because they provide renewable power without producing harmful pollution.
+
+Q 13 | bank | 配合題
+stem: The guard is watching the ______ very closely so that no strangers can pass without being noticed.
+= B
+~詞義 monitor（n.）監視器
+~原文 The guard is watching the monitor very closely so that no strangers can pass without being noticed.
+
+Q 14 | bank | 配合題
+stem: Drinking ______ amounts of coffee—about two cups a day—is more likely to benefit your health than harm it.
+= C
+~詞義 moderate（adj.）適度的
+~原文 Drinking moderate amounts of coffee—about two cups a day—is more likely to benefit your health than harm it.
+
+Q 15 | bank | 配合題
+stem: Max's interest in historic buildings ______ him to read many history books.
+= F
+~詞義 prompt（v.）促使
+~原文 Max's interest in historic buildings prompted him to read many history books.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: conference
+B: ethnic
+C: dismissed
+D: harsh
+E: restore
+F: critics
+
+Q 16 | bank | 配合題
+stem: Before the people could ______ their quake-stricken village, a fierce typhoon hit it.
+= E
+~詞義 restore（v.）恢復
+~原文 Before the people could restore their quake-stricken village, a fierce typhoon hit it.
+
+Q 17 | bank | 配合題
+stem: Jeremy's mother is quite ______ with him. For example, she often scolds him if his performance doesn't meet her expectations.
+= D
+~詞義 harsh（adj.）嚴厲的
+~原文 Jeremy's mother is quite harsh with him. For example, she often scolds him if his performance doesn't meet her expectations.
+
+Q 18 | bank | 配合題
+stem: Since the movie came out, it has received many favorable reviews from both ______ and viewers.
+= F
+~詞義 critic（n.）評論家
+~原文 Since the movie came out, it has received many favorable reviews from both critics and viewers.
+
+Q 19 | bank | 配合題
+stem: Scholars of various nationalities are participating in this international ______.
+= A
+~詞義 conference（n.）會議
+~原文 Scholars of various nationalities are participating in this international conference.
+
+Q 20 | bank | 配合題
+stem: Since the professor had a meeting to attend, he ______ the class earlier this morning.
+= C
+~詞義 dismiss（v.）解散
+~原文 Since the professor had a meeting to attend, he dismissed the class earlier this morning.

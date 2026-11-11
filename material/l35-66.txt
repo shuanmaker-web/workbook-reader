@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 66 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-66 | Unit 66 | Vocabulary practice · Unit 66 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: It was a c______e that Rachael bumped into her childhood friend on the street the other day.
+= coincidence
+~詞義 coincidence（n.）巧合
+~原文 It was a coincidence that Rachael bumped into her childhood friend on the street the other day.
+
+Q 2 | fill | 文意字彙
+stem: Teresa doesn't have any s______gs, though she has always wanted to have a brother.
+= siblings
+~詞義 sibling（n.）兄弟姊妹
+~原文 Teresa doesn't have any siblings, though she has always wanted to have a brother.
+
+Q 3 | fill | 文意字彙
+stem: John presented many v______d arguments, which is why he won the debate.
+= valid
+~詞義 valid（adj.）令人信服的
+~原文 John presented many valid arguments, which is why he won the debate.
+
+Q 4 | fill | 文意字彙
+stem: The family d______ted on the upcoming trip for several days, considering the cost, schedule and weather before deciding.
+= deliberated
+~詞義 debate（v.）深思熟慮
+~原文 The family deliberated on the upcoming trip for several days, considering the cost, schedule and weather before deciding.
+
+Q 5 | fill | 文意字彙
+stem: The mayor made a pl______e to provide free lunches in elementary and junior high schools for the next four years.
+= pledge
+~詞義 pledge（n.）承諾
+~原文 The mayor made a pledge to provide free lunches in elementary and junior high schools for the next four years.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: To stop global warming, we have to reduce the ______ of greenhouse gasses, such as CO2.
+A: implication
+B: collector
+C: emission
+D: threshold
+= C
+~詞義 emission（n.）排放
+~原文 To stop global warming, we have to reduce the emission of greenhouse gasses, such as CO2.
+
+Q 7 | choice | 選擇題
+stem: The teacher offered us bonus points as a(n) ______ to put more effort into the class.
+A: agony
+B: democrat
+C: incentive
+D: variable
+= C
+~詞義 incentive（n.）獎勵
+~原文 The teacher offered us bonus points as a(n) incentive to put more effort into the class.
+
+Q 8 | choice | 選擇題
+stem: Tina took her key to the locksmith and had him ______ another one.
+A: blush
+B: forge
+C: poke
+D: shrug
+= B
+~詞義 forge（v.）鍛造
+~原文 Tina took her key to the locksmith and had him forge another one.
+
+Q 9 | choice | 選擇題
+stem: The small kingdom fought in ______ with a powerful neighboring country, hoping the partnership would bring peace and security.
+A: alliance
+B: denial
+C: illusion
+D: siege
+= A
+~詞義 alliance（n.）結盟
+~原文 The small kingdom fought in alliance with a powerful neighboring country, hoping the partnership would bring peace and security.
+
+Q 10 | choice | 選擇題
+stem: Jason just published his first book, and it was a ______ in his life.
+A: banner
+B: milestone
+C: porch
+D: shuttle
+= B
+~詞義 milestone（n.）里程碑
+~原文 Jason just published his first book, and it was a milestone in his life.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: alien
+B: thesis
+C: collective
+D: miniature
+E: exploited
+F: shivered
+
+Q 11 | bank | 配合題
+stem: Billy ______ in the cold wind. He hadn't worn a jacket today.
+= F
+~詞義 shiver（v.）顫抖
+~原文 Billy shivered in the cold wind. He hadn't worn a jacket today.
+
+Q 12 | bank | 配合題
+stem: We live in a small apartment which can't accommodate a large Christmas tree, so we got a(n) ______ one instead.
+= D
+~詞義 miniature（adj.）微型的
+~原文 We live in a small apartment which can't accommodate a large Christmas tree, so we got a(n) miniature one instead.
+
+Q 13 | bank | 配合題
+stem: The woman thinks that she is being ______ by her boss. She has to work long hours, but her pay is really low.
+= E
+~詞義 exploit（v.）剝削
+~原文 The woman thinks that she is being exploited by her boss. She has to work long hours, but her pay is really low.
+
+Q 14 | bank | 配合題
+stem: For Halloween, Danny dressed up as a(n) ______ from outer space.
+= A
+~詞義 alien（n.）外星人
+~原文 For Halloween, Danny dressed up as a(n) alien from outer space.
+
+Q 15 | bank | 配合題
+stem: Fiona has completed all her credits in college. Now, she only has to finish her ______, and then she can graduate.
+= B
+~詞義 thesis（n.）論文
+~原文 Fiona has completed all her credits in college. Now, she only has to finish her thesis, and then she can graduate.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: migration
+B: beware
+C: coherent
+D: collaboration
+E: upgraded
+F: shoved
+
+Q 16 | bank | 配合題
+stem: My laptop runs much faster now because I just ______ its operating system.
+= E
+~詞義 upgrade（v.）升級
+~原文 My laptop runs much faster now because I just upgraded its operating system.
+
+Q 17 | bank | 配合題
+stem: Mr. Lee is a highly persuasive speaker. He always makes his points ______ and convincing.
+= C
+~詞義 coherent（adj.）有條理的
+~原文 Mr. Lee is a highly persuasive speaker. He always makes his points coherent and convincing.
+
+Q 18 | bank | 配合題
+stem: You should ______ of leaving your personal information on unknown websites because you may become a target of scammers.
+= B
+~詞義 beware（v.）注意
+~原文 You should beware of leaving your personal information on unknown websites because you may become a target of scammers.
+
+Q 19 | bank | 配合題
+stem: As soon as the bell rang, Dick quickly ______ his books into his backpack and left school right away.
+= F
+~詞義 shove（v.）亂塞
+~原文 As soon as the bell rang, Dick quickly shoved his books into his backpack and left school right away.
+
+Q 20 | bank | 配合題
+stem: These birds can be seen here only from April to June. This is one of the stops on their ______ route.
+= A
+~詞義 migration（n.）遷徙
+~原文 These birds can be seen here only from April to June. This is one of the stops on their migration route.

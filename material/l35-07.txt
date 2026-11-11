@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 7 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-07 | Unit 7 | Vocabulary practice · Unit 7 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: According to an official from the Ministry of A______e, the price of vegetables increased by 15% after the typhoon.
+= agriculture
+~詞義 agriculture（n.）農業
+~原文 According to an official from the Ministry of agriculture, the price of vegetables increased by 15% after the typhoon.
+
+Q 2 | fill | 文意字彙
+stem: The government offers free health check-ups for every s______r citizen over the age of sixty-five.
+= senior
+~詞義 senior（adj.）長者(senior citizen)
+~原文 The government offers free health check-ups for every senior citizen over the age of sixty-five.
+
+Q 3 | fill | 文意字彙
+stem: The speaker's e______e face and passionate tone helped to maintain the audience's attention.
+= expressive
+~詞義 expressive（adj.）富表達力的
+~原文 The speaker's expressive face and passionate tone helped to maintain the audience's attention.
+
+Q 4 | fill | 文意字彙
+stem: Because of her excellent performance in all of her classes, Jane won a ______ (scholar) to Harvard University.
+= scholarship
+~詞義 scholarship（n.）獎學金
+~原文 Because of her excellent performance in all of her classes, Jane won a scholarship to Harvard University.
+
+Q 5 | fill | 文意字彙
+stem: The sudden rain was so ______ (expectation) that everyone at the park had to run for shelter.
+= unexpected
+~詞義 unexpected（adj.）出乎意料的
+~原文 The sudden rain was so unexpected that everyone at the park had to run for shelter.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: In the middle of the night, Cindy was ______ by a loud noise. She then sat up and looked out of the window to see what was happening.
+A: conveyed
+B: educated
+C: surveyed
+D: awakened
+= D
+~詞義 awaken（v.）喚醒;叫醒
+~原文 In the middle of the night, Cindy was awakened by a loud noise. She then sat up and looked out of the window to see what was happening.
+
+Q 7 | choice | 選擇題
+stem: Once Roger knew that he had passed the exam, he ______ a sigh of relief.
+A: dared
+B: labeled
+C: breathed
+D: hired
+= C
+~詞義 breathe（v.）呼吸
+~原文 Once Roger knew that he had passed the exam, he breathed a sigh of relief.
+
+Q 8 | choice | 選擇題
+stem: The teacher asked students to rate their stress level on a ______ of one to five.
+A: scale
+B: captain
+C: gap
+D: definition
+= A
+~詞義 scale（n.）等級
+~原文 The teacher asked students to rate their stress level on a scale of one to five.
+
+Q 9 | choice | 選擇題
+stem: Playing too many violent video games may influence a child's ______ development.
+A: mental
+B: costly
+C: elderly
+D: historic
+= A
+~詞義 mental（adj.）心理的
+~原文 Playing too many violent video games may influence a child's mental development.
+
+Q 10 | choice | 選擇題
+stem: 2020 was a ______ year for everyone, but many people helped one another to overcome their difficulties.
+A: physical
+B: capable
+C: tough
+D: rough
+= C
+~詞義 tough（adj.）艱難的
+~原文 2020 was a tough year for everyone, but many people helped one another to overcome their difficulties.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: editing
+B: scholar
+C: campus
+D: hiring
+E: salary
+F: pat
+
+Q 11 | bank | 配合題
+stem: Karen is ______ a book, deciding what will be removed and what will be kept in before it goes to print.
+= A
+~詞義 edit（v.）編輯
+~原文 Karen is editing a book, deciding what will be removed and what will be kept in before it goes to print.
+
+Q 12 | bank | 配合題
+stem: To meet the increasing demand of consumers, the factory is ______ more workers so that it can manufacture products more quickly.
+= D
+~詞義 hire（v.）僱用
+~原文 To meet the increasing demand of consumers, the factory is hiring more workers so that it can manufacture products more quickly.
+
+Q 13 | bank | 配合題
+stem: The company determines each worker's ______ based on work experience and educational background.
+= E
+~詞義 salary（n.）薪水
+~原文 The company determines each worker's salary based on work experience and educational background.
+
+Q 14 | bank | 配合題
+stem: A medical ______ pointed out that drinking coffee every day was beneficial for the human body.
+= B
+~詞義 scholar（n.）學者
+~原文 A medical scholar pointed out that drinking coffee every day was beneficial for the human body.
+
+Q 15 | bank | 配合題
+stem: The university has the largest ______ in the country, covering about 40,000,000 square meters.
+= C
+~詞義 campus（n.）校園
+~原文 The university has the largest campus in the country, covering about 40,000,000 square meters.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: capable
+B: assume
+C: survey
+D: airline
+E: paradise
+F: junior
+
+Q 16 | bank | 配合題
+stem: The island is a(n) ______ for bird lovers. It has hundreds of species of birds.
+= E
+~詞義 paradise（n.）天堂
+~原文 The island is a(n) paradise for bird lovers. It has hundreds of species of birds.
+
+Q 17 | bank | 配合題
+stem: According to a recent ______, almost four fifths of college students in the country have to take on part-time jobs to get by.
+= C
+~詞義 survey（n.）調查
+~原文 According to a recent survey, almost four fifths of college students in the country have to take on part-time jobs to get by.
+
+Q 18 | bank | 配合題
+stem: People often ______ Fanny to be unfriendly, but she's actually quite warm once you get to know her.
+= B
+~詞義 assume（v.）認為
+~原文 People often assume Fanny to be unfriendly, but she's actually quite warm once you get to know her.
+
+Q 19 | bank | 配合題
+stem: A(n) ______ is a student in the third year of a course that lasts for four years at a college or university.
+= F
+~詞義 junior（n.）(大學)三年級生
+~原文 A(n) junior is a student in the third year of a course that lasts for four years at a college or university.
+
+Q 20 | bank | 配合題
+stem: The chef is ______ of identifying at least five hundred flavors.
+= A
+~詞義 capable（adj.）有能力的
+~原文 The chef is capable of identifying at least five hundred flavors.

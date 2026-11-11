@@ -16,7 +16,13 @@
 12. 翻譯 section 沒有 `@pages`(新書沒有 assets/page-*.jpg),原書頁面核對功能對這兩個 section 不適用。
 13. 尚未收:翻譯(三)–(八)、翻譯複習(一)(二),以及寫作(一)–(八)。
 
-## 三本書架構(2026-11-11)
-14. 首頁改為三本書入口:**大滿貫**(目前所有內容,含 Unit 1–3 與翻譯一、二)、**克漏字開外掛**、**戰勝學測 Level 3–5**。後兩本尚無內容,App 顯示「內容準備中」。書本設定在 `tools/build_data.py` 的 `BOOKS` / `UNITS`(每個 unit 有 `book` 欄位)。
+## 書本架構(2026-11-11)
+14. 首頁為四本書入口:**大滿貫**(目前 Unit 1–3 與翻譯一、二)、**克漏字開外掛**、**戰勝學測**、**Level 3–5**。克漏字開外掛、戰勝學測尚無內容,App 顯示「內容準備中」。書本設定在 `tools/build_data.py` 的 `BOOKS` / `UNITS`(每個 unit 有 `book` 欄位)。
 15. 翻譯(一)(二)原本來自另一本「翻譯／寫作」書,目前暫放在「大滿貫」底下,請確認要不要移到別本。
-16. 書名英文副標(Grand Slam、Cloze Power-Up、Beat the GSAT)為暫訂,可在 `BOOKS` 修改。
+16. 書名英文副標(Grand Slam、Cloze Power-Up、Beat the GSAT、Vocabulary Level 3–5)為暫訂,可在 `BOOKS` 修改。
+
+## Level 3–5(2026-11-11,來自 Vocaboo)
+17. 題目與答案由 `tools/import_vocaboo.py` 從 Vocaboo repo(shuanmaker-web/vocab-app 的 `data/questions.json`)匯入,產生 `material/l35-01.txt`–`l35-75.txt`:Unit 1–75,每單元 20 題(文意字彙 1–5、選擇題 6–10、配合題 11–20),共 1,500 題。Vocaboo 更新後重跑 importer 與 build 即可;不要手改 l35-*.txt。
+18. 答案與中文詞義在 Vocaboo 已與教材官方解答逐題核對,所以沒有「推導」標記。解析只有「詞義」(原形、詞性、中文)與「原文」(填入答案的完整句子),書上若有更詳細的解析尚未收錄。
+19. 題目文字是照片轉錄。Vocaboo 的 CHECKLIST 標記 U19、29、33、35、44、45、55–58 可能有轉錄誤差,這些單元的導讀已註明請抽查。
+20. dictionary.js 已用 ECDICT 重新產生(原有字義完全不變),新增 Level 3–5 題目用到的字;臺東、the Wangs 等專有名詞放在 CONTEXT。

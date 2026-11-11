@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 58 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-58 | Unit 58 | Vocabulary practice · Unit 58 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。本單元請抽查：照片邊緣或反光處，個別字詞可能有誤。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Tim a______ed that he had made a huge mistake by lying to his parents about his grades.
+= acknowledged
+~詞義 acknowledge（v.）承認
+~原文 Tim acknowledged that he had made a huge mistake by lying to his parents about his grades.
+
+Q 2 | fill | 文意字彙
+stem: The statue of Cupid looks like a c______y baby boy with a pair of wings.
+= chubby
+~詞義 chubby（adj.）圓胖的
+~原文 The statue of Cupid looks like a chubby baby boy with a pair of wings.
+
+Q 3 | fill | 文意字彙
+stem: After Alex was injured in the accident, he lost all s______ns in his limbs and thus couldn't feel a bite on his arm.
+= sensations
+~詞義 sensation（n.）知覺
+~原文 After Alex was injured in the accident, he lost all sensations in his limbs and thus couldn't feel a bite on his arm.
+
+Q 4 | fill | 文意字彙
+stem: The famous director's latest film is widely considered to be a m______e. It has won the praise of both critics and the public.
+= masterpiece
+~詞義 masterpiece（n.）傑作
+~原文 The famous director's latest film is widely considered to be a masterpiece. It has won the praise of both critics and the public.
+
+Q 5 | fill | 文意字彙
+stem: Our school's football team worked very hard to q______y for the district finals. We're all very proud that they made it.
+= qualify
+~詞義 qualify（v.）具有資格
+~原文 Our school's football team worked very hard to qualify for the district finals. We're all very proud that they made it.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The new software program is ______ with the old laptops, so the school has to upgrade its equipment.
+A: biological
+B: incompatible
+C: parallel
+D: sacred
+= B
+~詞義 incompatible（adj.）不相容的
+~原文 The new software program is incompatible with the old laptops, so the school has to upgrade its equipment.
+
+Q 7 | choice | 選擇題
+stem: Linda finds herself in a ______: She can't decide whether to go to her friend's birthday party or the concert.
+A: circuit
+B: dilemma
+C: patrol
+D: variation
+= B
+~詞義 dilemma（n.）進退兩難
+~原文 Linda finds herself in a dilemma: She can't decide whether to go to her friend's birthday party or the concert.
+
+Q 8 | choice | 選擇題
+stem: The athlete ______ a minor injury during practice but recovered quickly after resting for a few days.
+A: diminished
+B: sustained
+C: evolved
+D: tackled
+= B
+~詞義 sustain（v.）蒙受(損害等)
+~原文 The athlete sustained a minor injury during practice but recovered quickly after resting for a few days.
+
+Q 9 | choice | 選擇題
+stem: Ted is ______ about tennis. Whenever he has free time, he watches live tennis games or reads reviews of his favorite players.
+A: descriptive
+B: legitimate
+C: passionate
+D: sustainable
+= C
+~詞義 passionate（adj.）熱情的
+~原文 Ted is passionate about tennis. Whenever he has free time, he watches live tennis games or reads reviews of his favorite players.
+
+Q 10 | choice | 選擇題
+stem: The mining crew stepped away as the rock wall was ______ open, and a narrow tunnel hidden behind it was revealed.
+A: attributed
+B: adored
+C: blasted
+D: terrified
+= C
+~詞義 blast（v.）炸開
+~原文 The mining crew stepped away as the rock wall was blasted open, and a narrow tunnel hidden behind it was revealed.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: partly
+B: blur
+C: comedian
+D: obscure
+E: saint
+F: flexibility
+
+Q 11 | bank | 配合題
+stem: What Penny told you is only ______ true. She did not tell you the entire story.
+= A
+~詞義 partly（adv.）部分地
+~原文 What Penny told you is only partly true. She did not tell you the entire story.
+
+Q 12 | bank | 配合題
+stem: The famous actor started as a standup ______. He was so funny that a director asked him to be in a film that turned out to be a huge success.
+= C
+~詞義 comedian（n.）喜劇演員
+~原文 The famous actor started as a standup comedian. He was so funny that a director asked him to be in a film that turned out to be a huge success.
+
+Q 13 | bank | 配合題
+stem: I like to find nice little shops and restaurants in ______ corners of the city. That way, I can enjoy them all by myself.
+= D
+~詞義 obscure（adj.）無名的
+~原文 I like to find nice little shops and restaurants in obscure corners of the city. That way, I can enjoy them all by myself.
+
+Q 14 | bank | 配合題
+stem: Mike doesn't like to completely fill up his schedule; instead, he likes to maintain some ______.
+= F
+~詞義 flexibility（n.）彈性
+~原文 Mike doesn't like to completely fill up his schedule; instead, he likes to maintain some flexibility.
+
+Q 15 | bank | 配合題
+stem: The child kept moving while we were taking the photo, so he was just a(n) ______ in the picture.
+= B
+~詞義 blur（n.）模糊形狀
+~原文 The child kept moving while we were taking the photo, so he was just a(n) blur in the picture.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: salon
+B: immune
+C: commodity
+D: destructive
+E: ragged
+F: radical
+
+Q 16 | bank | 配合題
+stem: The computer chip is an important ______ in the international market. It is an essential part of many products.
+= C
+~詞義 commodity（n.）商品
+~原文 The computer chip is an important commodity in the international market. It is an essential part of many products.
+
+Q 17 | bank | 配合題
+stem: Nuclear energy can provide power for people's everyday lives, but it can also be used in ______ weapons.
+= D
+~詞義 destructive（adj.）破壞性的
+~原文 Nuclear energy can provide power for people's everyday lives, but it can also be used in destructive weapons.
+
+Q 18 | bank | 配合題
+stem: It is not easy to discuss politics with people who hold ______ views. They seldom accept others' opinions rationally.
+= F
+~詞義 radical（adj.）激進的
+~原文 It is not easy to discuss politics with people who hold radical views. They seldom accept others' opinions rationally.
+
+Q 19 | bank | 配合題
+stem: Doctors recommend certain vaccines to strengthen the ______ system against dangerous diseases.
+= B
+~詞義 immune（adj.）免疫的
+~原文 Doctors recommend certain vaccines to strengthen the immune system against dangerous diseases.
+
+Q 20 | bank | 配合題
+stem: David has been wearing that shirt for more than ten years; it is now in a(n) ______ condition.
+= E
+~詞義 ragged（adj.）破爛的
+~原文 David has been wearing that shirt for more than ten years; it is now in a(n) ragged condition.

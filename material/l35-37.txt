@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 37 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-37 | Unit 37 | Vocabulary practice · Unit 37 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Susan decided to study b______y at university because she has always loved nature and animals.
+= biology
+~詞義 biology（n.）生物學
+~原文 Susan decided to study biology at university because she has always loved nature and animals.
+
+Q 2 | fill | 文意字彙
+stem: The prince e______red a beautiful girl in the forest and fell in love with her immediately.
+= encountered
+~詞義 encounter（v.）碰見
+~原文 The prince encountered a beautiful girl in the forest and fell in love with her immediately.
+
+Q 3 | fill | 文意字彙
+stem: Without her car, Sarah was at the m______y of bus or train schedules, which often made her late for appointments.
+= mercy
+~詞義 mercy（n.）任由…擺布(be at the mercy of)
+~原文 Without her car, Sarah was at the mercy of bus or train schedules, which often made her late for appointments.
+
+Q 4 | fill | 文意字彙
+stem: The poor woman has suffered from d______n for many years. She always feels unhappy and anxious, which prevents her from living a normal life.
+= depression
+~詞義 depression（n.）憂鬱症
+~原文 The poor woman has suffered from depression for many years. She always feels unhappy and anxious, which prevents her from living a normal life.
+
+Q 5 | fill | 文意字彙
+stem: The international company plans to establish its headquarters in Singapore because it is considered one of Asia's most important f______l centers.
+= financial
+~詞義 financial（adj.）財務的;金融的
+~原文 The international company plans to establish its headquarters in Singapore because it is considered one of Asia's most important financial centers.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: To pay off her debts, Julia sold everything of value that she ______.
+A: neglected
+B: appointed
+C: constructed
+D: possessed
+= D
+~詞義 possess（v.）擁有
+~原文 To pay off her debts, Julia sold everything of value that she possessed.
+
+Q 7 | choice | 選擇題
+stem: The ______ is a non-profit organization that collects and distributes clothing to the poor.
+A: foundation
+B: insurance
+C: possession
+D: application
+= A
+~詞義 foundation（n.）基金會
+~原文 The foundation is a non-profit organization that collects and distributes clothing to the poor.
+
+Q 8 | choice | 選擇題
+stem: It is safer to store hot and oily food in glass ______ than in plastic ones.
+A: tragedies
+B: fictions
+C: containers
+D: possessions
+= C
+~詞義 container（n.）容器
+~原文 It is safer to store hot and oily food in glass containers than in plastic ones.
+
+Q 9 | choice | 選擇題
+stem: The host's joke was ______ for a formal awards ceremony, causing several guests to exchange uncomfortable glances.
+A: diligent
+B: constructive
+C: inappropriate
+D: numerous
+= C
+~詞義 inappropriate（adj.）不適當的
+~原文 The host's joke was inappropriate for a formal awards ceremony, causing several guests to exchange uncomfortable glances.
+
+Q 10 | choice | 選擇題
+stem: The girl kept ______ at the mosquito bites on her legs.
+A: consulting
+B: scratching
+C: forecasting
+D: enclosing
+= B
+~詞義 scratch（v.）抓
+~原文 The girl kept scratching at the mosquito bites on her legs.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: construction
+B: comedy
+C: diversity
+D: appointment
+E: scenery
+F: anniversary
+
+Q 11 | bank | 配合題
+stem: A new bridge that will connect two major cities on either side of the river is currently under ______.
+= A
+~詞義 construction（n.）建造
+~原文 A new bridge that will connect two major cities on either side of the river is currently under construction.
+
+Q 12 | bank | 配合題
+stem: For their wedding ______, the Wangs plan to have dinner at a fancy restaurant.
+= F
+~詞義 anniversary（n.）週年紀念日
+~原文 For their wedding anniversary, the Wangs plan to have dinner at a fancy restaurant.
+
+Q 13 | bank | 配合題
+stem: Patients must make a(n) ______ in advance to see the doctor because he has a tight schedule.
+= D
+~詞義 appointment（n.）預約
+~原文 Patients must make a(n) appointment in advance to see the doctor because he has a tight schedule.
+
+Q 14 | bank | 配合題
+stem: Fred enjoys ______ because it helps him relax after long study sessions and reminds him not to take things too seriously.
+= B
+~詞義 comedy（n.）喜劇
+~原文 Fred enjoys comedy because it helps him relax after long study sessions and reminds him not to take things too seriously.
+
+Q 15 | bank | 配合題
+stem: Though the island is not very developed, it has beautiful natural ______.
+= E
+~詞義 scenery（n.）風景
+~原文 Though the island is not very developed, it has beautiful natural scenery.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: shelter
+B: desperation
+C: possession
+D: founder
+E: reformed
+F: overlooked
+
+Q 16 | bank | 配合題
+stem: The outcome of Randy's experiment was not satisfactory because he ______ an important detail.
+= F
+~詞義 overlook（v.）忽略
+~原文 The outcome of Randy's experiment was not satisfactory because he overlooked an important detail.
+
+Q 17 | bank | 配合題
+stem: The rain came suddenly and we had no umbrellas, so we had to seek ______ from the rain.
+= A
+~詞義 shelter（n.）遮蔽處
+~原文 The rain came suddenly and we had no umbrellas, so we had to seek shelter from the rain.
+
+Q 18 | bank | 配合題
+stem: In his ______ to finish the project, George skipped meals and stayed awake far longer than was healthy.
+= B
+~詞義 desperation（n.）不顧一切地冒險;破釜沉舟
+~原文 In his desperation to finish the project, George skipped meals and stayed awake far longer than was healthy.
+
+Q 19 | bank | 配合題
+stem: As the ______ of the company, Ken has led his employees through all kinds of difficulties.
+= D
+~詞義 founder（n.）創辦者
+~原文 As the founder of the company, Ken has led his employees through all kinds of difficulties.
+
+Q 20 | bank | 配合題
+stem: That painting came into Sara's ______ last week when she bought it at a gallery.
+= C
+~詞義 possession（n.）擁有
+~原文 That painting came into Sara's possession last week when she bought it at a gallery.

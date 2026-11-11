@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 22 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-22 | Unit 22 | Vocabulary practice · Unit 22 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Thick grey smoke comes out of the factory c______y all the time, and the residents in the area often complain about it.
+= chimney
+~詞義 chimney（n.）煙囪
+~原文 Thick grey smoke comes out of the factory chimney all the time, and the residents in the area often complain about it.
+
+Q 2 | fill | 文意字彙
+stem: The bathtub is very full, so please turn off the f______t.
+= faucet
+~詞義 faucet（n.）水龍頭
+~原文 The bathtub is very full, so please turn off the faucet.
+
+Q 3 | fill | 文意字彙
+stem: The brave knight raised his s______d high and brought it down on the beast's neck.
+= sword
+~詞義 sword（n.）劍
+~原文 The brave knight raised his sword high and brought it down on the beast's neck.
+
+Q 4 | fill | 文意字彙
+stem: This morning, Amy went to the bank and withdrew some money from her a______t.
+= account
+~詞義 account（n.）帳戶
+~原文 This morning, Amy went to the bank and withdrew some money from her account.
+
+Q 5 | fill | 文意字彙
+stem: The ground is very s______y because it just rained. Be careful where you step, or you may fall.
+= slippery
+~詞義 slippery（adj.）滑的
+~原文 The ground is very slippery because it just rained. Be careful where you step, or you may fall.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Andy's ankle had ______ so badly after the fall that the school nurse insisted he visit a doctor immediately.
+A: frozen
+B: swollen
+C: glowed
+D: proven
+= B
+~詞義 swollen（adj.）腫大
+~原文 Andy's ankle had swollen so badly after the fall that the school nurse insisted he visit a doctor immediately.
+
+Q 7 | choice | 選擇題
+stem: Vivian has become a ______ to her phone because she checks messages constantly instead of focusing on real conversations.
+A: skate
+B: pearl
+C: slave
+D: chip
+= C
+~詞義 slave（n.）奴隸
+~原文 Vivian has become a slave to her phone because she checks messages constantly instead of focusing on real conversations.
+
+Q 8 | choice | 選擇題
+stem: There is a lot of ______ going around about Jessica and her boyfriend, but none of it is true.
+A: evidence
+B: gossip
+C: headline
+D: voter
+= B
+~詞義 gossip（n.）流言蜚語
+~原文 There is a lot of gossip going around about Jessica and her boyfriend, but none of it is true.
+
+Q 9 | choice | 選擇題
+stem: There is a sale on right now—you can get a ______ if you buy more than three pieces of clothing at once.
+A: razor
+B: snapshot
+C: punch
+D: discount
+= D
+~詞義 discount（n.）折扣
+~原文 There is a sale on right now—you can get a discount if you buy more than three pieces of clothing at once.
+
+Q 10 | choice | 選擇題
+stem: It is the best feeling in the world to have chocolate ______ in your mouth.
+A: melt
+B: swear
+C: skip
+D: vote
+= A
+~詞義 melt（v.）融化
+~原文 It is the best feeling in the world to have chocolate melt in your mouth.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: summit
+B: proof
+C: swiftly
+D: snapping
+E: sweat
+F: slipping
+
+Q 11 | bank | 配合題
+stem: Jenny apologized after ______ at her friend, admitting she was worried about deadlines and hadn't slept well.
+= D
+~詞義 snap（v.）大聲說話;發怒
+~原文 Jenny apologized after snapping at her friend, admitting she was worried about deadlines and hadn't slept well.
+
+Q 12 | bank | 配合題
+stem: The baseball game has lasted for more than three hours, and the players are all covered in ______ and dirt.
+= E
+~詞義 sweat（n.）汗水
+~原文 The baseball game has lasted for more than three hours, and the players are all covered in sweat and dirt.
+
+Q 13 | bank | 配合題
+stem: After hours of hiking, we finally got to the ______ of the mountain.
+= A
+~詞義 summit（n.）峰頂
+~原文 After hours of hiking, we finally got to the summit of the mountain.
+
+Q 14 | bank | 配合題
+stem: This company's latest motorcycle can move around very ______ and silently.
+= C
+~詞義 swiftly（adv.）迅速地
+~原文 This company's latest motorcycle can move around very swiftly and silently.
+
+Q 15 | bank | 配合題
+stem: Since there wasn't any ______ that the man had stolen the money, the police had no choice but to let him go.
+= B
+~詞義 proof（n.）證據
+~原文 Since there wasn't any proof that the man had stolen the money, the police had no choice but to let him go.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: pub
+B: scrubbed
+C: rug
+D: sealed
+E: heap
+F: penny
+
+Q 16 | bank | 配合題
+stem: Mandy's room is always very messy. She piles her clothes into a ______ on the floor instead of folding them properly and putting them away.
+= E
+~詞義 heap（n.）一堆
+~原文 Mandy's room is always very messy. She piles her clothes into a heap on the floor instead of folding them properly and putting them away.
+
+Q 17 | bank | 配合題
+stem: The character in the novel started his journey with nothing, not even a ______ to his name.
+= F
+~詞義 penny（n.）一貧如洗(not have a penny to one's name)
+~原文 The character in the novel started his journey with nothing, not even a penny to his name.
+
+Q 18 | bank | 配合題
+stem: Your boots are covered with mud; they need to be ______ clean.
+= B
+~詞義 scrub（v.）刷洗
+~原文 Your boots are covered with mud; they need to be scrubbed clean.
+
+Q 19 | bank | 配合題
+stem: Frank put a stamp on the envelope and ______ it.
+= D
+~詞義 seal（v.）密封
+~原文 Frank put a stamp on the envelope and sealed it.
+
+Q 20 | bank | 配合題
+stem: The dog was sleeping on the thick, woolen ______ on the floor in front of the fire.
+= C
+~詞義 rug（n.）小地毯
+~原文 The dog was sleeping on the thick, woolen rug on the floor in front of the fire.

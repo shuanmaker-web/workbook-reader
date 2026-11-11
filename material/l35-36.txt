@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 36 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-36 | Unit 36 | Vocabulary practice · Unit 36 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: My grandmother shared her secret apple pie r______e with me. She suggested following the step-by-step guide exactly.
+= recipe
+~詞義 recipe（n.）食譜
+~原文 My grandmother shared her secret apple pie recipe with me. She suggested following the step-by-step guide exactly.
+
+Q 2 | fill | 文意字彙
+stem: The movie's plot was so c______d that Lucy couldn't understand it.
+= complicated
+~詞義 complicated（adj.）複雜的
+~原文 The movie's plot was so complicated that Lucy couldn't understand it.
+
+Q 3 | fill | 文意字彙
+stem: When the priest asked if there was any o______n, no one raised a hand, so the couple went on to get married.
+= objection
+~詞義 objection（n.）異議
+~原文 When the priest asked if there was any objection, no one raised a hand, so the couple went on to get married.
+
+Q 4 | fill | 文意字彙
+stem: Hikers remained on the a______t for sudden weather changes, knowing a fast-moving storm could trap them on the mountain trail.
+= alert
+~詞義 alert（n.）對…提防(on the alert for…)
+~原文 Hikers remained on the alert for sudden weather changes, knowing a fast-moving storm could trap them on the mountain trail.
+
+Q 5 | fill | 文意字彙
+stem: Due to the typhoon, there was a delay in the d______e of the flight; the flight would take off a few hours later.
+= departure
+~詞義 departure（n.）出發
+~原文 Due to the typhoon, there was a delay in the departure of the flight; the flight would take off a few hours later.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Jason is a(n) ______ latecomer, so he often misses the first lesson of the morning.
+A: aggressive
+B: habitual
+C: favorable
+D: delicate
+= B
+~詞義 habitual（adj.）習慣性的
+~原文 Jason is a(n) habitual latecomer, so he often misses the first lesson of the morning.
+
+Q 7 | choice | 選擇題
+stem: After many hours of being questioned, the suspect finally confessed to ______ the crime.
+A: analyzing
+B: invading
+C: committing
+D: departing
+= C
+~詞義 commit（v.）犯(罪)
+~原文 After many hours of being questioned, the suspect finally confessed to committing the crime.
+
+Q 8 | choice | 選擇題
+stem: Many people can't ______ fact from opinion when reading posts on social media.
+A: immigrate
+B: distinguish
+C: concentrate
+D: sacrifice
+= B
+~詞義 distinguish（v.）分辨
+~原文 Many people can't distinguish fact from opinion when reading posts on social media.
+
+Q 9 | choice | 選擇題
+stem: William is a successful tennis player, but he has ______ most of his free time in order to achieve this success.
+A: alerted
+B: sacrificed
+C: emerged
+D: fetched
+= B
+~詞義 sacrifice（v.）犧牲
+~原文 William is a successful tennis player, but he has sacrificed most of his free time in order to achieve this success.
+
+Q 10 | choice | 選擇題
+stem: The characters in this animated film look so ______ that many viewers almost believe they are real actors.
+A: manual
+B: favorable
+C: amusing
+D: realistic
+= D
+~詞義 realistic（adj.）逼真的
+~原文 The characters in this animated film look so realistic that many viewers almost believe they are real actors.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: implies
+B: concepts
+C: install
+D: disability
+E: immigrants
+F: fame
+
+Q 11 | bank | 配合題
+stem: The plumber will come to ______ the new dishwasher in the kitchen tomorrow.
+= C
+~詞義 install（v.）安裝
+~原文 The plumber will come to install the new dishwasher in the kitchen tomorrow.
+
+Q 12 | bank | 配合題
+stem: Britney first rose to ______ as a singer when she was seventeen years old.
+= F
+~詞義 fame（n.）名氣
+~原文 Britney first rose to fame as a singer when she was seventeen years old.
+
+Q 13 | bank | 配合題
+stem: As the new study ______, humans are almost totally responsible for global warming.
+= A
+~詞義 imply（v.）暗示;意味著
+~原文 As the new study implies, humans are almost totally responsible for global warming.
+
+Q 14 | bank | 配合題
+stem: In mathematics, it is more important to understand ______ than to memorize formulae.
+= B
+~詞義 concept（n.）概念
+~原文 In mathematics, it is more important to understand concepts than to memorize formulae.
+
+Q 15 | bank | 配合題
+stem: Fanny refused to let her ______ stop her from pursuing her dream.
+= D
+~詞義 disability（n.）殘疾
+~原文 Fanny refused to let her disability stop her from pursuing her dream.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: peers
+B: protested
+C: recall
+D: satellites
+E: seize
+F: gender
+
+Q 16 | bank | 配合題
+stem: After Andy's parents told him that he was grounded, he ______ the decision by refusing to talk to them.
+= B
+~詞義 protest（v.）抗議
+~原文 After Andy's parents told him that he was grounded, he protested the decision by refusing to talk to them.
+
+Q 17 | bank | 配合題
+stem: Many teenagers feel pressure to fit in with their ______, especially when facing new academic or social challenges in school.
+= A
+~詞義 peer（n.）同僚
+~原文 Many teenagers feel pressure to fit in with their peers, especially when facing new academic or social challenges in school.
+
+Q 18 | bank | 配合題
+stem: Judy wanted to write a postcard to Sam, but she couldn't ______ his address, so she wrote him an email instead.
+= C
+~詞義 recall（v.）憶起
+~原文 Judy wanted to write a postcard to Sam, but she couldn't recall his address, so she wrote him an email instead.
+
+Q 19 | bank | 配合題
+stem: Mr. and Mrs. White value ______ equality, so they try to treat their son and daughter in exactly the same way.
+= F
+~詞義 gender（n.）性別
+~原文 Mr. and Mrs. White value gender equality, so they try to treat their son and daughter in exactly the same way.
+
+Q 20 | bank | 配合題
+stem: After recovering from illness, Ted decided to ______ the day and make the most of every chance to grow and learn.
+= E
+~詞義 seize（v.）把握當下(seize the day)
+~原文 After recovering from illness, Ted decided to seize the day and make the most of every chance to grow and learn.

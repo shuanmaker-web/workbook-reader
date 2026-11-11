@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 17 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-17 | Unit 17 | Vocabulary practice · Unit 17 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: This p______e is the most famous tourist attraction in this city. It is a beautiful building surrounded by a big garden.
+= palace
+~詞義 palace（n.）宮殿
+~原文 This palace is the most famous tourist attraction in this city. It is a beautiful building surrounded by a big garden.
+
+Q 2 | fill | 文意字彙
+stem: Tony tried to stay serious during the speech but burst into l______r when his friend made a funny face.
+= laughter
+~詞義 laughter（n.）笑(聲)
+~原文 Tony tried to stay serious during the speech but burst into laughter when his friend made a funny face.
+
+Q 3 | fill | 文意字彙
+stem: Greta p______ked when she realized her passport was missing just minutes before boarding the plane.
+= panicked
+~詞義 panic（v.）驚慌失措
+~原文 Greta panicked when she realized her passport was missing just minutes before boarding the plane.
+
+Q 4 | fill | 文意字彙
+stem: You should help others for the s______e of being helpful, not just to make yourself look good.
+= sake
+~詞義 sake（n.）緣故
+~原文 You should help others for the sake of being helpful, not just to make yourself look good.
+
+Q 5 | fill | 文意字彙
+stem: The plane that carried the passengers across the Pacific was a wide-bodied j______t.
+= jet
+~詞義 jet（n.）噴射機
+~原文 The plane that carried the passengers across the Pacific was a wide-bodied jet.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: What you just did was a genuinely kind ______. I am very proud of you.
+A: deed
+B: kidney
+C: jelly
+D: scout
+= A
+~詞義 deed（n.）行為
+~原文 What you just did was a genuinely kind deed. I am very proud of you.
+
+Q 7 | choice | 選擇題
+stem: One benefit of Jacob's weight loss is that he feels more ______ and healthy.
+A: inferior
+B: frightening
+C: energetic
+D: terrifying
+= C
+~詞義 energetic（adj.）充滿活力的
+~原文 One benefit of Jacob's weight loss is that he feels more energetic and healthy.
+
+Q 8 | choice | 選擇題
+stem: Jessica often hangs out with her friends at the ______. They like to go shopping and have afternoon tea together.
+A: disc
+B: screw
+C: fairy
+D: mall
+= D
+~詞義 mall（n.）購物中心
+~原文 Jessica often hangs out with her friends at the mall. They like to go shopping and have afternoon tea together.
+
+Q 9 | choice | 選擇題
+stem: Great inventions like electricity and the Internet have completely changed the way ______ lives and communicates.
+A: conduct
+B: handful
+C: necktie
+D: mankind
+= D
+~詞義 mankind（n.）人類
+~原文 Great inventions like electricity and the Internet have completely changed the way mankind lives and communicates.
+
+Q 10 | choice | 選擇題
+stem: This ______ features a good public school, a bookstore, and a beautiful park. Therefore, many people want to live here.
+A: gasoline
+B: industry
+C: neighborhood
+D: keyboard
+= C
+~詞義 neighborhood（n.）街區
+~原文 This neighborhood features a good public school, a bookstore, and a beautiful park. Therefore, many people want to live here.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: inferior
+B: screws
+C: industrial
+D: drips
+E: fairly
+F: deck
+
+Q 11 | bank | 配合題
+stem: Jack waved farewell to his family and friends from the ______ as the ship sailed away.
+= F
+~詞義 deck（n.）甲板
+~原文 Jack waved farewell to his family and friends from the deck as the ship sailed away.
+
+Q 12 | bank | 配合題
+stem: Despite his wealth, Don lives in a(n) ______ modest house that contains only a few pieces of furniture.
+= E
+~詞義 fairly（adv.）相當地
+~原文 Despite his wealth, Don lives in a(n) fairly modest house that contains only a few pieces of furniture.
+
+Q 13 | bank | 配合題
+stem: The boy always feels that he is ______ to other people because he is short.
+= A
+~詞義 inferior（adj.）較差的
+~原文 The boy always feels that he is inferior to other people because he is short.
+
+Q 14 | bank | 配合題
+stem: A meeting of the leaders of the world's major ______ nations was held to discuss the issue of global warming.
+= C
+~詞義 industrial（adj.）工業的
+~原文 A meeting of the leaders of the world's major industrial nations was held to discuss the issue of global warming.
+
+Q 15 | bank | 配合題
+stem: The ______ holding the bed together have loosened, so we need to tighten them.
+= B
+~詞義 screw（n.）螺絲
+~原文 The screws holding the bed together have loosened, so we need to tighten them.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: fairy
+B: handy
+C: industry
+D: scary
+E: pancakes
+F: queer
+
+Q 16 | bank | 配合題
+stem: My father works in the automobile ______, so he knows a lot about the quality and prices of various cars.
+= C
+~詞義 industry（n.）產業
+~原文 My father works in the automobile industry, so he knows a lot about the quality and prices of various cars.
+
+Q 17 | bank | 配合題
+stem: There was something ______ about the atmosphere in the room, as if something strange had just happened there.
+= F
+~詞義 queer（adj.）奇怪的
+~原文 There was something queer about the atmosphere in the room, as if something strange had just happened there.
+
+Q 18 | bank | 配合題
+stem: I wonder why witches in ______ tales are always evil.
+= A
+~詞義 fairy（n.）小仙子
+~原文 I wonder why witches in fairy tales are always evil.
+
+Q 19 | bank | 配合題
+stem: The ghost in the movie looked really ______ and gave me a nightmare last night.
+= D
+~詞義 scary（adj.）可怕的
+~原文 The ghost in the movie looked really scary and gave me a nightmare last night.
+
+Q 20 | bank | 配合題
+stem: When I get up early, I always have ______ for breakfast.
+= E
+~詞義 pancake（n.）鬆餅
+~原文 When I get up early, I always have pancakes for breakfast.

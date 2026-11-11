@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 8 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-08 | Unit 8 | Vocabulary practice · Unit 8 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: We can't afford a vacation this year because we're really t______t on money right now.
+= tight
+~詞義 tight（adj.）吃緊的
+~原文 We can't afford a vacation this year because we're really tight on money right now.
+
+Q 2 | fill | 文意字彙
+stem: Most people r______y on electronic devices such as computers and smartphones to get the information they need.
+= rely
+~詞義 rely（v.）依賴
+~原文 Most people rely on electronic devices such as computers and smartphones to get the information they need.
+
+Q 3 | fill | 文意字彙
+stem: R______r has it that Alexander is the real father of the baby boy.
+= rumor
+~詞義 rumor（n.）謠言
+~原文 Rumor has it that Alexander is the real father of the baby boy.
+
+Q 4 | fill | 文意字彙
+stem: If you want to attend the meeting, you have to get official ______ (permit) from the administration.
+= permission
+~詞義 permission（n.）許可;准許
+~原文 If you want to attend the meeting, you have to get official permission from the administration.
+
+Q 5 | fill | 文意字彙
+stem: The smell in this room is ______ (bare) tolerable. Would you mind if I opened the window?
+= barely
+~詞義 barely（adv.）幾乎不
+~原文 The smell in this room is barely tolerable. Would you mind if I opened the window?
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The new water tank has a much larger ______ and can hold twice as much as the old one.
+A: advantage
+B: substance
+C: material
+D: volume
+= D
+~詞義 volume（n.）容量
+~原文 The new water tank has a much larger volume and can hold twice as much as the old one.
+
+Q 7 | choice | 選擇題
+stem: The bush fires have caused ______ damage to Australia.
+A: inferior
+B: superior
+C: reliable
+D: considerable
+= D
+~詞義 considerable（adj.）相當多的
+~原文 The bush fires have caused considerable damage to Australia.
+
+Q 8 | choice | 選擇題
+stem: Annie ______ from the idea of giving a speech in public, fearing she would make mistakes.
+A: tightened
+B: subtracted
+C: permitted
+D: shrank
+= D
+~詞義 shrink（v.）畏縮;逃避
+~原文 Annie shrank from the idea of giving a speech in public, fearing she would make mistakes.
+
+Q 9 | choice | 選擇題
+stem: This bridge is a great work of engineering and construction, and it helps people who live in ______ areas get to the city quickly.
+A: fancy
+B: wealthy
+C: remote
+D: superior
+= C
+~詞義 remote（adj.）偏遠的
+~原文 This bridge is a great work of engineering and construction, and it helps people who live in remote areas get to the city quickly.
+
+Q 10 | choice | 選擇題
+stem: After getting an invitation to the Halloween party, Kevin decided to dress up as a Roman ______.
+A: tumor
+B: emperor
+C: vehicle
+D: supervisor
+= B
+~詞義 emperor（n.）皇帝
+~原文 After getting an invitation to the Halloween party, Kevin decided to dress up as a Roman emperor.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: screaming
+B: bare
+C: fancy
+D: thread
+E: patience
+F: electricity
+
+Q 11 | bank | 配合題
+stem: A kindergarten teacher should have a fun personality, a kind heart, and ______.
+= E
+~詞義 patience（n.）耐心
+~原文 A kindergarten teacher should have a fun personality, a kind heart, and patience.
+
+Q 12 | bank | 配合題
+stem: The nurse asked the patient to ______ his arm so that she could give the injection.
+= B
+~詞義 bare（v.）露出
+~原文 The nurse asked the patient to bare his arm so that she could give the injection.
+
+Q 13 | bank | 配合題
+stem: My brother disconnected the machine from the ______ supply before trying to fix it.
+= F
+~詞義 electricity（n.）電
+~原文 My brother disconnected the machine from the electricity supply before trying to fix it.
+
+Q 14 | bank | 配合題
+stem: The actress didn't want to wear something too ______, but rather a simple white dress.
+= C
+~詞義 fancy（adj.）花俏的
+~原文 The actress didn't want to wear something too fancy, but rather a simple white dress.
+
+Q 15 | bank | 配合題
+stem: Running away or ______ in horror is the reaction of many people when they see big spiders or cockroaches.
+= A
+~詞義 screaming（v.）尖叫
+~原文 Running away or screaming in horror is the reaction of many people when they see big spiders or cockroaches.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: media
+B: victims
+C: union
+D: vehicles
+E: tapped
+F: scattered
+
+Q 16 | bank | 配合題
+stem: Up to 85% of the employees don't support the ______ of the two technology enterprises.
+= C
+~詞義 union（n.）結合;合併
+~原文 Up to 85% of the employees don't support the union of the two technology enterprises.
+
+Q 17 | bank | 配合題
+stem: Shortly after the eight-car train traveling to Taitung came off the tracks inside a tunnel, the authorities made a rough calculation of the number of ______.
+= B
+~詞義 victims（n.）受害者
+~原文 Shortly after the eight-car train traveling to Taitung came off the tracks inside a tunnel, the authorities made a rough calculation of the number of victims.
+
+Q 18 | bank | 配合題
+stem: The baker ______ some cocoa powder on top of the birthday cake.
+= F
+~詞義 scattered（v.）撤
+~原文 The baker scattered some cocoa powder on top of the birthday cake.
+
+Q 19 | bank | 配合題
+stem: In his speech, he emphasized the negative impacts of social ______, including gossip and false information.
+= A
+~詞義 media（n.）媒體
+~原文 In his speech, he emphasized the negative impacts of social media, including gossip and false information.
+
+Q 20 | bank | 配合題
+stem: The latest figures show that there are too many ______ in Taiwan, leading to frequent traffic jams.
+= D
+~詞義 vehicles（n.）車輛
+~原文 The latest figures show that there are too many vehicles in Taiwan, leading to frequent traffic jams.

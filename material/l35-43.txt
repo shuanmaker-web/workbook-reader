@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 43 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-43 | Unit 43 | Vocabulary practice · Unit 43 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Bruce got the second-hand book at a flea market; it was a real b______n.
+= bargain
+~詞義 bargain（n.）便宜貨
+~原文 Bruce got the second-hand book at a flea market; it was a real bargain.
+
+Q 2 | fill | 文意字彙
+stem: Beatrice screamed loudly when she stepped into the bathroom and saw a g______c cockroach on the wall.
+= gigantic
+~詞義 gigantic（adj.）巨大的
+~原文 Beatrice screamed loudly when she stepped into the bathroom and saw a gigantic cockroach on the wall.
+
+Q 3 | fill | 文意字彙
+stem: The cook poured milk into the bowl and mixed it with the other i______ts thoroughly.
+= ingredients
+~詞義 ingredient（n.）原料;成分
+~原文 The cook poured milk into the bowl and mixed it with the other ingredients thoroughly.
+
+Q 4 | fill | 文意字彙
+stem: Instead of adding chemical fertilizers to the soil, the farmer uses organic methods to keep the land f______e.
+= fertile
+~詞義 fertile（adj.）肥沃的
+~原文 Instead of adding chemical fertilizers to the soil, the farmer uses organic methods to keep the land fertile.
+
+Q 5 | fill | 文意字彙
+stem: Daisy's i______t into the group project improved the structure and flow of the final presentation.
+= input
+~詞義 input（n.）投入;參與
+~原文 Daisy's input into the group project improved the structure and flow of the final presentation.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The suspect is ______ of armed robbery and now faces a trial.
+A: rescued
+B: accused
+C: clarified
+D: giggled
+= B
+~詞義 accuse（v.）控告
+~原文 The suspect is accused of armed robbery and now faces a trial.
+
+Q 7 | choice | 選擇題
+stem: Make sure to leave some space in the ______ of each page.
+A: knobs
+B: spades
+C: refunds
+D: margins
+= D
+~詞義 margin（n.）頁邊空白
+~原文 Make sure to leave some space in the margins of each page.
+
+Q 8 | choice | 選擇題
+stem: Everyone knows not to trust what Billy says because he is such a ______.
+A: voyage
+B: basin
+C: plum
+D: liar
+= D
+~詞義 liar（n.）說謊者
+~原文 Everyone knows not to trust what Billy says because he is such a liar.
+
+Q 9 | choice | 選擇題
+stem: As the sun sank slowly toward the horizon, the shadows began to ______.
+A: clarify
+B: giggle
+C: lengthen
+D: refund
+= C
+~詞義 lengthen（v.）變長
+~原文 As the sun sank slowly toward the horizon, the shadows began to lengthen.
+
+Q 10 | choice | 選擇題
+stem: A(n) ______ storm struck the coast, forcing residents to stay indoors until conditions improved.
+A: fierce
+B: tense
+C: divine
+D: oval
+= A
+~詞義 fierce（adj.）兇猛的;殘暴的
+~原文 A(n) fierce storm struck the coast, forcing residents to stay indoors until conditions improved.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: concrete
+B: elsewhere
+C: overnight
+D: overcoat
+E: skyscraper
+F: nightmare
+
+Q 11 | bank | 配合題
+stem: The boy woke up crying because of his horrible ______.
+= F
+~詞義 nightmare（n.）惡夢
+~原文 The boy woke up crying because of his horrible nightmare.
+
+Q 12 | bank | 配合題
+stem: The man put on a thick ______ and walked into the snowy night.
+= D
+~詞義 overcoat（n.）大衣
+~原文 The man put on a thick overcoat and walked into the snowy night.
+
+Q 13 | bank | 配合題
+stem: It had snowed ______, so when I looked outside in the morning, the world was completely covered in white.
+= C
+~詞義 overnight（adv.）在晚上
+~原文 It had snowed overnight, so when I looked outside in the morning, the world was completely covered in white.
+
+Q 14 | bank | 配合題
+stem: Sandy encouraged her students to use ______ examples instead of vague ideas to strengthen their essays.
+= A
+~詞義 concrete（adj.）具體的
+~原文 Sandy encouraged her students to use concrete examples instead of vague ideas to strengthen their essays.
+
+Q 15 | bank | 配合題
+stem: The Empire State Building, probably the most famous ______ in the world, was completed in 1931.
+= E
+~詞義 skyscraper（n.）摩天大樓
+~原文 The Empire State Building, probably the most famous skyscraper in the world, was completed in 1931.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: ginger
+B: rescue
+C: chew
+D: inflation
+E: refund
+F: marathon
+
+Q 16 | bank | 配合題
+stem: The lifeguard came to the swimmer's ______ after noticing him struggling against the strong waves.
+= B
+~詞義 rescue（n.）援救某人(come to one's rescue)
+~原文 The lifeguard came to the swimmer's rescue after noticing him struggling against the strong waves.
+
+Q 17 | bank | 配合題
+stem: After the ______, the runner was exhausted and was covered in sweat.
+= F
+~詞義 marathon（n.）馬拉松
+~原文 After the marathon, the runner was exhausted and was covered in sweat.
+
+Q 18 | bank | 配合題
+stem: The angry customer is yelling at the manager and asking for a(n) ______ because the air-conditioner that he bought yesterday isn't working.
+= E
+~詞義 refund（n.）退款
+~原文 The angry customer is yelling at the manager and asking for a(n) refund because the air-conditioner that he bought yesterday isn't working.
+
+Q 19 | bank | 配合題
+stem: It is very rude to ______ gum at formal occasions such as weddings or meetings.
+= C
+~詞義 chew（v.）咀嚼
+~原文 It is very rude to chew gum at formal occasions such as weddings or meetings.
+
+Q 20 | bank | 配合題
+stem: The ______ rate has been on the rise for many years, so the cost of living nowadays is much higher than it used to be.
+= D
+~詞義 inflation（n.）通貨膨脹
+~原文 The inflation rate has been on the rise for many years, so the cost of living nowadays is much higher than it used to be.

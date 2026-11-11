@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 42 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-42 | Unit 42 | Vocabulary practice · Unit 42 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: I really can't afford to put off writing this paper anymore. The d______e is tomorrow afternoon!
+= deadline
+~詞義 deadline（n.）最後期限
+~原文 I really can't afford to put off writing this paper anymore. The deadline is tomorrow afternoon!
+
+Q 2 | fill | 文意字彙
+stem: The mountain offered a m______t view of the sunrise that made the long, exhausting climb completely worthwhile.
+= magnificent
+~詞義 magnificent（adj.）壯觀的
+~原文 The mountain offered a magnificent view of the sunrise that made the long, exhausting climb completely worthwhile.
+
+Q 3 | fill | 文意字彙
+stem: The poor girl became an o______n at the age of six, when her parents died in a terrible fire.
+= orphan
+~詞義 orphan（n.）孤兒
+~原文 The poor girl became an orphan at the age of six, when her parents died in a terrible fire.
+
+Q 4 | fill | 文意字彙
+stem: The group of friends ate lunch under the s______e of a large maple tree, enjoying cool air on the hot summer afternoon.
+= shade
+~詞義 shade（n.）陰涼處
+~原文 The group of friends ate lunch under the shade of a large maple tree, enjoying cool air on the hot summer afternoon.
+
+Q 5 | fill | 文意字彙
+stem: Many of the s______rs in America originally came from Europe.
+= settlers
+~詞義 settler（n.）移居者
+~原文 Many of the settlers in America originally came from Europe.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The ______ couldn't stand the loud noises in the café and started to cry.
+A: ferry
+B: kettle
+C: infant
+D: chamber
+= C
+~詞義 infant（n.）嬰兒
+~原文 The infant couldn't stand the loud noises in the café and started to cry.
+
+Q 7 | choice | 選擇題
+stem: Eddie played the Chinese flute in the ______ in high school.
+A: catalogue
+B: orchestra
+C: refugee
+D: bankruptcy
+= B
+~詞義 orchestra（n.）管弦樂團
+~原文 Eddie played the Chinese flute in the orchestra in high school.
+
+Q 8 | choice | 選擇題
+stem: The peaceful afternoon changed in the ______ of an eye when dark storm clouds suddenly covered the sky.
+A: feast
+B: fax
+C: blink
+D: sketch
+= C
+~詞義 blink（n.）眨眼
+~原文 The peaceful afternoon changed in the blink of an eye when dark storm clouds suddenly covered the sky.
+
+Q 9 | choice | 選擇題
+stem: The ______ car crash took the lives of more than four people.
+A: elastic
+B: fatal
+C: needy
+D: partial
+= B
+~詞義 fatal（adj.）致命的
+~原文 The fatal car crash took the lives of more than four people.
+
+Q 10 | choice | 選擇題
+stem: With the economy going into recession, the company eventually went ______.
+A: bankrupt
+B: elegant
+C: flexible
+D: magnificent
+= A
+~詞義 bankrupt（adj.）破產的
+~原文 With the economy going into recession, the company eventually went bankrupt.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: hardship
+B: chemistry
+C: scolded
+D: cue
+E: elastic
+F: gifted
+
+Q 11 | bank | 配合題
+stem: The bus was about to leave, and on ______, Jason ran up to the stop, out of breath.
+= D
+~詞義 cue（n.）恰在這時(on cue)
+~原文 The bus was about to leave, and on cue, Jason ran up to the stop, out of breath.
+
+Q 12 | bank | 配合題
+stem: Our ancestors went through a lot of ______ to create the world that we live in now.
+= A
+~詞義 hardship（n.）艱難
+~原文 Our ancestors went through a lot of hardship to create the world that we live in now.
+
+Q 13 | bank | 配合題
+stem: Patrick was ______ by the teacher because he had skipped school again.
+= C
+~詞義 scold（v.）責罵
+~原文 Patrick was scolded by the teacher because he had skipped school again.
+
+Q 14 | bank | 配合題
+stem: Martin is a(n) ______ musician who has performed in many big concert halls.
+= F
+~詞義 gifted（adj.）富天賦的
+~原文 Martin is a(n) gifted musician who has performed in many big concert halls.
+
+Q 15 | bank | 配合題
+stem: Jack majored in ______ in college, and now he teaches science in a junior high school.
+= B
+~詞義 chemistry（n.）化學
+~原文 Jack majored in chemistry in college, and now he teaches science in a junior high school.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: accountant
+B: accent
+C: ceased
+D: winked
+E: elegant
+F: feast
+
+Q 16 | bank | 配合題
+stem: To be a good ______, you need to be skilled with numbers and have good attention to detail.
+= A
+~詞義 accountant（n.）會計師
+~原文 To be a good accountant, you need to be skilled with numbers and have good attention to detail.
+
+Q 17 | bank | 配合題
+stem: Judging by his ______, the man probably comes from Ireland.
+= B
+~詞義 accent（n.）口音
+~原文 Judging by his accent, the man probably comes from Ireland.
+
+Q 18 | bank | 配合題
+stem: My grandmother was a very ______ woman who always dressed beautifully.
+= E
+~詞義 elegant（adj.）優雅的
+~原文 My grandmother was a very elegant woman who always dressed beautifully.
+
+Q 19 | bank | 配合題
+stem: My mother prepared a(n) ______ for Christmas dinner.
+= F
+~詞義 feast（n.）盛宴
+~原文 My mother prepared a(n) feast for Christmas dinner.
+
+Q 20 | bank | 配合題
+stem: The dance instructor waved her hand, and then the music ______.
+= C
+~詞義 cease（v.）停止
+~原文 The dance instructor waved her hand, and then the music ceased.

@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 15 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-15 | Unit 15 | Vocabulary practice · Unit 15 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The model hadn't had a proper meal for days, so she f______ted from hunger.
+= fainted
+~詞義 faint（v.）昏倒
+~原文 The model hadn't had a proper meal for days, so she fainted from hunger.
+
+Q 2 | fill | 文意字彙
+stem: Susan is a very kind person. She is always e______r to help those in need.
+= eager
+~詞義 eager（adj.）熱切的
+~原文 Susan is a very kind person. She is always eager to help those in need.
+
+Q 3 | fill | 文意字彙
+stem: Since he was sixteen, Nick has been saving money to realize his dream of studying a______d.
+= abroad
+~詞義 abroad（adv.）在國外
+~原文 Since he was sixteen, Nick has been saving money to realize his dream of studying abroad.
+
+Q 4 | fill | 文意字彙
+stem: For some aboriginal groups in Taiwan, facial tattoos are a t______l tradition.
+= tribal
+~詞義 tribal（adj.）部落的
+~原文 For some aboriginal groups in Taiwan, facial tattoos are a tribal tradition.
+
+Q 5 | fill | 文意字彙
+stem: At the end of the lecture, the professor briefly s______ed his main points in a few words.
+= summarized
+~詞義 summarize（v.）總結;概括地說
+~原文 At the end of the lecture, the professor briefly summarized his main points in a few words.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: I am allergic to ______ products, so I cannot eat yogurt, cream, or any kind of cheese.
+A: angle
+B: bacon
+C: cabin
+D: dairy
+= D
+~詞義 dairy（adj.）乳製品
+~原文 I am allergic to dairy products, so I cannot eat yogurt, cream, or any kind of cheese.
+
+Q 7 | choice | 選擇題
+stem: Many people want to buy ______ computers because they are light and convenient to use.
+A: shadow
+B: gallon
+C: canyon
+D: tablet
+= D
+~詞義 tablet（n.）平板
+~原文 Many people want to buy tablet computers because they are light and convenient to use.
+
+Q 8 | choice | 選擇題
+stem: On her way to the airport, Louise suddenly realized that she had left her ______ at the hotel and had to head back there.
+A: angel
+B: baggage
+C: gallon
+D: tunnel
+= B
+~詞義 baggage（n.）行李
+~原文 On her way to the airport, Louise suddenly realized that she had left her baggage at the hotel and had to head back there.
+
+Q 9 | choice | 選擇題
+stem: Ellen's friendships with other students gradually ______ as the days went by.
+A: widened
+B: apologized
+C: survived
+D: deepened
+= D
+~詞義 deepen（v.）加深
+~原文 Ellen's friendships with other students gradually deepened as the days went by.
+
+Q 10 | choice | 選擇題
+stem: Tom was so ______ that he spilled his drink three times during dinner and broke a glass.
+A: awkward
+B: clumsy
+C: sexual
+D: urban
+= B
+~詞義 clumsy（adj.）笨拙的
+~原文 Tom was so clumsy that he spilled his drink three times during dinner and broke a glass.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: aboard
+B: scarcely
+C: satisfactory
+D: apology
+E: badly
+F: sum
+
+Q 11 | bank | 配合題
+stem: The company has hired a team of experts to analyze the problem, but they haven't found a(n) ______ solution.
+= C
+~詞義 satisfactory（adj.）滿意的
+~原文 The company has hired a team of experts to analyze the problem, but they haven't found a(n) satisfactory solution.
+
+Q 12 | bank | 配合題
+stem: She felt very sad because she had lost a large ______ of money.
+= F
+~詞義 sum（n.）總數
+~原文 She felt very sad because she had lost a large sum of money.
+
+Q 13 | bank | 配合題
+stem: I was late to the party, and when I finally arrived, there was ______ any food left.
+= B
+~詞義 scarcely（adv.）幾乎不
+~原文 I was late to the party, and when I finally arrived, there was scarcely any food left.
+
+Q 14 | bank | 配合題
+stem: Everyone ______ the ship was in a panic when they heard that it was sinking.
+= A
+~詞義 aboard（prep.）在船上
+~原文 Everyone aboard the ship was in a panic when they heard that it was sinking.
+
+Q 15 | bank | 配合題
+stem: Please accept my sincere ______. I did not mean to hurt your feelings.
+= D
+~詞義 apology（n.）道歉
+~原文 Please accept my sincere apology. I did not mean to hurt your feelings.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: angel
+B: bleed
+C: survivor
+D: dash
+E: cabin
+F: lengthen
+
+Q 16 | bank | 配合題
+stem: Toward evening, the shadows ______ across the fields.
+= F
+~詞義 lengthen（v.）拉長
+~原文 Toward evening, the shadows lengthen across the fields.
+
+Q 17 | bank | 配合題
+stem: I accidentally cut myself when I was using a knife, but the wound was small and didn't ______ much.
+= B
+~詞義 bleed（v.）流血
+~原文 I accidentally cut myself when I was using a knife, but the wound was small and didn't bleed much.
+
+Q 18 | bank | 配合題
+stem: You can put a star or a(n) ______ on top of the Christmas tree.
+= A
+~詞義 angel（n.）天使
+~原文 You can put a star or a(n) angel on top of the Christmas tree.
+
+Q 19 | bank | 配合題
+stem: The lawyer spent his vacation relaxing in a quiet wooden ______ in the mountains, far away from the busy city life.
+= E
+~詞義 cabin（n.）小屋
+~原文 The lawyer spent his vacation relaxing in a quiet wooden cabin in the mountains, far away from the busy city life.
+
+Q 20 | bank | 配合題
+stem: The little boy is the only ______ of the horrible traffic accident.
+= C
+~詞義 survivor（n.）生還者
+~原文 The little boy is the only survivor of the horrible traffic accident.

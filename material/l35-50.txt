@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 50 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-50 | Unit 50 | Vocabulary practice · Unit 50 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Sense and Sensibility, written by Jane Austen, is a classic of English l______e.
+= literature
+~詞義 literature（n.）文學
+~原文 Sense and Sensibility, written by Jane Austen, is a classic of English literature.
+
+Q 2 | fill | 文意字彙
+stem: The coach demanded strict o______e to team rules in order to ensure everyone stayed safe and cooperative.
+= obedience
+~詞義 obedience（n.）服從
+~原文 The coach demanded strict obedience to team rules in order to ensure everyone stayed safe and cooperative.
+
+Q 3 | fill | 文意字彙
+stem: After a long search, the rescue team finally found the w______k of the plane.
+= wreck
+~詞義 wreck（n.）殘骸
+~原文 After a long search, the rescue team finally found the wreck of the plane.
+
+Q 4 | fill | 文意字彙
+stem: The boss was impressed by Tina's p______n and thought that she had explained her ideas very clearly.
+= presentation
+~詞義 presentation（n.）報告
+~原文 The boss was impressed by Tina's presentation and thought that she had explained her ideas very clearly.
+
+Q 5 | fill | 文意字彙
+stem: When I eat pudding, I like to s______e some chocolate chips on it to give it more flavor.
+= sprinkle
+~詞義 sprinkle（v.）撒;灑
+~原文 When I eat pudding, I like to sprinkle some chocolate chips on it to give it more flavor.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The engineer fixed a ______ problem in the car that had caused loud noises during driving.
+A: remarkable
+B: mountainous
+C: philosophical
+D: mechanical
+= D
+~詞義 mechanical（adj.）機械的
+~原文 The engineer fixed a mechanical problem in the car that had caused loud noises during driving.
+
+Q 7 | choice | 選擇題
+stem: The pilots of the jet are equipped with ______ in case they have to jump out of the plane.
+A: diplomats
+B: mechanics
+C: parachutes
+D: syllables
+= C
+~詞義 parachute（n.）降落傘
+~原文 The pilots of the jet are equipped with parachutes in case they have to jump out of the plane.
+
+Q 8 | choice | 選擇題
+stem: Traffic ______ include going above the speed limit and parking in a no-parking zone.
+A: lobsters
+B: regulations
+C: ministers
+D: violations
+= D
+~詞義 violation（n.）違反
+~原文 Traffic violations include going above the speed limit and parking in a no-parking zone.
+
+Q 9 | choice | 選擇題
+stem: The government is going to make stricter rules ______ the use of chemicals in food.
+A: regulating
+B: violating
+C: participating
+D: murmuring
+= A
+~詞義 regulate（v.）規範;約束
+~原文 The government is going to make stricter rules regulating the use of chemicals in food.
+
+Q 10 | choice | 選擇題
+stem: It was not until Emily Dickinson died that she became famous in the ______ field.
+A: remarkable
+B: literary
+C: muddy
+D: pregnant
+= B
+~詞義 literary（adj.）文學的
+~原文 It was not until Emily Dickinson died that she became famous in the literary field.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: shifted
+B: pregnant
+C: logic
+D: remark
+E: mechanic
+F: loyalty
+
+Q 11 | bank | 配合題
+stem: If someone makes an offensive ______ about you, you should speak up against it, or the person may do it again.
+= D
+~詞義 remark（n.）言論
+~原文 If someone makes an offensive remark about you, you should speak up against it, or the person may do it again.
+
+Q 12 | bank | 配合題
+stem: I just don't understand the ______ behind May's decision. She wants to buy a membership for the sports club, but she doesn't like to exercise at all.
+= C
+~詞義 logic（n.）邏輯
+~原文 I just don't understand the logic behind May's decision. She wants to buy a membership for the sports club, but she doesn't like to exercise at all.
+
+Q 13 | bank | 配合題
+stem: The region has ______ from farming to technology-based industries over the past decade.
+= A
+~詞義 shift（v.）轉移
+~原文 The region has shifted from farming to technology-based industries over the past decade.
+
+Q 14 | bank | 配合題
+stem: Before buying the second-hand car, John asked a ______ to check whether it was in good condition.
+= E
+~詞義 mechanic（n.）技工
+~原文 Before buying the second-hand car, John asked a mechanic to check whether it was in good condition.
+
+Q 15 | bank | 配合題
+stem: Jane's ______ to her friends made her stand by them even during difficult times.
+= F
+~詞義 loyalty（n.）忠誠
+~原文 Jane's loyalty to her friends made her stand by them even during difficult times.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: registration
+B: remarkable
+C: protein
+D: revised
+E: muddy
+F: violated
+
+Q 16 | bank | 配合題
+stem: Leave those ______ boots outside! I just mopped the floor.
+= E
+~詞義 muddy（adj.）泥濘的
+~原文 Leave those muddy boots outside! I just mopped the floor.
+
+Q 17 | bank | 配合題
+stem: The writer ______ his article, as many people had complained about the racist comments in the original version.
+= D
+~詞義 revise（v.）修改
+~原文 The writer revised his article, as many people had complained about the racist comments in the original version.
+
+Q 18 | bank | 配合題
+stem: The company ______ the law by selling customers' personal information to other companies.
+= F
+~詞義 violate（v.）違反
+~原文 The company violated the law by selling customers' personal information to other companies.
+
+Q 19 | bank | 配合題
+stem: Anyone who wants to sign up for evening classes at the community college has to fill in this ______ form.
+= A
+~詞義 registration（n.）登記;註冊
+~原文 Anyone who wants to sign up for evening classes at the community college has to fill in this registration form.
+
+Q 20 | bank | 配合題
+stem: It was a ______ achievement for the young singer to win an American Music Award.
+= B
+~詞義 remarkable（adj.）傑出的
+~原文 It was a remarkable achievement for the young singer to win an American Music Award.

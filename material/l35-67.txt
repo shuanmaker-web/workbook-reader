@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 67 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-67 | Unit 67 | Vocabulary practice · Unit 67 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Daniel had not prepared for the final exam at all, so it was i______e that he would fail.
+= inevitable
+~詞義 inevitable（adj.）不可避免的
+~原文 Daniel had not prepared for the final exam at all, so it was inevitable that he would fail.
+
+Q 2 | fill | 文意字彙
+stem: The park became the perfect v______e for big events because it offered open space and easy transportation access.
+= venue
+~詞義 venue（n.）舉行地點
+~原文 The park became the perfect venue for big events because it offered open space and easy transportation access.
+
+Q 3 | fill | 文意字彙
+stem: The boys were playing catch when they accidentally s______hed the principal's car window.
+= smashed
+~詞義 smash（v.）打碎
+~原文 The boys were playing catch when they accidentally smashed the principal's car window.
+
+Q 4 | fill | 文意字彙
+stem: Though Ted was Sarah's f______r son, she loved him with all her heart.
+= foster
+~詞義 foster（adj.）收養的;代養的
+~原文 Though Ted was Sarah's foster son, she loved him with all her heart.
+
+Q 5 | fill | 文意字彙
+stem: People find it difficult to work a______e Jimmy because he has a bad temper and no patience.
+= alongside
+~詞義 alongside（prep.）與…一起
+~原文 People find it difficult to work alongside Jimmy because he has a bad temper and no patience.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Terry is an influential sports ______. Many sports fans like to read his articles.
+A: columnist
+B: deputy
+C: missionary
+D: verdict
+= A
+~詞義 columnist（n.）專欄作家
+~原文 Terry is an influential sports columnist. Many sports fans like to read his articles.
+
+Q 7 | choice | 選擇題
+stem: The prime minister believes that with better ______, the country's economy will grow much faster.
+A: commentary
+B: endorsement
+C: infrastructure
+D: prejudice
+= C
+~詞義 infrastructure（n.）基礎建設
+~原文 The prime minister believes that with better infrastructure, the country's economy will grow much faster.
+
+Q 8 | choice | 選擇題
+stem: The assassin ______ the knife deep into the man's back, and the man cried loudly for help.
+A: combated
+B: derived
+C: snatched
+D: thrust
+= D
+~詞義 thrust（v.）刺
+~原文 The assassin thrust the knife deep into the man's back, and the man cried loudly for help.
+
+Q 9 | choice | 選擇題
+stem: The scientists are searching for a way to generate electricity that creates ______ pollution.
+A: inherent
+B: exterior
+C: minimal
+D: verbal
+= C
+~詞義 minimal（adj.）極小的
+~原文 The scientists are searching for a way to generate electricity that creates minimal pollution.
+
+Q 10 | choice | 選擇題
+stem: Queen Elizabeth came to the ______ when she was twenty-five years old, and she is now the longest-reigning queen in English history.
+A: fraction
+B: premier
+C: throne
+D: slot
+= C
+~詞義 throne（n.）王座
+~原文 Queen Elizabeth came to the throne when she was twenty-five years old, and she is now the longest-reigning queen in English history.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: crippled
+B: deployed
+C: slammed
+D: inherent
+E: vein
+F: predator
+
+Q 11 | bank | 配合題
+stem: The lion is the most fearful ______ in the African grasslands.
+= F
+~詞義 predator（n.）肉食性動物
+~原文 The lion is the most fearful predator in the African grasslands.
+
+Q 12 | bank | 配合題
+stem: The soldier was ______ during battle, yet he refused to let his injuries define the rest of his life.
+= A
+~詞義 cripple（v.）使受傷身障
+~原文 The soldier was crippled during battle, yet he refused to let his injuries define the rest of his life.
+
+Q 13 | bank | 配合題
+stem: There is a(n) ______ risk of injury in any kind of sport.
+= D
+~詞義 inherent（adj.）固有的
+~原文 There is a(n) inherent risk of injury in any kind of sport.
+
+Q 14 | bank | 配合題
+stem: After Allen had a fight with his wife, he ______ the door and left. He looked as if he were going to explode.
+= C
+~詞義 slam（v.）猛然關上
+~原文 After Allen had a fight with his wife, he slammed the door and left. He looked as if he were going to explode.
+
+Q 15 | bank | 配合題
+stem: Tom was so angry that a(n) ______ stood out on his forehead.
+= E
+~詞義 vein（n.）靜脈
+~原文 Tom was so angry that a(n) vein stood out on his forehead.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: ally
+B: commitment
+C: allocation
+D: smog
+E: premature
+F: preliminary
+
+Q 16 | bank | 配合題
+stem: Parents are a teacher's closest ______ in the process of educating children.
+= A
+~詞義 ally（n.）盟友
+~原文 Parents are a teacher's closest ally in the process of educating children.
+
+Q 17 | bank | 配合題
+stem: The government announced a new ______ of funds for disaster relief, hoping to aid reconstruction efforts.
+= C
+~詞義 allocation（n.）分配
+~原文 The government announced a new allocation of funds for disaster relief, hoping to aid reconstruction efforts.
+
+Q 18 | bank | 配合題
+stem: The judges watched the ______ closely and chose contestants who showed strong skills and confidence.
+= F
+~詞義 preliminary（n.）預賽
+~原文 The judges watched the preliminary closely and chose contestants who showed strong skills and confidence.
+
+Q 19 | bank | 配合題
+stem: The badly polluted city is completely covered by ______. People have to wear masks and goggles when they go out.
+= D
+~詞義 smog（n.）霧霾
+~原文 The badly polluted city is completely covered by smog. People have to wear masks and goggles when they go out.
+
+Q 20 | bank | 配合題
+stem: Despite his ______ birth, the baby survived and grew up healthily.
+= E
+~詞義 premature（adj.）過早的
+~原文 Despite his premature birth, the baby survived and grew up healthily.

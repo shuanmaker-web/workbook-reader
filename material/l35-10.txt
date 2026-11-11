@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 10 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-10 | Unit 10 | Vocabulary practice · Unit 10 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: This door is a______c. All you need to do is walk near it, and it will open by itself.
+= automatic
+~詞義 automatic（adj.）自動的
+~原文 This door is automatic. All you need to do is walk near it, and it will open by itself.
+
+Q 2 | fill | 文意字彙
+stem: They sell more than 20 different f______rs of ice cream; my personal favorite is vanilla.
+= flavors
+~詞義 flavor（n.）口味
+~原文 They sell more than 20 different flavors of ice cream; my personal favorite is vanilla.
+
+Q 3 | fill | 文意字彙
+stem: The domestic price of f______l is closely related to the international price of oil. When there is a war in an oil-exporting country, the price usually goes up.
+= fuel
+~詞義 fuel（n.）燃料
+~原文 The domestic price of fuel is closely related to the international price of oil. When there is a war in an oil-exporting country, the price usually goes up.
+
+Q 4 | fill | 文意字彙
+stem: You can tell from the similar style of these trousers that they all come from the same ______ (design).
+= designer
+~詞義 designer（n.）設計師
+~原文 You can tell from the similar style of these trousers that they all come from the same designer.
+
+Q 5 | fill | 文意字彙
+stem: Our field trip was to see an ______ (exhibit) of ancient Chinese art at the National Palace Museum.
+= exhibition
+~詞義 exhibition（n.）展覽
+~原文 Our field trip was to see an exhibition of ancient Chinese art at the National Palace Museum.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The inner part of this wallet is made of ______, so it is soft but sturdy.
+A: quotation
+B: humidity
+C: leather
+D: freedom
+= C
+~詞義 leather（n.）皮革
+~原文 The inner part of this wallet is made of leather, so it is soft but sturdy.
+
+Q 7 | choice | 選擇題
+stem: The carpenter made the table from ______ wood, making sure that it would last for years.
+A: daily
+B: bald
+C: liberal
+D: solid
+= D
+~詞義 solid（adj.）堅固的;實心的
+~原文 The carpenter made the table from solid wood, making sure that it would last for years.
+
+Q 8 | choice | 選擇題
+stem: The old friends were ______ up in conversation and didn't notice the time passing.
+A: wrapped
+B: folded
+C: quoted
+D: spoiled
+= A
+~詞義 wrap（v.）專心於(be wrapped up in)
+~原文 The old friends were wrapped up in conversation and didn't notice the time passing.
+
+Q 9 | choice | 選擇題
+stem: When Melody tried to explain what had happened, her friends kept ______ her.
+A: resisting
+B: interrupting
+C: exhibiting
+D: consisting
+= B
+~詞義 interrupt（v.）打斷
+~原文 When Melody tried to explain what had happened, her friends kept interrupting her.
+
+Q 10 | choice | 選擇題
+stem: James needs just one more science ______ to complete his degree requirements.
+A: entry
+B: credit
+C: restriction
+D: feather
+= B
+~詞義 credit（n.）學分
+~原文 James needs just one more science credit to complete his degree requirements.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: moist
+B: restrict
+C: interruption
+D: resistance
+E: spoil
+F: might
+
+Q 11 | bank | 配合題
+stem: Alex put his smartphone on silent mode so that he could watch the movie without ______.
+= C
+~詞義 interruption（n.）中斷
+~原文 Alex put his smartphone on silent mode so that he could watch the movie without interruption.
+
+Q 12 | bank | 配合題
+stem: The entire family pushed the car with all their ______ until it finally started moving.
+= F
+~詞義 might（n.）力量
+~原文 The entire family pushed the car with all their might until it finally started moving.
+
+Q 13 | bank | 配合題
+stem: Parents who give their children too much money are likely to ______ them.
+= E
+~詞義 spoil（v.）寵壞
+~原文 Parents who give their children too much money are likely to spoil them.
+
+Q 14 | bank | 配合題
+stem: Because of an increase in the number of gun crimes, the government has passed a new law to ______ the sale of guns.
+= B
+~詞義 restrict（v.）限制
+~原文 Because of an increase in the number of gun crimes, the government has passed a new law to restrict the sale of guns.
+
+Q 15 | bank | 配合題
+stem: The gardener waters the plants every morning to keep the soil ______.
+= A
+~詞義 moist（adj.）潮濕的
+~原文 The gardener waters the plants every morning to keep the soil moist.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: mission
+B: outer
+C: bold
+D: apart
+E: moisture
+F: committee
+
+Q 16 | bank | 配合題
+stem: To find out which planets may be suitable for human beings to live on in the future, much research has been conducted on ______ space.
+= B
+~詞義 outer（adj.）外部的
+~原文 To find out which planets may be suitable for human beings to live on in the future, much research has been conducted on outer space.
+
+Q 17 | bank | 配合題
+stem: A(n) ______ was set up to investigate the terrible incident.
+= F
+~詞義 committee（n.）委員會
+~原文 A(n) committee was set up to investigate the terrible incident.
+
+Q 18 | bank | 配合題
+stem: Ben made a(n) ______ decision to drop out of school and start a business.
+= C
+~詞義 bold（adj.）大膽的
+~原文 Ben made a(n) bold decision to drop out of school and start a business.
+
+Q 19 | bank | 配合題
+stem: The army's ______ was to destroy all the buildings in the area immediately.
+= A
+~詞義 mission（n.）任務
+~原文 The army's mission was to destroy all the buildings in the area immediately.
+
+Q 20 | bank | 配合題
+stem: According to the doctor, ______ is important for keeping your skin healthy. Without it, your skin may become dry and itchy.
+= E
+~詞義 moisture（n.）濕氣;潮濕
+~原文 According to the doctor, moisture is important for keeping your skin healthy. Without it, your skin may become dry and itchy.

@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 27 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-27 | Unit 27 | Vocabulary practice · Unit 27 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: It is d______l that we will arrive on time, since now we are stuck in a traffic jam.
+= doubtful
+~詞義 doubtful（adj.）無法確定的
+~原文 It is doubtful that we will arrive on time, since now we are stuck in a traffic jam.
+
+Q 2 | fill | 文意字彙
+stem: The concert will be p______ed until next week owing to the typhoon.
+= postponed
+~詞義 postpone（v.）延後
+~原文 The concert will be postponed until next week owing to the typhoon.
+
+Q 3 | fill | 文意字彙
+stem: This chef usually r______ts the meat over hot coals for several hours to make it tender.
+= roasts
+~詞義 roast（v.）炙烤
+~原文 This chef usually roasts the meat over hot coals for several hours to make it tender.
+
+Q 4 | fill | 文意字彙
+stem: The mother can have a rest now that her baby has finally fallen asleep in the c______e.
+= cradle
+~詞義 cradle（n.）搖籃
+~原文 The mother can have a rest now that her baby has finally fallen asleep in the cradle.
+
+Q 5 | fill | 文意字彙
+stem: The farm dogs are chasing a f______k of sheep, forcing them to return home.
+= flock
+~詞義 flock（n.）群
+~原文 The farm dogs are chasing a flock of sheep, forcing them to return home.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Even though the boy had done something wrong, his mother didn't punish him because she appreciated his ______.
+A: misery
+B: portion
+C: lottery
+D: honesty
+= D
+~詞義 honesty（n.）誠實
+~原文 Even though the boy had done something wrong, his mother didn't punish him because she appreciated his honesty.
+
+Q 7 | choice | 選擇題
+stem: This ______ tea set is a valuable treasure to my family.
+A: buffalo
+B: porcelain
+C: portrait
+D: sausage
+= B
+~詞義 porcelain（n.）瓷器
+~原文 This porcelain tea set is a valuable treasure to my family.
+
+Q 8 | choice | 選擇題
+stem: The museum displayed a ______ ancient box whose purpose no historian has been able to explain.
+A: mysterious
+B: stubborn
+C: vigorous
+D: mature
+= A
+~詞義 mysterious（adj.）神祕的
+~原文 The museum displayed a mysterious ancient box whose purpose no historian has been able to explain.
+
+Q 9 | choice | 選擇題
+stem: Following the outbreak of World War II, many people in Europe lived in ______ for years.
+A: lottery
+B: sausage
+C: pottery
+D: misery
+= D
+~詞義 misery（n.）悲慘
+~原文 Following the outbreak of World War II, many people in Europe lived in misery for years.
+
+Q 10 | choice | 選擇題
+stem: Luke grabbed a cloth to ______ off the muddy footprints his dog had left all over the floor.
+A: wipe
+B: boast
+C: float
+D: crawl
+= A
+~詞義 wipe（v.）擦拭
+~原文 Luke grabbed a cloth to wipe off the muddy footprints his dog had left all over the floor.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: portions
+B: grasped
+C: miserable
+D: crashed
+E: lively
+F: automobiles
+
+Q 11 | bank | 配合題
+stem: Exhaust from ______ contains gasses that contribute to global warming.
+= F
+~詞義 automobile（n.）汽車
+~原文 Exhaust from automobiles contains gasses that contribute to global warming.
+
+Q 12 | bank | 配合題
+stem: The car ______ straight into the tree, but luckily the driver wasn't seriously injured.
+= D
+~詞義 crash（v.）猛烈撞上
+~原文 The car crashed straight into the tree, but luckily the driver wasn't seriously injured.
+
+Q 13 | bank | 配合題
+stem: To make more money, the businessman ______ every opportunity to expand his business.
+= B
+~詞義 grasp（v.）抓住
+~原文 To make more money, the businessman grasped every opportunity to expand his business.
+
+Q 14 | bank | 配合題
+stem: Many children like the picture book because the story is ______ and interesting.
+= E
+~詞義 lively（adj.）生動活潑的
+~原文 Many children like the picture book because the story is lively and interesting.
+
+Q 15 | bank | 配合題
+stem: Because of the war, the kid lost his parents and then lived a(n) ______ life.
+= C
+~詞義 miserable（adj.）悲慘的
+~原文 Because of the war, the kid lost his parents and then lived a(n) miserable life.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: poured
+B: mature
+C: skeptical
+D: ripe
+E: roared
+F: portrayed
+
+Q 16 | bank | 配合題
+stem: Larry ______ all the milk into his coffee, but it still tasted very bitter.
+= A
+~詞義 pour（v.）倒
+~原文 Larry poured all the milk into his coffee, but it still tasted very bitter.
+
+Q 17 | bank | 配合題
+stem: The audience grew ______ about the speaker's claims when he refused to provide any evidence.
+= C
+~詞義 skeptical（adj.）懷疑的
+~原文 The audience grew skeptical about the speaker's claims when he refused to provide any evidence.
+
+Q 18 | bank | 配合題
+stem: The young man is ______ enough to make decisions by himself.
+= B
+~詞義 mature（adj.）(身心上)成熟的
+~原文 The young man is mature enough to make decisions by himself.
+
+Q 19 | bank | 配合題
+stem: When the lion ______, the wolves ran away.
+= E
+~詞義 roar（v.）吼叫
+~原文 When the lion roared, the wolves ran away.
+
+Q 20 | bank | 配合題
+stem: The article ______ the athlete as hardworking and determined, describing the long journey behind her success.
+= F
+~詞義 portray（v.）描繪
+~原文 The article portrayed the athlete as hardworking and determined, describing the long journey behind her success.

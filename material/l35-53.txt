@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 53 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-53 | Unit 53 | Vocabulary practice · Unit 53 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: This area is not open to any tourists or hunters for the purpose of w______e protection.
+= wildlife
+~詞義 wildlife（n.）野生生物
+~原文 This area is not open to any tourists or hunters for the purpose of wildlife protection.
+
+Q 2 | fill | 文意字彙
+stem: The coach s______ted another player for the injured captain during the game.
+= substituted
+~詞義 substitute（v.）以…代替…
+~原文 The coach substituted another player for the injured captain during the game.
+
+Q 3 | fill | 文意字彙
+stem: When peaceful talks failed, the workers r______ted to striking to make their complaints heard.
+= resorted
+~詞義 resort（v.）訴諸於
+~原文 When peaceful talks failed, the workers resorted to striking to make their complaints heard.
+
+Q 4 | fill | 文意字彙
+stem: I s______ed on the doorstep when I entered the restaurant, but, thankfully, I wasn't injured.
+= stumbled
+~詞義 stumble（v.）絆倒
+~原文 I stumbled on the doorstep when I entered the restaurant, but, thankfully, I wasn't injured.
+
+Q 5 | fill | 文意字彙
+stem: One way to distinguish m______ls from other animals is that they usually have hair or fur covering most of their skin.
+= mammals
+~詞義 mammal（n.）哺乳動物
+~原文 One way to distinguish mammals from other animals is that they usually have hair or fur covering most of their skin.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The teacher asked Alex for a(n) ______ for his late assignment, but he couldn't give a convincing explanation.
+A: initiative
+B: justification
+C: specimen
+D: modification
+= B
+~詞義 justification（n.）正當性
+~原文 The teacher asked Alex for a(n) justification for his late assignment, but he couldn't give a convincing explanation.
+
+Q 7 | choice | 選擇題
+stem: The mayor's affair has become a huge ______; many people have predicted that he will not win the next election.
+A: innovation
+B: mattress
+C: prospect
+D: scandal
+= D
+~詞義 scandal（n.）醜聞
+~原文 The mayor's affair has become a huge scandal; many people have predicted that he will not win the next election.
+
+Q 8 | choice | 選擇題
+stem: Scientists have proven that dust may ______ allergies in young children and can even lead to more serious diseases.
+A: institute
+B: rival
+C: modify
+D: trigger
+= D
+~詞義 trigger（v.）引發
+~原文 Scientists have proven that dust may trigger allergies in young children and can even lead to more serious diseases.
+
+Q 9 | choice | 選擇題
+stem: The church offers shelter to the homeless, who can find ______ there on cold winter nights.
+A: series
+B: refuge
+C: scent
+D: tribute
+= B
+~詞義 refuge（n.）避難
+~原文 The church offers shelter to the homeless, who can find refuge there on cold winter nights.
+
+Q 10 | choice | 選擇題
+stem: The ______ of the apartment building got together for a meeting about their new noisy neighbor.
+A: performers
+B: residents
+C: settings
+D: institutions
+= B
+~詞義 resident（n.）居民
+~原文 The residents of the apartment building got together for a meeting about their new noisy neighbor.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: toxic
+B: ratio
+C: preference
+D: residence
+E: overall
+F: innovative
+
+Q 11 | bank | 配合題
+stem: Mina has a(n) ______ for classical music over pop songs because it helps her relax.
+= C
+~詞義 preference（n.）偏好
+~原文 Mina has a(n) preference for classical music over pop songs because it helps her relax.
+
+Q 12 | bank | 配合題
+stem: Terry often comes up with ______ yet practical ideas. That's why everyone likes to have him on their team.
+= F
+~詞義 innovative（adj.）創新的
+~原文 Terry often comes up with innovative yet practical ideas. That's why everyone likes to have him on their team.
+
+Q 13 | bank | 配合題
+stem: The river turned pink because the factory had been discharging ______ wastewater into it.
+= A
+~詞義 toxic（adj.）有毒的
+~原文 The river turned pink because the factory had been discharging toxic wastewater into it.
+
+Q 14 | bank | 配合題
+stem: Though Steve failed mathematics, his ______ performance in the midterm exams wasn't that bad.
+= E
+~詞義 overall（adj.）全面的
+~原文 Though Steve failed mathematics, his overall performance in the midterm exams wasn't that bad.
+
+Q 15 | bank | 配合題
+stem: The ______ of water to flour in this bread recipe is 3 to 5; you need to add three cups of water for every five cups of flour.
+= B
+~詞義 ratio（n.）比例
+~原文 The ratio of water to flour in this bread recipe is 3 to 5; you need to add three cups of water for every five cups of flour.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: penetrate
+B: specimens
+C: likewise
+D: radiation
+E: initiative
+F: marine
+
+Q 16 | bank | 配合題
+stem: The biology teacher has a collection of beautiful butterfly ______ which are kept in glass cases at the back of the classroom.
+= B
+~詞義 specimen（n.）標本
+~原文 The biology teacher has a collection of beautiful butterfly specimens which are kept in glass cases at the back of the classroom.
+
+Q 17 | bank | 配合題
+stem: After the nuclear explosion, many plants and animals in the region became diseased because of the effects of ______.
+= D
+~詞義 radiation（n.）輻射
+~原文 After the nuclear explosion, many plants and animals in the region became diseased because of the effects of radiation.
+
+Q 18 | bank | 配合題
+stem: Sherry was asked to help with the house chores by her mom and her brother ______.
+= C
+~詞義 likewise（adv.）同樣地
+~原文 Sherry was asked to help with the house chores by her mom and her brother likewise.
+
+Q 19 | bank | 配合題
+stem: If you want to impress your boss, try to complete some tasks on your own ______.
+= E
+~詞義 initiative（n.）主動性
+~原文 If you want to impress your boss, try to complete some tasks on your own initiative.
+
+Q 20 | bank | 配合題
+stem: Nowadays, ______ life is threatened by environmental pollution, especially plastic pollution in the sea.
+= F
+~詞義 marine（adj.）海洋的
+~原文 Nowadays, marine life is threatened by environmental pollution, especially plastic pollution in the sea.

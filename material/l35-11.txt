@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 11 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-11 | Unit 11 | Vocabulary practice · Unit 11 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The government invited several marketing experts to devise a s______y to promote domestic tourist attractions.
+= strategy
+~詞義 strategy（n.）策略
+~原文 The government invited several marketing experts to devise a strategy to promote domestic tourist attractions.
+
+Q 2 | fill | 文意字彙
+stem: Edward's recent behavior has been really o______d. We don't understand why he is acting so strangely.
+= odd
+~詞義 odd（adj.）古怪的
+~原文 Edward's recent behavior has been really odd. We don't understand why he is acting so strangely.
+
+Q 3 | fill | 文意字彙
+stem: The woman p______ded that nothing had happened when she heard the bad news.
+= pretended
+~詞義 pretend（v.）假裝
+~原文 The woman pretended that nothing had happened when she heard the bad news.
+
+Q 4 | fill | 文意字彙
+stem: The problem of domestic ______ (violent) can't be solved by arrests and prosecutions alone.
+= violence
+~詞義 violence（n.）暴力
+~原文 The problem of domestic violence can't be solved by arrests and prosecutions alone.
+
+Q 5 | fill | 文意字彙
+stem: If you ______ (multiple) 13 by 7, you get 91.
+= multiply
+~詞義 multiply（v.）乘以
+~原文 If you multiply 13 by 7, you get 91.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Many students rely on their ______ phones not only for communication but also for studying and managing daily tasks.
+A: sticky
+B: bizarre
+C: mobile
+D: rational
+= C
+~詞義 mobile（adj.）可移動的;行動電話(mobile phone)
+~原文 Many students rely on their mobile phones not only for communication but also for studying and managing daily tasks.
+
+Q 7 | choice | 選擇題
+stem: The mysterious ______ was alone, and no one knew where he had come from.
+A: decoration
+B: republic
+C: county
+D: traveler
+= D
+~詞義 traveler（n.）旅行者
+~原文 The mysterious traveler was alone, and no one knew where he had come from.
+
+Q 8 | choice | 選擇題
+stem: William likes to sing a soft and happy ______ to himself as he works in the garden.
+A: stadium
+B: van
+C: tune
+D: cruelty
+= C
+~詞義 tune（n.）曲調
+~原文 William likes to sing a soft and happy tune to himself as he works in the garden.
+
+Q 9 | choice | 選擇題
+stem: It is not easy for a single mother to feed and ______ one child, let alone three.
+A: clothe
+B: wed
+C: squeeze
+D: pump
+= A
+~詞義 clothe（v.）給…穿衣
+~原文 It is not easy for a single mother to feed and clothe one child, let alone three.
+
+Q 10 | choice | 選擇題
+stem: Before Christmas, volunteers ______ the whole campus to give it a holiday atmosphere.
+A: broadcast
+B: decorated
+C: furnished
+D: intended
+= B
+~詞義 decorate（v.）裝飾
+~原文 Before Christmas, volunteers decorated the whole campus to give it a holiday atmosphere.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: cleaner
+B: wedding
+C: unreasonable
+D: stare
+E: photographer
+F: caved
+
+Q 11 | bank | 配合題
+stem: The bride and groom only invited their best friends and relatives to the ______.
+= B
+~詞義 wedding（n.）婚禮
+~原文 The bride and groom only invited their best friends and relatives to the wedding.
+
+Q 12 | bank | 配合題
+stem: Demanding perfect results in every situation is a(n) ______ expectation that only adds stress.
+= C
+~詞義 unreasonable（adj.）不合理的
+~原文 Demanding perfect results in every situation is a(n) unreasonable expectation that only adds stress.
+
+Q 13 | bank | 配合題
+stem: Judy has no time to do house chores, so she wants to hire a(n) ______ to help her tidy the house.
+= A
+~詞義 cleaner（n.）清潔工
+~原文 Judy has no time to do house chores, so she wants to hire a(n) cleaner to help her tidy the house.
+
+Q 14 | bank | 配合題
+stem: After the earthquake, the walls and ceilings of the shopping mall ______ in, and the shoppers were trapped inside until the rescue team arrived.
+= F
+~詞義 cave（v.）塌陷
+~原文 After the earthquake, the walls and ceilings of the shopping mall caved in, and the shoppers were trapped inside until the rescue team arrived.
+
+Q 15 | bank | 配合題
+stem: It is not polite to ______ at a stranger for a long time.
+= D
+~詞義 stare（v.）盯
+~原文 It is not polite to stare at a stranger for a long time.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: brutal
+B: desires
+C: motor
+D: advance
+E: professor
+F: stick
+
+Q 16 | bank | 配合題
+stem: Customers who want to have a meal at this restaurant are advised to make reservations in ______.
+= D
+~詞義 advance（n.）事先
+~原文 Customers who want to have a meal at this restaurant are advised to make reservations in advance.
+
+Q 17 | bank | 配合題
+stem: While most of his companions gave up, James decided to ______ to his goal and finally made his debut (初次登臺) in Seoul with four other new team members.
+= F
+~詞義 stick（v.）堅持
+~原文 While most of his companions gave up, James decided to stick to his goal and finally made his debut (初次登臺) in Seoul with four other new team members.
+
+Q 18 | bank | 配合題
+stem: It is impossible for parents to constantly satisfy the ever-changing ______ of their children for new toys.
+= B
+~詞義 desire（n.）慾望
+~原文 It is impossible for parents to constantly satisfy the ever-changing desires of their children for new toys.
+
+Q 19 | bank | 配合題
+stem: Something must have gotten into the ______. That is why it isn't working properly.
+= C
+~詞義 motor（n.）馬達
+~原文 Something must have gotten into the motor. That is why it isn't working properly.
+
+Q 20 | bank | 配合題
+stem: The ______ asked one student to summarize the main points of the lecture.
+= E
+~詞義 professor（n.）教授
+~原文 The professor asked one student to summarize the main points of the lecture.

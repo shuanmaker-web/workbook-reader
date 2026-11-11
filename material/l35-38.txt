@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 38 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-38 | Unit 38 | Vocabulary practice · Unit 38 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: My father is a person worth trusting because he always f______ls his promises.
+= fulfills
+~詞義 fulfill（v.）實現
+~原文 My father is a person worth trusting because he always fulfills his promises.
+
+Q 2 | fill | 文意字彙
+stem: The singer's s______e hairstyle made her instantly recognizable, even in crowded public places.
+= signature
+~詞義 signature（adj.）獨樹一格的
+~原文 The singer's signature hairstyle made her instantly recognizable, even in crowded public places.
+
+Q 3 | fill | 文意字彙
+stem: We've had c______s rain since this morning, so we canceled our picnic and stayed home watching TV instead.
+= continuous
+~詞義 continuous（adj.）連續的
+~原文 We've had continuous rain since this morning, so we canceled our picnic and stayed home watching TV instead.
+
+Q 4 | fill | 文意字彙
+stem: The w______s statement provides an accurate account of exactly how the accident happened.
+= witness
+~詞義 witness（n.）目擊證人
+~原文 The witness statement provides an accurate account of exactly how the accident happened.
+
+Q 5 | fill | 文意字彙
+stem: Lisa has no t______e for cold weather, so she dreams of moving to Singapore.
+= tolerance
+~詞義 tolerance（n.）忍受力
+~原文 Lisa has no tolerance for cold weather, so she dreams of moving to Singapore.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The firefighters are well trained to deal with ______ situations like this, so there is no need to worry about them.
+A: ashamed
+B: voluntary
+C: urgent
+D: intense
+= C
+~詞義 urgent（adj.）緊急的
+~原文 The firefighters are well trained to deal with urgent situations like this, so there is no need to worry about them.
+
+Q 7 | choice | 選擇題
+stem: The ______ way of solving this problem has been replaced with a more effective solution.
+A: incredible
+B: conventional
+C: triumphant
+D: shameful
+= B
+~詞義 conventional（adj.）傳統的
+~原文 The conventional way of solving this problem has been replaced with a more effective solution.
+
+Q 8 | choice | 選擇題
+stem: Driving a car without ______ your seatbelt is dangerous.
+A: interacting
+B: retreating
+C: tumbling
+D: fastening
+= D
+~詞義 fasten（v.）繫緊
+~原文 Driving a car without fastening your seatbelt is dangerous.
+
+Q 9 | choice | 選擇題
+stem: The choir produced a(n) ______ blend of voices, filling the auditorium with warm, balanced sounds.
+A: intensive
+B: interactive
+C: prominent
+D: harmonious
+= D
+~詞義 harmonious（adj.）和諧的
+~原文 The choir produced a(n) harmonious blend of voices, filling the auditorium with warm, balanced sounds.
+
+Q 10 | choice | 選擇題
+stem: Tony put forward a(n) ______, but his suggestion to reform the organization was rejected.
+A: triumph
+B: intensity
+C: proposal
+D: remedy
+= C
+~詞義 proposal（n.）提案
+~原文 Tony put forward a(n) proposal, but his suggestion to reform the organization was rejected.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: intense
+B: prominence
+C: cooperative
+D: mild
+E: urged
+F: annoyed
+
+Q 11 | bank | 配合題
+stem: The scientist's research achieved international ______ because her discoveries challenged traditional theories.
+= B
+~詞義 prominence（n.）突出;顯著;引人注目
+~原文 The scientist's research achieved international prominence because her discoveries challenged traditional theories.
+
+Q 12 | bank | 配合題
+stem: The lawyer ______ his clients to take further legal action.
+= E
+~詞義 urge（v.）敦促;力勸
+~原文 The lawyer urged his clients to take further legal action.
+
+Q 13 | bank | 配合題
+stem: Today is a pleasant, ______ spring day, so we should go for a stroll outdoors.
+= D
+~詞義 mild（adj.）溫和的
+~原文 Today is a pleasant, mild spring day, so we should go for a stroll outdoors.
+
+Q 14 | bank | 配合題
+stem: Last night, there was a mosquito in my room, and it ______ me greatly.
+= F
+~詞義 annoy（v.）煩擾
+~原文 Last night, there was a mosquito in my room, and it annoyed me greatly.
+
+Q 15 | bank | 配合題
+stem: The pain was so ______ that it left the poor patient unable to sit still.
+= A
+~詞義 intense（adj.）強烈的
+~原文 The pain was so intense that it left the poor patient unable to sit still.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: overcome
+B: exception
+C: categorizes
+D: privilege
+E: differ
+F: devices
+
+Q 16 | bank | 配合題
+stem: The store sells all kinds of electronic ______, such as computers, digital cameras, and televisions.
+= F
+~詞義 device（n.）設備
+~原文 The store sells all kinds of electronic devices, such as computers, digital cameras, and televisions.
+
+Q 17 | bank | 配合題
+stem: Though the problem seems complicated, we must have faith that we'll be able to ______ it.
+= A
+~詞義 overcome（v.）克服
+~原文 Though the problem seems complicated, we must have faith that we'll be able to overcome it.
+
+Q 18 | bank | 配合題
+stem: Many people believe that access to education should not be a(n) ______ but a right for all.
+= D
+~詞義 privilege（n.）特權
+~原文 Many people believe that access to education should not be a(n) privilege but a right for all.
+
+Q 19 | bank | 配合題
+stem: Shopping habits of men and women ______ greatly.
+= E
+~詞義 differ（v.）不同
+~原文 Shopping habits of men and women differ greatly.
+
+Q 20 | bank | 配合題
+stem: The teacher often ______ assignments by difficulty to help her students track their progress and manage their work.
+= C
+~詞義 categorize（v.）分類
+~原文 The teacher often categorizes assignments by difficulty to help her students track their progress and manage their work.

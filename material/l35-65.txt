@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 65 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-65 | Unit 65 | Vocabulary practice · Unit 65 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Ken had achieved financial a______y before he even graduated. He supports himself without help from his family.
+= autonomy
+~詞義 autonomy（n.）自主性
+~原文 Ken had achieved financial autonomy before he even graduated. He supports himself without help from his family.
+
+Q 2 | fill | 文意字彙
+stem: Even though the pencil case is old and worn, I still keep it for its s______l value.
+= sentimental
+~詞義 sentimental（adj.）情感上的
+~原文 Even though the pencil case is old and worn, I still keep it for its sentimental value.
+
+Q 3 | fill | 文意字彙
+stem: The mystery began to u______d as detectives uncovered new clues hidden among the victim's belongings; the murderer would be revealed soon.
+= unfold
+~詞義 unfold（v.）展現
+~原文 The mystery began to unfold as detectives uncovered new clues hidden among the victim's belongings; the murderer would be revealed soon.
+
+Q 4 | fill | 文意字彙
+stem: The graduates couldn't go on the graduation trip because the government had not a______zed it.
+= authorized
+~詞義 authorize（v.）授權;許可
+~原文 The graduates couldn't go on the graduation trip because the government had not authorized it.
+
+Q 5 | fill | 文意字彙
+stem: Having t______l knowledge and having practical experience are two very different things.
+= theoretical
+~詞義 theoretical（adj.）理論的
+~原文 Having theoretical knowledge and having practical experience are two very different things.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Betty had surgery to remove the ______ in her breast. Thankfully, the surgery was very successful.
+A: mentor
+B: pitcher
+C: server
+D: tumor
+= D
+~詞義 tumor（n.）腫瘤
+~原文 Betty had surgery to remove the tumor in her breast. Thankfully, the surgery was very successful.
+
+Q 7 | choice | 選擇題
+stem: Lowry arrived at the ______ point, but the taxi he had ordered was nowhere in sight.
+A: cocaine
+B: agenda
+C: pickup
+D: tuna
+= C
+~詞義 pickup（n.）接(人)
+~原文 Lowry arrived at the pickup point, but the taxi he had ordered was nowhere in sight.
+
+Q 8 | choice | 選擇題
+stem: Scientists have come up with many ______ about how the universe was formed, but none of them have been proven yet.
+A: pipelines
+B: hypotheses
+C: ideologies
+D: shareholders
+= B
+~詞義 hypothesis（n.）假設
+~原文 Scientists have come up with many hypotheses about how the universe was formed, but none of them have been proven yet.
+
+Q 9 | choice | 選擇題
+stem: The drug has passed ______ trials and is now ready for marketing.
+A: adverse
+B: clinical
+C: explicit
+D: sheer
+= B
+~詞義 clinical（adj.）臨床的
+~原文 The drug has passed clinical trials and is now ready for marketing.
+
+Q 10 | choice | 選擇題
+stem: The two companies have decided to ______, which should give them an advantage over their other competitors.
+A: cling
+B: merge
+C: shield
+D: unlock
+= B
+~詞義 merge（v.）合併
+~原文 The two companies have decided to merge, which should give them an advantage over their other competitors.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: shielding
+B: thereby
+C: clusters
+D: coffins
+E: fleeting
+F: fluency
+
+Q 11 | bank | 配合題
+stem: Billy moved into an apartment right next to his office, ______ saving a lot of time on commuting.
+= B
+~詞義 thereby（adv.）因此
+~原文 Billy moved into an apartment right next to his office, thereby saving a lot of time on commuting.
+
+Q 12 | bank | 配合題
+stem: Rick has studied German for a few years, yet he still hasn't achieved his desired level of ______.
+= F
+~詞義 fluency（n.）流利
+~原文 Rick has studied German for a few years, yet he still hasn't achieved his desired level of fluency.
+
+Q 13 | bank | 配合題
+stem: Elly caught a(n) ______ glimpse of the shooting star before it disappeared behind the clouds.
+= E
+~詞義 fleeting（adj.）稍縱即逝的
+~原文 Elly caught a(n) fleeting glimpse of the shooting star before it disappeared behind the clouds.
+
+Q 14 | bank | 配合題
+stem: The thick trees acted as a barrier, ______ the tent from the harsh winter wind.
+= A
+~詞義 shield（v.）保護
+~原文 The thick trees acted as a barrier, shielding the tent from the harsh winter wind.
+
+Q 15 | bank | 配合題
+stem: The students were standing in ______ around the classroom, but they all went back to their desks when the teacher came in.
+= C
+~詞義 cluster（n.）群
+~原文 The students were standing in clusters around the classroom, but they all went back to their desks when the teacher came in.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: metropolitan
+B: bias
+C: pirated
+D: icon
+E: eloquent
+F: unprecedented
+
+Q 16 | bank | 配合題
+stem: This year, there is a(n) ______ number of students applying for overseas exchange programs.
+= F
+~詞義 unprecedented（adj.）史無前例的
+~原文 This year, there is a(n) unprecedented number of students applying for overseas exchange programs.
+
+Q 17 | bank | 配合題
+stem: The company strengthened copyright protections after discovering ______ versions of their products on the market.
+= C
+~詞義 pirate（v.）盜版的
+~原文 The company strengthened copyright protections after discovering pirated versions of their products on the market.
+
+Q 18 | bank | 配合題
+stem: The student representative gave a(n) ______ speech, and everyone stood up to applaud her.
+= E
+~詞義 eloquent（adj.）有說服力的
+~原文 The student representative gave a(n) eloquent speech, and everyone stood up to applaud her.
+
+Q 19 | bank | 配合題
+stem: We should be objective and not let personal ______ affect our judgements.
+= B
+~詞義 bias（n.）偏見
+~原文 We should be objective and not let personal bias affect our judgements.
+
+Q 20 | bank | 配合題
+stem: The idol is a huge pop ______ in Asia. Many people have been inspired by her music.
+= D
+~詞義 icon（n.）偶像
+~原文 The idol is a huge pop icon in Asia. Many people have been inspired by her music.

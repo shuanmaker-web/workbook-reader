@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 23 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-23 | Unit 23 | Vocabulary practice · Unit 23 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The firefighter was awarded a medal for his b______y. He had gone into a burning house and rescued a baby.
+= bravery
+~詞義 bravery（n.）勇氣;勇敢
+~原文 The firefighter was awarded a medal for his bravery. He had gone into a burning house and rescued a baby.
+
+Q 2 | fill | 文意字彙
+stem: Little Johnny d______es all vegetables. He refuses to eat any of them.
+= dislikes
+~詞義 dislike（v.）討厭
+~原文 Little Johnny dislikes all vegetables. He refuses to eat any of them.
+
+Q 3 | fill | 文意字彙
+stem: The weather in Los Angeles is dry and warm in the summer, with only o______l showers.
+= occasional
+~詞義 occasional（adj.）偶爾的
+~原文 The weather in Los Angeles is dry and warm in the summer, with only occasional showers.
+
+Q 4 | fill | 文意字彙
+stem: The store clerk remained patient even when a c______r complained loudly about the service.
+= customer
+~詞義 customer（n.）顧客
+~原文 The store clerk remained patient even when a customer complained loudly about the service.
+
+Q 5 | fill | 文意字彙
+stem: Many citizens expressed their concerns about how the g______t was handling environmental issues.
+= government
+~詞義 government（n.）政府
+~原文 Many citizens expressed their concerns about how the government was handling environmental issues.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: It is easy to spoil a relationship, but it is very difficult to ______ one.
+A: tease
+B: scrub
+C: mend
+D: hug
+= C
+~詞義 mend（v.）修補
+~原文 It is easy to spoil a relationship, but it is very difficult to mend one.
+
+Q 7 | choice | 選擇題
+stem: Our company provides the best possible service to our ______, and that is why many of them have been with us for many years.
+A: lords
+B: beads
+C: clients
+D: feathers
+= C
+~詞義 client（n.）客戶
+~原文 Our company provides the best possible service to our clients, and that is why many of them have been with us for many years.
+
+Q 8 | choice | 選擇題
+stem: The tired worker took a break and went out to smoke a ______.
+A: timber
+B: feather
+C: cigarette
+D: lollipop
+= C
+~詞義 cigarette（n.）香菸
+~原文 The tired worker took a break and went out to smoke a cigarette.
+
+Q 9 | choice | 選擇題
+stem: On the table in the middle of the dining room is a ______ holding several red roses.
+A: pine
+B: vase
+C: mop
+D: hell
+= B
+~詞義 vase（n.）花瓶
+~原文 On the table in the middle of the dining room is a vase holding several red roses.
+
+Q 10 | choice | 選擇題
+stem: Mr. Lee took his children to the ______ on Sunday. They especially liked the clown and the magic tricks that he performed.
+A: occasion
+B: tobacco
+C: circus
+D: lifetime
+= C
+~詞義 circus（n.）馬戲團
+~原文 Mr. Lee took his children to the circus on Sunday. They especially liked the clown and the magic tricks that he performed.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: beast
+B: monk
+C: lighthouse
+D: enjoyable
+E: occasion
+F: brass
+
+Q 11 | bank | 配合題
+stem: The weekend hike was so ______ that the couple planned to visit the same place again next month.
+= D
+~詞義 enjoyable（adj.）令人愉快的
+~原文 The weekend hike was so enjoyable that the couple planned to visit the same place again next month.
+
+Q 12 | bank | 配合題
+stem: The ______ is highly respected in this village, and many people go to him for life advice.
+= B
+~詞義 monk（n.）僧侶
+~原文 The monk is highly respected in this village, and many people go to him for life advice.
+
+Q 13 | bank | 配合題
+stem: The ______ shone its light out to sea, guiding ships away from danger.
+= C
+~詞義 lighthouse（n.）燈塔
+~原文 The lighthouse shone its light out to sea, guiding ships away from danger.
+
+Q 14 | bank | 配合題
+stem: The hunter followed the trail of the ______ and finally killed it.
+= A
+~詞義 beast（n.）野獸
+~原文 The hunter followed the trail of the beast and finally killed it.
+
+Q 15 | bank | 配合題
+stem: The earrings look expensive, but they are actually made of ______.
+= F
+~詞義 brass（n.）黃銅
+~原文 The earrings look expensive, but they are actually made of brass.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: hugged
+B: lifetime
+C: hell
+D: governed
+E: unacceptable
+F: feathers
+
+Q 16 | bank | 配合題
+stem: One way to distinguish between male and female birds is to look at their ______. Often males have colorful ones while females don't.
+= F
+~詞義 feather（n.）羽毛
+~原文 One way to distinguish between male and female birds is to look at their feathers. Often males have colorful ones while females don't.
+
+Q 17 | bank | 配合題
+stem: The elderly woman was presented with an award for a(n) ______ of helping the poor.
+= B
+~詞義 lifetime（n.）一生
+~原文 The elderly woman was presented with an award for a(n) lifetime of helping the poor.
+
+Q 18 | bank | 配合題
+stem: John found it ______ that people kept spreading rumors without checking the facts first.
+= E
+~詞義 unacceptable（adj.）無法接受的
+~原文 John found it unacceptable that people kept spreading rumors without checking the facts first.
+
+Q 19 | bank | 配合題
+stem: There is no way for people to know for sure whether heaven and ______ exist or where they are.
+= C
+~詞義 hell（n.）地獄
+~原文 There is no way for people to know for sure whether heaven and hell exist or where they are.
+
+Q 20 | bank | 配合題
+stem: The mayor has ______ his city well, and many citizens support him loyally.
+= D
+~詞義 govern（v.）治理
+~原文 The mayor has governed his city well, and many citizens support him loyally.

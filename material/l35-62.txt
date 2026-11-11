@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 62 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-62 | Unit 62 | Vocabulary practice · Unit 62 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The hot-air balloon c______l is a popular event in the district. Every year, thousands of tourists come to attend the celebration.
+= carnival
+~詞義 carnival（n.）嘉年華
+~原文 The hot-air balloon carnival is a popular event in the district. Every year, thousands of tourists come to attend the celebration.
+
+Q 2 | fill | 文意字彙
+stem: As the manager, James's job is to o______e all the sales teams and make sure that they reach their goals.
+= oversee
+~詞義 oversee（v.）監督
+~原文 As the manager, James's job is to oversee all the sales teams and make sure that they reach their goals.
+
+Q 3 | fill | 文意字彙
+stem: There is a s______e color difference between the two bags: One is slightly darker than the other.
+= subtle
+~詞義 subtle（adj.）細微的
+~原文 There is a subtle color difference between the two bags: One is slightly darker than the other.
+
+Q 4 | fill | 文意字彙
+stem: The city is building new h______g units for young people who can't afford to buy their own apartments.
+= housing
+~詞義 housing（n.）住宅(總稱)
+~原文 The city is building new housing units for young people who can't afford to buy their own apartments.
+
+Q 5 | fill | 文意字彙
+stem: Linda had so much fun at the dinner party that she decided to p______g her stay by spending the night at her friend's place.
+= prolong
+~詞義 prolong（v.）延長
+~原文 Linda had so much fun at the dinner party that she decided to prolong her stay by spending the night at her friend's place.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: There is a(n) ______ resemblance between Tom and his father, and they are often mistaken for each other.
+A: abnormal
+B: gross
+C: striking
+D: virtual
+= C
+~詞義 striking（adj.）驚人的
+~原文 There is a(n) striking resemblance between Tom and his father, and they are often mistaken for each other.
+
+Q 7 | choice | 選擇題
+stem: Many people are calling for ______ reform so that the lawmaking process can be more efficient.
+A: legislative
+B: muscular
+C: subsequent
+D: trivial
+= A
+~詞義 legislative（adj.）法律的;立法的
+~原文 Many people are calling for legislative reform so that the lawmaking process can be more efficient.
+
+Q 8 | choice | 選擇題
+stem: Losing both her parents in a car accident caused mental ______ to Debbie, and she still hasn't recovered from it after all these years.
+A: custody
+B: insight
+C: portfolio
+D: trauma
+= D
+~詞義 trauma（n.）創傷
+~原文 Losing both her parents in a car accident caused mental trauma to Debbie, and she still hasn't recovered from it after all these years.
+
+Q 9 | choice | 選擇題
+stem: I was the last person to ______ my final exam answer sheet to the teacher. I didn't even finish the exam paper when the bell rang.
+A: howl
+B: inherit
+C: riot
+D: submit
+= D
+~詞義 submit（v.）提交
+~原文 I was the last person to submit my final exam answer sheet to the teacher. I didn't even finish the exam paper when the bell rang.
+
+Q 10 | choice | 選擇題
+stem: The house has a spacious ______ where children can run around and have fun. It is more suitable than an apartment for a family.
+A: backyard
+B: canal
+C: debut
+D: peasant
+= A
+~詞義 backyard（n.）後院
+~原文 The house has a spacious backyard where children can run around and have fun. It is more suitable than an apartment for a family.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: abruptly
+B: ballot
+C: myth
+D: canvas
+E: risky
+F: virtually
+
+Q 11 | bank | 配合題
+stem: Many still believe the ______ that eating after exercising is harmful, although science has disproved that claim.
+= C
+~詞義 myth（n.）迷思
+~原文 Many still believe the myth that eating after exercising is harmful, although science has disproved that claim.
+
+Q 12 | bank | 配合題
+stem: Mandy insisted on meeting a stranger she had met online even though she knew it was a(n) ______ thing to do.
+= E
+~詞義 risky（adj.）有風險的
+~原文 Mandy insisted on meeting a stranger she had met online even though she knew it was a(n) risky thing to do.
+
+Q 13 | bank | 配合題
+stem: With modern technology, it has become ______ impossible to hide your online actions completely.
+= F
+~詞義 virtually（adv.）幾乎就是
+~原文 With modern technology, it has become virtually impossible to hide your online actions completely.
+
+Q 14 | bank | 配合題
+stem: The concert stopped ______ when the fire alarm activated, and everyone left right away.
+= A
+~詞義 abruptly（adv.）突然地
+~原文 The concert stopped abruptly when the fire alarm activated, and everyone left right away.
+
+Q 15 | bank | 配合題
+stem: When voting, we must not show others our ______ so as not to violate the principle of secrecy.
+= B
+~詞義 ballot（n.）選票
+~原文 When voting, we must not show others our ballot so as not to violate the principle of secrecy.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: abortion
+B: provisions
+C: grossed
+D: debris
+E: utility
+F: inherited
+
+Q 16 | bank | 配合題
+stem: The big earthquake shook the house, and many things dropped to the ground. Now, there is ______ all over the floor.
+= D
+~詞義 debris（n.）殘骸
+~原文 The big earthquake shook the house, and many things dropped to the ground. Now, there is debris all over the floor.
+
+Q 17 | bank | 配合題
+stem: The hikers carried enough ______ to survive two nights in the forest without outside support.
+= B
+~詞義 provision（n.）糧食
+~原文 The hikers carried enough provisions to survive two nights in the forest without outside support.
+
+Q 18 | bank | 配合題
+stem: Sam ______ a fortune from his grandfather, but he does not intend to use all the money for himself.
+= F
+~詞義 inherit（v.）繼承
+~原文 Sam inherited a fortune from his grandfather, but he does not intend to use all the money for himself.
+
+Q 19 | bank | 配合題
+stem: Some people are against ______ for religious reasons, but others believe that a woman should have the right to make the decision under certain circumstances.
+= A
+~詞義 abortion（n.）墮胎
+~原文 Some people are against abortion for religious reasons, but others believe that a woman should have the right to make the decision under certain circumstances.
+
+Q 20 | bank | 配合題
+stem: The movie ______ more than 13 billion dollars worldwide, making it the most successful film of the year.
+= C
+~詞義 gross（v.）總收入為
+~原文 The movie grossed more than 13 billion dollars worldwide, making it the most successful film of the year.

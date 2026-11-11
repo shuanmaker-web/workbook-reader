@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 51 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-51 | Unit 51 | Vocabulary practice · Unit 51 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The government have made many new laws to prevent d______n in the workplace, whether it is based on gender, age, or religion.
+= discrimination
+~詞義 discrimination（n.）歧視
+~原文 The government have made many new laws to prevent discrimination in the workplace, whether it is based on gender, age, or religion.
+
+Q 2 | fill | 文意字彙
+stem: Tom was asked to e______e on his argument so the class could understand his reasoning more clearly.
+= elaborate
+~詞義 elaborate（v.）詳盡闡述
+~原文 Tom was asked to elaborate on his argument so the class could understand his reasoning more clearly.
+
+Q 3 | fill | 文意字彙
+stem: It takes Mr. Wang two hours to c______e between his house and office, and sometimes even longer if the traffic is heavy.
+= commute
+~詞義 commute（v.）通勤
+~原文 It takes Mr. Wang two hours to commute between his house and office, and sometimes even longer if the traffic is heavy.
+
+Q 4 | fill | 文意字彙
+stem: Drinking water that is c______ed by heavy metals may lead to serious health problems, such as skin diseases, infertility, or even cancer.
+= contaminated
+~詞義 contaminate（adj.）汙染
+~原文 Drinking water that is contaminated by heavy metals may lead to serious health problems, such as skin diseases, infertility, or even cancer.
+
+Q 5 | fill | 文意字彙
+stem: Ted is a successful a______t who has designed many skyscrapers and famous buildings that now stand in big cities around the world.
+= architect
+~詞義 architect（n.）建築師
+~原文 Ted is a successful architect who has designed many skyscrapers and famous buildings that now stand in big cities around the world.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Hawaii is a popular tourist ______. In particular, many newlyweds like to go there for their honeymoon.
+A: consumption
+B: destination
+C: execution
+D: conviction
+= B
+~詞義 destination（n.）目的地
+~原文 Hawaii is a popular tourist destination. In particular, many newlyweds like to go there for their honeymoon.
+
+Q 7 | choice | 選擇題
+stem: Wendy has decided to ______ her study room into a second bedroom so that there will be a place for her parents to sleep when they visit her.
+A: depict
+B: conceal
+C: convert
+D: exceed
+= C
+~詞義 convert（v.）改裝
+~原文 Wendy has decided to convert her study room into a second bedroom so that there will be a place for her parents to sleep when they visit her.
+
+Q 8 | choice | 選擇題
+stem: Vegetables are rich in vitamins and ______. You should eat more vegetables to maintain a healthy diet.
+A: fiber
+B: distinction
+C: extension
+D: architecture
+= A
+~詞義 fiber（n.）纖維
+~原文 Vegetables are rich in vitamins and fiber. You should eat more vegetables to maintain a healthy diet.
+
+Q 9 | choice | 選擇題
+stem: The ______ part of the house looks ancient, but the inside of the building has been remodeled, so everything is new and comfortable.
+A: corporate
+B: distinctive
+C: excessive
+D: external
+= D
+~詞義 external（adj.）外部的
+~原文 The external part of the house looks ancient, but the inside of the building has been remodeled, so everything is new and comfortable.
+
+Q 10 | choice | 選擇題
+stem: When you sign any legal ______, be sure to read everything carefully to protect your rights.
+A: conversion
+B: commuter
+C: executive
+D: document
+= D
+~詞義 document（n.）文件
+~原文 When you sign any legal document, be sure to read everything carefully to protect your rights.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: accord
+B: contagious
+C: contemporary
+D: cognitive
+E: distinctive
+F: executive
+
+Q 11 | bank | 配合題
+stem: The artist used bold shapes and colors, giving his paintings a(n) ______ style that viewers would never forget.
+= E
+~詞義 distinctive（adj.）獨特的
+~原文 The artist used bold shapes and colors, giving his paintings a(n) distinctive style that viewers would never forget.
+
+Q 12 | bank | 配合題
+stem: Vivian prefers classical music to ______ music; she simply can't stand rock and pop music.
+= C
+~詞義 contemporary（adj.）當代的
+~原文 Vivian prefers classical music to contemporary music; she simply can't stand rock and pop music.
+
+Q 13 | bank | 配合題
+stem: ______ positions require not only experience but also strong communication and problem-solving skills.
+= F
+~詞義 executive（adj.）經營管理的;有權執行決策的
+~原文 Executive positions require not only experience but also strong communication and problem-solving skills.
+
+Q 14 | bank | 配合題
+stem: The disease is highly ______. In order to stop it from spreading, the government is urging people to get vaccinated.
+= B
+~詞義 contagious（adj.）(疾病)傳染的
+~原文 The disease is highly contagious. In order to stop it from spreading, the government is urging people to get vaccinated.
+
+Q 15 | bank | 配合題
+stem: Jason is an honorable businessperson; everything he does is in ______ with the law, and he never cheats his clients.
+= A
+~詞義 accord（n.）(與…)一致
+~原文 Jason is an honorable businessperson; everything he does is in accord with the law, and he never cheats his clients.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: altered
+B: characterized
+C: capability
+D: corporate
+E: extensive
+F: conformed
+
+Q 16 | bank | 配合題
+stem: Protecting public resources should be treated as a(n) ______ responsibility in every community.
+= D
+~詞義 corporate（adj.）全體的
+~原文 Protecting public resources should be treated as a(n) corporate responsibility in every community.
+
+Q 17 | bank | 配合題
+stem: Leo did ______ research on the features and prices of different cars before he finally bought one.
+= E
+~詞義 extensive（adj.）廣泛的
+~原文 Leo did extensive research on the features and prices of different cars before he finally bought one.
+
+Q 18 | bank | 配合題
+stem: We ______ our travel plans at the last minute because a big typhoon is coming. We will just stay at the hotel and do some shopping.
+= A
+~詞義 alter（v.）改變
+~原文 We altered our travel plans at the last minute because a big typhoon is coming. We will just stay at the hotel and do some shopping.
+
+Q 19 | bank | 配合題
+stem: Roger's parents always believed that he had the ______ to achieve great success in music, and sure enough, he is now a world-renowned pianist.
+= C
+~詞義 capability（n.）能力
+~原文 Roger's parents always believed that he had the capability to achieve great success in music, and sure enough, he is now a world-renowned pianist.
+
+Q 20 | bank | 配合題
+stem: The director's movies are ______ by a dark sense of humor and surprising plot twists.
+= B
+~詞義 characterize（v.）具有…的特徵
+~原文 The director's movies are characterized by a dark sense of humor and surprising plot twists.

@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 20 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-20 | Unit 20 | Vocabulary practice · Unit 20 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: It is illegal to d______p any kind of trash or waste into rivers in our country.
+= dump
+~詞義 dump（v.）傾倒(廢棄物)
+~原文 It is illegal to dump any kind of trash or waste into rivers in our country.
+
+Q 2 | fill | 文意字彙
+stem: The current mayor is very confident that he will win the e______n again.
+= election
+~詞義 election（n.）選舉
+~原文 The current mayor is very confident that he will win the election again.
+
+Q 3 | fill | 文意字彙
+stem: My mother always treats us with patience and kindness, and she seldom loses her t______r.
+= temper
+~詞義 temper（n.）脾氣
+~原文 My mother always treats us with patience and kindness, and she seldom loses her temper.
+
+Q 4 | fill | 文意字彙
+stem: A lack of exercise and bad eating habits may w______n your body and lead to health problems.
+= weaken
+~詞義 weaken（v.）使虛弱
+~原文 A lack of exercise and bad eating habits may weaken your body and lead to health problems.
+
+Q 5 | fill | 文意字彙
+stem: We should be t______l for what we have and try not to waste anything.
+= thankful
+~詞義 thankful（adj.）感謝的
+~原文 We should be thankful for what we have and try not to waste anything.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Bob hasn't cleaned his desk for a long time, so it is covered in ______.
+A: bush
+B: yolk
+C: chest
+D: dust
+= D
+~詞義 dust（n.）灰塵
+~原文 Bob hasn't cleaned his desk for a long time, so it is covered in dust.
+
+Q 7 | choice | 選擇題
+stem: Most of the products manufactured in this factory are for ______. Only a small percentage are for domestic use.
+A: cherry
+B: shovel
+C: export
+D: tide
+= C
+~詞義 export（n.）出口
+~原文 Most of the products manufactured in this factory are for export. Only a small percentage are for domestic use.
+
+Q 8 | choice | 選擇題
+stem: For their tenth wedding anniversary, the Wangs plan to ______ at a very fancy restaurant.
+A: sigh
+B: buzz
+C: elect
+D: dine
+= D
+~詞義 dine（v.）用餐
+~原文 For their tenth wedding anniversary, the Wangs plan to dine at a very fancy restaurant.
+
+Q 9 | choice | 選擇題
+stem: The lifeguard's loud ______ immediately caught the swimmers' attention and stopped them from going too far.
+A: whistle
+B: zipper
+C: cupboard
+D: bushfire
+= A
+~詞義 whistle（n.）哨聲
+~原文 The lifeguard's loud whistle immediately caught the swimmers' attention and stopped them from going too far.
+
+Q 10 | choice | 選擇題
+stem: Miranda ______ and shook her head. She didn't know how to deal with the problem.
+A: buzzed
+B: sighed
+C: dipped
+D: exported
+= B
+~詞義 sigh（v.）嘆氣
+~原文 Miranda sighed and shook her head. She didn't know how to deal with the problem.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: tailor
+B: buzzing
+C: tent
+D: zone
+E: dip
+F: dusting
+
+Q 11 | bank | 配合題
+stem: There was a fly ______ around our heads all morning.
+= B
+~詞義 buzz（v.）嗡嗡叫
+~原文 There was a fly buzzing around our heads all morning.
+
+Q 12 | bank | 配合題
+stem: To make French toast, you must first ______ the toast in a mixture of eggs and milk and then fry it.
+= E
+~詞義 dip（v.）沾;浸
+~原文 To make French toast, you must first dip the toast in a mixture of eggs and milk and then fry it.
+
+Q 13 | bank | 配合題
+stem: My grandfather doesn't wear any store-bought clothes. Instead, he has a ______ make all his clothes for him.
+= A
+~詞義 tailor（n.）裁縫師
+~原文 My grandfather doesn't wear any store-bought clothes. Instead, he has a tailor make all his clothes for him.
+
+Q 14 | bank | 配合題
+stem: We have pitched our ______ next to the lake.
+= C
+~詞義 tent（n.）帳篷
+~原文 We have pitched our tent next to the lake.
+
+Q 15 | bank | 配合題
+stem: Sandra decided to step out of her comfort ______ and participate in a public speech contest.
+= D
+~詞義 zone（n.）舒適圈(comfort zone)
+~原文 Sandra decided to step out of her comfort zone and participate in a public speech contest.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: shepherd
+B: wisdom
+C: cheeks
+D: dirty
+E: shiny
+F: thumbs
+
+Q 16 | bank | 配合題
+stem: The director gave the team the ______ up after seeing how well they handled the presentation.
+= F
+~詞義 thumb（n.）對某人豎起大拇指(表示讚許 give sb. the thumbs up)
+~原文 The director gave the team the thumbs up after seeing how well they handled the presentation.
+
+Q 17 | bank | 配合題
+stem: Every day, the ______ leads his flock of sheep to the top of the hill in the morning.
+= A
+~詞義 shepherd（n.）牧羊人
+~原文 Every day, the shepherd leads his flock of sheep to the top of the hill in the morning.
+
+Q 18 | bank | 配合題
+stem: Whenever Lucy sees the boy she likes, her ______ turn red with shyness.
+= C
+~詞義 cheek（n.）臉頰
+~原文 Whenever Lucy sees the boy she likes, her cheeks turn red with shyness.
+
+Q 19 | bank | 配合題
+stem: It is the maid's job to wipe the floor until it is clean and ______.
+= E
+~詞義 shiny（adj.）發光的
+~原文 It is the maid's job to wipe the floor until it is clean and shiny.
+
+Q 20 | bank | 配合題
+stem: With age comes ______, but only for those willing to learn from their mistakes.
+= B
+~詞義 wisdom（n.）智慧
+~原文 With age comes wisdom, but only for those willing to learn from their mistakes.

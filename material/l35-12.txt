@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 12 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-12 | Unit 12 | Vocabulary practice · Unit 12 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Before the flight took off, the p______rs were asked to turn off their electronic devices or put them in airplane mode.
+= passengers
+~詞義 passenger（n.）乘客
+~原文 Before the flight took off, the passengers were asked to turn off their electronic devices or put them in airplane mode.
+
+Q 2 | fill | 文意字彙
+stem: Regular exercise and balanced meals helped Ken maintain a s______m and healthy body.
+= slim
+~詞義 slim（adj.）苗條纖細的
+~原文 Regular exercise and balanced meals helped Ken maintain a slim and healthy body.
+
+Q 3 | fill | 文意字彙
+stem: After watching the h______r movie, Jill couldn't sleep alone that night.
+= horror
+~詞義 horror（n.）恐怖
+~原文 After watching the horror movie, Jill couldn't sleep alone that night.
+
+Q 4 | fill | 文意字彙
+stem: The reasons behind feelings of ______ (jealous) are often insecurity, low self-esteem, and greed.
+= jealousy
+~詞義 jealousy（n.）嫉妒
+~原文 The reasons behind feelings of jealousy are often insecurity, low self-esteem, and greed.
+
+Q 5 | fill | 文意字彙
+stem: The classroom has been painted in bright colors in order to create a ______ (cheer) learning atmosphere.
+= cheerful
+~詞義 cheerful（adj.）快樂的
+~原文 The classroom has been painted in bright colors in order to create a cheerful learning atmosphere.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Don't ______ to ask your parents if you need help with your homework.
+A: confirm
+B: explode
+C: hesitate
+D: invent
+= C
+~詞義 hesitate（v.）猶豫
+~原文 Don't hesitate to ask your parents if you need help with your homework.
+
+Q 7 | choice | 選擇題
+stem: The ______ of trains has benefitted people a lot by saving them considerable time when traveling long distances.
+A: dinosaur
+B: explosion
+C: invention
+D: hesitation
+= C
+~詞義 invention（n.）發明
+~原文 The invention of trains has benefitted people a lot by saving them considerable time when traveling long distances.
+
+Q 8 | choice | 選擇題
+stem: The athlete ______ taking any drugs, claiming that a mistake must have been made in the test results.
+A: denied
+B: invented
+C: exploded
+D: horrified
+= A
+~詞義 deny（v.）否認
+~原文 The athlete denied taking any drugs, claiming that a mistake must have been made in the test results.
+
+Q 9 | choice | 選擇題
+stem: Psychologists argue that personality is developed through the ______ interactions of a person with his or her environment and the people in it.
+A: skinny
+B: fearful
+C: hesitant
+D: ongoing
+= D
+~詞義 ongoing（adj.）不間斷的
+~原文 Psychologists argue that personality is developed through the ongoing interactions of a person with his or her environment and the people in it.
+
+Q 10 | choice | 選擇題
+stem: Words can be used to inspire others, but they can also be used like ______ and cause harm.
+A: onions
+B: weapons
+C: towers
+D: garages
+= B
+~詞義 weapon（n.）武器
+~原文 Words can be used to inspire others, but they can also be used like weapons and cause harm.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: flash
+B: elevators
+C: floods
+D: inventor
+E: hesitant
+F: missing
+
+Q 11 | bank | 配合題
+stem: Thomas Edison was a great ______ who introduced the electric light bulb to the world.
+= D
+~詞義 inventor（n.）發明家
+~原文 Thomas Edison was a great inventor who introduced the electric light bulb to the world.
+
+Q 12 | bank | 配合題
+stem: Despite the convenience of ______, they require regular maintenance by trained professionals.
+= B
+~詞義 elevator（n.）電梯
+~原文 Despite the convenience of elevators, they require regular maintenance by trained professionals.
+
+Q 13 | bank | 配合題
+stem: It was a relief for the girl to find out that her ______ ID card had been found.
+= F
+~詞義 missing（adj.）遺失的
+~原文 It was a relief for the girl to find out that her missing ID card had been found.
+
+Q 14 | bank | 配合題
+stem: The most common natural disasters in Taiwan are ______, mudslides, and earthquakes.
+= C
+~詞義 flood（n.）水災
+~原文 The most common natural disasters in Taiwan are floods, mudslides, and earthquakes.
+
+Q 15 | bank | 配合題
+stem: The memory of her childhood came back in a(n) ______ when Nancy smelled her grandmother's cooking.
+= A
+~詞義 flash（n.）瞬間;即刻(in a flash)
+~原文 The memory of her childhood came back in a(n) flash when Nancy smelled her grandmother's cooking.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: semester
+B: hesitation
+C: quit
+D: skinny
+E: talkative
+F: cropped
+
+Q 16 | bank | 配合題
+stem: As soon as the firefighters received the phone call, they rushed to the fire scene without ______.
+= B
+~詞義 hesitation（n.）猶豫
+~原文 As soon as the firefighters received the phone call, they rushed to the fire scene without hesitation.
+
+Q 17 | bank | 配合題
+stem: The editor ______ the unnecessary details from the image to make it more focused and professional.
+= F
+~詞義 crop（v.）裁剪
+~原文 The editor cropped the unnecessary details from the image to make it more focused and professional.
+
+Q 18 | bank | 配合題
+stem: This ______, Joanna is taking a course on modern American novels.
+= A
+~詞義 semester（n.）學期
+~原文 This semester, Joanna is taking a course on modern American novels.
+
+Q 19 | bank | 配合題
+stem: Only a really ______ person could fit between the extremely narrow alley between the two walls.
+= D
+~詞義 skinny（adj.）非常瘦的
+~原文 Only a really skinny person could fit between the extremely narrow alley between the two walls.
+
+Q 20 | bank | 配合題
+stem: It's not easy for a person to ______ smoking; doing so requires determination and patience.
+= C
+~詞義 quit（v.）停止;放棄
+~原文 It's not easy for a person to quit smoking; doing so requires determination and patience.

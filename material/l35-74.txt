@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 74 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-74 | Unit 74 | Vocabulary practice · Unit 74 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Samantha didn't do so well in the r______l, but in the actual performance, she impressed the whole audience.
+= rehearsal
+~詞義 rehearsal（n.）排演
+~原文 Samantha didn't do so well in the rehearsal, but in the actual performance, she impressed the whole audience.
+
+Q 2 | fill | 文意字彙
+stem: Tracy dropped the box several times, but surprisingly, the cookies in it remained i______t.
+= intact
+~詞義 intact（adj.）未受損傷的
+~原文 Tracy dropped the box several times, but surprisingly, the cookies in it remained intact.
+
+Q 3 | fill | 文意字彙
+stem: A 500-milliliter serving of bubble tea may contain up to 320 calories, the e______t of 20 sugar cubes.
+= equivalent
+~詞義 equivalent（n.）等同的
+~原文 A 500-milliliter serving of bubble tea may contain up to 320 calories, the equivalent of 20 sugar cubes.
+
+Q 4 | fill | 文意字彙
+stem: During the summer training, Ken made s______l progress and reached the goals he had set earlier in the year.
+= substantial
+~詞義 substantial（adj.）可觀的
+~原文 During the summer training, Ken made substantial progress and reached the goals he had set earlier in the year.
+
+Q 5 | fill | 文意字彙
+stem: The carpenter r______ed the wooden chair with metal bars; it is now a very sturdy chair.
+= reinforced
+~詞義 reinforce（v.）加固
+~原文 The carpenter reinforced the wooden chair with metal bars; it is now a very sturdy chair.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The star player is the highest paid athlete in the baseball ______, and his performances prove that he is worth the price.
+A: dough
+B: league
+C: orchard
+D: stack
+= B
+~詞義 league（n.）聯盟
+~原文 The star player is the highest paid athlete in the baseball league, and his performances prove that he is worth the price.
+
+Q 7 | choice | 選擇題
+stem: Studies show that regular exercise ______ strongly with improved mental health.
+A: injects
+B: correlates
+C: corrupts
+D: transits
+= B
+~詞義 correlate（v.）關聯;相關
+~原文 Studies show that regular exercise correlates strongly with improved mental health.
+
+Q 8 | choice | 選擇題
+stem: The black coffee was so bitter that I had to add several ______ of sugar in order to sweeten it.
+A: attics
+B: lumps
+C: stews
+D: suites
+= B
+~詞義 lump（n.）塊
+~原文 The black coffee was so bitter that I had to add several lumps of sugar in order to sweeten it.
+
+Q 9 | choice | 選擇題
+stem: The Constitution is the ______ law of this country. No other law can violate its principles.
+A: graphic
+B: optional
+C: suburban
+D: supreme
+= D
+~詞義 supreme（adj.）最高的
+~原文 The Constitution is the supreme law of this country. No other law can violate its principles.
+
+Q 10 | choice | 選擇題
+stem: Liam's friends admired him because, even during setbacks, he remained a(n) ______ who encouraged others to keep trying.
+A: recipient
+B: outsider
+C: successor
+D: optimist
+= D
+~詞義 optimist（n.）樂觀主義者
+~原文 Liam's friends admired him because, even during setbacks, he remained a(n) optimist who encouraged others to keep trying.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: bulk
+B: injected
+C: corridor
+D: repaid
+E: rental
+F: trims
+
+Q 11 | bank | 配合題
+stem: My grandfather is into gardening. Every morning, he ______ the bushes around our yard and waters the plants.
+= F
+~詞義 trim（v.）修剪
+~原文 My grandfather is into gardening. Every morning, he trims the bushes around our yard and waters the plants.
+
+Q 12 | bank | 配合題
+stem: The coffee shop buys tissue paper in ______ to help lower its expenses.
+= A
+~詞義 bulk（n.）大批
+~原文 The coffee shop buys tissue paper in bulk to help lower its expenses.
+
+Q 13 | bank | 配合題
+stem: Ben thinks he doesn't need to own a car. He can just go to places by public transportation, and if he needs a car, he can just get a(n) ______ one.
+= E
+~詞義 rental（adj.）出租
+~原文 Ben thinks he doesn't need to own a car. He can just go to places by public transportation, and if he needs a car, he can just get a(n) rental one.
+
+Q 14 | bank | 配合題
+stem: Tina has lent her boyfriend a lot of money, but he hasn't ______ her yet.
+= D
+~詞義 repay（v.）償還
+~原文 Tina has lent her boyfriend a lot of money, but he hasn't repaid her yet.
+
+Q 15 | bank | 配合題
+stem: The brand hired a new designer, who ______ a sense of fun and modernity into its products.
+= B
+~詞義 inject（v.）投入
+~原文 The brand hired a new designer, who injected a sense of fun and modernity into its products.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: supposedly
+B: driveway
+C: gravity
+D: outsider
+E: rendered
+F: tripled
+
+Q 16 | bank | 配合題
+stem: Dad's car is not parked on the ______, and that means he is not home at the moment.
+= B
+~詞義 driveway（n.）私人車道
+~原文 Dad's car is not parked on the driveway, and that means he is not home at the moment.
+
+Q 17 | bank | 配合題
+stem: All the students have ______ turned in their reports, but the professor hasn't checked them yet.
+= A
+~詞義 supposedly（adv.）大概
+~原文 All the students have supposedly turned in their reports, but the professor hasn't checked them yet.
+
+Q 18 | bank | 配合題
+stem: Sales have ______ since the new manager joined the office. He is indeed a great leader for the company.
+= F
+~詞義 triple（v.）增至三倍
+~原文 Sales have tripled since the new manager joined the office. He is indeed a great leader for the company.
+
+Q 19 | bank | 配合題
+stem: There is no ______ in outer space, which creates difficulties for astronauts. For example, they have to tie themselves down when they sleep.
+= C
+~詞義 gravity（n.）重力
+~原文 There is no gravity in outer space, which creates difficulties for astronauts. For example, they have to tie themselves down when they sleep.
+
+Q 20 | bank | 配合題
+stem: The volunteers ______ valuable service to the community by distributing food and supplies during the storm.
+= E
+~詞義 render（v.）提供
+~原文 The volunteers rendered valuable service to the community by distributing food and supplies during the storm.

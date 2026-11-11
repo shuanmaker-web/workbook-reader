@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 24 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-24 | Unit 24 | Vocabulary practice · Unit 24 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Everyone cheered when the b______e and groom kissed each other in the wedding ceremony.
+= bride
+~詞義 bride（n.）新娘
+~原文 Everyone cheered when the bride and groom kissed each other in the wedding ceremony.
+
+Q 2 | fill | 文意字彙
+stem: Of all Italian dishes, s______i and pizza are the most well-known around the world.
+= spaghetti
+~詞義 spaghetti（n.）義大利麵
+~原文 Of all Italian dishes, spaghetti and pizza are the most well-known around the world.
+
+Q 3 | fill | 文意字彙
+stem: You don't have to bring anything to the party. We have p______y of food and drink already.
+= plenty
+~詞義 plenty（n.）豐富;充分
+~原文 You don't have to bring anything to the party. We have plenty of food and drink already.
+
+Q 4 | fill | 文意字彙
+stem: Those living in p______y often can't afford the basic necessities of life.
+= poverty
+~詞義 poverty（n.）貧窮
+~原文 Those living in poverty often can't afford the basic necessities of life.
+
+Q 5 | fill | 文意字彙
+stem: If you want to return a product, you have to provide the r______t as proof that you actually bought it.
+= receipt
+~詞義 receipt（n.）收據
+~原文 If you want to return a product, you have to provide the receipt as proof that you actually bought it.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Sarah was filled with ______ when she saw that her brother had gotten a big present, while she had not.
+A: ditch
+B: wagon
+C: collar
+D: envy
+= D
+~詞義 envy（n.）嫉妒
+~原文 Sarah was filled with envy when she saw that her brother had gotten a big present, while she had not.
+
+Q 7 | choice | 選擇題
+stem: On warm autumn days, I like to sit by the lake and enjoy the cool ______ on my face.
+A: ash
+B: breeze
+C: crown
+D: fist
+= B
+~詞義 breeze（n.）微風
+~原文 On warm autumn days, I like to sit by the lake and enjoy the cool breeze on my face.
+
+Q 8 | choice | 選擇題
+stem: The heat was so unbearable that Amy ______ and turned until sunrise, unable to find a comfortable position.
+A: tossed
+B: spilled
+C: envied
+D: drowned
+= A
+~詞義 toss（v.）翻來覆去;輾轉難眠(toss and turn)
+~原文 The heat was so unbearable that Amy tossed and turned until sunrise, unable to find a comfortable position.
+
+Q 9 | choice | 選擇題
+stem: The chef added some ______ to the soup, and a wonderful smell filled the kitchen.
+A: spices
+B: bunches
+C: pits
+D: flames
+= A
+~詞義 spice（n.）香料
+~原文 The chef added some spices to the soup, and a wonderful smell filled the kitchen.
+
+Q 10 | choice | 選擇題
+stem: The teacher asked the class to memorize several ______ from the poem to better appreciate its sound and meaning.
+A: tutors
+B: cocktails
+C: ballets
+D: verses
+= D
+~詞義 verse（n.）詩句
+~原文 The teacher asked the class to memorize several verses from the poem to better appreciate its sound and meaning.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: awful
+B: bullets
+C: crispy
+D: dove
+E: split
+F: flame
+
+Q 11 | bank | 配合題
+stem: Don't let the children go near the ______, or they may accidentally burn themselves.
+= F
+~詞義 flame（n.）火焰
+~原文 Don't let the children go near the flame, or they may accidentally burn themselves.
+
+Q 12 | bank | 配合題
+stem: The lifeguard ______ into the swimming pool to save the boy who didn't know how to swim.
+= D
+~詞義 dive（v.）跳水
+~原文 The lifeguard dove into the swimming pool to save the boy who didn't know how to swim.
+
+Q 13 | bank | 配合題
+stem: Rick had a(n) ______ day at school. He forgot to bring his lunch, and then he twisted his ankle.
+= A
+~詞義 awful（adj.）糟糕的
+~原文 Rick had a(n) awful day at school. He forgot to bring his lunch, and then he twisted his ankle.
+
+Q 14 | bank | 配合題
+stem: The doctor removed two ______ from the man who had been shot in the back.
+= B
+~詞義 bullet（n.）子彈
+~原文 The doctor removed two bullets from the man who had been shot in the back.
+
+Q 15 | bank | 配合題
+stem: My mom makes really delicious potato chips. They are thin and ______, and the flavor is just right.
+= C
+~詞義 crispy（adj.）酥脆的
+~原文 My mom makes really delicious potato chips. They are thin and crispy, and the flavor is just right.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: spill
+B: bunches
+C: someday
+D: reception
+E: cocktail
+F: blue-collar
+
+Q 16 | bank | 配合題
+stem: Billy's parents both worked ______ jobs, which taught him the value of physical labor and responsibility from a young age.
+= F
+~詞義 blue-collar（adj.）藍領階級的
+~原文 Billy's parents both worked blue-collar jobs, which taught him the value of physical labor and responsibility from a young age.
+
+Q 17 | bank | 配合題
+stem: John carefully held the bottle for fear that he might ______ the water within.
+= A
+~詞義 spill（v.）灑出
+~原文 John carefully held the bottle for fear that he might spill the water within.
+
+Q 18 | bank | 配合題
+stem: The martini is a(n) ______ that James Bond famously liked to drink.
+= E
+~詞義 cocktail（n.）雞尾酒
+~原文 The martini is a(n) cocktail that James Bond famously liked to drink.
+
+Q 19 | bank | 配合題
+stem: ______ I hope to have enough money to buy that nice house.
+= C
+~詞義 someday（adv.）有一天
+~原文 Someday I hope to have enough money to buy that nice house.
+
+Q 20 | bank | 配合題
+stem: The company holds a ______ party once a year to welcome new employees.
+= D
+~詞義 reception（n.）歡迎
+~原文 The company holds a reception party once a year to welcome new employees.

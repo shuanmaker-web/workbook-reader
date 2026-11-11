@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 70 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-70 | Unit 70 | Vocabulary practice · Unit 70 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Andy likes to eat lots of fruit and vegetables because they help with his d______n.
+= digestion
+~詞義 digestion（n.）消化
+~原文 Andy likes to eat lots of fruit and vegetables because they help with his digestion.
+
+Q 2 | fill | 文意字彙
+stem: Tom hasn't come to school for a week. His classmates s______e about the reason, but no one really knows.
+= speculate
+~詞義 speculate（v.）推測
+~原文 Tom hasn't come to school for a week. His classmates speculate about the reason, but no one really knows.
+
+Q 3 | fill | 文意字彙
+stem: Small babies are easily scared and very v______e, so one must move carefully around them to avoid hurting them.
+= vulnerable
+~詞義 vulnerable（adj.）脆弱的
+~原文 Small babies are easily scared and very vulnerable, so one must move carefully around them to avoid hurting them.
+
+Q 4 | fill | 文意字彙
+stem: Mandy thinks that the novel is not interesting at all. She cannot stop yawning out of b______m.
+= boredom
+~詞義 boredom（n.）無聊
+~原文 Mandy thinks that the novel is not interesting at all. She cannot stop yawning out of boredom.
+
+Q 5 | fill | 文意字彙
+stem: The young couple v______wed that they would never mistreat or lie to each other.
+= vowed
+~詞義 vow（v.）發誓
+~原文 The young couple vowed that they would never mistreat or lie to each other.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: This dish is too hot for me. I am not used to eating ______ food.
+A: antique
+B: spacious
+C: municipal
+D: spicy
+= D
+~詞義 spicy（adj.）香辣的
+~原文 This dish is too hot for me. I am not used to eating spicy food.
+
+Q 7 | choice | 選擇題
+stem: Environmental groups ______ the company for polluting the river, demanding immediate action and long-term responsibility.
+A: conceded
+B: condemned
+C: specified
+D: tormented
+= B
+~詞義 condemn（v.）譴責
+~原文 Environmental groups condemned the company for polluting the river, demanding immediate action and long-term responsibility.
+
+Q 8 | choice | 選擇題
+stem: The mechanic ______ the new tires onto the car and checked each bolt to ensure the vehicle's safety.
+A: comprised
+B: mounted
+C: freighted
+D: anticipated
+= B
+~詞義 mount（v.）安裝
+~原文 The mechanic mounted the new tires onto the car and checked each bolt to ensure the vehicle's safety.
+
+Q 9 | choice | 選擇題
+stem: There is a higher ______ of female leaders in the government now than ever before, but the number could certainly be higher still.
+A: appliance
+B: dimension
+C: entrepreneur
+D: proportion
+= D
+~詞義 proportion（n.）比例
+~原文 There is a higher proportion of female leaders in the government now than ever before, but the number could certainly be higher still.
+
+Q 10 | choice | 選擇題
+stem: The organization supported international ______ in the crisis to prevent further violence and suffering.
+A: intervention
+B: speculation
+C: prosecution
+D: complication
+= A
+~詞義 intervention（n.）介入
+~原文 The organization supported international intervention in the crisis to prevent further violence and suffering.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: apt
+B: compliant
+C: compulsory
+D: judicial
+E: doorway
+F: vomited
+
+Q 11 | bank | 配合題
+stem: In Taiwan, ______ education requires children to attend school for twelve years.
+= C
+~詞義 compulsory（adj.）義務的
+~原文 In Taiwan, compulsory education requires children to attend school for twelve years.
+
+Q 12 | bank | 配合題
+stem: The puppy was surprisingly ______ during training; it followed basic commands after only a few demonstrations.
+= B
+~詞義 compliant（adj.）服從的
+~原文 The puppy was surprisingly compliant during training; it followed basic commands after only a few demonstrations.
+
+Q 13 | bank | 配合題
+stem: The people in this country do not trust the ______ system because they think many judges are corrupt.
+= D
+~詞義 judicial（adj.）司法的
+~原文 The people in this country do not trust the judicial system because they think many judges are corrupt.
+
+Q 14 | bank | 配合題
+stem: After George stepped off the roller coaster, he ______ into a trash can.
+= F
+~詞義 vomit（v.）嘔吐
+~原文 After George stepped off the roller coaster, he vomited into a trash can.
+
+Q 15 | bank | 配合題
+stem: The house is not well heated, and it is ______ to get very chilly on winter evenings.
+= A
+~詞義 apt（adj.）有…的傾向
+~原文 The house is not well heated, and it is apt to get very chilly on winter evenings.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: torches
+B: investigator
+C: quest
+D: diplomatic
+E: sphere
+F: prosecutions
+
+Q 16 | bank | 配合題
+stem: Recently, there has been an increasing number of ______ related to Internet crime.
+= F
+~詞義 prosecution（n.）起訴
+~原文 Recently, there has been an increasing number of prosecutions related to Internet crime.
+
+Q 17 | bank | 配合題
+stem: The Environment Bureau received some complaints about noises in the neighborhood, so they sent a(n) ______ to look into the situation.
+= B
+~詞義 investigator（n.）調查人員
+~原文 The Environment Bureau received some complaints about noises in the neighborhood, so they sent a(n) investigator to look into the situation.
+
+Q 18 | bank | 配合題
+stem: The lamp is shaped like a(n) ______. When it glows in the dark, it looks like a floating moon.
+= E
+~詞義 sphere（n.）球體
+~原文 The lamp is shaped like a(n) sphere. When it glows in the dark, it looks like a floating moon.
+
+Q 19 | bank | 配合題
+stem: The two countries have maintained close ______ relations for decades; they are strong allies.
+= D
+~詞義 diplomatic（adj.）外交的
+~原文 The two countries have maintained close diplomatic relations for decades; they are strong allies.
+
+Q 20 | bank | 配合題
+stem: Last year's silver medalist has entered the competition again. He is on a(n) ______ for the championship.
+= C
+~詞義 quest（n.）追求
+~原文 Last year's silver medalist has entered the competition again. He is on a(n) quest for the championship.

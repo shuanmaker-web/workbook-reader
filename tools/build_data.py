@@ -34,7 +34,8 @@ MAT = os.path.join(ROOT, 'material')
 BOOKS = [
     {'id': 'dmg', 'title': '大滿貫', 'english': 'Grand Slam', 'sub': '單字・綜合測驗・文意選填・篇章結構・閱讀・翻譯', 'plan': []},
     {'id': 'cloze', 'title': '克漏字開外掛', 'english': 'Cloze Power-Up', 'sub': '克漏字', 'plan': []},
-    {'id': 'win', 'title': '戰勝學測', 'english': 'Beat the GSAT', 'sub': 'Level 3–5', 'plan': ['Level 3', 'Level 4', 'Level 5']},
+    {'id': 'win', 'title': '戰勝學測', 'english': 'Beat the GSAT', 'sub': '', 'plan': []},
+    {'id': 'l35', 'title': 'Level 3–5', 'english': 'Vocabulary Level 3–5', 'sub': '字彙王練習題本・文意字彙・選擇題・配合題', 'plan': []},
 ]
 UNITS = [
     {'id': 'u1', 'book': 'dmg', 'title': 'Unit 1', 'sub': '單字、片語・綜合測驗・篇章結構・閱讀測驗'},
@@ -54,6 +55,15 @@ VOCAB_META = {
 }
 # sections whose id prefix is not the unit id
 UNIT_OF = {'tr-1': 'tr', 'tr-2': 'tr'}
+
+# Level 3–5 (imported from Vocaboo by tools/import_vocaboo.py): one section per workbook unit,
+# material/l35-NN.txt, grouped ten units per sidebar group.
+L35_UNITS = sorted(int(f[4:6]) for f in os.listdir(MAT) if f.startswith('l35-') and f.endswith('.txt'))
+for g in range(0, max(L35_UNITS or [0]), 10):
+    lo, hi = g + 1, min(g + 10, max(L35_UNITS))
+    UNITS.append({'id': f'l35g{g // 10 + 1}', 'book': 'l35', 'title': f'Unit {lo}–{hi}', 'sub': '文意字彙・選擇題・配合題'})
+for n in L35_UNITS:
+    UNIT_OF[f'l35-{n:02d}'] = f'l35g{(n - 1) // 10 + 1}'
 ORDER = ['u1-vocab', 'u1-drill', 'u1-cloze', 'u1-struct', 'u1-reading',
          'u2-vocab', 'u2-drill', 'u2-cloze', 'u2-struct', 'u2-reading', 'u3-vocab',
          'tr-1', 'tr-2']
@@ -62,6 +72,8 @@ FILES = {'u1-vocab': 'u1-words.txt', 'u1-drill': 'u1-drill.txt', 'u1-cloze': 'u1
          'u2-vocab': 'u2-words.txt', 'u2-drill': 'u2-drill.txt', 'u2-cloze': 'u2-cloze.txt',
          'u2-struct': 'u2-struct.txt', 'u2-reading': 'u2-reading.txt', 'u3-vocab': 'u3-words.txt',
          'tr-1': 'trans-1.txt', 'tr-2': 'trans-2.txt'}
+ORDER += [f'l35-{n:02d}' for n in L35_UNITS]
+FILES.update({f'l35-{n:02d}': f'l35-{n:02d}.txt' for n in L35_UNITS})
 
 errors = []
 def err(f, ln, msg):
@@ -283,7 +295,7 @@ def collect_text(sections):
             if it['t'] == 'passage': out += it['paras']
             elif it['t'] == 'bank': out += it['opts']
             elif it['t'] == 'q':
-                out += [it['stem']] + it['opts'] + [a['t'] for a in it['an'] if a['l'] in ('', '原文', '文意', '替換', '補充') ]
+                out += [it['stem']] + it['opts'] + [a['t'] for a in it['an'] if a['l'] in ('', '原文', '文意', '替換', '補充', '詞義') ]
                 out.append(it['ans'] if it['type'] in ('fill', 'trans') else '')
             elif it['t'] == 'entries':
                 for e in it['list']:
@@ -311,6 +323,8 @@ CONTEXT = {
     'jade': '地名：玉山（Mt. Jade / Jade Mountain，臺灣最高峰）', 'gary': '人名：Gary（蓋瑞）',
     'jessica': '人名：Jessica（潔西卡）', 'amy': '人名：Amy（艾咪）', 'mark': '人名：Mark（馬克）',
     'tom': '人名：Tom（湯姆）', 'david': '人名：David（大衛）',
+    'taitung': '地名：臺東', 'wangs': '人名：the Wangs 王家（一家人）',
+    'scammers': 'n. 詐騙者（scammer 的複數）', 'propagandas': 'n. 宣傳（propaganda 的複數）',
 }
 
 def build_dictionary(sections, ecdict_path):

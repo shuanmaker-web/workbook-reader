@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 1 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-01 | Unit 1 | Vocabulary practice · Unit 1 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Ken a______ed his objective by working hard and following other people's advice.
+= achieved
+~詞義 achieve（v.）達成
+~原文 Ken achieved his objective by working hard and following other people's advice.
+
+Q 2 | fill | 文意字彙
+stem: Our school basketball team has p______med especially well this season. We have now won five games in a row.
+= performed
+~詞義 perform（v.）表現
+~原文 Our school basketball team has performed especially well this season. We have now won five games in a row.
+
+Q 3 | fill | 文意字彙
+stem: After serving a three-year sentence, the man was r______ed from prison last month.
+= released
+~詞義 release（v.）釋放
+~原文 After serving a three-year sentence, the man was released from prison last month.
+
+Q 4 | fill | 文意字彙
+stem: After weeks of careful preparation, the students were ______ (anxiety) to start the experiment.
+= anxious
+~詞義 anxious（adj.）急切渴望的
+~原文 After weeks of careful preparation, the students were anxious to start the experiment.
+
+Q 5 | fill | 文意字彙
+stem: The cute design of this product is ______ (appeal) to many teenage girls.
+= appealing
+~詞義 appealing（adj.）有吸引力的
+~原文 The cute design of this product is appealing to many teenage girls.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: An official from the Ministry of Agriculture warned that the price of most vegetables was going to ______ by around 10% owing to the strong typhoon.
+A: increase
+B: transform
+C: explore
+D: unite
+= A
+~詞義 increase（v.）增加
+~原文 An official from the Ministry of Agriculture warned that the price of most vegetables was going to increase by around 10% owing to the strong typhoon.
+
+Q 7 | choice | 選擇題
+stem: Credit cards are not really bad as long as people can ______ to pay their bills every month.
+A: decrease
+B: enable
+C: reform
+D: afford
+= D
+~詞義 afford（v.）負擔得起
+~原文 Credit cards are not really bad as long as people can afford to pay their bills every month.
+
+Q 8 | choice | 選擇題
+stem: The ______ lasted more than five hours, but, fortunately, the doctors said it was a complete success.
+A: pollution
+B: operation
+C: condition
+D: majority
+= B
+~詞義 operation（n.）手術
+~原文 The operation lasted more than five hours, but, fortunately, the doctors said it was a complete success.
+
+Q 9 | choice | 選擇題
+stem: Tim was very fortunate to be selected from more than 200 applicants. His work experience and positive ______ made him stand out from others.
+A: product
+B: situation
+C: tendency
+D: attitude
+= D
+~詞義 attitude（n.）態度
+~原文 Tim was very fortunate to be selected from more than 200 applicants. His work experience and positive attitude made him stand out from others.
+
+Q 10 | choice | 選擇題
+stem: Before we jump to ______, let's gather more evidence to understand what really happened.
+A: varieties
+B: passages
+C: reactions
+D: conclusions
+= D
+~詞義 conclusion（n.）結論
+~原文 Before we jump to conclusions, let's gather more evidence to understand what really happened.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: inform
+B: background
+C: original
+D: enables
+E: produce
+F: emotional
+
+Q 11 | bank | 配合題
+stem: The government's new policy was made during a(n) ______ of rising unemployment.
+= B
+~詞義 background（n.）背景
+~原文 The government's new policy was made during a(n) background of rising unemployment.
+
+Q 12 | bank | 配合題
+stem: The test ______ a pregnant woman to find out the sex of her baby before it's born.
+= D
+~詞義 enable（v.）使能夠
+~原文 The test enables a pregnant woman to find out the sex of her baby before it's born.
+
+Q 13 | bank | 配合題
+stem: Buying fresh ______ directly from farmers not only supports local agriculture but also costs less than shopping at the market.
+= E
+~詞義 produce（n.）農產品
+~原文 Buying fresh produce directly from farmers not only supports local agriculture but also costs less than shopping at the market.
+
+Q 14 | bank | 配合題
+stem: There are several ways to deal with sexual harassment in the workplace. One is for victims to ______ their supervisors.
+= A
+~詞義 inform（v.）通知
+~原文 There are several ways to deal with sexual harassment in the workplace. One is for victims to inform their supervisors.
+
+Q 15 | bank | 配合題
+stem: The definition of many English words today are quite different from their ______ meaning.
+= C
+~詞義 original（adj.）最初的
+~原文 The definition of many English words today are quite different from their original meaning.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: information
+B: reacted
+C: polluted
+D: probable
+E: unity
+F: familiar
+
+Q 16 | bank | 配合題
+stem: The voice on the phone sounded ______, but Amanda couldn't remember where she'd heard it.
+= F
+~詞義 familiar（adj.）熟悉的
+~原文 The voice on the phone sounded familiar, but Amanda couldn't remember where she'd heard it.
+
+Q 17 | bank | 配合題
+stem: The rivers in the area are heavily ______ with harmful chemicals from both agriculture and the manufacturing industry.
+= C
+~詞義 pollute（adj.）污染
+~原文 The rivers in the area are heavily polluted with harmful chemicals from both agriculture and the manufacturing industry.
+
+Q 18 | bank | 配合題
+stem: The prime minister ______ angrily to the rumor because it was going to damage his reputation and leave a bad impression of him on the public.
+= B
+~詞義 react（v.）反應
+~原文 The prime minister reacted angrily to the rumor because it was going to damage his reputation and leave a bad impression of him on the public.
+
+Q 19 | bank | 配合題
+stem: This company tends to hire people from a variety of backgrounds. Therefore, it's not easy to make all the employees work together in ______.
+= E
+~詞義 unity（n.）團結
+~原文 This company tends to hire people from a variety of backgrounds. Therefore, it's not easy to make all the employees work together in unity.
+
+Q 20 | bank | 配合題
+stem: Before students use sources from the Internet, they must check whether the ______ is accurate and reliable.
+= A
+~詞義 information（n.）資訊
+~原文 Before students use sources from the Internet, they must check whether the information is accurate and reliable.

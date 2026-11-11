@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 52 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-52 | Unit 52 | Vocabulary practice · Unit 52 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The director's new film has received w______d praise. Both critics and the public enjoyed the film greatly, and more and more people are going to see it.
+= widespread
+~詞義 widespread（adj.）普遍的
+~原文 The director's new film has received widespread praise. Both critics and the public enjoyed the film greatly, and more and more people are going to see it.
+
+Q 2 | fill | 文意字彙
+stem: The singer's performance became the h______t of the festival, drawing enthusiastic applause from the entire audience.
+= highlight
+~詞義 highlight（n.）最精采處
+~原文 The singer's performance became the highlight of the festival, drawing enthusiastic applause from the entire audience.
+
+Q 3 | fill | 文意字彙
+stem: The dress is made of delicate and expensive f______c, so you should wash it by hand instead of using the washing machine.
+= fabric
+~詞義 fabric（n.）布料
+~原文 The dress is made of delicate and expensive fabric, so you should wash it by hand instead of using the washing machine.
+
+Q 4 | fill | 文意字彙
+stem: John made a p______e of a brand-new laptop because his old one had finally stopped working.
+= purchase
+~詞義 purchase（n.）購買
+~原文 John made a purchase of a brand-new laptop because his old one had finally stopped working.
+
+Q 5 | fill | 文意字彙
+stem: The actress gave a touching speech at the awards c______y, and everyone in the audience clapped loudly for her.
+= ceremony
+~詞義 ceremony（n.）典禮
+~原文 The actress gave a touching speech at the awards ceremony, and everyone in the audience clapped loudly for her.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Jake slowly ______ himself to the colder weather after moving to a northern city.
+A: accommodated
+B: fragmented
+C: interpreted
+D: gathered
+= A
+~詞義 accommodate（v.）適應
+~原文 Jake slowly accommodated himself to the colder weather after moving to a northern city.
+
+Q 7 | choice | 選擇題
+stem: The oil spill from the cargo ship is a(n) ______ disaster; many seabirds and marine animals have died because of it.
+A: ecological
+B: exceptional
+C: indifferent
+D: statistical
+= A
+~詞義 ecological（adj.）生態的
+~原文 The oil spill from the cargo ship is a(n) ecological disaster; many seabirds and marine animals have died because of it.
+
+Q 8 | choice | 選擇題
+stem: The woman asked her son to run some ______ for her and gave him an apple as a reward afterward.
+A: bureaus
+B: errands
+C: layers
+D: series
+= B
+~詞義 errand（n.）差事;跑腿
+~原文 The woman asked her son to run some errands for her and gave him an apple as a reward afterward.
+
+Q 9 | choice | 選擇題
+stem: The hundred-year-old building has become a symbol of ______ in the district. You must see it if you ever go to that region.
+A: ecology
+B: assessment
+C: heritage
+D: shortage
+= C
+~詞義 heritage（n.）遺產
+~原文 The hundred-year-old building has become a symbol of heritage in the district. You must see it if you ever go to that region.
+
+Q 10 | choice | 選擇題
+stem: Maggie seldom lets her dog ______ into unfamiliar parts of the neighborhood because she is afraid that it would get lost and never return.
+A: assess
+B: erect
+C: perceive
+D: venture
+= D
+~詞義 venture（v.）冒險
+~原文 Maggie seldom lets her dog venture into unfamiliar parts of the neighborhood because she is afraid that it would get lost and never return.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: behalf
+B: massive
+C: participants
+D: viewers
+E: opponent
+F: specializes
+
+Q 11 | bank | 配合題
+stem: Dylan is a lawyer who ______ in civil law, especially family law.
+= F
+~詞義 specialize（v.）專攻
+~原文 Dylan is a lawyer who specializes in civil law, especially family law.
+
+Q 12 | bank | 配合題
+stem: The computer can process a(n) ______ amount of information in a very short period of time.
+= B
+~詞義 massive（adj.）大量的
+~原文 The computer can process a(n) massive amount of information in a very short period of time.
+
+Q 13 | bank | 配合題
+stem: Serena is such a powerful and experienced player that anyone would be fearful of being her ______.
+= E
+~詞義 opponent（n.）對手
+~原文 Serena is such a powerful and experienced player that anyone would be fearful of being her opponent.
+
+Q 14 | bank | 配合題
+stem: The manager had a full schedule, so he had his assistant attend the meeting on his ______.
+= A
+~詞義 behalf（n.）代表
+~原文 The manager had a full schedule, so he had his assistant attend the meeting on his behalf.
+
+Q 15 | bank | 配合題
+stem: The new talk show has attracted many ______. It is now one of the most popular shows on the network.
+= D
+~詞義 viewer（n.）觀眾
+~原文 The new talk show has attracted many viewers. It is now one of the most popular shows on the network.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: specialty
+B: perception
+C: via
+D: banned
+E: granted
+F: flipped
+
+Q 16 | bank | 配合題
+stem: If you have any questions, please contact me ______ email. I check my mailbox every day.
+= C
+~詞義 via（prep.）透過
+~原文 If you have any questions, please contact me via email. I check my mailbox every day.
+
+Q 17 | bank | 配合題
+stem: The man finally ______ his children's wishes and bought each of them a new laptop.
+= E
+~詞義 grant（v.）同意
+~原文 The man finally granted his children's wishes and bought each of them a new laptop.
+
+Q 18 | bank | 配合題
+stem: Sarah ______ through the book and quickly browsed the chapter titles; she decided to buy it.
+= F
+~詞義 flip（v.）瀏覽
+~原文 Sarah flipped through the book and quickly browsed the chapter titles; she decided to buy it.
+
+Q 19 | bank | 配合題
+stem: After the legalization of same-sex marriage, the public's ______ of the gay community gradually changed.
+= B
+~詞義 perception（n.）觀念
+~原文 After the legalization of same-sex marriage, the public's perception of the gay community gradually changed.
+
+Q 20 | bank | 配合題
+stem: The school ______ students from using phones in class to reduce distractions and improve concentration.
+= D
+~詞義 ban（v.）禁止
+~原文 The school banned students from using phones in class to reduce distractions and improve concentration.

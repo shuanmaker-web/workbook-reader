@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 56 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-56 | Unit 56 | Vocabulary practice · Unit 56 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。本單元請抽查：照片邊緣或反光處，個別字詞可能有誤。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The volunteers d______e their time to taking care of stray animals.
+= dedicate
+~詞義 dedicate（v.）致力於;奉獻
+~原文 The volunteers dedicate their time to taking care of stray animals.
+
+Q 2 | fill | 文意字彙
+stem: The amoeba is a single-celled o______m, and it is so small that it can't be seen with the naked eye.
+= organism
+~詞義 organism（n.）有機體
+~原文 The amoeba is a single-celled organism, and it is so small that it can't be seen with the naked eye.
+
+Q 3 | fill | 文意字彙
+stem: Tom chose a book at r______m from the shelf and ended up enjoying it more than he had expected.
+= random
+~詞義 random（n.）隨機地(at random)
+~原文 Tom chose a book at random from the shelf and ended up enjoying it more than he had expected.
+
+Q 4 | fill | 文意字彙
+stem: Melody broke her right leg and had to use a w______r for two months.
+= wheelchair
+~詞義 wheelchair（n.）輪椅
+~原文 Melody broke her right leg and had to use a wheelchair for two months.
+
+Q 5 | fill | 文意字彙
+stem: The restaurant owner installed a water f______r on every tap in his kitchen. He cares a lot about the quality of the water he serves.
+= filter
+~詞義 filter（n.）濾器
+~原文 The restaurant owner installed a water filter on every tap in his kitchen. He cares a lot about the quality of the water he serves.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The famous actor finally ______ to the interview after receiving reassurance about the questions.
+A: suspended
+B: worshiped
+C: consented
+D: schemed
+= C
+~詞義 consent（v.）同意
+~原文 The famous actor finally consented to the interview after receiving reassurance about the questions.
+
+Q 7 | choice | 選擇題
+stem: Linda is on a diet, so she asked her friends not to ______ her with any desserts or soft drinks.
+A: dissolve
+B: pedal
+C: generate
+D: tempt
+= D
+~詞義 tempt（v.）引誘
+~原文 Linda is on a diet, so she asked her friends not to tempt her with any desserts or soft drinks.
+
+Q 8 | choice | 選擇題
+stem: Many ______ organizations are established for the purpose of promoting environmental protection.
+A: transparent
+B: nonprofit
+C: neutral
+D: crucial
+= B
+~詞義 nonprofit（adj.）非營利的
+~原文 Many nonprofit organizations are established for the purpose of promoting environmental protection.
+
+Q 9 | choice | 選擇題
+stem: It is recommended that you back up the data stored in your computer before you ______ its system. That way, if anything goes wrong, you can still access your old files.
+A: update
+B: yield
+C: provoke
+D: manifest
+= A
+~詞義 update（v.）更新
+~原文 It is recommended that you back up the data stored in your computer before you update its system. That way, if anything goes wrong, you can still access your old files.
+
+Q 10 | choice | 選擇題
+stem: In order to recover quickly, the patient needs to get enough rest and ______.
+A: burial
+B: nutrition
+C: temptation
+D: terminal
+= B
+~詞義 nutrition（n.）營養
+~原文 In order to recover quickly, the patient needs to get enough rest and nutrition.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: intent
+B: chef
+C: commission
+D: vague
+E: vacuum
+F: recession
+
+Q 11 | bank | 配合題
+stem: The museum decided to ______ a famous artist to create a sculpture for its new outdoor garden.
+= C
+~詞義 commission（v.）委任製作
+~原文 The museum decided to commission a famous artist to create a sculpture for its new outdoor garden.
+
+Q 12 | bank | 配合題
+stem: When you want to describe something, you should use precise language rather than ______ and flat vocabulary.
+= D
+~詞義 vague（adj.）模糊的
+~原文 When you want to describe something, you should use precise language rather than vague and flat vocabulary.
+
+Q 13 | bank | 配合題
+stem: Cathy was ______ on improving her grades and spent every evening reviewing her notes.
+= A
+~詞義 intent（adj.）一心一意的
+~原文 Cathy was intent on improving her grades and spent every evening reviewing her notes.
+
+Q 14 | bank | 配合題
+stem: Economists have predicted that the weak market will go into a period of ______ very soon.
+= F
+~詞義 recession（n.）衰退
+~原文 Economists have predicted that the weak market will go into a period of recession very soon.
+
+Q 15 | bank | 配合題
+stem: Tina's dog sheds a lot of hair, so she has to ______ her room at least twice a week.
+= E
+~詞義 vacuum（v.）用吸塵器清掃
+~原文 Tina's dog sheds a lot of hair, so she has to vacuum her room at least twice a week.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: rear
+B: generator
+C: confession
+D: loop
+E: ultimate
+F: nutrient
+
+Q 16 | bank | 配合題
+stem: The criminal tried to sneak out of the building through its ______ entrance, but the police were waiting there for him.
+= A
+~詞義 rear（adj.）後面的
+~原文 The criminal tried to sneak out of the building through its rear entrance, but the police were waiting there for him.
+
+Q 17 | bank | 配合題
+stem: The manager has the power to make the ______ decision, but he always listens to everyone's opinions before giving his final say.
+= E
+~詞義 ultimate（adj.）最終的
+~原文 The manager has the power to make the ultimate decision, but he always listens to everyone's opinions before giving his final say.
+
+Q 18 | bank | 配合題
+stem: The apartment building has its own electricity ______; even in an emergency blackout, it can provide power for the residents.
+= B
+~詞義 generator（n.）發電機
+~原文 The apartment building has its own electricity generator; even in an emergency blackout, it can provide power for the residents.
+
+Q 19 | bank | 配合題
+stem: A: "I have a(n) ______ to make: I forgot your birthday." B: "That's okay."
+= C
+~詞義 confession（n.）坦承
+~原文 A: "I have a(n) confession to make: I forgot your birthday." B: "That's okay."
+
+Q 20 | bank | 配合題
+stem: Carol likes to put her favorite song on a(n) ______ and listen to it again and again while she works. She never gets tired of that song.
+= D
+~詞義 loop（n.）循環;環路
+~原文 Carol likes to put her favorite song on a(n) loop and listen to it again and again while she works. She never gets tired of that song.

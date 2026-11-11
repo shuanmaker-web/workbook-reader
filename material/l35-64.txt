@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 64 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-64 | Unit 64 | Vocabulary practice · Unit 64 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Mom is very good at giving m______es. Whenever I have a backache, I ask her to give me a back rub.
+= massages
+~詞義 massage（n.）按摩
+~原文 Mom is very good at giving massages. Whenever I have a backache, I ask her to give me a back rub.
+
+Q 2 | fill | 文意字彙
+stem: The mayor's opponent tried hard to u______e his reputation by spreading rumors.
+= undermine
+~詞義 undermine（v.）逐漸損害
+~原文 The mayor's opponent tried hard to undermine his reputation by spreading rumors.
+
+Q 3 | fill | 文意字彙
+stem: Henry found five thousand dollars on the MRT, and he handed the money in to the police. What he did was very h______e.
+= honorable
+~詞義 honorable（adj.）值得尊敬的
+~原文 Henry found five thousand dollars on the MRT, and he handed the money in to the police. What he did was very honorable.
+
+Q 4 | fill | 文意字彙
+stem: The agent b______yed his country by selling a lot of secret information to a rival country.
+= betrayed
+~詞義 betray（v.）背叛
+~原文 The agent betrayed his country by selling a lot of secret information to a rival country.
+
+Q 5 | fill | 文意字彙
+stem: I enjoy s______rs more than lectures because I can have more opportunities to express my opinions and learn from other students.
+= seminars
+~詞義 seminar（n.）研討會
+~原文 I enjoy seminars more than lectures because I can have more opportunities to express my opinions and learn from other students.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The ______ meeting is held every Monday. The teaching staff report what they did during the previous week and what they plan to do over the current week.
+A: activist
+B: deficit
+C: faculty
+D: subsidy
+= C
+~詞義 faculty（n.）全體教職員
+~原文 The faculty meeting is held every Monday. The teaching staff report what they did during the previous week and what they plan to do over the current week.
+
+Q 7 | choice | 選擇題
+stem: The witness's ______ helped the jury understand exactly what happened during the chaotic incident.
+A: acquisition
+B: testimony
+C: mechanism
+D: pessimism
+= B
+~詞義 testimony（n.）證詞
+~原文 The witness's testimony helped the jury understand exactly what happened during the chaotic incident.
+
+Q 8 | choice | 選擇題
+stem: This factory is going to gradually ______ out older devices as newer models become available.
+A: uncover
+B: delegate
+C: phase
+D: scramble
+= C
+~詞義 phase（v.）分階段淘汰
+~原文 This factory is going to gradually phase out older devices as newer models become available.
+
+Q 9 | choice | 選擇題
+stem: The company ______ its outdated policy and replaced it with a more efficient approach.
+A: defied
+B: scrapped
+C: tangled
+D: undid
+= B
+~詞義 scrap（v.）廢除
+~原文 The company scrapped its outdated policy and replaced it with a more efficient approach.
+
+Q 10 | choice | 選擇題
+stem: Many men experience hair loss in middle age. This is because of changes in their ______.
+A: chunks
+B: hormones
+C: petitions
+D: sheriffs
+= B
+~詞義 hormone（n.）荷爾蒙
+~原文 Many men experience hair loss in middle age. This is because of changes in their hormones.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: unemployment
+B: clarity
+C: civic
+D: meantime
+E: scrambled
+F: theology
+
+Q 11 | bank | 配合題
+stem: Tommy's composition showed ______ of thought and great persuasive skills.
+= B
+~詞義 clarity（n.）(思路)清晰
+~原文 Tommy's composition showed clarity of thought and great persuasive skills.
+
+Q 12 | bank | 配合題
+stem: The video showed that the burglar had ______ over the wall and sneaked into the house.
+= E
+~詞義 scramble（v.）攀爬
+~原文 The video showed that the burglar had scrambled over the wall and sneaked into the house.
+
+Q 13 | bank | 配合題
+stem: The ______ rate is getting higher, and the government is trying to help people get jobs.
+= A
+~詞義 unemployment（n.）失業
+~原文 The unemployment rate is getting higher, and the government is trying to help people get jobs.
+
+Q 14 | bank | 配合題
+stem: Alex believes that it is his ______ responsibility to take part in community service.
+= C
+~詞義 civic（adj.）公民的
+~原文 Alex believes that it is his civic responsibility to take part in community service.
+
+Q 15 | bank | 配合題
+stem: The laptop that I ordered online will arrive next week. In the ______, I am using my father's.
+= D
+~詞義 meantime（n.）(與此)同時
+~原文 The laptop that I ordered online will arrive next week. In the meantime, I am using my father's.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: acute
+B: solo
+C: photographic
+D: delegate
+E: expedition
+F: petty
+
+Q 16 | bank | 配合題
+stem: Mary had a(n) ______ headache, so she took half a day off and went to see a doctor.
+= A
+~詞義 acute（adj.）嚴重的
+~原文 Mary had a(n) acute headache, so she took half a day off and went to see a doctor.
+
+Q 17 | bank | 配合題
+stem: Charles was chosen as the class representative, so he will be their ______ to attend meetings about student affairs.
+= D
+~詞義 delegate（n.）代表
+~原文 Charles was chosen as the class representative, so he will be their delegate to attend meetings about student affairs.
+
+Q 18 | bank | 配合題
+stem: We asked our friend Sam to take our wedding pictures because he has great ______ skills.
+= C
+~詞義 photographic（adj.）攝影的
+~原文 We asked our friend Sam to take our wedding pictures because he has great photographic skills.
+
+Q 19 | bank | 配合題
+stem: To gain independence and confidence, Joanna planned to travel ______ for three months next year.
+= B
+~詞義 solo（adv.）單獨地
+~原文 To gain independence and confidence, Joanna planned to travel solo for three months next year.
+
+Q 20 | bank | 配合題
+stem: NASA sent a rocket on a(n) ______ to Mars to investigate the possibility of existing life forms there.
+= E
+~詞義 expedition（n.）探險隊
+~原文 NASA sent a rocket on a(n) expedition to Mars to investigate the possibility of existing life forms there.

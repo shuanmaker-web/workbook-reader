@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 6 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-06 | Unit 6 | Vocabulary practice · Unit 6 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Last night, the police s______ded a factory in which a criminal was hiding and finally managed to catch him.
+= surrounded
+~詞義 surround（v.）圍繞
+~原文 Last night, the police surrounded a factory in which a criminal was hiding and finally managed to catch him.
+
+Q 2 | fill | 文意字彙
+stem: Upon seeing Jessica, Jill turned around and walked to the o______e direction.
+= opposite
+~詞義 opposite（adj.）相反的
+~原文 Upon seeing Jessica, Jill turned around and walked to the opposite direction.
+
+Q 3 | fill | 文意字彙
+stem: A detective was employed to conduct an i______n into the murder case.
+= investigation
+~詞義 investigation（n.）調查
+~原文 A detective was employed to conduct an investigation into the murder case.
+
+Q 4 | fill | 文意字彙
+stem: The negotiations between North Korea and South Korea were ______ (significance) because they improved the relationship between the two nations.
+= significant
+~詞義 significant（adj.）重要的
+~原文 The negotiations between North Korea and South Korea were significant because they improved the relationship between the two nations.
+
+Q 5 | fill | 文意字彙
+stem: The poem is ______ (represent) of the poet's early style, when he focused on nature and peaceful countryside scenes.
+= representative
+~詞義 representative（adj.）有代表性的
+~原文 The poem is representative of the poet's early style, when he focused on nature and peaceful countryside scenes.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Besides being an excellent ______, Nathan always showed good sportsmanship (體育精神) and encouraged his teammates.
+A: magician
+B: suspect
+C: athlete
+D: civilian
+= C
+~詞義 athlete（n.）運動員
+~原文 Besides being an excellent athlete, Nathan always showed good sportsmanship (體育精神) and encouraged his teammates.
+
+Q 7 | choice | 選擇題
+stem: Thanks to the instant messaging apps, people can now ______ with others much more easily than before.
+A: define
+B: frighten
+C: communicate
+D: harvest
+= C
+~詞義 communicate（v.）溝通
+~原文 Thanks to the instant messaging apps, people can now communicate with others much more easily than before.
+
+Q 8 | choice | 選擇題
+stem: The customer ______ to the manager of the restaurant's poor service and asked for a refund.
+A: complained
+B: ranked
+C: faded
+D: marched
+= A
+~詞義 complain（v.）抱怨
+~原文 The customer complained to the manager of the restaurant's poor service and asked for a refund.
+
+Q 9 | choice | 選擇題
+stem: According to a survey conducted by the Ministry of Health and Welfare in 2020, the most ______ cause of death in Taiwan is heart disease.
+A: additional
+B: magical
+C: naive
+D: frequent
+= D
+~詞義 frequent（adj.）頻繁的
+~原文 According to a survey conducted by the Ministry of Health and Welfare in 2020, the most frequent cause of death in Taiwan is heart disease.
+
+Q 10 | choice | 選擇題
+stem: In our society, individuals accused of a crime are supposed to be considered ______ until proven guilty by a judge.
+A: additional
+B: technical
+C: magical
+D: innocent
+= D
+~詞義 innocent（adj.）無罪的;清白的
+~原文 In our society, individuals accused of a crime are supposed to be considered innocent until proven guilty by a judge.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: opposed
+B: investigated
+C: civil
+D: graduated
+E: compete
+F: rough
+
+Q 11 | bank | 配合題
+stem: Kate ______ from medical school last year. Now she works in a hospital.
+= D
+~詞義 graduate（v.）畢業
+~原文 Kate graduated from medical school last year. Now she works in a hospital.
+
+Q 12 | bank | 配合題
+stem: Robert had a(n) ______ time adjusting to the new school after his family moved to another city.
+= F
+~詞義 rough（adj.）艱困的
+~原文 Robert had a(n) rough time adjusting to the new school after his family moved to another city.
+
+Q 13 | bank | 配合題
+stem: In every democratic country, people should have basic ______ rights, including the right to vote and to express their opinions.
+= C
+~詞義 civil（adj.）公民的
+~原文 In every democratic country, people should have basic civil rights, including the right to vote and to express their opinions.
+
+Q 14 | bank | 配合題
+stem: It is impossible for most small grocery stores to ______ with large supermarkets.
+= E
+~詞義 compete（v.）競爭
+~原文 It is impossible for most small grocery stores to compete with large supermarkets.
+
+Q 15 | bank | 配合題
+stem: This study ______ the negative effects of violent video games on children.
+= B
+~詞義 investigate（v.）調查
+~原文 This study investigated the negative effects of violent video games on children.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: competitive
+B: completed
+C: suspicious
+D: strengths
+E: harvested
+F: graduation
+
+Q 16 | bank | 配合題
+stem: After the manager ______ his tasks for the day, he went home.
+= B
+~詞義 complete（v.）完成
+~原文 After the manager completed his tasks for the day, he went home.
+
+Q 17 | bank | 配合題
+stem: This year, the college invited the mayor to speak at its ______ ceremony.
+= F
+~詞義 graduation（n.）畢業
+~原文 This year, the college invited the mayor to speak at its graduation ceremony.
+
+Q 18 | bank | 配合題
+stem: The farmer quickly ______ the vegetables before the hurricane came.
+= E
+~詞義 harvest（v.）收割
+~原文 The farmer quickly harvested the vegetables before the hurricane came.
+
+Q 19 | bank | 配合題
+stem: In today's ______ world, children are often expected to achieve excellence in their academic performance.
+= A
+~詞義 competitive（adj.）競爭的
+~原文 In today's competitive world, children are often expected to achieve excellence in their academic performance.
+
+Q 20 | bank | 配合題
+stem: One of Jenny's greatest ______ is her ability to stay calm and think clearly under pressure.
+= D
+~詞義 strength（n.）優點
+~原文 One of Jenny's greatest strengths is her ability to stay calm and think clearly under pressure.

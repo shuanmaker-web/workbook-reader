@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 29 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-29 | Unit 29 | Vocabulary practice · Unit 29 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。本單元請抽查：部分句子左側邊緣被切到，開頭文字依語意補回。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Chinese people traditionally eat d______gs on Chinese New Year's Eve because they symbolize wealth.
+= dumplings
+~詞義 dumpling（n.）水餃
+~原文 Chinese people traditionally eat dumplings on Chinese New Year's Eve because they symbolize wealth.
+
+Q 2 | fill | 文意字彙
+stem: When Mary's grandfather fainted, she called an a______e to take him to the hospital.
+= ambulance
+~詞義 ambulance（n.）救護車
+~原文 When Mary's grandfather fainted, she called an ambulance to take him to the hospital.
+
+Q 3 | fill | 文意字彙
+stem: The Smiths have a huge house, so they have hired a h______r to help take care of it.
+= housekeeper
+~詞義 housekeeper（n.）管家
+~原文 The Smiths have a huge house, so they have hired a housekeeper to help take care of it.
+
+Q 4 | fill | 文意字彙
+stem: Henry became very f______d of gardening after discovering how relaxing it felt to watch his plants grow each week.
+= fond
+~詞義 fond（adj.）喜歡的
+~原文 Henry became very fond of gardening after discovering how relaxing it felt to watch his plants grow each week.
+
+Q 5 | fill | 文意字彙
+stem: It is very important to remain t______l with your partner in a relationship.
+= truthful
+~詞義 truthful（adj.）誠實的
+~原文 It is very important to remain truthful with your partner in a relationship.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: It is a ______ that Allen survived the horrible car accident and didn't suffer any major injuries.
+A: miracle
+B: lottery
+C: follower
+D: lobby
+= A
+~詞義 miracle（n.）奇蹟
+~原文 It is a miracle that Allen survived the horrible car accident and didn't suffer any major injuries.
+
+Q 7 | choice | 選擇題
+stem: The farmer grows tomatoes and strawberries in a big ______.
+A: peanut
+B: missile
+C: greenhouse
+D: apron
+= C
+~詞義 greenhouse（n.）溫室
+~原文 The farmer grows tomatoes and strawberries in a big greenhouse.
+
+Q 8 | choice | 選擇題
+stem: The boy is very short, so he has to stand on a ______ when he brushes his teeth.
+A: mist
+B: horn
+C: stool
+D: fence
+= C
+~詞義 stool（n.）凳子
+~原文 The boy is very short, so he has to stand on a stool when he brushes his teeth.
+
+Q 9 | choice | 選擇題
+stem: An elephant's ______ serves as both a nose and a hand, allowing it to grab objects easily.
+A: storm
+B: mist
+C: horn
+D: trunk
+= D
+~詞義 trunk（n.）象鼻
+~原文 An elephant's trunk serves as both a nose and a hand, allowing it to grab objects easily.
+
+Q 10 | choice | 選擇題
+stem: Max started learning English last month, and he could write the whole English ______ within just a few days.
+A: alphabet
+B: grasshopper
+C: lobby
+D: missile
+= A
+~詞義 alphabet（n.）字母表
+~原文 Max started learning English last month, and he could write the whole English alphabet within just a few days.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: peanut
+B: missile
+C: excelled
+D: arrested
+E: followers
+F: fighters
+
+Q 11 | bank | 配合題
+stem: The athlete ______ at long-distance running, breaking several school records before graduating.
+= C
+~詞義 excel（v.）擅長
+~原文 The athlete excelled at long-distance running, breaking several school records before graduating.
+
+Q 12 | bank | 配合題
+stem: The ______ flew a long distance and exploded when it hit the building.
+= B
+~詞義 missile（n.）飛彈
+~原文 The missile flew a long distance and exploded when it hit the building.
+
+Q 13 | bank | 配合題
+stem: Jane is a famous YouTuber. She has more than a million ______.
+= E
+~詞義 follower（n.）追隨者
+~原文 Jane is a famous YouTuber. She has more than a million followers.
+
+Q 14 | bank | 配合題
+stem: Many people find that ______ butter pairs perfectly with jam on toast.
+= A
+~詞義 peanut（n.）花生
+~原文 Many people find that peanut butter pairs perfectly with jam on toast.
+
+Q 15 | bank | 配合題
+stem: The police officers rushed into the room and ______ the man for possessing illegal weapons.
+= D
+~詞義 arrest（v.）逮捕
+~原文 The police officers rushed into the room and arrested the man for possessing illegal weapons.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: wicked
+B: anyhow
+C: stormy
+D: excellence
+E: armed
+F: tub
+
+Q 16 | bank | 配合題
+stem: Danny always feels grateful to have a roof over his head during ______ weather.
+= C
+~詞義 stormy（adj.）暴風雨的
+~原文 Danny always feels grateful to have a roof over his head during stormy weather.
+
+Q 17 | bank | 配合題
+stem: In the story, the ______ witch put an evil spell on the beautiful princess.
+= A
+~詞義 wicked（adj.）邪惡的
+~原文 In the story, the wicked witch put an evil spell on the beautiful princess.
+
+Q 18 | bank | 配合題
+stem: After swimming 20 laps in the pool, Janice took a rest in the hot ______.
+= F
+~詞義 tub（n.）浴缸
+~原文 After swimming 20 laps in the pool, Janice took a rest in the hot tub.
+
+Q 19 | bank | 配合題
+stem: The ______ of their teamwork showed in how smoothly the group completed every assignment throughout the semester.
+= D
+~詞義 excellence（n.）優異
+~原文 The excellence of their teamwork showed in how smoothly the group completed every assignment throughout the semester.
+
+Q 20 | bank | 配合題
+stem: I don't have time for lunch. ______, I don't feel hungry at all.
+= B
+~詞義 anyhow（adv.）反正
+~原文 I don't have time for lunch. Anyhow, I don't feel hungry at all.

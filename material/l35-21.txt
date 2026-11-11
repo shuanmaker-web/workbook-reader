@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 21 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-21 | Unit 21 | Vocabulary practice · Unit 21 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: We decided to stay at a m______l because the rooms there were cheap.
+= motel
+~詞義 motel（n.）汽車旅館
+~原文 We decided to stay at a motel because the rooms there were cheap.
+
+Q 2 | fill | 文意字彙
+stem: I s______pped a few chapters to find out what happened at the end of the story.
+= skipped
+~詞義 skip（v.）略過
+~原文 I skipped a few chapters to find out what happened at the end of the story.
+
+Q 3 | fill | 文意字彙
+stem: In the story, the main character m______red the king with a knife while he was sleeping.
+= murdered
+~詞義 murder（v.）謀殺
+~原文 In the story, the main character murdered the king with a knife while he was sleeping.
+
+Q 4 | fill | 文意字彙
+stem: Tim and Tom are brothers. You can definitely see the s______y between them.
+= similarity
+~詞義 similarity（n.）相似
+~原文 Tim and Tom are brothers. You can definitely see the similarity between them.
+
+Q 5 | fill | 文意字彙
+stem: Diana enjoys her work as a teacher because she finds it satisfying and m______l.
+= meaningful
+~詞義 meaningful（adj.）有意義的
+~原文 Diana enjoys her work as a teacher because she finds it satisfying and meaningful.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Donna is grateful to her teacher because he always gives her ______ when she faces difficulties.
+A: temper
+B: dump
+C: guidance
+D: marker
+= C
+~詞義 guidance（n.）引導;指引
+~原文 Donna is grateful to her teacher because he always gives her guidance when she faces difficulties.
+
+Q 7 | choice | 選擇題
+stem: After walking in the sun for one hour, the man drank some water to quench his ______.
+A: boot
+B: thirst
+C: knot
+D: ray
+= B
+~詞義 thirst（n.）口渴
+~原文 After walking in the sun for one hour, the man drank some water to quench his thirst.
+
+Q 8 | choice | 選擇題
+stem: The movie star's sudden marriage made national ______. Many journalists suddenly wanted to interview her.
+A: morals
+B: headlines
+C: branches
+D: skates
+= B
+~詞義 headline（n.）頭條新聞
+~原文 The movie star's sudden marriage made national headlines. Many journalists suddenly wanted to interview her.
+
+Q 9 | choice | 選擇題
+stem: Please spit the ______ out. You are not allowed to chew it in class.
+A: gum
+B: fur
+C: hut
+D: sin
+= A
+~詞義 gum（n.）口香糖
+~原文 Please spit the gum out. You are not allowed to chew it in class.
+
+Q 10 | choice | 選擇題
+stem: Reading is my favorite leisure activity. I like to sit by the window with a book and ______ hot tea.
+A: bore
+B: glow
+C: pave
+D: sip
+= D
+~詞義 sip（v.）啜飲
+~原文 Reading is my favorite leisure activity. I like to sit by the window with a book and sip hot tea.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: headquarters
+B: blouse
+C: meanwhile
+D: tenderly
+E: ivory
+F: paving
+
+Q 11 | bank | 配合題
+stem: Mary keeps an extra ______ in her office in case she accidentally spills something on the one she is wearing.
+= B
+~詞義 blouse（n.）(女用)襯衫
+~原文 Mary keeps an extra blouse in her office in case she accidentally spills something on the one she is wearing.
+
+Q 12 | bank | 配合題
+stem: The construction workers are ______ a new sidewalk in front of the building.
+= F
+~詞義 pave（v.）鋪(路)
+~原文 The construction workers are paving a new sidewalk in front of the building.
+
+Q 13 | bank | 配合題
+stem: Many international companies choose to establish their ______ in New York City because it is America's financial center.
+= A
+~詞義 headquarters（n.）總部
+~原文 Many international companies choose to establish their headquarters in New York City because it is America's financial center.
+
+Q 14 | bank | 配合題
+stem: Many professors are criticized for living in ______ towers, unaware of the real challenges young people face outside the university.
+= E
+~詞義 ivory（n.）象牙塔(ivory tower)
+~原文 Many professors are criticized for living in ivory towers, unaware of the real challenges young people face outside the university.
+
+Q 15 | bank | 配合題
+stem: The shop does not open until one hour from now; ______, a long line of people has already formed outside, waiting to get in.
+= C
+~詞義 meanwhile（adv.）與此同時
+~原文 The shop does not open until one hour from now; meanwhile, a long line of people has already formed outside, waiting to get in.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: knot
+B: immoral
+C: peas
+D: glowed
+E: familiarity
+F: waterfalls
+
+Q 16 | bank | 配合題
+stem: Danny is a picky eater. For example, he won't eat ______ or carrots.
+= C
+~詞義 pea（n.）豌豆
+~原文 Danny is a picky eater. For example, he won't eat peas or carrots.
+
+Q 17 | bank | 配合題
+stem: Alice's ______ with the laboratory allowed the group to finish their science project much faster than the other teams.
+= E
+~詞義 familiarity（n.）熟悉
+~原文 Alice's familiarity with the laboratory allowed the group to finish their science project much faster than the other teams.
+
+Q 18 | bank | 配合題
+stem: At night, a lantern ______ dimly in the corner of the hut.
+= D
+~詞義 glow（v.）發光
+~原文 At night, a lantern glowed dimly in the corner of the hut.
+
+Q 19 | bank | 配合題
+stem: The principal reminded the students that cheating on exams is not only dishonest but also deeply ______.
+= B
+~詞義 immoral（adj.）不道德的
+~原文 The principal reminded the students that cheating on exams is not only dishonest but also deeply immoral.
+
+Q 20 | bank | 配合題
+stem: Mandy told her parents that she planned to tie the ______ with her partner next spring, hoping everyone would support their decision.
+= A
+~詞義 knot（n.）與某人結婚(tie the knot with sb.)
+~原文 Mandy told her parents that she planned to tie the knot with her partner next spring, hoping everyone would support their decision.

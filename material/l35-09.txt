@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 9 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-09 | Unit 9 | Vocabulary practice · Unit 9 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Winning a scholarship to Harvard University is a great h______r. You should be very proud of yourself.
+= honor
+~詞義 honor（n.）榮譽;光榮
+~原文 Winning a scholarship to Harvard University is a great honor. You should be very proud of yourself.
+
+Q 2 | fill | 文意字彙
+stem: The old lady t______ted her ankle while walking on the uneven sidewalk.
+= twisted
+~詞義 twist（v.）扭到
+~原文 The old lady twisted her ankle while walking on the uneven sidewalk.
+
+Q 3 | fill | 文意字彙
+stem: The s______w that the father felt over his daughter's death was too much for him to bear.
+= sorrow
+~詞義 sorrow（n.）悲傷
+~原文 The sorrow that the father felt over his daughter's death was too much for him to bear.
+
+Q 4 | fill | 文意字彙
+stem: In Taiwan, there are two major ______ (politics) parties. One is the Democratic Progressive Party, and the other is the Kuomintang.
+= political
+~詞義 political（adj.）政治的
+~原文 In Taiwan, there are two major political parties. One is the Democratic Progressive Party, and the other is the Kuomintang.
+
+Q 5 | fill | 文意字彙
+stem: It's important to wear sunglasses as ______ (protect) for your eyes when the sun is very bright.
+= protection
+~詞義 protection（n.）保護
+~原文 It's important to wear sunglasses as protection for your eyes when the sun is very bright.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Justin likes to do ______ activities such as skiing, mountain climbing, and hiking.
+A: honest
+B: plastic
+C: sincere
+D: outdoor
+= D
+~詞義 outdoor（adj.）戶外的
+~原文 Justin likes to do outdoor activities such as skiing, mountain climbing, and hiking.
+
+Q 7 | choice | 選擇題
+stem: Checking the map, the general realized that his troops were only five ______ from their enemy.
+A: politicians
+B: dealers
+C: kilometers
+D: tourists
+= C
+~詞義 kilometer（n.）公里
+~原文 Checking the map, the general realized that his troops were only five kilometers from their enemy.
+
+Q 8 | choice | 選擇題
+stem: The doctor told Wendy not to worry about the big ______ on her arm—it was only a bruise.
+A: bump
+B: thread
+C: liver
+D: twin
+= A
+~詞義 bump（n.）腫塊
+~原文 The doctor told Wendy not to worry about the big bump on her arm—it was only a bruise.
+
+Q 9 | choice | 選擇題
+stem: Though Joanna was born in Taipei, she considers Taichung her ______. She has worked there for decades.
+A: plastic
+B: tourism
+C: sincerity
+D: hometown
+= D
+~詞義 hometown（n.）家鄉
+~原文 Though Joanna was born in Taipei, she considers Taichung her hometown. She has worked there for decades.
+
+Q 10 | choice | 選擇題
+stem: The scientist found a small ______ of salt in the water sample taken from the river.
+A: rumor
+B: trace
+C: ton
+D: deal
+= B
+~詞義 trace（n.）微量
+~原文 The scientist found a small trace of salt in the water sample taken from the river.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: indoors
+B: dealer
+C: nap
+D: fireworks
+E: tourist
+F: lung
+
+Q 11 | bank | 配合題
+stem: It's raining cats and dogs! Let's go ______ and play chess.
+= A
+~詞義 indoors（adv.）往室內
+~原文 It's raining cats and dogs! Let's go indoors and play chess.
+
+Q 12 | bank | 配合題
+stem: Everyone knows there is a strong relationship between smoking and ______ cancer.
+= F
+~詞義 lung（n.）肺臟
+~原文 Everyone knows there is a strong relationship between smoking and lung cancer.
+
+Q 13 | bank | 配合題
+stem: At the New Year's Eve countdown party, people can view a(n) ______ display.
+= D
+~詞義 fireworks（n.）煙火
+~原文 At the New Year's Eve countdown party, people can view a(n) fireworks display.
+
+Q 14 | bank | 配合題
+stem: Sun Moon Lake is one of Taiwan's most popular ______ attractions.
+= E
+~詞義 tourist（adj.）觀光(景點)
+~原文 Sun Moon Lake is one of Taiwan's most popular tourist attractions.
+
+Q 15 | bank | 配合題
+stem: My sister wanted to sell her old car, so she found a car ______ to arrange the sale for her.
+= B
+~詞義 dealer（n.）商人
+~原文 My sister wanted to sell her old car, so she found a car dealer to arrange the sale for her.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: column
+B: plastic
+C: pilot
+D: clue
+E: protective
+F: stuff
+
+Q 16 | bank | 配合題
+stem: Wearing sunglasses provides people's eyes with a ______ layer against bright light from the sun.
+= E
+~詞義 protective（adj.）保護的
+~原文 Wearing sunglasses provides people's eyes with a protective layer against bright light from the sun.
+
+Q 17 | bank | 配合題
+stem: Charles is trying to ______ his bag with snacks and drinks before leaving for school.
+= F
+~詞義 stuff（v.）塞滿
+~原文 Charles is trying to stuff his bag with snacks and drinks before leaving for school.
+
+Q 18 | bank | 配合題
+stem: According to the investigation, the air crash was caused by ______ error.
+= C
+~詞義 pilot（n.）飛行員
+~原文 According to the investigation, the air crash was caused by pilot error.
+
+Q 19 | bank | 配合題
+stem: My classmates didn't have a ______ as to what the lecturer was talking about.
+= D
+~詞義 clue（n.）線索
+~原文 My classmates didn't have a clue as to what the lecturer was talking about.
+
+Q 20 | bank | 配合題
+stem: It is better to store food in glass containers than ______ ones.
+= B
+~詞義 plastic（adj.）塑膠的
+~原文 It is better to store food in glass containers than plastic ones.

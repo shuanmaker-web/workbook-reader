@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 55 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-55 | Unit 55 | Vocabulary practice · Unit 55 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。本單元請抽查：照片邊緣或反光處，個別字詞可能有誤。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The c______y is so famous that almost everyone knows who she is.
+= celebrity
+~詞義 celebrity（n.）名人
+~原文 The celebrity is so famous that almost everyone knows who she is.
+
+Q 2 | fill | 文意字彙
+stem: The woman was o______med with grief when she learned that her husband had died in the accident.
+= overwhelmed
+~詞義 overwhelm（v.）使不知所措
+~原文 The woman was overwhelmed with grief when she learned that her husband had died in the accident.
+
+Q 3 | fill | 文意字彙
+stem: I am sorry that I won't be able to come to the meeting. I have a p______r engagement.
+= prior
+~詞義 prior（adj.）在先的
+~原文 I am sorry that I won't be able to come to the meeting. I have a prior engagement.
+
+Q 4 | fill | 文意字彙
+stem: The smartphone company claims that they have achieved a technological b______h by dramatically reducing the weight of their phones.
+= breakthrough
+~詞義 breakthrough（n.）突破
+~原文 The smartphone company claims that they have achieved a technological breakthrough by dramatically reducing the weight of their phones.
+
+Q 5 | fill | 文意字彙
+stem: The house does not have enough s______e space, so Peter is unable to store all his belongings.
+= storage
+~詞義 storage（n.）儲存
+~原文 The house does not have enough storage space, so Peter is unable to store all his belongings.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: In recent years, scientists have observed a(n) ______ change in the temperature on Earth; in other words, it is obviously getting warmer.
+A: administrative
+B: horizontal
+C: noticeable
+D: structural
+= C
+~詞義 noticeable（adj.）顯著的
+~原文 In recent years, scientists have observed a(n) noticeable change in the temperature on Earth; in other words, it is obviously getting warmer.
+
+Q 7 | choice | 選擇題
+stem: The speaker was talking so softly that the audience members had to ______ their ears to hear her.
+A: suspend
+B: mock
+C: scheme
+D: strain
+= D
+~詞義 strain（v.）拉緊;豎起
+~原文 The speaker was talking so softly that the audience members had to strain their ears to hear her.
+
+Q 8 | choice | 選擇題
+stem: Andy has a severe ______ to peanuts. He starts to cough and itch if he goes near any.
+A: allergy
+B: mortality
+C: particle
+D: spectator
+= A
+~詞義 allergy（n.）過敏
+~原文 Andy has a severe allergy to peanuts. He starts to cough and itch if he goes near any.
+
+Q 9 | choice | 選擇題
+stem: The report shows that the building company failed to take safety ______ when setting up the construction site. That's what led to the tragic accident.
+A: arenas
+B: components
+C: precautions
+D: segments
+= C
+~詞義 precaution（n.）預防措施
+~原文 The report shows that the building company failed to take safety precautions when setting up the construction site. That's what led to the tragic accident.
+
+Q 10 | choice | 選擇題
+stem: Ken did not tell others about his marriage because he likes to keep a low ______.
+A: administrator
+B: profile
+C: pulse
+D: warrior
+= B
+~詞義 profile（n.）低調(low profile)
+~原文 Ken did not tell others about his marriage because he likes to keep a low profile.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: bodyguard
+B: patented
+C: indispensable
+D: reversed
+E: recommends
+F: straightforward
+
+Q 11 | bank | 配合題
+stem: We cannot start the meeting until William arrives; he is a(n) ______ member of our team.
+= C
+~詞義 indispensable（adj.）必不可少的
+~原文 We cannot start the meeting until William arrives; he is a(n) indispensable member of our team.
+
+Q 12 | bank | 配合題
+stem: It can be hard to deliver bad news to someone; in fact, the best way to do it is to be honest and ______.
+= F
+~詞義 straightforward（adj.）直率的
+~原文 It can be hard to deliver bad news to someone; in fact, the best way to do it is to be honest and straightforward.
+
+Q 13 | bank | 配合題
+stem: Once Ian ______ the software, he felt relieved that his idea was legally protected.
+= B
+~詞義 patent（v.）取得專利
+~原文 Once Ian patented the software, he felt relieved that his idea was legally protected.
+
+Q 14 | bank | 配合題
+stem: The doctor ______ that my grandfather stop drinking alcohol to avoid worsening his heart disease.
+= E
+~詞義 recommend（v.）建議
+~原文 The doctor recommends that my grandfather stop drinking alcohol to avoid worsening his heart disease.
+
+Q 15 | bank | 配合題
+stem: The driver carefully ______ her vehicle out of the narrow lane to avoid hitting the fence behind her.
+= D
+~詞義 reverse（v.）倒車
+~原文 The driver carefully reversed her vehicle out of the narrow lane to avoid hitting the fence behind her.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: spectacular
+B: sturdy
+C: strapped
+D: administration
+E: preyed
+F: depression
+
+Q 16 | bank | 配合題
+stem: I have used this desk for more than twenty years without a glitch. It is a very ______ piece of furniture.
+= B
+~詞義 sturdy（adj.）堅固的
+~原文 I have used this desk for more than twenty years without a glitch. It is a very sturdy piece of furniture.
+
+Q 17 | bank | 配合題
+stem: Tina has a lot of experience in business ______; she is good at managing people and organizing work schedules.
+= D
+~詞義 administration（n.）行政
+~原文 Tina has a lot of experience in business administration; she is good at managing people and organizing work schedules.
+
+Q 18 | bank | 配合題
+stem: The documentary showed how stronger animals ______ upon weaker ones to survive in the wild.
+= E
+~詞義 prey（v.）捕食
+~原文 The documentary showed how stronger animals preyed upon weaker ones to survive in the wild.
+
+Q 19 | bank | 配合題
+stem: During the economic ______, many factories closed, leaving thousands of workers without a stable income.
+= F
+~詞義 depression（n.）經濟蕭條
+~原文 During the economic depression, many factories closed, leaving thousands of workers without a stable income.
+
+Q 20 | bank | 配合題
+stem: Before the plane takes off, the flight attendants will walk around the cabin to make sure that everyone is ______ in.
+= C
+~詞義 strap（adj.）繫好安全帶;用帶子捆綁
+~原文 Before the plane takes off, the flight attendants will walk around the cabin to make sure that everyone is strapped in.

@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 5 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-05 | Unit 5 | Vocabulary practice · Unit 5 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Interpersonal harmony is one of the most important e______ts of Chinese culture.
+= elements
+~詞義 element（n.）要素
+~原文 Interpersonal harmony is one of the most important elements of Chinese culture.
+
+Q 2 | fill | 文意字彙
+stem: The government has a______ed that it will be making a series of changes to improve the economic situation.
+= announced
+~詞義 announce（v.）宣布
+~原文 The government has announced that it will be making a series of changes to improve the economic situation.
+
+Q 3 | fill | 文意字彙
+stem: The government promised to take i______e action to help those who were most in need.
+= immediate
+~詞義 immediate（adj.）立刻的
+~原文 The government promised to take immediate action to help those who were most in need.
+
+Q 4 | fill | 文意字彙
+stem: It was ______ (fortune) that the concert was canceled just minutes before it started due to the heavy rain.
+= unfortunate
+~詞義 unfortunate（adj.）不幸的
+~原文 It was unfortunate that the concert was canceled just minutes before it started due to the heavy rain.
+
+Q 5 | fill | 文意字彙
+stem: Sometimes people use computers to perform advanced calculations, as computers are both efficient and ______ (accuracy).
+= accurate
+~詞義 accurate（adj.）正確的;準確的
+~原文 Sometimes people use computers to perform advanced calculations, as computers are both efficient and accurate.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Einstein was ______ the Nobel Prize for his outstanding contribution to modern physics.
+A: awarded
+B: confused
+C: expanded
+D: wandered
+= A
+~詞義 award（v.）頒發
+~原文 Einstein was awarded the Nobel Prize for his outstanding contribution to modern physics.
+
+Q 7 | choice | 選擇題
+stem: After the exam ended, the teacher walked down each row and ______ all the answer sheets.
+A: healed
+B: widened
+C: collected
+D: destroyed
+= C
+~詞義 collect（v.）收取
+~原文 After the exam ended, the teacher walked down each row and collected all the answer sheets.
+
+Q 8 | choice | 選擇題
+stem: Nowadays, children are encouraged to be ______ rather than think like everyone else.
+A: pessimistic
+B: normal
+C: dramatic
+D: creative
+= D
+~詞義 creative（adj.）有創意的
+~原文 Nowadays, children are encouraged to be creative rather than think like everyone else.
+
+Q 9 | choice | 選擇題
+stem: There is a strong ______ between smoking and lung cancer; people who smoke are a lot more likely to develop it.
+A: kingdom
+B: connection
+C: fortune
+D: journey
+= B
+~詞義 connection（n.）關聯;連結
+~原文 There is a strong connection between smoking and lung cancer; people who smoke are a lot more likely to develop it.
+
+Q 10 | choice | 選擇題
+stem: Bread and butter is practically a daily ______ for most French people.
+A: budget
+B: creature
+C: necessity
+D: property
+= C
+~詞義 necessity（n.）必需品
+~原文 Bread and butter is practically a daily necessity for most French people.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: creatures
+B: connect
+C: passion
+D: march
+E: destruction
+F: fortune
+
+Q 11 | bank | 配合題
+stem: Most people hope that they can make a ______ someday.
+= F
+~詞義 fortune（n.）財富
+~原文 Most people hope that they can make a fortune someday.
+
+Q 12 | bank | 配合題
+stem: A band will lead the victory parade and slowly ______ through the streets tomorrow morning.
+= D
+~詞義 march（v.）行進
+~原文 A band will lead the victory parade and slowly march through the streets tomorrow morning.
+
+Q 13 | bank | 配合題
+stem: If you have great ______ for your job, you will surely be successful.
+= C
+~詞義 passion（n.）熱情
+~原文 If you have great passion for your job, you will surely be successful.
+
+Q 14 | bank | 配合題
+stem: The Amazon rainforest is home to a great variety of ______.
+= A
+~詞義 creatures（n.）生物
+~原文 The Amazon rainforest is home to a great variety of creatures.
+
+Q 15 | bank | 配合題
+stem: The ______ of the rainforest will result in more pollution and less rain in the world.
+= E
+~詞義 destruction（n.）破壞
+~原文 The destruction of the rainforest will result in more pollution and less rain in the world.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: confuse
+B: creation
+C: optimistic
+D: race
+E: wander
+F: racial
+
+Q 16 | bank | 配合題
+stem: This is the best ______ that this artist has ever produced.
+= B
+~詞義 creation（n.）創作
+~原文 This is the best creation that this artist has ever produced.
+
+Q 17 | bank | 配合題
+stem: Martin trained for months, hoping to win the ______ and prove that hard work matters more than talent.
+= D
+~詞義 race（n.）比賽
+~原文 Martin trained for months, hoping to win the race and prove that hard work matters more than talent.
+
+Q 18 | bank | 配合題
+stem: ______ discrimination in this country is widespread and has caused a lot of violence and unrest.
+= F
+~詞義 racial（adj.）種族的
+~原文 Racial discrimination in this country is widespread and has caused a lot of violence and unrest.
+
+Q 19 | bank | 配合題
+stem: Joanna is ______ about her chances of winning the scholarship to study abroad.
+= C
+~詞義 optimistic（adj.）樂觀的
+~原文 Joanna is optimistic about her chances of winning the scholarship to study abroad.
+
+Q 20 | bank | 配合題
+stem: Some tourists ______ Taiwan with Thailand, even though the two countries have very different cultures and languages.
+= A
+~詞義 confuse（v.）混淆
+~原文 Some tourists confuse Taiwan with Thailand, even though the two countries have very different cultures and languages.

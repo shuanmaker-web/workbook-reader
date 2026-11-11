@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 63 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-63 | Unit 63 | Vocabulary practice · Unit 63 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: This news reporter u______red the ugly truth about child labor in the country.
+= uncovered
+~詞義 uncover（v.）揭露
+~原文 This news reporter uncovered the ugly truth about child labor in the country.
+
+Q 2 | fill | 文意字彙
+stem: Jenny wasn't e______e for the internship because she was too young to apply for it.
+= eligible
+~詞義 eligible（adj.）有資格的
+~原文 Jenny wasn't eligible for the internship because she was too young to apply for it.
+
+Q 3 | fill | 文意字彙
+stem: It is my dream to be a p______y chef; I love making and eating desserts.
+= pastry
+~詞義 pastry（n.）糕點
+~原文 It is my dream to be a pastry chef; I love making and eating desserts.
+
+Q 4 | fill | 文意字彙
+stem: Mandy has naturally curly hair, and if she doesn't use conditioner, her hair gets t______ed.
+= tangled
+~詞義 tangle（v.）使糾結
+~原文 Mandy has naturally curly hair, and if she doesn't use conditioner, her hair gets tangled.
+
+Q 5 | fill | 文意字彙
+stem: That is a f______s dress, and Lisa looks great in it.
+= fabulous
+~詞義 fabulous（adj.）絕佳的
+~原文 That is a fabulous dress, and Lisa looks great in it.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: We got a new electric wheelchair for our grandfather, and it is much easier for him to ______ than his previous manual one.
+A: acquaint
+B: facilitate
+C: manipulate
+D: patch
+= C
+~詞義 manipulate（v.）操控
+~原文 We got a new electric wheelchair for our grandfather, and it is much easier for him to manipulate than his previous manual one.
+
+Q 7 | choice | 選擇題
+stem: Kevin won several speech competitions when he was growing up, and he keeps all the ______ on his bookshelf.
+A: batches
+B: chapels
+C: saddles
+D: trophies
+= D
+~詞義 trophy（n.）獎杯
+~原文 Kevin won several speech competitions when he was growing up, and he keeps all the trophies on his bookshelf.
+
+Q 8 | choice | 選擇題
+stem: Burning plastics releases ______ smoke that threatens both human health and the environment.
+A: tactical
+B: hazardous
+C: striking
+D: legislative
+= B
+~詞義 hazardous（adj.）危險的
+~原文 Burning plastics releases hazardous smoke that threatens both human health and the environment.
+
+Q 9 | choice | 選擇題
+stem: There has been a(n) ______ in the company's sales, so it may achieve its yearly sales target faster than expected.
+A: acceleration
+B: decline
+C: mandate
+D: manipulation
+= A
+~詞義 acceleration（n.）加速
+~原文 There has been a(n) acceleration in the company's sales, so it may achieve its yearly sales target faster than expected.
+
+Q 10 | choice | 選擇題
+stem: Nina has made some investments because she is worried that her ______ will not be enough to support her after retirement.
+A: certainty
+B: salmon
+C: pension
+D: tuition
+= C
+~詞義 pension（n.）退休金
+~原文 Nina has made some investments because she is worried that her pension will not be enough to support her after retirement.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: accounting
+B: exiled
+C: chaos
+D: deceived
+E: pathetic
+F: masculine
+
+Q 11 | bank | 配合題
+stem: The man lives a(n) ______ life because he has only money and no true friends.
+= E
+~詞義 pathetic（adj.）可憐的
+~原文 The man lives a(n) pathetic life because he has only money and no true friends.
+
+Q 12 | bank | 配合題
+stem: The general was ______ from his homeland to a distant island after refusing to support the new government.
+= B
+~詞義 exile（v.）放逐
+~原文 The general was exiled from his homeland to a distant island after refusing to support the new government.
+
+Q 13 | bank | 配合題
+stem: Not every man has to show ______ qualities; a man can have feminine traits, too.
+= F
+~詞義 masculine（adj.）男子氣概的
+~原文 Not every man has to show masculine qualities; a man can have feminine traits, too.
+
+Q 14 | bank | 配合題
+stem: The teacher left the classroom for just a few moments, and now the classroom is in total ______.
+= C
+~詞義 chaos（n.）混亂
+~原文 The teacher left the classroom for just a few moments, and now the classroom is in total chaos.
+
+Q 15 | bank | 配合題
+stem: The scammer ______ numerous victims into giving him their money by telling them he could help them earn a fortune.
+= D
+~詞義 deceive（v.）欺騙
+~原文 The scammer deceived numerous victims into giving him their money by telling them he could help them earn a fortune.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: tactics
+B: scarred
+C: customs
+D: hauled
+E: heir
+F: scenario
+
+Q 16 | bank | 配合題
+stem: When passing through ______, you may be asked a few questions, such as the reason for your visit.
+= C
+~詞義 customs（n.）海關
+~原文 When passing through customs, you may be asked a few questions, such as the reason for your visit.
+
+Q 17 | bank | 配合題
+stem: The young prince is the ______ to the crown. That is, he will become king once his father passes away.
+= E
+~詞義 heir（n.）繼承者
+~原文 The young prince is the heir to the crown. That is, he will become king once his father passes away.
+
+Q 18 | bank | 配合題
+stem: The doctor explained that, in the best-case ______, the patient could recover fully within two months.
+= F
+~詞義 scenario（n.）局面
+~原文 The doctor explained that, in the best-case scenario, the patient could recover fully within two months.
+
+Q 19 | bank | 配合題
+stem: The fisherman ______ his boat out of the water and tied it to a post.
+= D
+~詞義 haul（v.）用力拖
+~原文 The fisherman hauled his boat out of the water and tied it to a post.
+
+Q 20 | bank | 配合題
+stem: The tragic incident left the man ______ for life. He could never forget that terrible event.
+= B
+~詞義 scar（v.）留下傷疤
+~原文 The tragic incident left the man scarred for life. He could never forget that terrible event.

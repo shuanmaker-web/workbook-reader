@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 2 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-02 | Unit 2 | Vocabulary practice · Unit 2 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The company's salary s______e is based on employees' work experience and length of employment.
+= structure
+~詞義 structure（n.）結構
+~原文 The company's salary structure is based on employees' work experience and length of employment.
+
+Q 2 | fill | 文意字彙
+stem: Our P.E. teacher always asks us to o______e his movements closely before we start playing basketball.
+= observe
+~詞義 observe（v.）觀察
+~原文 Our P.E. teacher always asks us to observe his movements closely before we start playing basketball.
+
+Q 3 | fill | 文意字彙
+stem: More workers had to be hired because the factory needed to p______e a large quantity of goods.
+= produce
+~詞義 produce（v.）生產
+~原文 More workers had to be hired because the factory needed to produce a large quantity of goods.
+
+Q 4 | fill | 文意字彙
+stem: The policeman's success in tracking and arresting the brutal murderer was ______ (admire).
+= admirable
+~詞義 admirable（adj.）可欽佩的
+~原文 The policeman's success in tracking and arresting the brutal murderer was admirable.
+
+Q 5 | fill | 文意字彙
+stem: The expert explained why it is often highly ______ (profit) to invest in real estate.
+= profitable
+~詞義 profitable（adj.）有利潤的
+~原文 The expert explained why it is often highly profitable to invest in real estate.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: My ______ for Jake is beyond description; he devotes himself full-time to helping the poor.
+A: preparation
+B: imagination
+C: determination
+D: admiration
+= D
+~詞義 admiration（n.）欽佩
+~原文 My admiration for Jake is beyond description; he devotes himself full-time to helping the poor.
+
+Q 7 | choice | 選擇題
+stem: Andy tried to ______ his parents into letting him study abroad for one semester.
+A: persuade
+B: detect
+C: shorten
+D: recognize
+= A
+~詞義 persuade（v.）說服
+~原文 Andy tried to persuade his parents into letting him study abroad for one semester.
+
+Q 8 | choice | 選擇題
+stem: The teacher ______ of the students' careless attitude toward their group project.
+A: reduced
+B: determined
+C: appealed
+D: disapproved
+= D
+~詞義 disapprove（v.）不贊成
+~原文 The teacher disapproved of the students' careless attitude toward their group project.
+
+Q 9 | choice | 選擇題
+stem: The candidate left a good ______ on the public by listening to everyone's concerns carefully.
+A: reduction
+B: promotion
+C: observation
+D: impression
+= D
+~詞義 impression（n.）印象
+~原文 The candidate left a good impression on the public by listening to everyone's concerns carefully.
+
+Q 10 | choice | 選擇題
+stem: Selina ______ on stage, forgetting every word of her speech while the audience just stared at her in silence.
+A: froze
+B: attracted
+C: secured
+D: reserved
+= A
+~詞義 freeze（v.）僵住
+~原文 Selina froze on stage, forgetting every word of her speech while the audience just stared at her in silence.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: attractive
+B: imaginative
+C: reduction
+D: prevent
+E: effective
+F: persuasion
+
+Q 11 | bank | 配合題
+stem: It took Nancy lots of ______ to convince her brother to change his mind.
+= F
+~詞義 persuasion（n.）說服
+~原文 It took Nancy lots of persuasion to convince her brother to change his mind.
+
+Q 12 | bank | 配合題
+stem: Karl feels disappointed that his back injury may ______ him from playing in tomorrow's game.
+= D
+~詞義 prevent（v.）阻止
+~原文 Karl feels disappointed that his back injury may prevent him from playing in tomorrow's game.
+
+Q 13 | bank | 配合題
+stem: Students are encouraged to write ______ works in the creative writing class.
+= B
+~詞義 imaginative（adj.）富有想像力的
+~原文 Students are encouraged to write imaginative works in the creative writing class.
+
+Q 14 | bank | 配合題
+stem: The company needs to make its advertisements ______ to a wider range of people.
+= A
+~詞義 attractive（adj.）吸引人的
+~原文 The company needs to make its advertisements attractive to a wider range of people.
+
+Q 15 | bank | 配合題
+stem: With the appearance of smartphones, a large ______ in sales of MP3 players was seen.
+= C
+~詞義 reduction（n.）減少
+~原文 With the appearance of smartphones, a large reduction in sales of MP3 players was seen.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: vision
+B: advice
+C: efficient
+D: detective
+E: invisible
+F: reduce
+
+Q 16 | bank | 配合題
+stem: It would be smart to seek ______ from a qualified expert before you make such an important decision.
+= B
+~詞義 advice（n.）建議
+~原文 It would be smart to seek advice from a qualified expert before you make such an important decision.
+
+Q 17 | bank | 配合題
+stem: Great leaders often possess a clear ______ that guides their decisions and motivates others.
+= A
+~詞義 vision（n.）遠見
+~原文 Great leaders often possess a clear vision that guides their decisions and motivates others.
+
+Q 18 | bank | 配合題
+stem: Mr. Woods is a(n) ______; his job is to discover information about crimes and find out who committed them.
+= D
+~詞義 detective（n.）偵探
+~原文 Mr. Woods is a(n) detective; his job is to discover information about crimes and find out who committed them.
+
+Q 19 | bank | 配合題
+stem: Taking public transportation regularly is a good way to ______ air pollution.
+= F
+~詞義 reduce（v.）減少
+~原文 Taking public transportation regularly is a good way to reduce air pollution.
+
+Q 20 | bank | 配合題
+stem: The company is seeking a more ______ way to deliver its products to the customers.
+= C
+~詞義 efficient（adj.）有效率的
+~原文 The company is seeking a more efficient way to deliver its products to the customers.

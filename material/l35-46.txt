@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 46 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-46 | Unit 46 | Vocabulary practice · Unit 46 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The teacher f______ds his students from using their cellphones in class.
+= forbids
+~詞義 forbid（v.）禁止
+~原文 The teacher forbids his students from using their cellphones in class.
+
+Q 2 | fill | 文意字彙
+stem: The children showed little e______m for the game. They thought it was boring and said they would rather watch TV.
+= enthusiasm
+~詞義 enthusiasm（n.）熱忱
+~原文 The children showed little enthusiasm for the game. They thought it was boring and said they would rather watch TV.
+
+Q 3 | fill | 文意字彙
+stem: Rosa is a c______e person who prefers traditional values, so she often worries about the rapid changes in modern society.
+= conservative
+~詞義 conservative（adj.）保守的
+~原文 Rosa is a conservative person who prefers traditional values, so she often worries about the rapid changes in modern society.
+
+Q 4 | fill | 文意字彙
+stem: Some people think it is d______g to eat worms, but others find them delicious.
+= disgusting
+~詞義 disgusting（adj.）令人噁心的
+~原文 Some people think it is disgusting to eat worms, but others find them delicious.
+
+Q 5 | fill | 文意字彙
+stem: Jacky is a t______e kid; his mother has had to go to his school many times because of the problems he has caused.
+= troublesome
+~詞義 troublesome（adj.）麻煩的;令人煩惱的
+~原文 Jacky is a troublesome kid; his mother has had to go to his school many times because of the problems he has caused.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Apart from wealth in agriculture, this area is also very rich in ______ such as gold and iron.
+A: minerals
+B: quarrels
+C: plumbers
+D: statistics
+= A
+~詞義 mineral（n.）礦物
+~原文 Apart from wealth in agriculture, this area is also very rich in minerals such as gold and iron.
+
+Q 7 | choice | 選擇題
+stem: Please send my ______ to your husband and children. I hope your family has a great New Year!
+A: homelands
+B: workouts
+C: statistics
+D: greetings
+= D
+~詞義 greeting（n.）問候
+~原文 Please send my greetings to your husband and children. I hope your family has a great New Year!
+
+Q 8 | choice | 選擇題
+stem: The robber finally turned himself in at the police station because his guilty ______ had been keeping him awake at night.
+A: enlargement
+B: refusal
+C: conscience
+D: gratitude
+= C
+~詞義 conscience（n.）良知
+~原文 The robber finally turned himself in at the police station because his guilty conscience had been keeping him awake at night.
+
+Q 9 | choice | 選擇題
+stem: Jackson's father gives him a monthly ______ of ten thousand dollars. No wonder he can buy so many expensive clothes.
+A: allowance
+B: recovery
+C: welfare
+D: homeland
+= A
+~詞義 allowance（n.）零用錢
+~原文 Jackson's father gives him a monthly allowance of ten thousand dollars. No wonder he can buy so many expensive clothes.
+
+Q 10 | choice | 選擇題
+stem: The police had the photos ______ in order to identify the thief.
+A: winked
+B: blended
+C: enlarged
+D: reflected
+= C
+~詞義 enlarge（v.）放大
+~原文 The police had the photos enlarged in order to identify the thief.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: reflections
+B: microscope
+C: amateur
+D: dispute
+E: stabbed
+F: keen
+
+Q 11 | bank | 配合題
+stem: Lily decided to join a(n) ______ tennis league to improve her skills and see if there was any chance of becoming a professional in the future.
+= C
+~詞義 amateur（adj.）業餘的
+~原文 Lily decided to join a(n) amateur tennis league to improve her skills and see if there was any chance of becoming a professional in the future.
+
+Q 12 | bank | 配合題
+stem: Before we could view the cells under a(n) ______, the biology teacher gave us some instructions on how to use it.
+= B
+~詞義 microscope（n.）顯微鏡
+~原文 Before we could view the cells under a(n) microscope, the biology teacher gave us some instructions on how to use it.
+
+Q 13 | bank | 配合題
+stem: Judy's contribution to the project was beyond ______; the final success depended on her leadership.
+= D
+~詞義 dispute（n.）無庸置疑的(beyond dispute)
+~原文 Judy's contribution to the project was beyond dispute; the final success depended on her leadership.
+
+Q 14 | bank | 配合題
+stem: It is said that dogs cannot recognize their own ______ in the mirror.
+= A
+~詞義 reflection（n.）倒影
+~原文 It is said that dogs cannot recognize their own reflections in the mirror.
+
+Q 15 | bank | 配合題
+stem: The victim was ______ in the chest and lost a large amount of blood.
+= E
+~詞義 stab（v.）刺
+~原文 The victim was stabbed in the chest and lost a large amount of blood.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: alcohol
+B: cunning
+C: ground
+D: tremendous
+E: withdraw
+F: spare
+
+Q 16 | bank | 配合題
+stem: Lisa's mom likes her boyfriend a lot because he doesn't drink ______ or smoke.
+= A
+~詞義 alcohol（n.）酒
+~原文 Lisa's mom likes her boyfriend a lot because he doesn't drink alcohol or smoke.
+
+Q 17 | bank | 配合題
+stem: The chef ______ the spices into a fine powder, which gave the soup a stronger flavor.
+= C
+~詞義 grind（v.）磨碎
+~原文 The chef ground the spices into a fine powder, which gave the soup a stronger flavor.
+
+Q 18 | bank | 配合題
+stem: Janet praised her husband for the ______ support he had given her while she was starting her business.
+= D
+~詞義 tremendous（adj.）巨大的
+~原文 Janet praised her husband for the tremendous support he had given her while she was starting her business.
+
+Q 19 | bank | 配合題
+stem: My favorite activity during my ______ time is reading novels.
+= F
+~詞義 spare（adj.）空閒的
+~原文 My favorite activity during my spare time is reading novels.
+
+Q 20 | bank | 配合題
+stem: I am going to ______ some money from the ATM because I need to pay my rent.
+= E
+~詞義 withdraw（v.）提取
+~原文 I am going to withdraw some money from the ATM because I need to pay my rent.

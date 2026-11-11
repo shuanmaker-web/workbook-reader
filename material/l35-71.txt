@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 71 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-71 | Unit 71 | Vocabulary practice · Unit 71 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The actress has appeared in more than twenty films, and she has finally been n______ed for the best actress award this year.
+= nominated
+~詞義 nominate（v.）提名
+~原文 The actress has appeared in more than twenty films, and she has finally been nominated for the best actress award this year.
+
+Q 2 | fill | 文意字彙
+stem: It was Roger's first time participating in this tennis t______t, and he got fourth place.
+= tournament
+~詞義 tournament（n.）錦標賽
+~原文 It was Roger's first time participating in this tennis tournament, and he got fourth place.
+
+Q 3 | fill | 文意字彙
+stem: There is an increasing number of j______e crime cases in the region, which is a worrying trend for both parents and schools.
+= juvenile
+~詞義 juvenile（adj.）青少年的
+~原文 There is an increasing number of juvenile crime cases in the region, which is a worrying trend for both parents and schools.
+
+Q 4 | fill | 文意字彙
+stem: R______m continues to harm society by creating hatred and denying people opportunities they rightfully deserve.
+= Racism
+~詞義 racism（n.）種族主義
+~原文 Racism continues to harm society by creating hatred and denying people opportunities they rightfully deserve.
+
+Q 5 | fill | 文意字彙
+stem: Frank's unusual behavior a______ed his wife's suspicions, and she demanded an explanation from him.
+= aroused
+~詞義 arouse（v.）激起
+~原文 Frank's unusual behavior aroused his wife's suspicions, and she demanded an explanation from him.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Debbie's parents showed clear ______ when she announced her plan to drop out of college.
+A: disapproval
+B: spouse
+C: prophecy
+D: prosecution
+= A
+~詞義 disapproval（n.）不贊同
+~原文 Debbie's parents showed clear disapproval when she announced her plan to drop out of college.
+
+Q 7 | choice | 選擇題
+stem: We have a lot of unused tools stored in the back of the ______. We should clear them out sometime.
+A: directory
+B: doctrine
+C: quota
+D: warehouse
+= D
+~詞義 warehouse（n.）倉庫
+~原文 We have a lot of unused tools stored in the back of the warehouse. We should clear them out sometime.
+
+Q 8 | choice | 選擇題
+stem: Scientists hold different views toward the practice of ______ modification. Some believe that it may ruin the natural ecosystem.
+A: articulate
+B: ethical
+C: envious
+D: genetic
+= D
+~詞義 genetic（adj.）基因的
+~原文 Scientists hold different views toward the practice of genetic modification. Some believe that it may ruin the natural ecosystem.
+
+Q 9 | choice | 選擇題
+stem: Judy is working hard toward her goal of achieving financial ______, but it may still take her a few years to make it.
+A: negotiation
+B: narrative
+C: stability
+D: traitor
+= C
+~詞義 stability（n.）穩定性
+~原文 Judy is working hard toward her goal of achieving financial stability, but it may still take her a few years to make it.
+
+Q 10 | choice | 選擇題
+stem: Lily went to a ______ to protest the use of nuclear power on Saturday. She cares deeply about the environment.
+A: racism
+B: rally
+C: raid
+D: rack
+= B
+~詞義 rally（n.）集會
+~原文 Lily went to a rally to protest the use of nuclear power on Saturday. She cares deeply about the environment.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: arrogance
+B: nominee
+C: gasped
+D: jury
+E: squashed
+F: whatsoever
+
+Q 11 | bank | 配合題
+stem: David has no interest ______ in literature. He reads only nonfiction books.
+= F
+~詞義 whatsoever（adv.）絲毫
+~原文 David has no interest whatsoever in literature. He reads only nonfiction books.
+
+Q 12 | bank | 配合題
+stem: The audience ______ during the intense scene, which really came as a great surprise at that point in the movie.
+= C
+~詞義 gasp（v.）倒抽氣
+~原文 The audience gasped during the intense scene, which really came as a great surprise at that point in the movie.
+
+Q 13 | bank | 配合題
+stem: The audience found the speaker's ______ unbearable, and it was difficult for them to appreciate his otherwise valuable message.
+= A
+~詞義 arrogance（n.）傲慢
+~原文 The audience found the speaker's arrogance unbearable, and it was difficult for them to appreciate his otherwise valuable message.
+
+Q 14 | bank | 配合題
+stem: The boy didn't see the small snail on the ground, and he accidentally ______ it.
+= E
+~詞義 squash（v.）擠壓
+~原文 The boy didn't see the small snail on the ground, and he accidentally squashed it.
+
+Q 15 | bank | 配合題
+stem: The lawyer seems to have convinced the ______; it is likely that they will decide in favor of the defendant.
+= D
+~詞義 jury（n.）陪審團
+~原文 The lawyer seems to have convinced the jury; it is likely that they will decide in favor of the defendant.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: confidential
+B: confine
+C: weird
+D: ethic
+E: squad
+F: wary
+
+Q 16 | bank | 配合題
+stem: The movie's ______ ending confused many viewers and made them unsure how to interpret the final scene.
+= C
+~詞義 weird（adj.）怪異的
+~原文 The movie's weird ending confused many viewers and made them unsure how to interpret the final scene.
+
+Q 17 | bank | 配合題
+stem: The fire department sent a(n) ______ into the burning building to evacuate the residents.
+= E
+~詞義 squad（n.）小隊
+~原文 The fire department sent a(n) squad into the burning building to evacuate the residents.
+
+Q 18 | bank | 配合題
+stem: Be ______ of giving out your personal information; you may fall prey to scammers.
+= F
+~詞義 wary（adj.）謹慎的
+~原文 Be wary of giving out your personal information; you may fall prey to scammers.
+
+Q 19 | bank | 配合題
+stem: What I am about to tell you is strictly ______. Do not repeat it to anyone.
+= A
+~詞義 confidential（adj.）機密的
+~原文 What I am about to tell you is strictly confidential. Do not repeat it to anyone.
+
+Q 20 | bank | 配合題
+stem: It is cruel of the owners to ______ their pets to cages for long periods of time. The animals need the freedom to move about.
+= B
+~詞義 confine（v.）監禁
+~原文 It is cruel of the owners to confine their pets to cages for long periods of time. The animals need the freedom to move about.

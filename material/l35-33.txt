@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 33 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-33 | Unit 33 | Vocabulary practice · Unit 33 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。本單元請抽查：部分句子左側邊緣被切到，開頭文字依語意補回。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The student a______ted the position of his chair so that he could see the blackboard.
+= adjusted
+~詞義 adjust（v.）調整
+~原文 The student adjusted the position of his chair so that he could see the blackboard.
+
+Q 2 | fill | 文意字彙
+stem: To the fans' d______t, the concert was canceled due to sudden weather changes that made outdoor performances unsafe.
+= disappointment
+~詞義 disappointment（n.）失望
+~原文 To the fans' disappointment, the concert was canceled due to sudden weather changes that made outdoor performances unsafe.
+
+Q 3 | fill | 文意字彙
+stem: Ken is a successful painter whose works are displayed in several art g______ries in the city.
+= galleries
+~詞義 gallery（n.）畫廊
+~原文 Ken is a successful painter whose works are displayed in several art galleries in the city.
+
+Q 4 | fill | 文意字彙
+stem: Emissions from the new factory will have a negative i______t on the local environment, so the residents are protesting against it.
+= impact
+~詞義 impact（n.）影響
+~原文 Emissions from the new factory will have a negative impact on the local environment, so the residents are protesting against it.
+
+Q 5 | fill | 文意字彙
+stem: Charlie is one of the most i______l scholars in his field. His outstanding research has inspired many.
+= influential
+~詞義 influential（adj.）有影響力的
+~原文 Charlie is one of the most influential scholars in his field. His outstanding research has inspired many.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: If you look at successful people from around the world, you'll find that bravery and confidence are two common ______ among them.
+A: economists
+B: characteristics
+C: sculptures
+D: adjustments
+= B
+~詞義 characteristic（n.）特色;特徵
+~原文 If you look at successful people from around the world, you'll find that bravery and confidence are two common characteristics among them.
+
+Q 7 | choice | 選擇題
+stem: Red blood cells ______ in the blood and carry oxygen from the lungs to the rest of the body.
+A: circulate
+B: devote
+C: recycle
+D: measure
+= A
+~詞義 circulate（v.）循環
+~原文 Red blood cells circulate in the blood and carry oxygen from the lungs to the rest of the body.
+
+Q 8 | choice | 選擇題
+stem: In our company, the work schedule is really ______; as long as we can finish our tasks, we can choose our own working hours.
+A: permanent
+B: economical
+C: artificial
+D: flexible
+= D
+~詞義 flexible（adj.）有彈性的
+~原文 In our company, the work schedule is really flexible; as long as we can finish our tasks, we can choose our own working hours.
+
+Q 9 | choice | 選擇題
+stem: Owing to a severe ______ in the wound on his leg, the patient is now in a critical condition and has to be monitored at all times.
+A: infection
+B: defense
+C: laboratory
+D: adjustment
+= A
+~詞義 infection（n.）感染
+~原文 Owing to a severe infection in the wound on his leg, the patient is now in a critical condition and has to be monitored at all times.
+
+Q 10 | choice | 選擇題
+stem: Hedy grabbed a ruler to ______ the length of the book.
+A: rebel
+B: transfer
+C: measure
+D: neglect
+= C
+~詞義 measure（v.）測量
+~原文 Hedy grabbed a ruler to measure the length of the book.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: generations
+B: campaigned
+C: eliminated
+D: landscapes
+E: facilities
+F: endangered
+
+Q 11 | bank | 配合題
+stem: The report highlighted several ______ species whose homes were shrinking because of rapid urban development.
+= F
+~詞義 endangered（adj.）瀕危的
+~原文 The report highlighted several endangered species whose homes were shrinking because of rapid urban development.
+
+Q 12 | bank | 配合題
+stem: The research lab is getting pretty old, so the department is planning to upgrade the ______.
+= E
+~詞義 facility（n.）設備
+~原文 The research lab is getting pretty old, so the department is planning to upgrade the facilities.
+
+Q 13 | bank | 配合題
+stem: The police still had not ______ the possibility of murder, even though the body was not marked or bruised.
+= C
+~詞義 eliminate（v.）消除
+~原文 The police still had not eliminated the possibility of murder, even though the body was not marked or bruised.
+
+Q 14 | bank | 配合題
+stem: Environmental groups ______ against the new factory, arguing that it would damage local wildlife and worsen air quality.
+= B
+~詞義 campaign（v.）發起運動
+~原文 Environmental groups campaigned against the new factory, arguing that it would damage local wildlife and worsen air quality.
+
+Q 15 | bank | 配合題
+stem: The photographer is famous for his amazing photos of natural ______.
+= D
+~詞義 landscape（n.）風景
+~原文 The photographer is famous for his amazing photos of natural landscapes.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: passive
+B: universe
+C: economy
+D: recycling
+E: neglect
+F: objective
+
+Q 16 | bank | 配合題
+stem: The government is considering a series of measures to boost the ______.
+= C
+~詞義 economy（n.）經濟
+~原文 The government is considering a series of measures to boost the economy.
+
+Q 17 | bank | 配合題
+stem: When grading essays, a teacher must stay ______ and review every student's work according to the same standard.
+= F
+~詞義 objective（adj.）客觀的
+~原文 When grading essays, a teacher must stay objective and review every student's work according to the same standard.
+
+Q 18 | bank | 配合題
+stem: Many people nowadays are so busy with work that they ______ their health.
+= E
+~詞義 neglect（v.）忽視
+~原文 Many people nowadays are so busy with work that they neglect their health.
+
+Q 19 | bank | 配合題
+stem: ______ reduces the amount of waste, thus protecting wildlife habitats and improving the overall environment.
+= D
+~詞義 recycling（n.）回收
+~原文 Recycling reduces the amount of waste, thus protecting wildlife habitats and improving the overall environment.
+
+Q 20 | bank | 配合題
+stem: Traditionally, women were encouraged to play a(n) ______ role in society, while men were expected to be far more active.
+= A
+~詞義 passive（adj.）被動的
+~原文 Traditionally, women were encouraged to play a(n) passive role in society, while men were expected to be far more active.

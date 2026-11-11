@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 68 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-68 | Unit 68 | Vocabulary practice · Unit 68 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Sean got a haircut and started wearing fashionable clothes. It was a huge t______n.
+= transformation
+~詞義 transformation（n.）轉變
+~原文 Sean got a haircut and started wearing fashionable clothes. It was a huge transformation.
+
+Q 2 | fill | 文意字彙
+stem: Teresa works as a clerk at the department store's information desk. Her job is to answer customers' i______ries.
+= inquiries
+~詞義 inquiry（n.）詢問
+~原文 Teresa works as a clerk at the department store's information desk. Her job is to answer customers' inquiries.
+
+Q 3 | fill | 文意字彙
+stem: The dog at the airport s______fed the suitcases and immediately identified the one that contained the drugs.
+= sniffed
+~詞義 sniff（v.）嗅
+~原文 The dog at the airport sniffed the suitcases and immediately identified the one that contained the drugs.
+
+Q 4 | fill | 文意字彙
+stem: The teacher drew a v______l line down the blackboard to divide it into two parts.
+= vertical
+~詞義 vertical（adj.）垂直的
+~原文 The teacher drew a vertical line down the blackboard to divide it into two parts.
+
+Q 5 | fill | 文意字彙
+stem: Tim did not drink any alcohol tonight. He was the only s______r person, so he drove everyone home.
+= sober
+~詞義 sober（adj.）清醒的
+~原文 Tim did not drink any alcohol tonight. He was the only sober person, so he drove everyone home.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: That is definitely the most ______ story I have ever heard. I cannot believe that it actually happened.
+A: ample
+B: bizarre
+C: compact
+D: comparable
+= B
+~詞義 bizarre（adj.）怪誕的
+~原文 That is definitely the most bizarre story I have ever heard. I cannot believe that it actually happened.
+
+Q 7 | choice | 選擇題
+stem: The ______ of carbon dioxide is composed of one carbon atom and two oxygen atoms.
+A: enterprise
+B: franchise
+C: molecule
+D: premium
+= C
+~詞義 molecule（n.）分子
+~原文 The molecule of carbon dioxide is composed of one carbon atom and two oxygen atoms.
+
+Q 8 | choice | 選擇題
+stem: The missing woman is ______ dead. The police can find no trace of her for more than two years.
+A: softened
+B: compelled
+C: presumed
+D: prevailed
+= C
+~詞義 presume（v.）推測
+~原文 The missing woman is presumed dead. The police can find no trace of her for more than two years.
+
+Q 9 | choice | 選擇題
+stem: The villagers waited in ______ as the storm destroyed their crops, leaving them uncertain about the coming season.
+A: criterion
+B: despair
+C: prejudice
+D: veteran
+= B
+~詞義 despair（n.）絕望
+~原文 The villagers waited in despair as the storm destroyed their crops, leaving them uncertain about the coming season.
+
+Q 10 | choice | 選擇題
+stem: Lisa can travel to her office either by bus or by MRT. She ______ between these two forms of transportation.
+A: alternates
+B: derives
+C: moans
+D: proclaims
+= A
+~詞義 alternate（v.）輪流
+~原文 Lisa can travel to her office either by bus or by MRT. She alternates between these two forms of transportation.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: installation
+B: amendment
+C: compensated
+D: descended
+E: vicious
+F: versus
+
+Q 11 | bank | 配合題
+stem: The restaurant ______ the customers for the delay by offering discounts on future purchases.
+= C
+~詞義 compensate（v.）補償
+~原文 The restaurant compensated the customers for the delay by offering discounts on future purchases.
+
+Q 12 | bank | 配合題
+stem: The elevator ______ to the basement and stopped there.
+= D
+~詞義 descend（v.）下降
+~原文 The elevator descended to the basement and stopped there.
+
+Q 13 | bank | 配合題
+stem: Don't believe the scandal you heard from Debbie. What she said was a(n) ______ lie.
+= E
+~詞義 vicious（adj.）惡毒的
+~原文 Don't believe the scandal you heard from Debbie. What she said was a(n) vicious lie.
+
+Q 14 | bank | 配合題
+stem: A: Who played in the football game? B: It was England ______ Germany.
+= F
+~詞義 versus（prep.）對上
+~原文 A: Who played in the football game? B: It was England versus Germany.
+
+Q 15 | bank | 配合題
+stem: After a long discussion, the council finally approved the ______, with the hope that it would create a fairer legal process.
+= B
+~詞義 amendment（n.）修正案
+~原文 After a long discussion, the council finally approved the amendment, with the hope that it would create a fairer legal process.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: tiles
+B: ticks
+C: insane
+D: destiny
+E: prevalent
+F: framework
+
+Q 16 | bank | 配合題
+stem: This is the best offer you are likely to get. You would be ______ to reject it.
+= C
+~詞義 insane（adj.）瘋狂的
+~原文 This is the best offer you are likely to get. You would be insane to reject it.
+
+Q 17 | bank | 配合題
+stem: We have a general ______ for the project, but there are still a lot of details to be discussed.
+= F
+~詞義 framework（n.）框架
+~原文 We have a general framework for the project, but there are still a lot of details to be discussed.
+
+Q 18 | bank | 配合題
+stem: The white ______ on the kitchen wall are covered in oil stains. They have not been cleaned for a long time.
+= A
+~詞義 tile（n.）磁磚
+~原文 The white tiles on the kitchen wall are covered in oil stains. They have not been cleaned for a long time.
+
+Q 19 | bank | 配合題
+stem: Wendy and her husband first met on a plane. They both think it must have been ______ that they happened to sit next to each other.
+= D
+~詞義 destiny（n.）命運
+~原文 Wendy and her husband first met on a plane. They both think it must have been destiny that they happened to sit next to each other.
+
+Q 20 | bank | 配合題
+stem: Fast-food consumption is ______ among teenagers, which raises concerns about long-term health effects and lifestyle habits.
+= E
+~詞義 prevalent（adj.）普遍的
+~原文 Fast-food consumption is prevalent among teenagers, which raises concerns about long-term health effects and lifestyle habits.

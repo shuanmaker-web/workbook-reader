@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 13 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-13 | Unit 13 | Vocabulary practice · Unit 13 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Able to understand difficult concepts, d______ns are one of the smartest animals in the world.
+= dolphins
+~詞義 dolphin（n.）海豚
+~原文 Able to understand difficult concepts, dolphins are one of the smartest animals in the world.
+
+Q 2 | fill | 文意字彙
+stem: "Don't be so g______y! Leave some of that cake for your sister!" the mother said angrily to her son.
+= greedy
+~詞義 greedy（adj.）貪心的
+~原文 "Don't be so greedy! Leave some of that cake for your sister!" the mother said angrily to her son.
+
+Q 3 | fill | 文意字彙
+stem: The students usually have their lunch in the school c______a. The meals served there are healthy and delicious.
+= cafeteria
+~詞義 cafeteria（n.）(學生的)自助餐廳
+~原文 The students usually have their lunch in the school cafeteria. The meals served there are healthy and delicious.
+
+Q 4 | fill | 文意字彙
+stem: The teacher was disappointed to find out that the student had been ______ (honest) about finishing his project on his own.
+= dishonest
+~詞義 dishonest（adj.）不誠實的
+~原文 The teacher was disappointed to find out that the student had been dishonest about finishing his project on his own.
+
+Q 5 | fill | 文意字彙
+stem: Our English teacher reminded us to always check the ______ (pronounce) of unfamiliar words in the dictionary so that we say them correctly.
+= pronunciation
+~詞義 pronunciation（n.）發音
+~原文 Our English teacher reminded us to always check the pronunciation of unfamiliar words in the dictionary so that we say them correctly.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The mountain road was so ______ that drivers could barely see a few meters ahead.
+A: jealous
+B: honest
+C: foggy
+D: skinny
+= C
+~詞義 foggy（adj.）有霧的
+~原文 The mountain road was so foggy that drivers could barely see a few meters ahead.
+
+Q 7 | choice | 選擇題
+stem: Sandy buys her ______ at the local farmer's market every weekend; the food there are very fresh.
+A: groceries
+B: heaters
+C: carpets
+D: flutes
+= A
+~詞義 grocery（n.）生鮮雜貨
+~原文 Sandy buys her groceries at the local farmer's market every weekend; the food there are very fresh.
+
+Q 8 | choice | 選擇題
+stem: My favorite subject in school is ______ because I like to learn about other places around the world.
+A: handkerchief
+B: pharmacy
+C: dragonfly
+D: geography
+= D
+~詞義 geography（n.）地理
+~原文 My favorite subject in school is geography because I like to learn about other places around the world.
+
+Q 9 | choice | 選擇題
+stem: Michael has a cold, but the clinic is closed. He can only buy medicine at a ______ for now.
+A: hanger
+B: drugstore
+C: trumpet
+D: grocery
+= B
+~詞義 drugstore（n.）藥妝店
+~原文 Michael has a cold, but the clinic is closed. He can only buy medicine at a drugstore for now.
+
+Q 10 | choice | 選擇題
+stem: To be ______, I didn't think you'd be able to do it. I'm surprised that you actually succeeded.
+A: hateful
+B: grassy
+C: frank
+D: dizzy
+= C
+~詞義 frank（adj.）坦誠的
+~原文 To be frank, I didn't think you'd be able to do it. I'm surprised that you actually succeeded.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: dragged
+B: donkey
+C: chin
+D: hammered
+E: handkerchief
+F: flour
+
+Q 11 | bank | 配合題
+stem: The workers ______ at the broken metal gate for hours, trying to bend it back into shape.
+= D
+~詞義 hammer（v.）用力敲擊
+~原文 The workers hammered at the broken metal gate for hours, trying to bend it back into shape.
+
+Q 12 | bank | 配合題
+stem: The bag was too heavy to carry, so the old man ______ it into the room.
+= A
+~詞義 drag（v.）拉;拖
+~原文 The bag was too heavy to carry, so the old man dragged it into the room.
+
+Q 13 | bank | 配合題
+stem: David fell from the stairs and hit his ______ on the floor. Luckily, none of his teeth fell out.
+= C
+~詞義 chin（n.）下巴
+~原文 David fell from the stairs and hit his chin on the floor. Luckily, none of his teeth fell out.
+
+Q 14 | bank | 配合題
+stem: The farmer loaded all the hay onto the back of his ______, which then carried it back to the barn.
+= B
+~詞義 donkey（n.）驢子
+~原文 The farmer loaded all the hay onto the back of his donkey, which then carried it back to the barn.
+
+Q 15 | bank | 配合題
+stem: The old lady blew her nose loudly into the ______ and then used it to wipe her tears away.
+= E
+~詞義 handkerchief（n.）手帕
+~原文 The old lady blew her nose loudly into the handkerchief and then used it to wipe her tears away.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: dizzy
+B: doughnuts
+C: clay
+D: downtown
+E: carpeted
+F: hateful
+
+Q 16 | bank | 配合題
+stem: The artist is good at working with ______; she makes beautiful vases and cups out of it.
+= C
+~詞義 clay（n.）陶土
+~原文 The artist is good at working with clay; she makes beautiful vases and cups out of it.
+
+Q 17 | bank | 配合題
+stem: There are many tall office buildings in the ______ area.
+= D
+~詞義 downtown（adj.）市中心的
+~原文 There are many tall office buildings in the downtown area.
+
+Q 18 | bank | 配合題
+stem: The man tried to spread ______ rumors about his colleague throughout the office, but no one listened to him.
+= F
+~詞義 hateful（adj.）令人厭惡的
+~原文 The man tried to spread hateful rumors about his colleague throughout the office, but no one listened to him.
+
+Q 19 | bank | 配合題
+stem: We bought some ______ and milk tea as an afternoon snack.
+= B
+~詞義 doughnut（n.）甜甜圈
+~原文 We bought some doughnuts and milk tea as an afternoon snack.
+
+Q 20 | bank | 配合題
+stem: Every autumn, the park would be ______ with golden leaves, and the ground would look magical.
+= E
+~詞義 carpet（v.）覆蓋著一層(be carpeted with)
+~原文 Every autumn, the park would be carpeted with golden leaves, and the ground would look magical.

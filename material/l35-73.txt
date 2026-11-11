@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 73 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-73 | Unit 73 | Vocabulary practice · Unit 73 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Professor Chen cares a lot about student a______e. If you miss more than two classes, you will fail his course.
+= attendance
+~詞義 attendance（n.）出席
+~原文 Professor Chen cares a lot about student attendance. If you miss more than two classes, you will fail his course.
+
+Q 2 | fill | 文意字彙
+stem: I enjoy watching d______ries more than dramatic films because I can learn more about the real world.
+= documentaries
+~詞義 documentary（n.）紀錄片
+~原文 I enjoy watching documentaries more than dramatic films because I can learn more about the real world.
+
+Q 3 | fill | 文意字彙
+stem: New regulations placed a c______t on the company's budget, which forced the managers to reduce unnecessary expenses.
+= constraint
+~詞義 constraint（n.）限制;約束
+~原文 New regulations placed a constraint on the company's budget, which forced the managers to reduce unnecessary expenses.
+
+Q 4 | fill | 文意字彙
+stem: Britney likes to watch a few e______es of a comedy show while she has dinner. It doesn't take up much time, but it makes her feel relaxed.
+= episodes
+~詞義 episode（n.）集(節目)
+~原文 Britney likes to watch a few episodes of a comedy show while she has dinner. It doesn't take up much time, but it makes her feel relaxed.
+
+Q 5 | fill | 文意字彙
+stem: The salesperson r______red the customer that the product was of high quality and that there was nothing to worry about.
+= reassured
+~詞義 reassure（v.）使安心
+~原文 The salesperson reassured the customer that the product was of high quality and that there was nothing to worry about.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The robbers have taken the bank clerks as ______, and they demand that the police not enter the building.
+A: contractors
+B: equations
+C: hostages
+D: observers
+= C
+~詞義 hostage（n.）人質
+~原文 The robbers have taken the bank clerks as hostages, and they demand that the police not enter the building.
+
+Q 7 | choice | 選擇題
+stem: The old house at the end of the street looks dark and ______. It has been abandoned for quite some time.
+A: bronze
+B: continental
+C: gloomy
+D: strategic
+= C
+~詞義 gloomy（adj.）灰暗的
+~原文 The old house at the end of the street looks dark and gloomy. It has been abandoned for quite some time.
+
+Q 8 | choice | 選擇題
+stem: Do not make ______ about people based on their appearance; you may very well be wrong.
+A: assumptions
+B: consultations
+C: legacies
+D: rebellions
+= A
+~詞義 assumption（n.）臆測
+~原文 Do not make assumptions about people based on their appearance; you may very well be wrong.
+
+Q 9 | choice | 選擇題
+stem: The ______ athlete inspired generations of young players who admired his skill, dedication, and exceptional sportsmanship.
+A: legendary
+B: rebellious
+C: worthwhile
+D: genetic
+= A
+~詞義 legendary（adj.）傳奇的
+~原文 The legendary athlete inspired generations of young players who admired his skill, dedication, and exceptional sportsmanship.
+
+Q 10 | choice | 選擇題
+stem: The chef added various ______ into the soup, and it smelled wonderful.
+A: domes
+B: herbs
+C: stocks
+D: yachts
+= B
+~詞義 herb（n.）藥草
+~原文 The chef added various herbs into the soup, and it smelled wonderful.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: athletics
+B: operational
+C: recite
+D: stinks
+E: straightens
+F: worthwhile
+
+Q 11 | bank | 配合題
+stem: Robert hasn't cleaned his room in weeks, and it ______ of trash and rotten food.
+= D
+~詞義 stink（v.）發惡臭
+~原文 Robert hasn't cleaned his room in weeks, and it stinks of trash and rotten food.
+
+Q 12 | bank | 配合題
+stem: Mindy has a great memory; she can ______ hundreds of poems perfectly.
+= C
+~詞義 recite（v.）背誦
+~原文 Mindy has a great memory; she can recite hundreds of poems perfectly.
+
+Q 13 | bank | 配合題
+stem: Sam always ______ his tie in the elevator so he arrives at the office looking sharp and ready.
+= E
+~詞義 straighten（v.）使變直
+~原文 Sam always straightens his tie in the elevator so he arrives at the office looking sharp and ready.
+
+Q 14 | bank | 配合題
+stem: The school is encouraging girls to attend ______ classes. Sport is not just for boys.
+= A
+~詞義 athletics（n.）體育活動
+~原文 The school is encouraging girls to attend athletics classes. Sport is not just for boys.
+
+Q 15 | bank | 配合題
+stem: Though Roger didn't pass the bar exam, he considers the time and effort he spent on it ______.
+= F
+~詞義 worthwhile（adj.）值得的
+~原文 Though Roger didn't pass the bar exam, he considers the time and effort he spent on it worthwhile.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: astonishing
+B: perspective
+C: opted
+D: herbal
+E: strand
+F: treaty
+
+Q 16 | bank | 配合題
+stem: When Ellen feels stressed, she starts twisting a(n) ______ of hair in her fingers.
+= E
+~詞義 strand（n.）縷
+~原文 When Ellen feels stressed, she starts twisting a(n) strand of hair in her fingers.
+
+Q 17 | bank | 配合題
+stem: The magician's performance included ______ tricks that left the entire audience speechless.
+= A
+~詞義 astonishing（adj.）驚人的
+~原文 The magician's performance included astonishing tricks that left the entire audience speechless.
+
+Q 18 | bank | 配合題
+stem: Traveling abroad put Frank's personal struggles in ______, making him appreciate opportunities he previously took for granted.
+= B
+~詞義 perspective（n.）以客觀、整體的角度(in perspective)
+~原文 Traveling abroad put Frank's personal struggles in perspective, making him appreciate opportunities he previously took for granted.
+
+Q 19 | bank | 配合題
+stem: In the end, Taylor ______ to buy a smaller car because he thought it would be easier to park.
+= C
+~詞義 opt（v.）選擇
+~原文 In the end, Taylor opted to buy a smaller car because he thought it would be easier to park.
+
+Q 20 | bank | 配合題
+stem: The two neighboring countries finally signed a peace ______, which ended decades of conflict and hostility.
+= F
+~詞義 treaty（n.）條約
+~原文 The two neighboring countries finally signed a peace treaty, which ended decades of conflict and hostility.

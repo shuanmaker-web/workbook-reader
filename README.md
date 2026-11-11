@@ -9,6 +9,11 @@
 - `tools/build_data.py`:讀 `material/*.txt` 產生 `data.js`(window.EXAM)與 `dictionary.js`(window.DICTIONARY)。
 - `STATUS.md`:待老師確認事項。
 
+## Level 3–5(來自 Vocaboo)
+```bash
+python3 tools/import_vocaboo.py /path/to/vocab-app/data/questions.json   # 產生 material/l35-*.txt
+```
+
 ## 重新產生資料
 ```bash
 python3 tools/build_data.py /path/to/ecdict.csv   # 需要 pip install opencc-python-reimplemented
@@ -22,7 +27,7 @@ python3 -m http.server 8801   # 開 http://localhost:8801
 ```
 
 ## 改版
-同步更新 `sw.js` 與 `app.js` 的 `CACHE` 版本字串(目前 `workbook-reader-v3`)。
+同步更新 `sw.js` 與 `app.js` 的 `CACHE` 版本字串(目前 `workbook-reader-v4`)。
 localStorage key 為 `workbook-reader-v1`(不要改,以免學生紀錄消失)。
 
 ## 注意

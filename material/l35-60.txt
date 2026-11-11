@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 60 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-60 | Unit 60 | Vocabulary practice · Unit 60 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: This news report u______es the importance and the methods of controlling this disease.
+= underlines
+~詞義 underline（v.）強調;突出
+~原文 This news report underlines the importance and the methods of controlling this disease.
+
+Q 2 | fill | 文意字彙
+stem: Alice makes a big d______n to charity every year because she believes in doing good deeds.
+= donation
+~詞義 donation（n.）捐贈;捐獻
+~原文 Alice makes a big donation to charity every year because she believes in doing good deeds.
+
+Q 3 | fill | 文意字彙
+stem: The construction stopped due to a shortage of building materials, but it soon r______d when new supplies arrived.
+= resumed
+~詞義 resume（v.）(中斷後)重新開始
+~原文 The construction stopped due to a shortage of building materials, but it soon resumed when new supplies arrived.
+
+Q 4 | fill | 文意字彙
+stem: I have always dreamed of having a honeymoon on a beautiful and e______c island.
+= exotic
+~詞義 exotic（adj.）異國情調的
+~原文 I have always dreamed of having a honeymoon on a beautiful and exotic island.
+
+Q 5 | fill | 文意字彙
+stem: After the wonderful performance, there was a big round of a______e from the audience.
+= applause
+~詞義 applause（n.）掌聲
+~原文 After the wonderful performance, there was a big round of applause from the audience.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The use of nuclear power has always been a(n) ______ topic. People who advocate it regard it as the most powerful energy source, while those who reject it think it creates toxic waste.
+A: alcoholic
+B: controversial
+C: considerate
+D: poetic
+= B
+~詞義 controversial（adj.）有爭議的
+~原文 The use of nuclear power has always been a(n) controversial topic. People who advocate it regard it as the most powerful energy source, while those who reject it think it creates toxic waste.
+
+Q 7 | choice | 選擇題
+stem: There is a high ______ that the current mayor will be elected for a second term. He has many loyal supporters.
+A: boundary
+B: expertise
+C: likelihood
+D: prescription
+= C
+~詞義 likelihood（n.）可能(性)
+~原文 There is a high likelihood that the current mayor will be elected for a second term. He has many loyal supporters.
+
+Q 8 | choice | 選擇題
+stem: Several talented athletes ______ against one another for the final spot on the national swimming team.
+A: contended
+B: donated
+C: notified
+D: plunged
+= A
+~詞義 contend（v.）競爭
+~原文 Several talented athletes contended against one another for the final spot on the national swimming team.
+
+Q 9 | choice | 選擇題
+stem: The salesperson said if we fill out a product satisfaction ______, we will receive a free gift.
+A: controversy
+B: offering
+C: questionnaire
+D: skeleton
+= C
+~詞義 questionnaire（n.）問卷
+~原文 The salesperson said if we fill out a product satisfaction questionnaire, we will receive a free gift.
+
+Q 10 | choice | 選擇題
+stem: Matthew ______ his best friend on the back to congratulate him on winning the tennis game.
+A: gripped
+B: shed
+C: thrilled
+D: slapped
+= D
+~詞義 slap（v.）(用手掌)擊;拍
+~原文 Matthew slapped his best friend on the back to congratulate him on winning the tennis game.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: boxes
+B: résumé
+C: contemplates
+D: donor
+E: incorporate
+F: hence
+
+Q 11 | bank | 配合題
+stem: The scientist often stares into the night sky and ______ the existence of life beyond Earth.
+= C
+~詞義 contemplate（v.）沉思
+~原文 The scientist often stares into the night sky and contemplates the existence of life beyond Earth.
+
+Q 12 | bank | 配合題
+stem: Fiona got a big pay raise; ______, she threw a celebration party.
+= F
+~詞義 hence（adv.）因此
+~原文 Fiona got a big pay raise; hence, she threw a celebration party.
+
+Q 13 | bank | 配合題
+stem: Sadie updated her ______ to highlight her volunteer experience before applying for the internship program.
+= B
+~詞義 r-sum（n.）履歷表
+~原文 Sadie updated her résumé to highlight her volunteer experience before applying for the internship program.
+
+Q 14 | bank | 配合題
+stem: This novelist tends to ______ elements of adventure and mystery into her works, which has led to some film adaptations of her novels.
+= E
+~詞義 incorporate（v.）包含
+~原文 This novelist tends to incorporate elements of adventure and mystery into her works, which has led to some film adaptations of her novels.
+
+Q 15 | bank | 配合題
+stem: Danny ______ every weekend at a gym to improve his strength and relieve academic stress.
+= A
+~詞義 box（v.）打拳擊
+~原文 Danny boxes every weekend at a gym to improve his strength and relieve academic stress.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: thigh
+B: whereas
+C: consecutive
+D: midst
+E: prescribes
+F: bounds
+
+Q 16 | bank | 配合題
+stem: Karen enjoys spending the weekends quietly at home, ______ her husband loves going outdoors.
+= B
+~詞義 whereas（conj.）然而
+~原文 Karen enjoys spending the weekends quietly at home, whereas her husband loves going outdoors.
+
+Q 17 | bank | 配合題
+stem: Luke's generosity knows no ______ as he continues to devote time and resources to various community projects.
+= F
+~詞義 bound（n.）無窮無盡;無止境的(know no bounds)
+~原文 Luke's generosity knows no bounds as he continues to devote time and resources to various community projects.
+
+Q 18 | bank | 配合題
+stem: The athlete had pulled a muscle in his ______ last week, so he had no choice but to drop out of the competition.
+= A
+~詞義 thigh（n.）大腿
+~原文 The athlete had pulled a muscle in his thigh last week, so he had no choice but to drop out of the competition.
+
+Q 19 | bank | 配合題
+stem: This is the fourth ______ day that I have worked late. I must get some rest tomorrow.
+= C
+~詞義 consecutive（adj.）連續的
+~原文 This is the fourth consecutive day that I have worked late. I must get some rest tomorrow.
+
+Q 20 | bank | 配合題
+stem: Wendy apologized for not picking up the phone while she was in the ______ of writing an important email.
+= D
+~詞義 midst（n.）(在…)之中
+~原文 Wendy apologized for not picking up the phone while she was in the midst of writing an important email.

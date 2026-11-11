@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 44 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-44 | Unit 44 | Vocabulary practice · Unit 44 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。本單元請抽查：照片邊緣或反光處，個別字詞可能有誤。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: It was n______e of you to return that bag full of money to the police station.
+= noble
+~詞義 noble（adj.）崇高的;高尚的
+~原文 It was noble of you to return that bag full of money to the police station.
+
+Q 2 | fill | 文意字彙
+stem: The villagers f______d to higher ground when they realized the river was rising dangerously fast.
+= fled
+~詞義 flee（v.）逃走;逃跑
+~原文 The villagers fled to higher ground when they realized the river was rising dangerously fast.
+
+Q 3 | fill | 文意字彙
+stem: During the French Revolution, the king of France was o______wn by his people.
+= overthrown
+~詞義 overthrow（v.）推翻
+~原文 During the French Revolution, the king of France was overthrown by his people.
+
+Q 4 | fill | 文意字彙
+stem: You should organize your thoughts before you start to act because the problem needs to be solved in a s______c way.
+= systematic
+~詞義 systematic（adj.）有系統的;有條理的
+~原文 You should organize your thoughts before you start to act because the problem needs to be solved in a systematic way.
+
+Q 5 | fill | 文意字彙
+stem: The doctor t______ed herself for many years with the thought that she could have saved the life of that patient.
+= tortured
+~詞義 torture（v.）折磨
+~原文 The doctor tortured herself for many years with the thought that she could have saved the life of that patient.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The family possesses ______ supplies to live through one harsh winter.
+A: gracious
+B: memorable
+C: coarse
+D: adequate
+= D
+~詞義 adequate（adj.）足夠的
+~原文 The family possesses adequate supplies to live through one harsh winter.
+
+Q 7 | choice | 選擇題
+stem: The ______ between the two groups resulted in the loss of many people's lives.
+A: clash
+B: paw
+C: glimpse
+D: spark
+= A
+~詞義 clash（n.）衝突
+~原文 The clash between the two groups resulted in the loss of many people's lives.
+
+Q 8 | choice | 選擇題
+stem: After the fight, the winning knight let his opponent leave with his ______, and this kind act won him great respect.
+A: argument
+B: nonsense
+C: evaluation
+D: dignity
+= D
+~詞義 dignity（n.）尊嚴
+~原文 After the fight, the winning knight let his opponent leave with his dignity, and this kind act won him great respect.
+
+Q 9 | choice | 選擇題
+stem: The little boy claimed that he had had only a quick ______ of the other boy's test paper.
+A: battery
+B: penalty
+C: quarrel
+D: glimpse
+= D
+~詞義 glimpse（n.）一瞥
+~原文 The little boy claimed that he had had only a quick glimpse of the other boy's test paper.
+
+Q 10 | choice | 選擇題
+stem: It is nearly impossible for a kid to ______ 200 new words in one night.
+A: telegraph
+B: memorize
+C: insert
+D: evaluate
+= B
+~詞義 memorize（v.）記住
+~原文 It is nearly impossible for a kid to memorize 200 new words in one night.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: repetition
+B: bandage
+C: revolution
+D: embarrassment
+E: fireplace
+F: cliff
+
+Q 11 | bank | 配合題
+stem: Before the car went over the ______, the driver jumped out of it.
+= F
+~詞義 cliff（n.）懸崖
+~原文 Before the car went over the cliff, the driver jumped out of it.
+
+Q 12 | bank | 配合題
+stem: In winter, my grandfather likes to sit calmly by the ______, smoke a cigar, and read a book.
+= E
+~詞義 fireplace（n.）壁爐
+~原文 In winter, my grandfather likes to sit calmly by the fireplace, smoke a cigar, and read a book.
+
+Q 13 | bank | 配合題
+stem: The song's chorus relies on catchy ______, which makes it easy for listeners to remember.
+= A
+~詞義 repetition（n.）重複
+~原文 The song's chorus relies on catchy repetition, which makes it easy for listeners to remember.
+
+Q 14 | bank | 配合題
+stem: To Betty's ______, she waved at someone who turned out to be a complete stranger.
+= D
+~詞義 embarrassment（n.）尷尬
+~原文 To Betty's embarrassment, she waved at someone who turned out to be a complete stranger.
+
+Q 15 | bank | 配合題
+stem: The Industrial ______, which led to modern civilization, was an important period in human history.
+= C
+~詞義 revolution（n.）革命
+~原文 The Industrial revolution, which led to modern civilization, was an important period in human history.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: terror
+B: relevant
+C: translation
+D: tickles
+E: memorial
+F: spark
+
+Q 16 | bank | 配合題
+stem: The cute baby girl laughs every time her father ______ her feet.
+= D
+~詞義 tickle（v.）搔癢
+~原文 The cute baby girl laughs every time her father tickles her feet.
+
+Q 17 | bank | 配合題
+stem: Some comments were removed because they were not ______ to the main discussion.
+= B
+~詞義 relevant（adj.）有關的
+~原文 Some comments were removed because they were not relevant to the main discussion.
+
+Q 18 | bank | 配合題
+stem: You can start a fire by rubbing two pieces of dry wood together until you produce a ______.
+= F
+~詞義 spark（n.）火花
+~原文 You can start a fire by rubbing two pieces of dry wood together until you produce a spark.
+
+Q 19 | bank | 配合題
+stem: Most people there prefer to leave the country rather than live in ______ due to the war.
+= A
+~詞義 terror（n.）恐怖
+~原文 Most people there prefer to leave the country rather than live in terror due to the war.
+
+Q 20 | bank | 配合題
+stem: Is there a Chinese ______ of this novel? I really want to read it, but I don't understand Japanese.
+= C
+~詞義 translation（n.）翻譯;譯文
+~原文 Is there a Chinese translation of this novel? I really want to read it, but I don't understand Japanese.

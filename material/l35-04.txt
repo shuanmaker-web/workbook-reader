@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 4 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-04 | Unit 4 | Vocabulary practice · Unit 4 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The scandal completely destroyed the mayor's reputation and ended his political c______r.
+= career
+~詞義 career（n.）職涯
+~原文 The scandal completely destroyed the mayor's reputation and ended his political career.
+
+Q 2 | fill | 文意字彙
+stem: Last year, Albert took the o______y to travel abroad with his uncle.
+= opportunity
+~詞義 opportunity（n.）機會
+~原文 Last year, Albert took the opportunity to travel abroad with his uncle.
+
+Q 3 | fill | 文意字彙
+stem: My dog loves it when I rub his ears gently. He always licks my hand to r______d me not to stop.
+= remind
+~詞義 remind（v.）提醒
+~原文 My dog loves it when I rub his ears gently. He always licks my hand to remind me not to stop.
+
+Q 4 | fill | 文意字彙
+stem: Dr. Lin's medical ______ (practical) serves both local residents and patients from nearby towns.
+= practice
+~詞義 practice（n.）診所
+~原文 Dr. Lin's medical practice serves both local residents and patients from nearby towns.
+
+Q 5 | fill | 文意字彙
+stem: After years in the cold north, Jean dreamed of retiring to the ______ (tropical) to enjoy the warm sunshine and gentle sea breezes.
+= tropics
+~詞義 tropics（n.）熱帶地區
+~原文 After years in the cold north, Jean dreamed of retiring to the tropics to enjoy the warm sunshine and gentle sea breezes.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: When Victor teaches English, he always entertains his students with ______ stories.
+A: trendy
+B: practical
+C: steady
+D: vivid
+= D
+~詞義 vivid（adj.）生動的;栩栩如生的
+~原文 When Victor teaches English, he always entertains his students with vivid stories.
+
+Q 7 | choice | 選擇題
+stem: The two men ______ business cards before sitting down to negotiate the contract.
+A: responded
+B: concealed
+C: exchanged
+D: signaled
+= C
+~詞義 exchange（v.）交換
+~原文 The two men exchanged business cards before sitting down to negotiate the contract.
+
+Q 8 | choice | 選擇題
+stem: It was ______ of Oscar to leave the campfire burning because it could easily spread and cause a forest fire.
+A: specific
+B: temporary
+C: irresponsible
+D: previous
+= C
+~詞義 irresponsible（adj.）不負責任的
+~原文 It was irresponsible of Oscar to leave the campfire burning because it could easily spread and cause a forest fire.
+
+Q 9 | choice | 選擇題
+stem: The teacher ______ her students that they were not allowed to use their smartphones in class.
+A: warned
+B: rated
+C: stripped
+D: concealed
+= A
+~詞義 warn（v.）警告
+~原文 The teacher warned her students that they were not allowed to use their smartphones in class.
+
+Q 10 | choice | 選擇題
+stem: Albert Einstein was a famous physicist from the 20th century who developed the ______ of relativity.
+A: signal
+B: theory
+C: emergency
+D: decade
+= B
+~詞義 theory（n.）理論
+~原文 Albert Einstein was a famous physicist from the 20th century who developed the theory of relativity.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: capture
+B: specific
+C: steady
+D: decay
+E: rate
+F: statue
+
+Q 11 | bank | 配合題
+stem: Without ______ facts or examples, the article is not successful in proving its point.
+= B
+~詞義 specific（adj.）明確的
+~原文 Without specific facts or examples, the article is not successful in proving its point.
+
+Q 12 | bank | 配合題
+stem: The ______ of Liberty is a major tourist attraction. Few go to New York City without visiting it.
+= F
+~詞義 statue（n.）雕像
+~原文 The statue of Liberty is a major tourist attraction. Few go to New York City without visiting it.
+
+Q 13 | bank | 配合題
+stem: The policemen tried to ______ the robber but failed.
+= A
+~詞義 capture（v.）逮捕
+~原文 The policemen tried to capture the robber but failed.
+
+Q 14 | bank | 配合題
+stem: Large numbers of refugees from the Middle East found their way into Western Europe in the hope of finding safe living conditions and ______ employment.
+= C
+~詞義 steady（adj.）穩定的
+~原文 Large numbers of refugees from the Middle East found their way into Western Europe in the hope of finding safe living conditions and steady employment.
+
+Q 15 | bank | 配合題
+stem: At 9.2%, the unemployment ______ has risen to its highest point in history.
+= E
+~詞義 rate（n.）比率
+~原文 At 9.2%, the unemployment rate has risen to its highest point in history.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: savings
+B: signal
+C: previous
+D: temporary
+E: emergency
+F: staff
+
+Q 16 | bank | 配合題
+stem: Today's teenagers are quite different from teens in ______ decades.
+= C
+~詞義 previous（adj.）之前的
+~原文 Today's teenagers are quite different from teens in previous decades.
+
+Q 17 | bank | 配合題
+stem: The hospital had to ______ the wards with extra nurses after the sudden outbreak of flu cases.
+= F
+~詞義 staff（v.）為…配置組員
+~原文 The hospital had to staff the wards with extra nurses after the sudden outbreak of flu cases.
+
+Q 18 | bank | 配合題
+stem: Many people work ______ jobs until they decide what kind of jobs they really want.
+= D
+~詞義 temporary（adj.）暫時的
+~原文 Many people work temporary jobs until they decide what kind of jobs they really want.
+
+Q 19 | bank | 配合題
+stem: The firefighter stays calm whenever he faces a(n) ______ situation.
+= E
+~詞義 emergency（n.）緊急情況
+~原文 The firefighter stays calm whenever he faces a(n) emergency situation.
+
+Q 20 | bank | 配合題
+stem: The father's long-term disease led the family to spend all of their ______.
+= A
+~詞義 savings（n.）存款
+~原文 The father's long-term disease led the family to spend all of their savings.

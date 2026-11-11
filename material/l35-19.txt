@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 19 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-19 | Unit 19 | Vocabulary practice · Unit 19 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。本單元請抽查：部分句子左側邊緣被切到，開頭文字依語意補回。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: As the UK's a______r, Mr. Pierce works in the US, representing his country there.
+= ambassador
+~詞義 ambassador（n.）大使
+~原文 As the UK's ambassador, Mr. Pierce works in the US, representing his country there.
+
+Q 2 | fill | 文意字彙
+stem: Be sure to carry your p______t with you at all times when you are traveling abroad.
+= passport
+~詞義 passport（n.）護照
+~原文 Be sure to carry your passport with you at all times when you are traveling abroad.
+
+Q 3 | fill | 文意字彙
+stem: The boy didn't like to wash his hair because he hated the feeling of s______o getting in his eyes.
+= shampoo
+~詞義 shampoo（n.）洗髮精
+~原文 The boy didn't like to wash his hair because he hated the feeling of shampoo getting in his eyes.
+
+Q 4 | fill | 文意字彙
+stem: It was a g______s victory for the badminton player to win an Olympic medal.
+= glorious
+~詞義 glorious（adj.）光榮的
+~原文 It was a glorious victory for the badminton player to win an Olympic medal.
+
+Q 5 | fill | 文意字彙
+stem: For Mrs. Brown, the worst part of the divorce was the s______n from her beloved son.
+= separation
+~詞義 separation（n.）分離
+~原文 For Mrs. Brown, the worst part of the divorce was the separation from her beloved son.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Cotton is the main ______ material used in the production of many types of clothing.
+A: icy
+B: dim
+C: further
+D: raw
+= D
+~詞義 raw（adj.）原物料(raw material)
+~原文 Cotton is the main raw material used in the production of many types of clothing.
+
+Q 7 | choice | 選擇題
+stem: The train ______ from Taipei to Kaohsiung is more than NT$800.
+A: fare
+B: hay
+C: pint
+D: dime
+= A
+~詞義 fare（n.）車費
+~原文 The train fare from Taipei to Kaohsiung is more than NT$800.
+
+Q 8 | choice | 選擇題
+stem: The ______ was re-elected two years ago, so he has now governed this city for six years.
+A: nickel
+B: berry
+C: mayor
+D: glory
+= C
+~詞義 mayor（n.）市長
+~原文 The mayor was re-elected two years ago, so he has now governed this city for six years.
+
+Q 9 | choice | 選擇題
+stem: A tip for packing for a business trip is to keep your ______ light and small. That way, it's much easier to carry, and you can take it aboard the plane.
+A: elbow
+B: quarter
+C: luggage
+D: meadow
+= C
+~詞義 luggage（n.）行李
+~原文 A tip for packing for a business trip is to keep your luggage light and small. That way, it's much easier to carry, and you can take it aboard the plane.
+
+Q 10 | choice | 選擇題
+stem: Young children are only allowed to swim in that small pool, which is very ______.
+A: joyful
+B: inner
+C: farther
+D: shallow
+= D
+~詞義 shallow（adj.）淺的
+~原文 Young children are only allowed to swim in that small pool, which is very shallow.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: knitted
+B: paused
+C: dim
+D: meadow
+E: elbow
+F: penny
+
+Q 11 | bank | 配合題
+stem: This park is a popular place for families because it contains a big ______ where they can have picnics and fly kites.
+= D
+~詞義 meadow（n.）草地
+~原文 This park is a popular place for families because it contains a big meadow where they can have picnics and fly kites.
+
+Q 12 | bank | 配合題
+stem: Yesterday, I met a rude woman who pushed me aside with her ______ and didn't apologize.
+= E
+~詞義 elbow（n.）手肘
+~原文 Yesterday, I met a rude woman who pushed me aside with her elbow and didn't apologize.
+
+Q 13 | bank | 配合題
+stem: Charles ______ for a moment and rubbed his eyes. He had been reading for too long.
+= B
+~詞義 pause（v.）暫停
+~原文 Charles paused for a moment and rubbed his eyes. He had been reading for too long.
+
+Q 14 | bank | 配合題
+stem: The charitable organization reminds people that even a single ______ can help make a difference.
+= F
+~詞義 penny（n.）一分錢
+~原文 The charitable organization reminds people that even a single penny can help make a difference.
+
+Q 15 | bank | 配合題
+stem: The light over my seat is so ______ that I can barely read the book.
+= C
+~詞義 dim（adj.）微暗的
+~原文 The light over my seat is so dim that I can barely read the book.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: junk
+B: owe
+C: chat
+D: peel
+E: pills
+F: glance
+
+Q 16 | bank | 配合題
+stem: My brother's room is filled with ______. He never throws anything away; he just piles unwanted objects up on the floor.
+= A
+~詞義 junk（n.）無用的舊物
+~原文 My brother's room is filled with junk. He never throws anything away; he just piles unwanted objects up on the floor.
+
+Q 17 | bank | 配合題
+stem: "I'd love to have a(n) ______ with you after class about your essay ideas," the professor said.
+= C
+~詞義 chat（n.）閒聊
+~原文 "I'd love to have a(n) chat with you after class about your essay ideas," the professor said.
+
+Q 18 | bank | 配合題
+stem: Doctors usually don't give young children medicine in the form of ______ because they may not be able to swallow them.
+= E
+~詞義 pill（n.）藥丸
+~原文 Doctors usually don't give young children medicine in the form of pills because they may not be able to swallow them.
+
+Q 19 | bank | 配合題
+stem: After you ______ an orange, you can keep the skin and make soap with it.
+= D
+~詞義 peel（v.）剝皮
+~原文 After you peel an orange, you can keep the skin and make soap with it.
+
+Q 20 | bank | 配合題
+stem: Lucy is said to ______ Tom an apology because she spread a rumor about him without checking the facts first.
+= B
+~詞義 owe（v.）欠
+~原文 Lucy is said to owe Tom an apology because she spread a rumor about him without checking the facts first.

@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 35 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-35 | Unit 35 | Vocabulary practice · Unit 35 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。本單元請抽查：部分句子左側邊緣被切到，開頭文字依語意補回；Q12、Q13 的人名（Tom / Dan）為補回。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Never a______n your pets in the wild. It is not only cruel to them but also bad for the environment.
+= abandon
+~詞義 abandon（v.）遺棄
+~原文 Never abandon your pets in the wild. It is not only cruel to them but also bad for the environment.
+
+Q 2 | fill | 文意字彙
+stem: Mr. Wang is a kind and generous man who often donates money to c______y.
+= charity
+~詞義 charity（n.）慈善機構
+~原文 Mr. Wang is a kind and generous man who often donates money to charity.
+
+Q 3 | fill | 文意字彙
+stem: Billy was having such a wonderful time at his friend's place that he was r______t to leave.
+= reluctant
+~詞義 reluctant（adj.）不情願的
+~原文 Billy was having such a wonderful time at his friend's place that he was reluctant to leave.
+
+Q 4 | fill | 文意字彙
+stem: For me, living downtown is very convenient, but it has its l______ns. For instance, I don't have a garden of my own.
+= limitations
+~詞義 limitation（n.）侷限
+~原文 For me, living downtown is very convenient, but it has its limitations. For instance, I don't have a garden of my own.
+
+Q 5 | fill | 文意字彙
+stem: Artists often devote their lives to the p______t of beauty by experimenting with countless styles to create better work.
+= pursuit
+~詞義 pursuit（n.）追求
+~原文 Artists often devote their lives to the pursuit of beauty by experimenting with countless styles to create better work.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: In the meeting, teachers discussed to what ______ digital devices could be used in classrooms without distracting students.
+A: agent
+B: intention
+C: extent
+D: obstacle
+= C
+~詞義 extent（n.）程度
+~原文 In the meeting, teachers discussed to what extent digital devices could be used in classrooms without distracting students.
+
+Q 7 | choice | 選擇題
+stem: During the storm, officials ______ traffic away from flooded areas to prevent accidents and keep drivers safe.
+A: resembled
+B: routed
+C: negotiated
+D: deserved
+= B
+~詞義 route（v.）(按規定路線)安排
+~原文 During the storm, officials routed traffic away from flooded areas to prevent accidents and keep drivers safe.
+
+Q 8 | choice | 選擇題
+stem: The road was under construction, so the workers put up a(n) ______ to stop vehicles from going down it.
+A: agency
+B: barrier
+C: candidate
+D: expansion
+= B
+~詞義 barrier（n.）障礙物
+~原文 The road was under construction, so the workers put up a(n) barrier to stop vehicles from going down it.
+
+Q 9 | choice | 選擇題
+stem: Steven's rude remarks have deeply ______ many people. No wonder he has few friends.
+A: absorbed
+B: coped
+C: offended
+D: ensured
+= C
+~詞義 offend（v.）冒犯
+~原文 Steven's rude remarks have deeply offended many people. No wonder he has few friends.
+
+Q 10 | choice | 選擇題
+stem: The saying "Don't put all your eggs in one basket" means that you should not ______ all your money in one place.
+A: obtain
+B: invest
+C: limit
+D: expand
+= B
+~詞義 invest（v.）投資
+~原文 The saying "Don't put all your eggs in one basket" means that you should not invest all your money in one place.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: apparently
+B: earnest
+C: mutual
+D: declared
+E: published
+F: earnestly
+
+Q 11 | bank | 配合題
+stem: ______, Johnny had a bad day. He came home with a frown and didn't want to say anything at all.
+= A
+~詞義 apparently（adv.）明顯地
+~原文 Apparently, Johnny had a bad day. He came home with a frown and didn't want to say anything at all.
+
+Q 12 | bank | 配合題
+stem: Tom's first novel was ______ when he was only 20 years old.
+= E
+~詞義 publish（v.）出版
+~原文 Tom's first novel was published when he was only 20 years old.
+
+Q 13 | bank | 配合題
+stem: Dan made a(n) ______ attempt to complete the difficult assignment on his own.
+= B
+~詞義 earnest（adj.）認真的
+~原文 Dan made a(n) earnest attempt to complete the difficult assignment on his own.
+
+Q 14 | bank | 配合題
+stem: The whole family was excited when the doctor ______ that the baby was healthy enough to leave the hospital and come home.
+= D
+~詞義 declare（v.）宣布
+~原文 The whole family was excited when the doctor declared that the baby was healthy enough to leave the hospital and come home.
+
+Q 15 | bank | 配合題
+stem: Allen first met Sally when their ______ friend, Larry, introduced them to each other at a party.
+= C
+~詞義 mutual（adj.）共同的
+~原文 Allen first met Sally when their mutual friend, Larry, introduced them to each other at a party.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: phenomena
+B: capacity
+C: accompanied
+D: intimate
+E: distributed
+F: primitive
+
+Q 16 | bank | 配合題
+stem: The new concert hall has a seating ______ of more than 1,000, and it will open to the public next month.
+= B
+~詞義 capacity（n.）容量
+~原文 The new concert hall has a seating capacity of more than 1,000, and it will open to the public next month.
+
+Q 17 | bank | 配合題
+stem: Lindsey and Michelle are ______ friends, so they share everything about their lives with each other.
+= D
+~詞義 intimate（adj.）親密的
+~原文 Lindsey and Michelle are intimate friends, so they share everything about their lives with each other.
+
+Q 18 | bank | 配合題
+stem: In the past, people couldn't explain the reasons behind many natural ______, but now, we can understand them better because science has progressed so much.
+= A
+~詞義 phenomenon（n.）現象
+~原文 In the past, people couldn't explain the reasons behind many natural phenomena, but now, we can understand them better because science has progressed so much.
+
+Q 19 | bank | 配合題
+stem: The teacher gave us a bag of sweets, and we ______ them evenly among ourselves.
+= E
+~詞義 distribute（v.）分發
+~原文 The teacher gave us a bag of sweets, and we distributed them evenly among ourselves.
+
+Q 20 | bank | 配合題
+stem: The singer's performance was ______ by soft piano music that created a peaceful and emotional atmosphere.
+= C
+~詞義 accompany（v.）伴隨著
+~原文 The singer's performance was accompanied by soft piano music that created a peaceful and emotional atmosphere.

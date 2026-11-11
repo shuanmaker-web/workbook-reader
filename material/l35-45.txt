@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 45 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-45 | Unit 45 | Vocabulary practice · Unit 45 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。本單元請抽查：照片邊緣或反光處，個別字詞可能有誤。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: It is so cold in the room that I can't help but t______e.
+= tremble
+~詞義 tremble（v.）顫抖
+~原文 It is so cold in the room that I can't help but tremble.
+
+Q 2 | fill | 文意字彙
+stem: After many hours of being questioned, the suspect finally c______sed that he had committed the crime.
+= confessed
+~詞義 confess（v.）坦承
+~原文 After many hours of being questioned, the suspect finally confessed that he had committed the crime.
+
+Q 3 | fill | 文意字彙
+stem: Jimmy c______ted his friend on winning first place in the international piano contest.
+= congratulated
+~詞義 congratulate（v.）恭喜
+~原文 Jimmy congratulated his friend on winning first place in the international piano contest.
+
+Q 4 | fill | 文意字彙
+stem: Sam was caught p______ping at his classmate's exam paper. In the end, he failed the course and had to take it again the next year.
+= peeping
+~詞義 peep（v.）偷窺
+~原文 Sam was caught peeping at his classmate's exam paper. In the end, he failed the course and had to take it again the next year.
+
+Q 5 | fill | 文意字彙
+stem: Many people consider p______ts bad creatures, but they are actually an essential part of the ecosystem.
+= pests
+~詞義 pest（n.）害蟲
+~原文 Many people consider pests bad creatures, but they are actually an essential part of the ecosystem.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Nick wants to make sure that the watch he just bought is ______, not fake.
+A: thoughtful
+B: elementary
+C: intermediate
+D: authentic
+= D
+~詞義 authentic（adj.）真正的
+~原文 Nick wants to make sure that the watch he just bought is authentic, not fake.
+
+Q 7 | choice | 選擇題
+stem: I just finished reading Stephen Hawking's ______, which tells the entire life story of the scientist.
+A: autobiography
+B: discouragement
+C: vegetarian
+D: enforcement
+= A
+~詞義 autobiography（n.）自傳
+~原文 I just finished reading Stephen Hawking's autobiography, which tells the entire life story of the scientist.
+
+Q 8 | choice | 選擇題
+stem: The camp leaders are training the kids to follow orders to teach them good ______.
+A: nursery
+B: discipline
+C: hydrogen
+D: telescope
+= B
+~詞義 discipline（n.）紀律
+~原文 The camp leaders are training the kids to follow orders to teach them good discipline.
+
+Q 9 | choice | 選擇題
+stem: The failure didn't ______ him. Instead, he used it as motivation and came back stronger than ever.
+A: reinforce
+B: enforce
+C: discourage
+D: shiver
+= C
+~詞義 discourage（v.）使沮喪
+~原文 The failure didn't discourage him. Instead, he used it as motivation and came back stronger than ever.
+
+Q 10 | choice | 選擇題
+stem: After eating the fried chicken, my fingers were all ______.
+A: greasy
+B: timid
+C: intellectual
+D: agreeable
+= A
+~詞義 greasy（adj.）油膩的
+~原文 After eating the fried chicken, my fingers were all greasy.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: hurricane
+B: empire
+C: hatred
+D: perfume
+E: telescopes
+F: merits
+
+Q 11 | bank | 配合題
+stem: The coastal town prepared for the ______ by sealing up windows and storing emergency supplies.
+= A
+~詞義 hurricane（n.）颱風
+~原文 The coastal town prepared for the hurricane by sealing up windows and storing emergency supplies.
+
+Q 12 | bank | 配合題
+stem: The ______ between the supporters of the two political parties is not something that can be solved by words alone.
+= C
+~詞義 hatred（n.）怨恨
+~原文 The hatred between the supporters of the two political parties is not something that can be solved by words alone.
+
+Q 13 | bank | 配合題
+stem: When the boss evaluates his employees, he tries to look at their ______ instead of their flaws.
+= F
+~詞義 merit（n.）優點
+~原文 When the boss evaluates his employees, he tries to look at their merits instead of their flaws.
+
+Q 14 | bank | 配合題
+stem: I really disliked the woman's ______ because its smell filled the entire room and made me feel sick.
+= D
+~詞義 perfume（n.）香水
+~原文 I really disliked the woman's perfume because its smell filled the entire room and made me feel sick.
+
+Q 15 | bank | 配合題
+stem: The Persian ______ once ruled over most of the Middle East, Central Asia, and parts of Europe.
+= B
+~詞義 empire（n.）帝國
+~原文 The Persian empire once ruled over most of the Middle East, Central Asia, and parts of Europe.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: surrendered
+B: timid
+C: thoughtful
+D: oxygen
+E: merchant
+F: nuclear
+
+Q 16 | bank | 配合題
+stem: Marco Polo was a Venetian ______ who traveled along the ancient Silk Road.
+= E
+~詞義 merchant（n.）商人
+~原文 Marco Polo was a Venetian merchant who traveled along the ancient Silk Road.
+
+Q 17 | bank | 配合題
+stem: Betty found it ______ of her neighbor to check in after hearing about her recent injury.
+= C
+~詞義 thoughtful（adj.）體貼的
+~原文 Betty found it thoughtful of her neighbor to check in after hearing about her recent injury.
+
+Q 18 | bank | 配合題
+stem: After ten days of fighting, the rebels finally ______ to the government.
+= A
+~詞義 surrender（v.）投降
+~原文 After ten days of fighting, the rebels finally surrendered to the government.
+
+Q 19 | bank | 配合題
+stem: ______ technology can produce low-carbon electricity, but it requires strict monitoring to prevent dangerous accidents.
+= F
+~詞義 nuclear（adj.）核能的
+~原文 Nuclear technology can produce low-carbon electricity, but it requires strict monitoring to prevent dangerous accidents.
+
+Q 20 | bank | 配合題
+stem: Emma was so ______ that she wouldn't even speak to her classmates on her first day of school.
+= B
+~詞義 timid（adj.）膽小的
+~原文 Emma was so timid that she wouldn't even speak to her classmates on her first day of school.

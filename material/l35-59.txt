@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 59 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-59 | Unit 59 | Vocabulary practice · Unit 59 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Dora is studying for an exam tomorrow, so her family is keeping quiet so as not to d______t her.
+= distract
+~詞義 distract（v.）使分心
+~原文 Dora is studying for an exam tomorrow, so her family is keeping quiet so as not to distract her.
+
+Q 2 | fill | 文意字彙
+stem: The scientist is an a______e of renewable energy and frequently speaks at public events to promote its benefits.
+= advocate
+~詞義 advocate（n.）倡導者
+~原文 The scientist is an advocate of renewable energy and frequently speaks at public events to promote its benefits.
+
+Q 3 | fill | 文意字彙
+stem: Jason has disappeared; no one knows his w______s.
+= whereabouts
+~詞義 whereabouts（n.）行蹤
+~原文 Jason has disappeared; no one knows his whereabouts.
+
+Q 4 | fill | 文意字彙
+stem: I believe that everyone should be treated equally, r______s of their race, gender, or religion.
+= regardless
+~詞義 regardless（adv.）不論
+~原文 I believe that everyone should be treated equally, regardless of their race, gender, or religion.
+
+Q 5 | fill | 文意字彙
+stem: Taiwan's real estate business b______med during the second half of the 1980s, when the economy was prosperous.
+= boomed
+~詞義 boom（v.）迅速發展
+~原文 Taiwan's real estate business boomed during the second half of the 1980s, when the economy was prosperous.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The rejection letter ______ Eason's dream of studying abroad, so he felt disappointed but determined to try again.
+A: pleaded
+B: conceived
+C: disconnected
+D: shattered
+= D
+~詞義 shatter（v.）終結;嚴重破壞
+~原文 The rejection letter shattered Eason's dream of studying abroad, so he felt disappointed but determined to try again.
+
+Q 7 | choice | 選擇題
+stem: Mindy said that the cake I had made was the best cake she had ever eaten, but I think that was a(n) ______.
+A: domain
+B: exaggeration
+C: pedestrian
+D: sensitivity
+= B
+~詞義 exaggeration（n.）誇大
+~原文 Mindy said that the cake I had made was the best cake she had ever eaten, but I think that was a(n) exaggeration.
+
+Q 8 | choice | 選擇題
+stem: Let me set a ______ on my smartphone, or else I might forget about our appointment.
+A: competence
+B: pillar
+C: reminder
+D: therapy
+= C
+~詞義 reminder（n.）提醒
+~原文 Let me set a reminder on my smartphone, or else I might forget about our appointment.
+
+Q 9 | choice | 選擇題
+stem: The audience watched the violin performance in ______. The musician played fantastically.
+A: awe
+B: fluid
+C: pier
+D: theft
+= A
+~詞義 awe（n.）驚歎
+~原文 The audience watched the violin performance in awe. The musician played fantastically.
+
+Q 10 | choice | 選擇題
+stem: The mayor's dedication to maintaining the wellbeing of his citizens is ______ of our respect.
+A: bound
+B: nasty
+C: grim
+D: worthy
+= D
+~詞義 worthy（adj.）值得的
+~原文 The mayor's dedication to maintaining the wellbeing of his citizens is worthy of our respect.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: boost
+B: aisle
+C: competent
+D: estate
+E: habitat
+F: odds
+
+Q 11 | bank | 配合題
+stem: Tina is a(n) ______ worker. Her supervisor has no problem with letting her take charge of cases independently.
+= C
+~詞義 competent（adj.）有能力的
+~原文 Tina is a(n) competent worker. Her supervisor has no problem with letting her take charge of cases independently.
+
+Q 12 | bank | 配合題
+stem: The wild parrot's natural ______ is the rainforest.
+= E
+~詞義 habitat（n.）棲息地
+~原文 The wild parrot's natural habitat is the rainforest.
+
+Q 13 | bank | 配合題
+stem: Against all ______, the group won the competition despite its limited resources.
+= F
+~詞義 odds（n.）儘管困難重重(against all odds)
+~原文 Against all odds, the group won the competition despite its limited resources.
+
+Q 14 | bank | 配合題
+stem: The author went on a tour to ______ the sales of her latest novel.
+= A
+~詞義 boost（v.）提高
+~原文 The author went on a tour to boost the sales of her latest novel.
+
+Q 15 | bank | 配合題
+stem: "The product that you are looking for is in ______ eight," the supermarket clerk said.
+= B
+~詞義 aisle（n.）走道
+~原文 "The product that you are looking for is in aisle eight," the supermarket clerk said.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: sequence
+B: compliments
+C: pleaded
+D: therapist
+E: impulse
+F: vending
+
+Q 16 | bank | 配合題
+stem: Before heading to class, Julie bought a bottle of water from the ______ machine.
+= F
+~詞義 vending（adj.）販賣機(vending machine)
+~原文 Before heading to class, Julie bought a bottle of water from the vending machine.
+
+Q 17 | bank | 配合題
+stem: The man admitted to his crime and ______ with the judge for a lighter sentence.
+= C
+~詞義 plead（v.）懇求
+~原文 The man admitted to his crime and pleaded with the judge for a lighter sentence.
+
+Q 18 | bank | 配合題
+stem: Sam ______ his wife on her cooking and good looks every day. That is his secret to maintaining a happy marriage.
+= B
+~詞義 compliment（v.）讚美
+~原文 Sam compliments his wife on her cooking and good looks every day. That is his secret to maintaining a happy marriage.
+
+Q 19 | bank | 配合題
+stem: My physical ______ said that I must fix my posture if I want to get rid of my backache for good.
+= D
+~詞義 therapist（n.）治療師
+~原文 My physical therapist said that I must fix my posture if I want to get rid of my backache for good.
+
+Q 20 | bank | 配合題
+stem: When Mandy saw the clear running water in the stream, she had a sudden ______ to dip her feet into it.
+= E
+~詞義 impulse（n.）衝動
+~原文 When Mandy saw the clear running water in the stream, she had a sudden impulse to dip her feet into it.

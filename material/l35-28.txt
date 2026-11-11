@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 28 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-28 | Unit 28 | Vocabulary practice · Unit 28 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: You should not run or do exercise on a full s______h because this can make you feel sick or throw up.
+= stomach
+~詞義 stomach（n.）胃
+~原文 You should not run or do exercise on a full stomach because this can make you feel sick or throw up.
+
+Q 2 | fill | 文意字彙
+stem: Jimmy was injured in a car accident and had to get s______hes on his head.
+= stitches
+~詞義 stitch（n.）縫針
+~原文 Jimmy was injured in a car accident and had to get stitches on his head.
+
+Q 3 | fill | 文意字彙
+stem: On weekends, I like to sleep late and then go out for a delicious b______h with my friends.
+= brunch
+~詞義 brunch（n.）早午餐
+~原文 On weekends, I like to sleep late and then go out for a delicious brunch with my friends.
+
+Q 4 | fill | 文意字彙
+stem: Ms. Chen is a very s______e teacher. She always listens to our explanations and never judges us.
+= sensible
+~詞義 sensible（adj.）明智的
+~原文 Ms. Chen is a very sensible teacher. She always listens to our explanations and never judges us.
+
+Q 5 | fill | 文意字彙
+stem: Ben bought a new video game c______r because the old one kept disconnecting.
+= controller
+~詞義 controller（n.）遊戲遙控器(game controller)
+~原文 Ben bought a new video game controller because the old one kept disconnecting.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The ______ ran away and hid out in an empty apartment, but later he was found and arrested by the police.
+A: avenue
+B: bundle
+C: criminal
+D: vacancy
+= C
+~詞義 criminal（n.）罪犯
+~原文 The criminal ran away and hid out in an empty apartment, but later he was found and arrested by the police.
+
+Q 7 | choice | 選擇題
+stem: Ruby enjoys eating at ______ restaurants because she likes to try lots of different types of food.
+A: cooker
+B: buffet
+C: scarf
+D: troop
+= B
+~詞義 buffet（n.）自助餐
+~原文 Ruby enjoys eating at buffet restaurants because she likes to try lots of different types of food.
+
+Q 8 | choice | 選擇題
+stem: Sue felt that her efforts went down the ______ when her group ignored every suggestion she had made for the project.
+A: drain
+B: bulb
+C: closet
+D: hen
+= A
+~詞義 drain（n.）白費(go down the drain)
+~原文 Sue felt that her efforts went down the drain when her group ignored every suggestion she had made for the project.
+
+Q 9 | choice | 選擇題
+stem: I've been working on my computer for five hours, so my neck and shoulders are very ______.
+A: tricky
+B: stiff
+C: vacant
+D: criminal
+= B
+~詞義 stiff（adj.）僵硬的
+~原文 I've been working on my computer for five hours, so my neck and shoulders are very stiff.
+
+Q 10 | choice | 選擇題
+stem: The farmer was ______ on the arm by a bee while watering the vegetable garden.
+A: whipped
+B: delayed
+C: roasted
+D: stung
+= D
+~詞義 sting（v.）螫;刺
+~原文 The farmer was stung on the arm by a bee while watering the vegetable garden.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: avenue
+B: criminals
+C: concert
+D: bulb
+E: scarf
+F: vacancies
+
+Q 11 | bank | 配合題
+stem: Scientists from different countries worked in ______ to track the disease and share information that might speed up finding a cure.
+= C
+~詞義 concert（n.）共同(in concert)
+~原文 Scientists from different countries worked in concert to track the disease and share information that might speed up finding a cure.
+
+Q 12 | bank | 配合題
+stem: We need to change the light ______ in our bathroom. It keeps blinking.
+= D
+~詞義 bulb（n.）燈泡
+~原文 We need to change the light bulb in our bathroom. It keeps blinking.
+
+Q 13 | bank | 配合題
+stem: Vicky called the hotel to book a room for tonight, but there were no ______.
+= F
+~詞義 vacancy（n.）空房;空位
+~原文 Vicky called the hotel to book a room for tonight, but there were no vacancies.
+
+Q 14 | bank | 配合題
+stem: My grandmother is knitting a beautiful ______ for me as a Christmas present.
+= E
+~詞義 scarf（n.）圍巾
+~原文 My grandmother is knitting a beautiful scarf for me as a Christmas present.
+
+Q 15 | bank | 配合題
+stem: There are tall trees on both sides of the ______.
+= A
+~詞義 avenue（n.）大街
+~原文 There are tall trees on both sides of the avenue.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: tugged
+B: tricky
+C: cables
+D: stirring
+E: closets
+F: vacant
+
+Q 16 | bank | 配合題
+stem: There were no ______ seats on the bus, so we had to stand for the whole journey.
+= F
+~詞義 vacant（adj.）空的
+~原文 There were no vacant seats on the bus, so we had to stand for the whole journey.
+
+Q 17 | bank | 配合題
+stem: My sister ______ at my sleeve, so I turned around to see what was wrong.
+= A
+~詞義 tug（v.）(用力)拉
+~原文 My sister tugged at my sleeve, so I turned around to see what was wrong.
+
+Q 18 | bank | 配合題
+stem: You need to keep ______ the soup while it cooks, or else the bottom may burn.
+= D
+~詞義 stir（v.）攪拌
+~原文 You need to keep stirring the soup while it cooks, or else the bottom may burn.
+
+Q 19 | bank | 配合題
+stem: The students asked many ______ questions, so the teacher had to spend a lot of time answering them.
+= B
+~詞義 tricky（adj.）棘手的
+~原文 The students asked many tricky questions, so the teacher had to spend a lot of time answering them.
+
+Q 20 | bank | 配合題
+stem: Some workers were digging up the road to lay ______, which caused a traffic jam for three hours.
+= C
+~詞義 cable（n.）電纜
+~原文 Some workers were digging up the road to lay cables, which caused a traffic jam for three hours.

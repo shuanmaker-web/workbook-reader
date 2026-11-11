@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 72 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-72 | Unit 72 | Vocabulary practice · Unit 72 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The championship title was at s______e, so both teams entered the match with extreme focus and determination.
+= stake
+~詞義 stake（n.）至關重大(at stake)
+~原文 The championship title was at stake, so both teams entered the match with extreme focus and determination.
+
+Q 2 | fill | 文意字彙
+stem: Amy is a r______l person. She never acts on impulse or behaves emotionally.
+= rational
+~詞義 rational（adj.）理性的
+~原文 Amy is a rational person. She never acts on impulse or behaves emotionally.
+
+Q 3 | fill | 文意字彙
+stem: With the development of online banking, you can now perform t______ns on your laptop and smartphone, which is quite convenient.
+= transactions
+~詞義 transaction（n.）交易
+~原文 With the development of online banking, you can now perform transactions on your laptop and smartphone, which is quite convenient.
+
+Q 4 | fill | 文意字彙
+stem: Penny was a______ted by a stranger on the street, and a witness immediately called the police.
+= assaulted
+~詞義 assault（v.）襲擊
+~原文 Penny was assaulted by a stranger on the street, and a witness immediately called the police.
+
+Q 5 | fill | 文意字彙
+stem: The wealthy man established a foundation that is dedicated to the c______n of marine life.
+= conservation
+~詞義 conservation（n.）保育
+~原文 The wealthy man established a foundation that is dedicated to the conservation of marine life.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The lesson was ______ by a series of loud construction noises from the street, so the teacher decided to end class early.
+A: confronted
+B: disrupted
+C: grilled
+D: rattled
+= B
+~詞義 disrupt（v.）中斷
+~原文 The lesson was disrupted by a series of loud construction noises from the street, so the teacher decided to end class early.
+
+Q 7 | choice | 選擇題
+stem: Even after a long three-hour meeting, the two companies still couldn't reach a ______.
+A: consensus
+B: discourse
+C: lawsuit
+D: ranch
+= A
+~詞義 consensus（n.）共識
+~原文 Even after a long three-hour meeting, the two companies still couldn't reach a consensus.
+
+Q 8 | choice | 選擇題
+stem: The hikers were trapped on the mountain for seven days. Fortunately, they knew how to survive in the ______.
+A: briefcase
+B: realism
+C: stance
+D: wilderness
+= D
+~詞義 wilderness（n.）荒野
+~原文 The hikers were trapped on the mountain for seven days. Fortunately, they knew how to survive in the wilderness.
+
+Q 9 | choice | 選擇題
+stem: The factory upgraded their manufacturing process, and the managers expected to increase ______ by 50%.
+A: laser
+B: notion
+C: output
+D: windshield
+= C
+~詞義 output（n.）生產量
+~原文 The factory upgraded their manufacturing process, and the managers expected to increase output by 50%.
+
+Q 10 | choice | 選擇題
+stem: The shirt is quite new and in good condition, except for a little ______ on the right sleeve.
+A: realm
+B: norm
+C: stain
+D: wig
+= C
+~詞義 stain（n.）汙漬
+~原文 The shirt is quite new and in good condition, except for a little stain on the right sleeve.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: envision
+B: genre
+C: glare
+D: obligation
+E: pandemic
+F: witty
+
+Q 11 | bank | 配合題
+stem: Ms. Lin asked us to ______ what we want to be in ten years and then write down the things we need to do in order to achieve this.
+= A
+~詞義 envision（v.）想像
+~原文 Ms. Lin asked us to envision what we want to be in ten years and then write down the things we need to do in order to achieve this.
+
+Q 12 | bank | 配合題
+stem: The ______ uncovered weaknesses in healthcare systems and thus prompted governments to reconsider public health policies.
+= E
+~詞義 pandemic（n.）大流行病
+~原文 The pandemic uncovered weaknesses in healthcare systems and thus prompted governments to reconsider public health policies.
+
+Q 13 | bank | 配合題
+stem: Maya is a smart and ______ person who tells great stories. Everyone enjoys chatting with her.
+= F
+~詞義 witty（adj.）機智風趣的
+~原文 Maya is a smart and witty person who tells great stories. Everyone enjoys chatting with her.
+
+Q 14 | bank | 配合題
+stem: Science fiction is Henry's favorite ______. He has a whole shelf full of science-fiction novels.
+= B
+~詞義 genre（n.）文類
+~原文 Science fiction is Henry's favorite genre. He has a whole shelf full of science-fiction novels.
+
+Q 15 | bank | 配合題
+stem: All citizens have the legal ______ to pay taxes to the government.
+= D
+~詞義 obligation（n.）義務
+~原文 All citizens have the legal obligation to pay taxes to the government.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: confrontation
+B: startling
+C: landlord
+D: exclaimed
+E: stalled
+F: transition
+
+Q 16 | bank | 配合題
+stem: The ______ period between childhood and adulthood can be quite confusing and chaotic for some teenagers.
+= F
+~詞義 transition（n.）轉變
+~原文 The transition period between childhood and adulthood can be quite confusing and chaotic for some teenagers.
+
+Q 17 | bank | 配合題
+stem: Mark wants to speak to his ______ about fixing the washing machine in his apartment, but he can't find him.
+= C
+~詞義 landlord（n.）房東
+~原文 Mark wants to speak to his landlord about fixing the washing machine in his apartment, but he can't find him.
+
+Q 18 | bank | 配合題
+stem: When we heard what had happened to Cindy on the train this morning, we all ______ in surprise.
+= D
+~詞義 exclaim（v.）驚叫
+~原文 When we heard what had happened to Cindy on the train this morning, we all exclaimed in surprise.
+
+Q 19 | bank | 配合題
+stem: This science experiment produced ______ results, which pushed the research forward by years.
+= B
+~詞義 startling（adj.）驚人的
+~原文 This science experiment produced startling results, which pushed the research forward by years.
+
+Q 20 | bank | 配合題
+stem: The project ______ after funding was cut, and several important tasks were left unfinished for months.
+= E
+~詞義 stall（v.）停止進展
+~原文 The project stalled after funding was cut, and several important tasks were left unfinished for months.

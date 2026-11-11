@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 32 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-32 | Unit 32 | Vocabulary practice · Unit 32 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The government i______ed a warning about heavy rainfall, urging residents to stay indoors and avoid unnecessary travel.
+= issued
+~詞義 issue（v.）發布
+~原文 The government issued a warning about heavy rainfall, urging residents to stay indoors and avoid unnecessary travel.
+
+Q 2 | fill | 文意字彙
+stem: C______y to his parents' expectations, Walter decided to major in visual art rather than law in university.
+= Contrary
+~詞義 contrary（adj.）相反的
+~原文 Contrary to his parents' expectations, Walter decided to major in visual art rather than law in university.
+
+Q 3 | fill | 文意字彙
+stem: The lawyer tried hard to c______e the judge of the accused man's innocence.
+= convince
+~詞義 convince（v.）說服
+~原文 The lawyer tried hard to convince the judge of the accused man's innocence.
+
+Q 4 | fill | 文意字彙
+stem: It is e______ed that the population of the Earth will reach 8 billion in 2023.
+= estimated
+~詞義 estimate（v.）估計
+~原文 It is estimated that the population of the Earth will reach 8 billion in 2023.
+
+Q 5 | fill | 文意字彙
+stem: Every team member's effort is e______l to the team's success. We must all try our best!
+= essential
+~詞義 essential（adj.）不可或缺的
+~原文 Every team member's effort is essential to the team's success. We must all try our best!
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Dave had a(n) ______ cold last week, including a fever and bad headache.
+A: eventual
+B: identical
+C: severe
+D: annual
+= C
+~詞義 severe（adj.）嚴重的
+~原文 Dave had a(n) severe cold last week, including a fever and bad headache.
+
+Q 7 | choice | 選擇題
+stem: The company ______ a long-term strategy that focused on sustainability and protect the environment.
+A: composed
+B: adopted
+C: preserved
+D: demanded
+= B
+~詞義 adopt（v.）採用
+~原文 The company adopted a long-term strategy that focused on sustainability and protect the environment.
+
+Q 8 | choice | 選擇題
+stem: Both teachers and students should remember that a person's ______ performance does not define their worth.
+A: consequent
+B: evident
+C: initial
+D: academic
+= D
+~詞義 academic（adj.）學業的
+~原文 Both teachers and students should remember that a person's academic performance does not define their worth.
+
+Q 9 | choice | 選擇題
+stem: Before he became a(n) ______ basketball player in the NBA, LeBron James was a great player in high school.
+A: professional
+B: eventual
+C: original
+D: identical
+= A
+~詞義 professional（adj.）專業的
+~原文 Before he became a(n) professional basketball player in the NBA, LeBron James was a great player in high school.
+
+Q 10 | choice | 選擇題
+stem: Alice ______ the tea cup from an online store for the very low price of fifty dollars.
+A: persuaded
+B: acquired
+C: commanded
+D: identified
+= B
+~詞義 acquire（v.）獲得
+~原文 Alice acquired the tea cup from an online store for the very low price of fifty dollars.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: despite
+B: professions
+C: incident
+D: research
+E: involve
+F: refer
+
+Q 11 | bank | 配合題
+stem: The runner managed to reach the finish line ______ having pulled a muscle in his leg during the race.
+= A
+~詞義 despite（prep.）儘管
+~原文 The runner managed to reach the finish line despite having pulled a muscle in his leg during the race.
+
+Q 12 | bank | 配合題
+stem: Mr. and Mrs. Wang are both doctors, but they want their children to enter other ______ such as law or teaching.
+= B
+~詞義 profession（n.）職業
+~原文 Mr. and Mrs. Wang are both doctors, but they want their children to enter other professions such as law or teaching.
+
+Q 13 | bank | 配合題
+stem: Before writing her report, Jane conducted ______ on teen mental health, reading studies from several universities.
+= D
+~詞義 research（n.）研究
+~原文 Before writing her report, Jane conducted research on teen mental health, reading studies from several universities.
+
+Q 14 | bank | 配合題
+stem: When giving the presentation, you may ______ to your notes if necessary.
+= F
+~詞義 refer（v.）參照;查閱
+~原文 When giving the presentation, you may refer to your notes if necessary.
+
+Q 15 | bank | 配合題
+stem: The terrible traffic accident was an unfortunate ______.
+= C
+~詞義 incident（n.）事件
+~原文 The terrible traffic accident was an unfortunate incident.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: accidental
+B: access
+C: annual
+D: percentage
+E: reference
+F: consequence
+
+Q 16 | bank | 配合題
+stem: Unidentified hackers gained ______ to many people's email accounts and stole their personal information.
+= B
+~詞義 access（n.）進入權限
+~原文 Unidentified hackers gained access to many people's email accounts and stole their personal information.
+
+Q 17 | bank | 配合題
+stem: Sam did not prepare for the midterm at all, and as a(n) ______, he failed several subjects.
+= F
+~詞義 consequence（n.）後果
+~原文 Sam did not prepare for the midterm at all, and as a(n) consequence, he failed several subjects.
+
+Q 18 | bank | 配合題
+stem: The English grammar book includes a vocabulary index for easy ______.
+= E
+~詞義 reference（n.）查閱
+~原文 The English grammar book includes a vocabulary index for easy reference.
+
+Q 19 | bank | 配合題
+stem: Fortunately, the thief was arrested and a large ______ of the stolen goods were recovered.
+= D
+~詞義 percentage（n.）百分比
+~原文 Fortunately, the thief was arrested and a large percentage of the stolen goods were recovered.
+
+Q 20 | bank | 配合題
+stem: My family spends our ______ holiday at a small cabin by a lake up in the mountains.
+= C
+~詞義 annual（adj.）每年的
+~原文 My family spends our annual holiday at a small cabin by a lake up in the mountains.

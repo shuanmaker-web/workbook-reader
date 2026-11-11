@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 41 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-41 | Unit 41 | Vocabulary practice · Unit 41 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Can you read this sentence for me? Your h______g is so messy that I can't read it.
+= handwriting
+~詞義 handwriting（n.）筆跡
+~原文 Can you read this sentence for me? Your handwriting is so messy that I can't read it.
+
+Q 2 | fill | 文意字彙
+stem: During my free time, I like to go to the a______m and look at the colorful fish.
+= aquarium
+~詞義 aquarium（n.）水族館
+~原文 During my free time, I like to go to the aquarium and look at the colorful fish.
+
+Q 3 | fill | 文意字彙
+stem: Jack bid f______l to his girlfriend from the platform as the train went off.
+= farewell
+~詞義 farewell（n.）送別
+~原文 Jack bid farewell to his girlfriend from the platform as the train went off.
+
+Q 4 | fill | 文意字彙
+stem: To build the tunnel, the crew had to use heavy m______y to dig deep into the ground.
+= machinery
+~詞義 machinery（n.）機器
+~原文 To build the tunnel, the crew had to use heavy machinery to dig deep into the ground.
+
+Q 5 | fill | 文意字彙
+stem: Oscar is lost in the forest and unable to determine his o______n.
+= orientation
+~詞義 orientation（n.）方向;方位
+~原文 Oscar is lost in the forest and unable to determine his orientation.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Rather than classical, realistic paintings, Mary prefers the more modern, ______ style.
+A: abstract
+B: promising
+C: nutritious
+D: damp
+= A
+~詞義 abstract（adj.）抽象的
+~原文 Rather than classical, realistic paintings, Mary prefers the more modern, abstract style.
+
+Q 7 | choice | 選擇題
+stem: If you are on a diet, you should avoid eating fried foods because they are high in ______.
+A: priorities
+B: options
+C: calories
+D: idioms
+= C
+~詞義 calorie（n.）卡路里
+~原文 If you are on a diet, you should avoid eating fried foods because they are high in calories.
+
+Q 8 | choice | 選擇題
+stem: Male citizens in Taiwan with dual ______ often face difficult choices regarding military service, voting rights, and long-term personal identity.
+A: recreation
+B: lifeguard
+C: nationality
+D: publicity
+= C
+~詞義 nationality（n.）國籍
+~原文 Male citizens in Taiwan with dual nationality often face difficult choices regarding military service, voting rights, and long-term personal identity.
+
+Q 9 | choice | 選擇題
+stem: The project has been ______ owing to a lack of funds.
+A: paced
+B: halted
+C: sued
+D: raged
+= B
+~詞義 halt（v.）暫停
+~原文 The project has been halted owing to a lack of funds.
+
+Q 10 | choice | 選擇題
+stem: When the teacher announced the upcoming exam, the entire class moved up a(n) ______ and began studying far more seriously.
+A: panel
+B: orbit
+C: canoe
+D: gear
+= D
+~詞義 gear（n.）大有起色(move up a gear)
+~原文 When the teacher announced the upcoming exam, the entire class moved up a(n) gear and began studying far more seriously.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: bald
+B: priority
+C: begged
+D: gazed
+E: pessimistic
+F: stockings
+
+Q 11 | bank | 配合題
+stem: The coach reminded the players that their ______ should be teamwork, not personal glory or individual awards.
+= B
+~詞義 priority（n.）優先;重點
+~原文 The coach reminded the players that their priority should be teamwork, not personal glory or individual awards.
+
+Q 12 | bank | 配合題
+stem: Philip ______ at Candice, attracted by her unique beauty.
+= D
+~詞義 gaze（v.）凝視
+~原文 Philip gazed at Candice, attracted by her unique beauty.
+
+Q 13 | bank | 配合題
+stem: My father went ______ at 40. When he was forty-five years old, he had no hair on his head.
+= A
+~詞義 bald（adj.）禿頭的
+~原文 My father went bald at 40. When he was forty-five years old, he had no hair on his head.
+
+Q 14 | bank | 配合題
+stem: Every Christmas, Max and his family hang a row of ______ over the fireplace.
+= F
+~詞義 stocking（n.）長襪
+~原文 Every Christmas, Max and his family hang a row of stockings over the fireplace.
+
+Q 15 | bank | 配合題
+stem: Don't be so ______. I am sure you can succeed if you just put a little more effort into it.
+= E
+~詞義 pessimistic（adj.）悲觀的
+~原文 Don't be so pessimistic. I am sure you can succeed if you just put a little more effort into it.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: cabinet
+B: rage
+C: recreation
+D: hawks
+E: earphones
+F: quilt
+
+Q 16 | bank | 配合題
+stem: The customer flew into a(n) ______ after waiting for half an hour, even though the delay was caused by a technical problem.
+= B
+~詞義 rage（n.）勃然大怒(fly into a rage)
+~原文 The customer flew into a(n) rage after waiting for half an hour, even though the delay was caused by a technical problem.
+
+Q 17 | bank | 配合題
+stem: Ellen puts on ______ when she listens to music at work because she doesn't want to disturb her colleagues.
+= E
+~詞義 earphone（n.）耳機
+~原文 Ellen puts on earphones when she listens to music at work because she doesn't want to disturb her colleagues.
+
+Q 18 | bank | 配合題
+stem: Hiking is a form of ______ that is good for both body and mind.
+= C
+~詞義 recreation（n.）娛樂;消遣
+~原文 Hiking is a form of recreation that is good for both body and mind.
+
+Q 19 | bank | 配合題
+stem: I keep a(n) ______ on my sofa so that I can cover my legs if I feel cold.
+= F
+~詞義 quilt（n.）被子
+~原文 I keep a(n) quilt on my sofa so that I can cover my legs if I feel cold.
+
+Q 20 | bank | 配合題
+stem: Can you please help me put some plates on the table? They are in the ______ over there.
+= A
+~詞義 cabinet（n.）櫥櫃
+~原文 Can you please help me put some plates on the table? They are in the cabinet over there.

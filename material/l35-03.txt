@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 3 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-03 | Unit 3 | Vocabulary practice · Unit 3 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The new bridge has brought considerable b______ts to the residents. For example, it will reduce the time required to travel from one side of the city to the other.
+= benefits
+~詞義 benefit（n.）好處
+~原文 The new bridge has brought considerable benefits to the residents. For example, it will reduce the time required to travel from one side of the city to the other.
+
+Q 2 | fill | 文意字彙
+stem: E______e weather, such as very warm winters and hot summers, has become increasingly common in recent years.
+= extreme
+~詞義 extreme（adj.）極端的
+~原文 Extreme weather, such as very warm winters and hot summers, has become increasingly common in recent years.
+
+Q 3 | fill | 文意字彙
+stem: By the 1980s, oil had r______ed agricultural products as the country's main export. Decades later, the nation became a net importer of basic food items.
+= replaced
+~詞義 replace（v.）取代
+~原文 By the 1980s, oil had replaced agricultural products as the country's main export. Decades later, the nation became a net importer of basic food items.
+
+Q 4 | fill | 文意字彙
+stem: Doctors are sometimes ______ (threat) with violence if they don't do what their patients want.
+= threatened
+~詞義 threaten（v.）威脅
+~原文 Doctors are sometimes threatened with violence if they don't do what their patients want.
+
+Q 5 | fill | 文意字彙
+stem: The international ______ (organize) was founded to promote peace and protect human rights.
+= organization
+~詞義 organization（n.）組織
+~原文 The international organization was founded to promote peace and protect human rights.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: It never ceases to ______ me how John can talk for so long without ever saying anything interesting.
+A: amaze
+B: organize
+C: engage
+D: locate
+= A
+~詞義 amaze（v.）使驚訝
+~原文 It never ceases to amaze me how John can talk for so long without ever saying anything interesting.
+
+Q 7 | choice | 選擇題
+stem: The ______ noise of the machine is driving me crazy.
+A: amazing
+B: distant
+C: constant
+D: native
+= C
+~詞義 constant（adj.）持續的
+~原文 The constant noise of the machine is driving me crazy.
+
+Q 8 | choice | 選擇題
+stem: After being ______ for two days, Mr. Smith finally woke up, which brought great relief to his family.
+A: organic
+B: unconscious
+C: scientific
+D: religious
+= B
+~詞義 unconscious（adj.）失去意識的
+~原文 After being unconscious for two days, Mr. Smith finally woke up, which brought great relief to his family.
+
+Q 9 | choice | 選擇題
+stem: When the teacher asked Bill to answer a question, he ______ silent as if he hadn't heard anything.
+A: remained
+B: withdrew
+C: suffered
+D: processed
+= A
+~詞義 remain（v.）保持
+~原文 When the teacher asked Bill to answer a question, he remained silent as if he hadn't heard anything.
+
+Q 10 | choice | 選擇題
+stem: The doctor performed a ______ check-up to ensure the patient's recovery was going smoothly.
+A: talented
+B: present
+C: risky
+D: routine
+= D
+~詞義 routine（adj.）例行性的
+~原文 The doctor performed a routine check-up to ensure the patient's recovery was going smoothly.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: medal
+B: native
+C: local
+D: organic
+E: religion
+F: engaged
+
+Q 11 | bank | 配合題
+stem: Despite her illness, Alice remains actively ______ in promoting gender equality.
+= F
+~詞義 engaged（adj.）參與
+~原文 Despite her illness, Alice remains actively engaged in promoting gender equality.
+
+Q 12 | bank | 配合題
+stem: The swimmer was a gold ______ winner at the Olympic Games.
+= A
+~詞義 medal（n.）獎牌
+~原文 The swimmer was a gold medal winner at the Olympic Games.
+
+Q 13 | bank | 配合題
+stem: Mr. Chen speaks English without a foreign accent. He sounds like a(n) ______ speaker.
+= B
+~詞義 native（adj.）本國的
+~原文 Mr. Chen speaks English without a foreign accent. He sounds like a(n) native speaker.
+
+Q 14 | bank | 配合題
+stem: The car industry in this country is dominated by five international companies; ______ ones find it hard to compete with them.
+= C
+~詞義 local（adj.）當地的
+~原文 The car industry in this country is dominated by five international companies; local ones find it hard to compete with them.
+
+Q 15 | bank | 配合題
+stem: The constitution promises freedom of ______ for all citizens; people are allowed to hold any beliefs.
+= E
+~詞義 religion（n.）宗教
+~原文 The constitution promises freedom of religion for all citizens; people are allowed to hold any beliefs.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: deposit
+B: beware
+C: conscious
+D: suffer
+E: threat
+F: unique
+
+Q 16 | bank | 配合題
+stem: The train station is closed because of a bomb ______. The police are trying to find the criminal.
+= E
+~詞義 threat（n.）威脅
+~原文 The train station is closed because of a bomb threat. The police are trying to find the criminal.
+
+Q 17 | bank | 配合題
+stem: The operation was successful, but the patient was not fully ______ yet.
+= C
+~詞義 conscious（adj.）有意識的
+~原文 The operation was successful, but the patient was not fully conscious yet.
+
+Q 18 | bank | 配合題
+stem: It is very common for people to pay a two-month ______ before they move into a rented apartment.
+= A
+~詞義 deposit（n.）押金
+~原文 It is very common for people to pay a two-month deposit before they move into a rented apartment.
+
+Q 19 | bank | 配合題
+stem: Don't hesitate to get professional help if you ______ from depression.
+= D
+~詞義 suffer（v.）遭受(苦難、折磨)
+~原文 Don't hesitate to get professional help if you suffer from depression.
+
+Q 20 | bank | 配合題
+stem: Jennifer has a ______ ability to imitate any sound she hears.
+= F
+~詞義 unique（adj.）獨特的
+~原文 Jennifer has a unique ability to imitate any sound she hears.

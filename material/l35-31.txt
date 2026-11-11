@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 31 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-31 | Unit 31 | Vocabulary practice · Unit 31 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The star is so close to the earth that it is visible to the n______d eye.
+= naked
+~詞義 naked（adj.）裸露的;赤裸的
+~原文 The star is so close to the earth that it is visible to the naked eye.
+
+Q 2 | fill | 文意字彙
+stem: Be careful when you use s______rs. Watch your fingers!
+= scissors
+~詞義 scissors（n.）剪刀
+~原文 Be careful when you use scissors. Watch your fingers!
+
+Q 3 | fill | 文意字彙
+stem: A man suddenly r______hed into the classroom and started yelling at one of our classmates.
+= rushed
+~詞義 rush（v.）衝
+~原文 A man suddenly rushed into the classroom and started yelling at one of our classmates.
+
+Q 4 | fill | 文意字彙
+stem: When cooking chicken in a pot, make sure to leave the lid slightly open in order to let the s______m out.
+= steam
+~詞義 steam（n.）水蒸氣
+~原文 When cooking chicken in a pot, make sure to leave the lid slightly open in order to let the steam out.
+
+Q 5 | fill | 文意字彙
+stem: O______p of personal property is a basic right that all people should have.
+= ownership
+~詞義 ownership（n.）所有權
+~原文 Ownership of personal property is a basic right that all people should have.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The little bird almost fell out of its ______. Fortunately, its mother caught it at the last second.
+A: crab
+B: pile
+C: dawn
+D: nest
+= D
+~詞義 nest（n.）鳥巢
+~原文 The little bird almost fell out of its nest. Fortunately, its mother caught it at the last second.
+
+Q 7 | choice | 選擇題
+stem: At the port, a(n) ______ lifted a huge, heavy container and moved it onto the ship.
+A: ox
+B: log
+C: crane
+D: moth
+= C
+~詞義 crane（n.）起重機
+~原文 At the port, a(n) crane lifted a huge, heavy container and moved it onto the ship.
+
+Q 8 | choice | 選擇題
+stem: Someone broke into the company's ______ yesterday and stole some important information.
+A: volleyball
+B: rectangle
+C: pigeon
+D: database
+= D
+~詞義 database（n.）資料庫
+~原文 Someone broke into the company's database yesterday and stole some important information.
+
+Q 9 | choice | 選擇題
+stem: The volunteers worked from ______ to dusk, clearing garbage and delivering supplies after the powerful typhoon struck the country.
+A: dawn
+B: bull
+C: straw
+D: moth
+= A
+~詞義 dawn（n.）黎明
+~原文 The volunteers worked from dawn to dusk, clearing garbage and delivering supplies after the powerful typhoon struck the country.
+
+Q 10 | choice | 選擇題
+stem: After the main course came the delicate ______—strawberry cheesecake.
+A: dessert
+B: parrot
+C: napkin
+D: loser
+= A
+~詞義 dessert（n.）甜點
+~原文 After the main course came the delicate dessert—strawberry cheesecake.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: parrot
+B: neat
+C: blew
+D: monster
+E: coughed
+F: log
+
+Q 11 | bank | 配合題
+stem: At noon, the workers sat on a huge ______ and had lunch.
+= F
+~詞義 log（n.）圓木
+~原文 At noon, the workers sat on a huge log and had lunch.
+
+Q 12 | bank | 配合題
+stem: The travel show introduced the famous ______ in the lake, attracting tourists curious about strange animals and unexplained legends.
+= D
+~詞義 monster（n.）怪物
+~原文 The travel show introduced the famous monster in the lake, attracting tourists curious about strange animals and unexplained legends.
+
+Q 13 | bank | 配合題
+stem: Johnny always keeps his house ______ and tidy.
+= B
+~詞義 neat（adj.）整潔的
+~原文 Johnny always keeps his house neat and tidy.
+
+Q 14 | bank | 配合題
+stem: After choking on the spicy pepper, David ______ up small bits of food while trying to catch his breath again.
+= E
+~詞義 cough（v.）咳出某物(cough up sth.)
+~原文 After choking on the spicy pepper, David coughed up small bits of food while trying to catch his breath again.
+
+Q 15 | bank | 配合題
+stem: The ______ is a tropical bird that can copy the human voice and other sounds.
+= A
+~詞義 parrot（n.）鸚鵡
+~原文 The parrot is a tropical bird that can copy the human voice and other sounds.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: bare
+B: pitched
+C: underwear
+D: omitted
+E: piled
+F: underlying
+
+Q 16 | bank | 配合題
+stem: Before turning in his answer card, the student checked it again to see if he had ______ any questions.
+= D
+~詞義 omit（v.）遺漏
+~原文 Before turning in his answer card, the student checked it again to see if he had omitted any questions.
+
+Q 17 | bank | 配合題
+stem: Most people only focus on the main plot of movies. Personally, I find it more interesting to analyze their ______ themes.
+= F
+~詞義 underlying（adj.）隱含的
+~原文 Most people only focus on the main plot of movies. Personally, I find it more interesting to analyze their underlying themes.
+
+Q 18 | bank | 配合題
+stem: After you wash your ______, make sure to dry it out completely.
+= C
+~詞義 underwear（n.）內衣
+~原文 After you wash your underwear, make sure to dry it out completely.
+
+Q 19 | bank | 配合題
+stem: After class, the students ______ their homework books neatly on the teacher's desk.
+= E
+~詞義 pile（v.）堆疊
+~原文 After class, the students piled their homework books neatly on the teacher's desk.
+
+Q 20 | bank | 配合題
+stem: The player ______ the ball with incredible speed, impressing every spectator.
+= B
+~詞義 pitch（v.）投擲
+~原文 The player pitched the ball with incredible speed, impressing every spectator.

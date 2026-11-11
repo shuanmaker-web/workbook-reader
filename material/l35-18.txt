@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 18 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-18 | Unit 18 | Vocabulary practice · Unit 18 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Henry cast a g______e at the letter on the table but decided not to open it yet.
+= glance
+~詞義 glance（n.）一瞥
+~原文 Henry cast a glance at the letter on the table but decided not to open it yet.
+
+Q 2 | fill | 文意字彙
+stem: There are still many unknown plant and animal species in tropical j______es.
+= jungles
+~詞義 jungle（n.）叢林
+~原文 There are still many unknown plant and animal species in tropical jungles.
+
+Q 3 | fill | 文意字彙
+stem: Since all the hotels were fully booked, we had no choice but to stay at a small i______n.
+= inn
+~詞義 inn（n.）小旅館
+~原文 Since all the hotels were fully booked, we had no choice but to stay at a small inn.
+
+Q 4 | fill | 文意字彙
+stem: We gave Chrissy the n______e "Cutie" because she looks really cute.
+= nickname
+~詞義 nickname（n.）綽號
+~原文 We gave Chrissy the nickname "Cutie" because she looks really cute.
+
+Q 5 | fill | 文意字彙
+stem: My mother always separates white clothes from colored ones when she does the l______y.
+= laundry
+~詞義 laundry（n.）待洗的衣服
+~原文 My mother always separates white clothes from colored ones when she does the laundry.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Be careful with your ______ when you're in a foreign country because they may have different meanings there.
+A: barrels
+B: gestures
+C: marbles
+D: alleys
+= B
+~詞義 gesture（n.）手勢
+~原文 Be careful with your gestures when you're in a foreign country because they may have different meanings there.
+
+Q 7 | choice | 選擇題
+stem: The duck laid eight eggs, and they ______ twelve days later.
+A: loosened
+B: assisted
+C: hatched
+D: grabbed
+= C
+~詞義 hatch（v.）孵化
+~原文 The duck laid eight eggs, and they hatched twelve days later.
+
+Q 8 | choice | 選擇題
+stem: There will be a book fair next week, and my favorite ______ will be there.
+A: alley
+B: harbor
+C: outline
+D: novelist
+= D
+~詞義 novelist（n.）小說家
+~原文 There will be a book fair next week, and my favorite novelist will be there.
+
+Q 9 | choice | 選擇題
+stem: I think there is a hole in the pipe under the sink. I can hear water ______ from it.
+A: grabbing
+B: hatching
+C: leaking
+D: assisting
+= C
+~詞義 leak（v.）漏水
+~原文 I think there is a hole in the pipe under the sink. I can hear water leaking from it.
+
+Q 10 | choice | 選擇題
+stem: The castle's floor is paved with white ______. It is smooth and shiny.
+A: marble
+B: barrel
+C: cattle
+D: valley
+= A
+~詞義 marble（n.）大理石
+~原文 The castle's floor is paved with white marble. It is smooth and shiny.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: loose
+B: kit
+C: barrel
+D: forever
+E: grab
+F: fake
+
+Q 11 | bank | 配合題
+stem: I noticed that my tooth felt a little bit ______; a few weeks later, it fell out.
+= A
+~詞義 loose（adj.）鬆的
+~原文 I noticed that my tooth felt a little bit loose; a few weeks later, it fell out.
+
+Q 12 | bank | 配合題
+stem: The coach always carries a first-aid ______ to treat minor cuts or sprains during practice.
+= B
+~詞義 kit（n.）急救箱(first-aid kit)
+~原文 The coach always carries a first-aid kit to treat minor cuts or sprains during practice.
+
+Q 13 | bank | 配合題
+stem: Waiting for the results felt like it took ______, though it had only been a few minutes.
+= D
+~詞義 forever（adv.）永遠
+~原文 Waiting for the results felt like it took forever, though it had only been a few minutes.
+
+Q 14 | bank | 配合題
+stem: Those earrings look expensive, but the stones on them are actually ______.
+= F
+~詞義 fake（adj.）假的
+~原文 Those earrings look expensive, but the stones on them are actually fake.
+
+Q 15 | bank | 配合題
+stem: When an opportunity appears, you must ______ it, for it may never come again.
+= E
+~詞義 grab（v.）利用(機會)
+~原文 When an opportunity appears, you must grab it, for it may never come again.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: assistance
+B: joyful
+C: alley
+D: spite
+E: outline
+F: ambitious
+
+Q 16 | bank | 配合題
+stem: With some financial ______ from the government, Bill was finally able to start his own business.
+= A
+~詞義 assistance（n.）援助
+~原文 With some financial assistance from the government, Bill was finally able to start his own business.
+
+Q 17 | bank | 配合題
+stem: Patty is a(n) ______ woman. She wants to expand her fashion business internationally.
+= F
+~詞義 ambitious（adj.）有野心的
+~原文 Patty is a(n) ambitious woman. She wants to expand her fashion business internationally.
+
+Q 18 | bank | 配合題
+stem: In ______ of the heavy rain, the runners continued the marathon with remarkable determination.
+= D
+~詞義 spite（n.）儘管(in spite of)
+~原文 In spite of the heavy rain, the runners continued the marathon with remarkable determination.
+
+Q 19 | bank | 配合題
+stem: To begin, the speaker showed a(n) ______ of his presentation to the audience.
+= E
+~詞義 outline（n.）大綱
+~原文 To begin, the speaker showed a(n) outline of his presentation to the audience.
+
+Q 20 | bank | 配合題
+stem: The dark and narrow ______ between the houses leads to the main street.
+= C
+~詞義 alley（n.）小巷
+~原文 The dark and narrow alley between the houses leads to the main street.

@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 75 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-75 | Unit 75 | Vocabulary practice · Unit 75 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Look up! The flock of birds flying o______d is so beautiful!
+= overhead
+~詞義 overhead（adv.）在頭頂上
+~原文 Look up! The flock of birds flying overhead is so beautiful!
+
+Q 2 | fill | 文意字彙
+stem: The suspect is under strict s______e because the police think he might try to escape.
+= surveillance
+~詞義 surveillance（n.）監視
+~原文 The suspect is under strict surveillance because the police think he might try to escape.
+
+Q 3 | fill | 文意字彙
+stem: Thomas g______ed for his wife, who had died of cancer, for many months.
+= grieved
+~詞義 grieve（v.）悲痛
+~原文 Thomas grieved for his wife, who had died of cancer, for many months.
+
+Q 4 | fill | 文意字彙
+stem: Mary raised her children well. They are c______s to people and well-behaved in public.
+= courteous
+~詞義 courteous（adj.）有禮貌的
+~原文 Mary raised her children well. They are courteous to people and well-behaved in public.
+
+Q 5 | fill | 文意字彙
+stem: Zack needs to buy an o______t that is suitable for formal occasions. Most of the clothes he owns are too casual.
+= outfit
+~詞義 outfit（n.）全套服裝
+~原文 Zack needs to buy an outfit that is suitable for formal occasions. Most of the clothes he owns are too casual.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: People often remark on the ______ between Lily and her elder sister. They look almost identical.
+A: credibility
+B: originality
+C: resemblance
+D: sponsorship
+= C
+~詞義 resemblance（n.）相似
+~原文 People often remark on the resemblance between Lily and her elder sister. They look almost identical.
+
+Q 7 | choice | 選擇題
+stem: The company hired a(n) ______ to help employees with stress issues and other mental health problems.
+A: attorney
+B: counselor
+C: defendant
+D: respondent
+= B
+~詞義 counselor（n.）諮詢
+~原文 The company hired a(n) counselor to help employees with stress issues and other mental health problems.
+
+Q 8 | choice | 選擇題
+stem: The volcanic ______ covered nearby towns with hot ash, leading to heavy casualties.
+A: eruption
+B: lounge
+C: republican
+D: sparkle
+= A
+~詞義 eruption（n.）爆發
+~原文 The volcanic eruption covered nearby towns with hot ash, leading to heavy casualties.
+
+Q 9 | choice | 選擇題
+stem: The speech was very long, and it was difficult for the audience to understand its ______.
+A: butcher
+B: essence
+C: revenue
+D: cemetery
+= B
+~詞義 essence（n.）本質
+~原文 The speech was very long, and it was difficult for the audience to understand its essence.
+
+Q 10 | choice | 選擇題
+stem: The painting was sold for over two million dollars; it was the most expensive item in the ______.
+A: auction
+B: creek
+C: outlet
+D: premise
+= A
+~詞義 auction（n.）拍賣
+~原文 The painting was sold for over two million dollars; it was the most expensive item in the auction.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: rip-off
+B: indulges
+C: rib
+D: rifle
+E: surplus
+F: swap
+
+Q 11 | bank | 配合題
+stem: Linda and her sister sometimes ______ their handbags or clothes. This way, they can change their styles without buying more items.
+= F
+~詞義 swap（v.）交換
+~原文 Linda and her sister sometimes swap their handbags or clothes. This way, they can change their styles without buying more items.
+
+Q 12 | bank | 配合題
+stem: Dora ______ in reading fantasy novels to find comfort in magical worlds during stressful weeks.
+= B
+~詞義 indulge（v.）沉溺於
+~原文 Dora indulges in reading fantasy novels to find comfort in magical worlds during stressful weeks.
+
+Q 13 | bank | 配合題
+stem: There is currently a(n) ______ of cabbages on the market. That is why they are so cheap.
+= E
+~詞義 surplus（n.）過剩
+~原文 There is currently a(n) surplus of cabbages on the market. That is why they are so cheap.
+
+Q 14 | bank | 配合題
+stem: The souvenir shop charged such high prices that tourists felt the items were a complete ______.
+= A
+~詞義 rip-off（n.）索取高價;敲竹槓
+~原文 The souvenir shop charged such high prices that tourists felt the items were a complete rip-off.
+
+Q 15 | bank | 配合題
+stem: The hunter held up his ______ and aimed it at the bear. He put his finger on the trigger and was ready to shoot.
+= D
+~詞義 rifle（n.）步槍
+~原文 The hunter held up his rifle and aimed it at the bear. He put his finger on the trigger and was ready to shoot.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: decay
+B: retailer
+C: overtake
+D: rhetoric
+E: symbolic
+F: utilize
+
+Q 16 | bank | 配合題
+stem: In order to attract customers and boost overall sales, the ______ came up with several promotion strategies.
+= B
+~詞義 retailer（n.）零售商
+~原文 In order to attract customers and boost overall sales, the retailer came up with several promotion strategies.
+
+Q 17 | bank | 配合題
+stem: The rose that the man is holding in the painting is ______ of love and passion.
+= E
+~詞義 symbolic（adj.）象徵的
+~原文 The rose that the man is holding in the painting is symbolic of love and passion.
+
+Q 18 | bank | 配合題
+stem: Food that is left out in the open will start to ______ within hours. You should put it in the fridge.
+= A
+~詞義 decay（v.）腐敗
+~原文 Food that is left out in the open will start to decay within hours. You should put it in the fridge.
+
+Q 19 | bank | 配合題
+stem: Students should learn how to ______ the abundant resources that the school library offers.
+= F
+~詞義 utilize（v.）利用
+~原文 Students should learn how to utilize the abundant resources that the school library offers.
+
+Q 20 | bank | 配合題
+stem: Nick is a highly persuasive speaker. He uses strong ______ and personal charm to win his audience's approval.
+= D
+~詞義 rhetoric（n.）修辭
+~原文 Nick is a highly persuasive speaker. He uses strong rhetoric and personal charm to win his audience's approval.

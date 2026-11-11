@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 34 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-34 | Unit 34 | Vocabulary practice · Unit 34 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Monica has been suffering from headaches for a while, and lately, she simply cannot e______e the pain anymore.
+= endure
+~詞義 endure（v.）忍受
+~原文 Monica has been suffering from headaches for a while, and lately, she simply cannot endure the pain anymore.
+
+Q 2 | fill | 文意字彙
+stem: This popular video has been watched by millions of Internet users, and many of them have left c______ts under it, too.
+= comments
+~詞義 comment（n.）評論
+~原文 This popular video has been watched by millions of Internet users, and many of them have left comments under it, too.
+
+Q 3 | fill | 文意字彙
+stem: The US c______es more oil than any other country. On average, an American uses up seven liters of oil per day.
+= consumes
+~詞義 consume（v.）消耗
+~原文 The US consumes more oil than any other country. On average, an American uses up seven liters of oil per day.
+
+Q 4 | fill | 文意字彙
+stem: The artist gets a lot of i______n from ballet dancers. They bring her endless ideas to create her works.
+= inspiration
+~詞義 inspiration（n.）靈感
+~原文 The artist gets a lot of inspiration from ballet dancers. They bring her endless ideas to create her works.
+
+Q 5 | fill | 文意字彙
+stem: The restaurant serves a c______n of American and Asian foods because the chef admires both types of cuisine and wants to bring them together.
+= combination
+~詞義 combination（n.）結合;組合
+~原文 The restaurant serves a combination of American and Asian foods because the chef admires both types of cuisine and wants to bring them together.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: There are more than three hundred butterfly ______ found in Taiwan. That is why Taiwan is sometimes called the "Kingdom of Butterflies."
+A: aspects
+B: species
+C: contents
+D: disasters
+= B
+~詞義 species（n.）物種
+~原文 There are more than three hundred butterfly species found in Taiwan. That is why Taiwan is sometimes called the "Kingdom of Butterflies."
+
+Q 7 | choice | 選擇題
+stem: Our geography teacher is taking us to observe the unique rock ______ on the east coast of Taiwan.
+A: circumstances
+B: predictions
+C: households
+D: formations
+= D
+~詞義 formation（n.）結構
+~原文 Our geography teacher is taking us to observe the unique rock formations on the east coast of Taiwan.
+
+Q 8 | choice | 選擇題
+stem: The messages that this video clip is trying to ______ are that we should seize every moment and should also treasure the people around us.
+A: equip
+B: inspire
+C: convey
+D: predict
+= C
+~詞義 convey（v.）傳達
+~原文 The messages that this video clip is trying to convey are that we should seize every moment and should also treasure the people around us.
+
+Q 9 | choice | 選擇題
+stem: Real happiness often ______ in appreciating small moments, like shared meals or quiet walks with friends.
+A: suspects
+B: entertains
+C: contributes
+D: consists
+= D
+~詞義 consist（v.）存在於
+~原文 Real happiness often consists in appreciating small moments, like shared meals or quiet walks with friends.
+
+Q 10 | choice | 選擇題
+stem: Unable to afford the expensive concert tickets, Lily ______ herself with watching the live broadcast online and reading fan discussions afterward.
+A: sited
+B: interpreted
+C: inspected
+D: contented
+= D
+~詞義 content（v.）使滿足
+~原文 Unable to afford the expensive concert tickets, Lily contented herself with watching the live broadcast online and reading fan discussions afterward.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: status
+B: nowadays
+C: contribution
+D: ruined
+E: disguise
+F: moreover
+
+Q 11 | bank | 配合題
+stem: The detective attended the festival in ______, hoping to observe the subject without revealing his identity.
+= E
+~詞義 disguise（n.）喬裝;偽裝
+~原文 The detective attended the festival in disguise, hoping to observe the subject without revealing his identity.
+
+Q 12 | bank | 配合題
+stem: The Internet allows people ______ to be far more connected to the rest of the world than in the past.
+= B
+~詞義 nowadays（adv.）現在
+~原文 The Internet allows people nowadays to be far more connected to the rest of the world than in the past.
+
+Q 13 | bank | 配合題
+stem: Einstein was awarded the Nobel Prize for his ______ to physics.
+= C
+~詞義 contribution（n.）貢獻
+~原文 Einstein was awarded the Nobel Prize for his contribution to physics.
+
+Q 14 | bank | 配合題
+stem: This car has comfortable seats and a lot of storage space. ______, it is quite fuel-efficient.
+= F
+~詞義 moreover（adv.）此外
+~原文 This car has comfortable seats and a lot of storage space. Moreover, it is quite fuel-efficient.
+
+Q 15 | bank | 配合題
+stem: I accidentally spilled red wine on my white shirt, and now it is completely ______.
+= D
+~詞義 ruin（adj.）毀壞
+~原文 I accidentally spilled red wine on my white shirt, and now it is completely ruined.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: launch
+B: precise
+C: spiritual
+D: consumers
+E: enormous
+F: fragile
+
+Q 16 | bank | 配合題
+stem: Engineers worked tirelessly to ensure that they could ______ the rocket on schedule, despite several technical challenges.
+= A
+~詞義 launch（v.）發射
+~原文 Engineers worked tirelessly to ensure that they could launch the rocket on schedule, despite several technical challenges.
+
+Q 17 | bank | 配合題
+stem: Many ______ are willing to wait in long lines to buy the latest electronics products.
+= D
+~詞義 consumer（n.）消費者
+~原文 Many consumers are willing to wait in long lines to buy the latest electronics products.
+
+Q 18 | bank | 配合題
+stem: Mr. and Mrs. Lin have five children, so they spend a(n) ______ amount of money on food every month.
+= E
+~詞義 enormous（adj.）巨大的
+~原文 Mr. and Mrs. Lin have five children, so they spend a(n) enormous amount of money on food every month.
+
+Q 19 | bank | 配合題
+stem: Please be careful when you handle that artwork, because it is very ______.
+= F
+~詞義 fragile（adj.）易碎的
+~原文 Please be careful when you handle that artwork, because it is very fragile.
+
+Q 20 | bank | 配合題
+stem: The teacher gave clear and ______ instructions, and the students all completed their homework accordingly.
+= B
+~詞義 precise（adj.）精確的
+~原文 The teacher gave clear and precise instructions, and the students all completed their homework accordingly.

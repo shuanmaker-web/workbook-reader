@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 30 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-30 | Unit 30 | Vocabulary practice · Unit 30 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: That simple, long dress shows off her s______r figure.
+= slender
+~詞義 slender（adj.）苗條的
+~原文 That simple, long dress shows off her slender figure.
+
+Q 2 | fill | 文意字彙
+stem: There are so many books in the b______e that it seems to be sagging under the weight.
+= bookcase
+~詞義 bookcase（n.）書架
+~原文 There are so many books in the bookcase that it seems to be sagging under the weight.
+
+Q 3 | fill | 文意字彙
+stem: I always keep a f______t in my backpack when I go camping because it can get really dark outdoors at night.
+= flashlight
+~詞義 flashlight（n.）手電筒
+~原文 I always keep a flashlight in my backpack when I go camping because it can get really dark outdoors at night.
+
+Q 4 | fill | 文意字彙
+stem: My mother is a very experienced and s______l driver. For example, she can park a car in the smallest of spaces.
+= skillful
+~詞義 skillful（adj.）熟練的
+~原文 My mother is a very experienced and skillful driver. For example, she can park a car in the smallest of spaces.
+
+Q 5 | fill | 文意字彙
+stem: The apple was so j______y that liquid burst out from it when I bit into it.
+= juicy
+~詞義 juicy（adj.）多汁的
+~原文 The apple was so juicy that liquid burst out from it when I bit into it.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The team came up against a ______ wall after their project was rejected three times, despite carefully rewriting it each round.
+A: jazz
+B: brick
+C: silk
+D: hum
+= B
+~詞義 brick（n.）遇到瓶頸(come up against a brick wall)
+~原文 The team came up against a brick wall after their project was rejected three times, despite carefully rewriting it each round.
+
+Q 7 | choice | 選擇題
+stem: A flash of ______ lit up the night sky, and a few seconds later, we heard the sound of thunder.
+A: koala
+B: lightning
+C: bowling
+D: cotton
+= B
+~詞義 lightning（n.）閃電
+~原文 A flash of lightning lit up the night sky, and a few seconds later, we heard the sound of thunder.
+
+Q 8 | choice | 選擇題
+stem: You should heat the ______ to 200 degrees before putting the pie inside.
+A: oven
+B: cotton
+C: leopard
+D: squirrel
+= A
+~詞義 oven（n.）烤箱
+~原文 You should heat the oven to 200 degrees before putting the pie inside.
+
+Q 9 | choice | 選擇題
+stem: "Do you think Ted will arrive on time?" "I wouldn't ______ on it, since he's late to almost every meeting we've ever had."
+A: bind
+B: hum
+C: sink
+D: bet
+= D
+~詞義 bet（v.）不太可能(wouldn't bet on it)
+~原文 "Do you think Ted will arrive on time?" "I wouldn't bet on it, since he's late to almost every meeting we've ever had."
+
+Q 10 | choice | 選擇題
+stem: Oscar loves ______ music and often goes to live concerts to see his favorite bands play.
+A: loaf
+B: brick
+C: shrimp
+D: jazz
+= D
+~詞義 jazz（n.）爵士樂
+~原文 Oscar loves jazz music and often goes to live concerts to see his favorite bands play.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: bowling
+B: bloody
+C: spinach
+D: steal
+E: overseas
+F: sink
+
+Q 11 | bank | 配合題
+stem: Ellen's son hates ______. However, it is a very healthy vegetable, so Ellen still makes him eat it.
+= C
+~詞義 spinach（n.）菠菜
+~原文 Ellen's son hates spinach. However, it is a very healthy vegetable, so Ellen still makes him eat it.
+
+Q 12 | bank | 配合題
+stem: The backpack was an absolute ______ because it cost half the usual price and still looked brand-new.
+= D
+~詞義 steal（n.）極便宜的東西
+~原文 The backpack was an absolute steal because it cost half the usual price and still looked brand-new.
+
+Q 13 | bank | 配合題
+stem: Someone hit William in the face, and he got a(n) ______ nose.
+= B
+~詞義 bloody（adj.）流血的
+~原文 Someone hit William in the face, and he got a(n) bloody nose.
+
+Q 14 | bank | 配合題
+stem: My father goes ______ with his friends every weekend. It's his favorite indoor leisure activity.
+= A
+~詞義 bowling（n.）保齡球
+~原文 My father goes bowling with his friends every weekend. It's his favorite indoor leisure activity.
+
+Q 15 | bank | 配合題
+stem: Michael was a(n) ______ student at Cambridge, and he didn't go back to his country after he graduated.
+= E
+~詞義 overseas（adj.）來自海外的
+~原文 Michael was a(n) overseas student at Cambridge, and he didn't go back to his country after he graduated.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: kindergarten
+B: bittersweet
+C: bind
+D: lemonade
+E: loaf
+F: bet
+
+Q 16 | bank | 配合題
+stem: To Ginny, graduation felt ______ because she was excited for new opportunities but sad to leave her closest friends behind.
+= B
+~詞義 bittersweet（adj.）苦樂參半的
+~原文 To Ginny, graduation felt bittersweet because she was excited for new opportunities but sad to leave her closest friends behind.
+
+Q 17 | bank | 配合題
+stem: The little boy is going to his first day of ______ tomorrow.
+= A
+~詞義 kindergarten（n.）幼稚園
+~原文 The little boy is going to his first day of kindergarten tomorrow.
+
+Q 18 | bank | 配合題
+stem: I ______ that the home team will win the basketball game.
+= F
+~詞義 bet（v.）打賭
+~原文 I bet that the home team will win the basketball game.
+
+Q 19 | bank | 配合題
+stem: Our class will sell iced ______ in the school fair.
+= D
+~詞義 lemonade（n.）檸檬水
+~原文 Our class will sell iced lemonade in the school fair.
+
+Q 20 | bank | 配合題
+stem: The cook took a ______ of brown bread and cut it into five pieces.
+= E
+~詞義 loaf（n.）一條(麵包)
+~原文 The cook took a loaf of brown bread and cut it into five pieces.

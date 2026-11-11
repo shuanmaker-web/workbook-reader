@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 54 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-54 | Unit 54 | Vocabulary practice · Unit 54 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Drowsy driving is as dangerous as drunk driving. If you experience f______e, you should stop to rest.
+= fatigue
+~詞義 fatigue（n.）疲勞
+~原文 Drowsy driving is as dangerous as drunk driving. If you experience fatigue, you should stop to rest.
+
+Q 2 | fill | 文意字彙
+stem: The i______s people make up almost three percent of Taiwan's population, and they can be divided into sixteen different tribes.
+= indigenous
+~詞義 indigenous（adj.）原住民族的;當地的
+~原文 The indigenous people make up almost three percent of Taiwan's population, and they can be divided into sixteen different tribes.
+
+Q 3 | fill | 文意字彙
+stem: To prove her argument, the speaker c______ed government reports and studies published by scholars.
+= cited
+~詞義 cite（v.）引用
+~原文 To prove her argument, the speaker cited government reports and studies published by scholars.
+
+Q 4 | fill | 文意字彙
+stem: The couple are not afraid of displaying their a______n for each other in public; they often hold hands or even kiss each other on the cheeks.
+= affection
+~詞義 affection（n.）喜愛
+~原文 The couple are not afraid of displaying their affection for each other in public; they often hold hands or even kiss each other on the cheeks.
+
+Q 5 | fill | 文意字彙
+stem: Jim asked his students some questions to make sure they c______ded what had been taught.
+= comprehended
+~詞義 comprehend（v.）理解
+~原文 Jim asked his students some questions to make sure they comprehended what had been taught.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: People prepare a diamond ring when proposing marriage as it is a symbol of ______ love.
+A: beneficial
+B: communist
+C: eternal
+D: hostile
+= C
+~詞義 eternal（adj.）永恆的
+~原文 People prepare a diamond ring when proposing marriage as it is a symbol of eternal love.
+
+Q 7 | choice | 選擇題
+stem: Our car is really old, and its ______ costs us a lot of money; maybe it's time for us to buy a new one.
+A: comprehension
+B: curriculum
+C: interference
+D: maintenance
+= D
+~詞義 maintenance（n.）維修;維護
+~原文 Our car is really old, and its maintenance costs us a lot of money; maybe it's time for us to buy a new one.
+
+Q 8 | choice | 選擇題
+stem: Ted ______ his classmate Anne into sharing homework answers, even though she felt uncomfortable doing so.
+A: bullied
+B: convicted
+C: embraced
+D: excluded
+= A
+~詞義 bully（v.）脅迫
+~原文 Ted bullied his classmate Anne into sharing homework answers, even though she felt uncomfortable doing so.
+
+Q 9 | choice | 選擇題
+stem: The school library offers ______ resources, including books, journals, and an online database.
+A: abundant
+B: agricultural
+C: compassionate
+D: cautious
+= A
+~詞義 abundant（adj.）豐富的
+~原文 The school library offers abundant resources, including books, journals, and an online database.
+
+Q 10 | choice | 選擇題
+stem: The doctor ______ against eating too much sugar, especially for people with higher health risks.
+A: compromised
+B: fascinated
+C: entitled
+D: cautioned
+= D
+~詞義 caution（v.）告誡;提醒
+~原文 The doctor cautioned against eating too much sugar, especially for people with higher health risks.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: accessible
+B: bid
+C: cuisine
+D: carbon
+E: exclusive
+F: journalist
+
+Q 11 | bank | 配合題
+stem: The ______ prepared a lot of questions for the interview, but the government official answered only a few of them.
+= F
+~詞義 journalist（n.）記者
+~原文 The journalist prepared a lot of questions for the interview, but the government official answered only a few of them.
+
+Q 12 | bank | 配合題
+stem: The organization decided to make a(n) ______ of $4 million for the large piece of land.
+= B
+~詞義 bid（n.）競標
+~原文 The organization decided to make a(n) bid of $4 million for the large piece of land.
+
+Q 13 | bank | 配合題
+stem: Among all types of traditional Taiwanese ______, stinky tofu is my favorite.
+= C
+~詞義 cuisine（n.）佳餚
+~原文 Among all types of traditional Taiwanese cuisine, stinky tofu is my favorite.
+
+Q 14 | bank | 配合題
+stem: The villagers widened the road to make their village more ______. They hope that more tourists will come to visit in the future.
+= A
+~詞義 accessible（adj.）可到達的
+~原文 The villagers widened the road to make their village more accessible. They hope that more tourists will come to visit in the future.
+
+Q 15 | bank | 配合題
+stem: The company has ______ rights to import this brand's products. They are the only company that can sell these products in the country.
+= E
+~詞義 exclusive（adj.）獨有的
+~原文 The company has exclusive rights to import this brand's products. They are the only company that can sell these products in the country.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: adolescent
+B: compromise
+C: compassion
+D: dialect
+E: convict
+F: hostile
+
+Q 16 | bank | 配合題
+stem: The boy showed great ______ for the lonely old lady; he sat and chatted with her for a long time.
+= C
+~詞義 compassion（n.）同情
+~原文 The boy showed great compassion for the lonely old lady; he sat and chatted with her for a long time.
+
+Q 17 | bank | 配合題
+stem: Elephants are usually very gentle animals; however, a mother elephant may become ______ toward anyone who goes near her baby.
+= F
+~詞義 hostile（adj.）有敵意的
+~原文 Elephants are usually very gentle animals; however, a mother elephant may become hostile toward anyone who goes near her baby.
+
+Q 18 | bank | 配合題
+stem: Ignoring traffic signals can ______ the safety of both drivers and pedestrians.
+= B
+~詞義 compromise（v.）危害
+~原文 Ignoring traffic signals can compromise the safety of both drivers and pedestrians.
+
+Q 19 | bank | 配合題
+stem: Parents may become upset with their ______ kids because teenagers can sometimes be stubborn and emotional.
+= A
+~詞義 adolescent（adj.）青春期的
+~原文 Parents may become upset with their adolescent kids because teenagers can sometimes be stubborn and emotional.
+
+Q 20 | bank | 配合題
+stem: The two men come from the same region and speak a(n) ______ which few people understand.
+= D
+~詞義 dialect（n.）方言
+~原文 The two men come from the same region and speak a(n) dialect which few people understand.

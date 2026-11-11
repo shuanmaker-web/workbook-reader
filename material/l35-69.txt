@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 69 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-69 | Unit 69 | Vocabulary practice · Unit 69 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: Mr. Wang took a business trip to Japan and came back with some s______rs for his family.
+= souvenirs
+~詞義 souvenir（n.）紀念品
+~原文 Mr. Wang took a business trip to Japan and came back with some souvenirs for his family.
+
+Q 2 | fill | 文意字彙
+stem: Tracy has been d______ed with breast cancer, but her doctor says that she will likely recover.
+= diagnosed
+~詞義 diagnose（v.）診斷
+~原文 Tracy has been diagnosed with breast cancer, but her doctor says that she will likely recover.
+
+Q 3 | fill | 文意字彙
+stem: The detective questioned everyone to uncover the true m______e for the murder.
+= motive
+~詞義 motive（n.）動機
+~原文 The detective questioned everyone to uncover the true motive for the murder.
+
+Q 4 | fill | 文意字彙
+stem: My sister is a college s______e. She will become a junior next year.
+= sophomore
+~詞義 sophomore（n.）(大學、高中)二年級生
+~原文 My sister is a college sophomore. She will become a junior next year.
+
+Q 5 | fill | 文意字彙
+stem: The voting process will be a______s, so you will be free to make whatever decision you want.
+= anonymous
+~詞義 anonymous（adj.）匿名的
+~原文 The voting process will be anonymous, so you will be free to make whatever decision you want.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: The secret ingredient in this recipe is ______. It adds a fresh flavor to the soup.
+A: analyst
+B: diaper
+C: entity
+D: vinegar
+= D
+~詞義 vinegar（n.）醋
+~原文 The secret ingredient in this recipe is vinegar. It adds a fresh flavor to the soup.
+
+Q 7 | choice | 選擇題
+stem: Alan's new apartment is bright and ______. It has much more room for his cat to play in.
+A: crude
+B: profound
+C: prone
+D: spacious
+= D
+~詞義 spacious（adj.）寬敞的
+~原文 Alan's new apartment is bright and spacious. It has much more room for his cat to play in.
+
+Q 8 | choice | 選擇題
+stem: Though Cindy and I share different ______ regarding politics, we are still very good friends.
+A: premiums
+B: molecules
+C: projections
+D: viewpoints
+= D
+~詞義 viewpoint（n.）觀點
+~原文 Though Cindy and I share different viewpoints regarding politics, we are still very good friends.
+
+Q 9 | choice | 選擇題
+stem: Tina sets her alarm clock to ring at five-minute ______ so that she won't fall back to sleep and be late.
+A: diameters
+B: intervals
+C: propagandas
+D: volcanos
+= B
+~詞義 interval（n.）間隔
+~原文 Tina sets her alarm clock to ring at five-minute intervals so that she won't fall back to sleep and be late.
+
+Q 10 | choice | 選擇題
+stem: The strict coach demands absolute ______ from his players. They must obey his orders.
+A: compliance
+B: complication
+C: integration
+D: sovereignty
+= A
+~詞義 compliance（n.）服從
+~原文 The strict coach demands absolute compliance from his players. They must obey his orders.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: booth
+B: integrates
+C: mortgage
+D: intensified
+E: visa
+F: sophisticated
+
+Q 11 | bank | 配合題
+stem: Ms. Smith ______ games into her English lessons, and her students really enjoy learning the language with her.
+= B
+~詞義 integrate（v.）使融入
+~原文 Ms. Smith integrates games into her English lessons, and her students really enjoy learning the language with her.
+
+Q 12 | bank | 配合題
+stem: Mr. Lin decided to place a(n) ______ on his house to overcome his financial difficulties.
+= C
+~詞義 mortgage（n.）將…拿去抵押貸款(place a mortgage on)
+~原文 Mr. Lin decided to place a(n) mortgage on his house to overcome his financial difficulties.
+
+Q 13 | bank | 配合題
+stem: Ken's friends consider him a(n) ______ person, though he is in fact younger than most of them.
+= F
+~詞義 sophisticated（adj.）世故的
+~原文 Ken's friends consider him a(n) sophisticated person, though he is in fact younger than most of them.
+
+Q 14 | bank | 配合題
+stem: Alice has to apply for a work ______ after she graduates from college, or else she will have to leave this country.
+= E
+~詞義 visa（n.）簽證
+~原文 Alice has to apply for a work visa after she graduates from college, or else she will have to leave this country.
+
+Q 15 | bank | 配合題
+stem: Maggie's disrespectful attitude ______ her mother's anger. In the end, she was grounded for a week.
+= D
+~詞義 intensify（v.）強化
+~原文 Maggie's disrespectful attitude intensified her mother's anger. In the end, she was grounded for a week.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: anticipate
+B: toll
+C: progressive
+D: cruise
+E: freighted
+F: fraud
+
+Q 16 | bank | 配合題
+stem: The tennis player can return his opponent's shots very accurately; it seems that he can ______ his opponent's every move.
+= A
+~詞義 anticipate（v.）預期
+~原文 The tennis player can return his opponent's shots very accurately; it seems that he can anticipate his opponent's every move.
+
+Q 17 | bank | 配合題
+stem: These strawberries were ______ by air from Japan to Taiwan in order to retain their freshness.
+= E
+~詞義 freight（v.）運送(貨物)
+~原文 These strawberries were freighted by air from Japan to Taiwan in order to retain their freshness.
+
+Q 18 | bank | 配合題
+stem: My grandmother is suffering from a(n) ______ loss of eyesight. She will be completely blind in a few years' time.
+= C
+~詞義 progressive（adj.）漸進的
+~原文 My grandmother is suffering from a(n) progressive loss of eyesight. She will be completely blind in a few years' time.
+
+Q 19 | bank | 配合題
+stem: The alert bank clerk prevented the old man from losing money to Internet ______.
+= F
+~詞義 fraud（n.）詐騙
+~原文 The alert bank clerk prevented the old man from losing money to Internet fraud.
+
+Q 20 | bank | 配合題
+stem: Years of poor sleep took a heavy ______ on Sam's health, so he felt exhausted and unfocused very often.
+= B
+~詞義 toll（n.）對…造成嚴重損害(take a heavy toll on)
+~原文 Years of poor sleep took a heavy toll on Sam's health, so he felt exhausted and unfocused very often.

@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 14 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-14 | Unit 14 | Vocabulary practice · Unit 14 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The police i______ted the scene of the murder carefully and interviewed several witnesses.
+= inspected
+~詞義 inspect（v.）檢視
+~原文 The police inspected the scene of the murder carefully and interviewed several witnesses.
+
+Q 2 | fill | 文意字彙
+stem: On weekends, I like to go to the c______a to watch a movie.
+= cinema
+~詞義 cinema（n.）電影院
+~原文 On weekends, I like to go to the cinema to watch a movie.
+
+Q 3 | fill | 文意字彙
+stem: The basketball team beat every other team and won the c______p in the end.
+= championship
+~詞義 championship（n.）冠軍頭銜;冠軍地位
+~原文 The basketball team beat every other team and won the championship in the end.
+
+Q 4 | fill | 文意字彙
+stem: Thank you for the ______ (invite) to your party.
+= invitation
+~詞義 invitation（n.）邀請
+~原文 Thank you for the invitation to your party.
+
+Q 5 | fill | 文意字彙
+stem: I forgot to put the soup in the refrigerator, and now it is ______ (rot).
+= rotten
+~詞義 rotten（adj.）腐壞的
+~原文 I forgot to put the soup in the refrigerator, and now it is rotten.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Everyone cheered as the ______ walked on stage to receive a gold medal for his outstanding performance.
+A: holder
+B: inspector
+C: champion
+D: robber
+= C
+~詞義 champion（n.）冠軍
+~原文 Everyone cheered as the champion walked on stage to receive a gold medal for his outstanding performance.
+
+Q 7 | choice | 選擇題
+stem: Nowadays, many essential goods and services can be purchased online with ______ payment.
+A: romantic
+B: mathematical
+C: electronic
+D: democratic
+= C
+~詞義 electronic（adj.）電子的
+~原文 Nowadays, many essential goods and services can be purchased online with electronic payment.
+
+Q 8 | choice | 選擇題
+stem: Kathy is not allowed to use the kitchen anymore because she always makes a terrible ______ when she cooks.
+A: mess
+B: chill
+C: haste
+D: rust
+= A
+~詞義 mess（n.）混亂
+~原文 Kathy is not allowed to use the kitchen anymore because she always makes a terrible mess when she cooks.
+
+Q 9 | choice | 選擇題
+stem: The lady lost her ______ on the MRT. Luckily, someone handed it in at the police station, and all her money was still inside.
+A: chill
+B: bull
+C: purse
+D: gang
+= C
+~詞義 purse（n.）皮包
+~原文 The lady lost her purse on the MRT. Luckily, someone handed it in at the police station, and all her money was still inside.
+
+Q 10 | choice | 選擇題
+stem: The winter is fast approaching. It is ______ in the house at night, and the days are getting shorter.
+A: hasty
+B: messy
+C: chilly
+D: rusty
+= C
+~詞義 chilly（adj.）寒冷的
+~原文 The winter is fast approaching. It is chilly in the house at night, and the days are getting shorter.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: robbed
+B: hopeful
+C: relieve
+D: beam
+E: mathematics
+F: mosquitoes
+
+Q 11 | bank | 配合題
+stem: ______ helps students develop logical thinking and problem-solving skills that are useful in many careers.
+= E
+~詞義 mathematics（n.）數學
+~原文 Mathematics helps students develop logical thinking and problem-solving skills that are useful in many careers.
+
+Q 12 | bank | 配合題
+stem: There were several ______ in my room last night, and I didn't sleep well because they kept buzzing around my head.
+= F
+~詞義 mosquito（n.）蚊子
+~原文 There were several mosquitoes in my room last night, and I didn't sleep well because they kept buzzing around my head.
+
+Q 13 | bank | 配合題
+stem: Years of war in the country ______ many children of their chance to receive proper education.
+= A
+~詞義 rob（v.）奪走
+~原文 Years of war in the country robbed many children of their chance to receive proper education.
+
+Q 14 | bank | 配合題
+stem: I got a headache, so I took some medicine to ______ the pain.
+= C
+~詞義 relieve（v.）緩解
+~原文 I got a headache, so I took some medicine to relieve the pain.
+
+Q 15 | bank | 配合題
+stem: The job interview went well, and Daniel was ______ that he would finally get the position he wanted.
+= B
+~詞義 hopeful（adj.）懷抱希望的
+~原文 The job interview went well, and Daniel was hopeful that he would finally get the position he wanted.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: hasty
+B: rust
+C: suburban
+D: democracy
+E: oral
+F: robbery
+
+Q 16 | bank | 配合題
+stem: Most people in Taiwan believe in the value of ______ and exercise their right to vote.
+= D
+~詞義 democracy（n.）民主制度
+~原文 Most people in Taiwan believe in the value of democracy and exercise their right to vote.
+
+Q 17 | bank | 配合題
+stem: The man was sentenced to five years in prison for ______ and assault.
+= F
+~詞義 robbery（n.）搶劫
+~原文 The man was sentenced to five years in prison for robbery and assault.
+
+Q 18 | bank | 配合題
+stem: The old bike has been left outdoors for so long that it is now covered in ______.
+= B
+~詞義 rust（n.）鐵鏽
+~原文 The old bike has been left outdoors for so long that it is now covered in rust.
+
+Q 19 | bank | 配合題
+stem: Life in ______ towns is often slower and more peaceful than that in busy city centers.
+= C
+~詞義 suburban（adj.）郊區的
+~原文 Life in suburban towns is often slower and more peaceful than that in busy city centers.
+
+Q 20 | bank | 配合題
+stem: We have a(n) ______ exam tomorrow. We will have to answer all the questions in English.
+= E
+~詞義 oral（adj.）口說的
+~原文 We have a(n) oral exam tomorrow. We will have to answer all the questions in English.

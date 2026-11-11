@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 26 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-26 | Unit 26 | Vocabulary practice · Unit 26 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: You should seize any chance to fulfill your dream, or else you may r______t not doing it in the future.
+= regret
+~詞義 regret（v.）後悔
+~原文 You should seize any chance to fulfill your dream, or else you may regret not doing it in the future.
+
+Q 2 | fill | 文意字彙
+stem: Have you seen my keys? I was holding them in my hand just now, but they have v______hed.
+= vanished
+~詞義 vanish（v.）(突然)消失
+~原文 Have you seen my keys? I was holding them in my hand just now, but they have vanished.
+
+Q 3 | fill | 文意字彙
+stem: More and more people are choosing to live in the s______bs because of the cheap housing and quieter environment there.
+= suburbs
+~詞義 suburb（n.）郊區
+~原文 More and more people are choosing to live in the suburbs because of the cheap housing and quieter environment there.
+
+Q 4 | fill | 文意字彙
+stem: Pills are sometimes ground into p______r so that young children can swallow them more easily.
+= powder
+~詞義 powder（n.）粉末
+~原文 Pills are sometimes ground into powder so that young children can swallow them more easily.
+
+Q 5 | fill | 文意字彙
+stem: The farmer s______yed pesticides on his crops in order to stop insects from eating them.
+= sprayed
+~詞義 spray（v.）噴灑
+~原文 The farmer sprayed pesticides on his crops in order to stop insects from eating them.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: ______ and pitying yourself won't solve the problem. You must be tough to overcome it.
+A: Sucking
+B: Starving
+C: Transporting
+D: Weeping
+= D
+~詞義 weep（v.）哭泣
+~原文 Weeping and pitying yourself won't solve the problem. You must be tough to overcome it.
+
+Q 7 | choice | 選擇題
+stem: There is a sign that warns drivers about the ______ slope ahead. Drivers need to slow down when they pass it.
+A: steep
+B: hollow
+C: stale
+D: stable
+= A
+~詞義 steep（adj.）陡峭的
+~原文 There is a sign that warns drivers about the steep slope ahead. Drivers need to slow down when they pass it.
+
+Q 8 | choice | 選擇題
+stem: Tourists often ______ the beach during holidays, leaving behind bottles and wrappers that cleaners must clear the next morning.
+A: spit
+B: record
+C: litter
+D: dive
+= C
+~詞義 litter（v.）亂丟垃圾
+~原文 Tourists often litter the beach during holidays, leaving behind bottles and wrappers that cleaners must clear the next morning.
+
+Q 9 | choice | 選擇題
+stem: As an employer, Henry is opposed to raising the minimum ______, which will increase his company's expenses.
+A: spy
+B: rope
+C: poll
+D: wage
+= D
+~詞義 wage（n.）薪資
+~原文 As an employer, Henry is opposed to raising the minimum wage, which will increase his company's expenses.
+
+Q 10 | choice | 選擇題
+stem: Thousands of people were ______ to death during the terrible famine.
+A: sucking
+B: weeping
+C: transporting
+D: starving
+= D
+~詞義 starve（v.）挨餓
+~原文 Thousands of people were starving to death during the terrible famine.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: swan
+B: suicide
+C: microphone
+D: studio
+E: stubborn
+F: hollow
+
+Q 11 | bank | 配合題
+stem: Before the rock star became a household name in this country, he recorded all of his songs in a small ______ in his home.
+= D
+~詞義 studio（n.）工作室
+~原文 Before the rock star became a household name in this country, he recorded all of his songs in a small studio in his home.
+
+Q 12 | bank | 配合題
+stem: This chocolate egg is ______, and there is a small toy inside it.
+= F
+~詞義 hollow（adj.）中空的
+~原文 This chocolate egg is hollow, and there is a small toy inside it.
+
+Q 13 | bank | 配合題
+stem: It's difficult to persuade the ______ man to change his mind.
+= E
+~詞義 stubborn（adj.）頑固的
+~原文 It's difficult to persuade the stubborn man to change his mind.
+
+Q 14 | bank | 配合題
+stem: Although the man had suffered from depression and even had thoughts of committing ______, he sought help from professionals and gradually recovered from the condition.
+= B
+~詞義 suicide（n.）自殺
+~原文 Although the man had suffered from depression and even had thoughts of committing suicide, he sought help from professionals and gradually recovered from the condition.
+
+Q 15 | bank | 配合題
+stem: The teacher chose to use a ______ in class so that every student could hear him clearly.
+= C
+~詞義 microphone（n.）麥克風
+~原文 The teacher chose to use a microphone in class so that every student could hear him clearly.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: wheat
+B: pole
+C: transportation
+D: robe
+E: salary
+F: poll
+
+Q 16 | bank | 配合題
+stem: The temperature at the North ______ is so low that most animals cannot survive there.
+= B
+~詞義 pole（n.）極地
+~原文 The temperature at the North pole is so low that most animals cannot survive there.
+
+Q 17 | bank | 配合題
+stem: Before planning the festival, the organizers carried out a ______ to learn which activities would attract the most participants.
+= F
+~詞義 poll（n.）民意調查
+~原文 Before planning the festival, the organizers carried out a poll to learn which activities would attract the most participants.
+
+Q 18 | bank | 配合題
+stem: The public ______ system is terrible in this city; there is no metro, and the buses are really slow.
+= C
+~詞義 transportation（n.）運輸工具
+~原文 The public transportation system is terrible in this city; there is no metro, and the buses are really slow.
+
+Q 19 | bank | 配合題
+stem: The workers are asking for a higher ______ because they believe their responsibilities have increased significantly.
+= E
+~詞義 salary（n.）薪水
+~原文 The workers are asking for a higher salary because they believe their responsibilities have increased significantly.
+
+Q 20 | bank | 配合題
+stem: Rice is the staple grain of most Asian countries, while ______ is more common in North America and Europe.
+= A
+~詞義 wheat（n.）小麥
+~原文 Rice is the staple grain of most Asian countries, while wheat is more common in North America and Europe.

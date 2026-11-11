@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 57 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-57 | Unit 57 | Vocabulary practice · Unit 57 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。本單元請抽查：照片邊緣或反光處，個別字詞可能有誤。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: The nurse put the s______e into the bucket, and it quickly absorbed the water and swelled up.
+= sponge
+~詞義 sponge（n.）海綿
+~原文 The nurse put the sponge into the bucket, and it quickly absorbed the water and swelled up.
+
+Q 2 | fill | 文意字彙
+stem: The house may look old from the outside, but its i______r is actually very modern.
+= interior
+~詞義 interior（n.）內部
+~原文 The house may look old from the outside, but its interior is actually very modern.
+
+Q 3 | fill | 文意字彙
+stem: We told our friends about our plan for a Christmas party, and they were all very e______c about the idea.
+= enthusiastic
+~詞義 enthusiastic（adj.）熱情的
+~原文 We told our friends about our plan for a Christmas party, and they were all very enthusiastic about the idea.
+
+Q 4 | fill | 文意字彙
+stem: Each new r______t received training to prepare for the responsibilities of the rescue mission.
+= recruit
+~詞義 recruit（n.）新進人員
+~原文 Each new recruit received training to prepare for the responsibilities of the rescue mission.
+
+Q 5 | fill | 文意字彙
+stem: Tommy got the flu. He suffered from s______ms such as severe headache, coughing, and high fever.
+= symptoms
+~詞義 symptom（n.）症狀
+~原文 Tommy got the flu. He suffered from symptoms such as severe headache, coughing, and high fever.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Animal ______ is not only cruel but also illegal and punishable by law.
+A: calcium
+B: abuse
+C: stimulus
+D: texture
+= B
+~詞義 abuse（n.）虐待
+~原文 Animal abuse is not only cruel but also illegal and punishable by law.
+
+Q 7 | choice | 選擇題
+stem: The stadium is so ______ that it can house up to forty thousand people.
+A: decent
+B: federal
+C: immense
+D: mainstream
+= C
+~詞義 immense（adj.）巨大的
+~原文 The stadium is so immense that it can house up to forty thousand people.
+
+Q 8 | choice | 選擇題
+stem: Doctors recommend that patients with ______ diseases do mild exercises regularly.
+A: absurd
+B: chronic
+C: naive
+D: beloved
+= B
+~詞義 chronic（adj.）慢性的
+~原文 Doctors recommend that patients with chronic diseases do mild exercises regularly.
+
+Q 9 | choice | 選擇題
+stem: Dorothy loves to ______ in the bathtub and relax on cold winter nights.
+A: abolish
+B: stream
+C: soak
+D: steer
+= C
+~詞義 soak（v.）浸泡
+~原文 Dorothy loves to soak in the bathtub and relax on cold winter nights.
+
+Q 10 | choice | 選擇題
+stem: This morning, the ______ in my company building was under repair, so everyone had to take either the elevator or the stairs.
+A: cathedral
+B: escalator
+C: lawmaker
+D: sandal
+= B
+~詞義 escalator（n.）電扶梯
+~原文 This morning, the escalator in my company building was under repair, so everyone had to take either the elevator or the stairs.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: stimulate
+B: barren
+C: belongings
+D: deadly
+E: supervise
+F: removal
+
+Q 11 | bank | 配合題
+stem: The scandal led to the minister's ______ from office. He was replaced by a much younger man.
+= F
+~詞義 removal（n.）免職
+~原文 The scandal led to the minister's removal from office. He was replaced by a much younger man.
+
+Q 12 | bank | 配合題
+stem: Though the farmer has tried his best to grow crops on his land, the soil there is just too ______. No plants can grow well there.
+= B
+~詞義 barren（adj.）貧瘠的
+~原文 Though the farmer has tried his best to grow crops on his land, the soil there is just too barren. No plants can grow well there.
+
+Q 13 | bank | 配合題
+stem: The government issued vouchers to all the citizens to ______ the economy.
+= A
+~詞義 stimulate（v.）刺激
+~原文 The government issued vouchers to all the citizens to stimulate the economy.
+
+Q 14 | bank | 配合題
+stem: Don't forget to take your personal ______ with you. The room will soon be locked.
+= C
+~詞義 belongings（n.）所有物;行李
+~原文 Don't forget to take your personal belongings with you. The room will soon be locked.
+
+Q 15 | bank | 配合題
+stem: This snake's poison is ______. Be careful not to step into its territory and get bitten.
+= D
+~詞義 deadly（adj.）致命的
+~原文 This snake's poison is deadly. Be careful not to step into its territory and get bitten.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: traits
+B: abolition
+C: certificate
+D: declaration
+E: soles
+F: steered
+
+Q 16 | bank | 配合題
+stem: Honesty and kindness are both great personality ______ that you should look for in a partner.
+= A
+~詞義 trait（n.）特點
+~原文 Honesty and kindness are both great personality traits that you should look for in a partner.
+
+Q 17 | bank | 配合題
+stem: After three long years of war, the two countries finally reached an agreement and made a(n) ______ of peace.
+= D
+~詞義 declaration（n.）宣布
+~原文 After three long years of war, the two countries finally reached an agreement and made a(n) declaration of peace.
+
+Q 18 | bank | 配合題
+stem: The ______ of slavery marked a turning point in America's long struggles for equality and justice.
+= B
+~詞義 abolition（n.）廢止
+~原文 The abolition of slavery marked a turning point in America's long struggles for equality and justice.
+
+Q 19 | bank | 配合題
+stem: The rain boots have thick rubber ______, and I like to wear them on rainy days because my feet don't get wet at all.
+= E
+~詞義 sole（n.）鞋底
+~原文 The rain boots have thick rubber soles, and I like to wear them on rainy days because my feet don't get wet at all.
+
+Q 20 | bank | 配合題
+stem: The hospital issued a birth ______ shortly after the child was safely delivered.
+= C
+~詞義 certificate（n.）證書
+~原文 The hospital issued a birth certificate shortly after the child was safely delivered.

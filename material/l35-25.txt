@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 25 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-25 | Unit 25 | Vocabulary practice · Unit 25 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: When you speak English, it is important to remember which nouns are c______e and which ones are not.
+= countable
+~詞義 countable（adj.）可數的
+~原文 When you speak English, it is important to remember which nouns are countable and which ones are not.
+
+Q 2 | fill | 文意字彙
+stem: The knife had cut deep into my f______h, and the wound wouldn't stop the bleeding.
+= flesh
+~詞義 flesh（n.）肉
+~原文 The knife had cut deep into my flesh, and the wound wouldn't stop the bleeding.
+
+Q 3 | fill | 文意字彙
+stem: Whoever visits this city should go to the famous f______n, toss a coin into it, and make a wish.
+= fountain
+~詞義 fountain（n.）噴泉
+~原文 Whoever visits this city should go to the famous fountain, toss a coin into it, and make a wish.
+
+Q 4 | fill | 文意字彙
+stem: You must remember to wear a h______t when you ride a motorcycle.
+= helmet
+~詞義 helmet（n.）安全帽
+~原文 You must remember to wear a helmet when you ride a motorcycle.
+
+Q 5 | fill | 文意字彙
+stem: It is very cold these days, so we turn on the heater for w______h every night.
+= warmth
+~詞義 warmth（n.）溫暖
+~原文 It is very cold these days, so we turn on the heater for warmth every night.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: My uncle has traveled to five of the world's ______.
+A: recorders
+B: youngsters
+C: continents
+D: bubbles
+= C
+~詞義 continent（n.）大陸
+~原文 My uncle has traveled to five of the world's continents.
+
+Q 7 | choice | 選擇題
+stem: The manager of each branch of the coffee shop reports to a ______ manager.
+A: teenage
+B: merry
+C: vital
+D: regional
+= D
+~詞義 regional（adj.）區域性的
+~原文 The manager of each branch of the coffee shop reports to a regional manager.
+
+Q 8 | choice | 選擇題
+stem: You should eat more fruit and vegetables. There are a lot of ______ in them.
+A: ministers
+B: vitamins
+C: gangsters
+D: recorders
+= B
+~詞義 vitamin（n.）維他命
+~原文 You should eat more fruit and vegetables. There are a lot of vitamins in them.
+
+Q 9 | choice | 選擇題
+stem: The car hit a truck and ______ off the road, and the driver was badly injured in the accident.
+A: spun
+B: towed
+C: erased
+D: grinned
+= A
+~詞義 spin（v.）旋轉
+~原文 The car hit a truck and spun off the road, and the driver was badly injured in the accident.
+
+Q 10 | choice | 選擇題
+stem: Melissa gave several ______ about wanting a present, hoping her husband would get the message and buy a necklace for her.
+A: hints
+B: bubbles
+C: traders
+D: violets
+= A
+~詞義 hint（n.）暗示
+~原文 Melissa gave several hints about wanting a present, hoping her husband would get the message and buy a necklace for her.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: splash
+B: youthful
+C: record
+D: region
+E: trail
+F: pity
+
+Q 11 | bank | 配合題
+stem: The largest castle in the ______ used to stand here. Unfortunately, it was destroyed by a bomb during the First World War.
+= D
+~詞義 region（n.）區域
+~原文 The largest castle in the region used to stand here. Unfortunately, it was destroyed by a bomb during the First World War.
+
+Q 12 | bank | 配合題
+stem: The class expressed deep ______ for their classmate, who had unexpectedly lost a close family member.
+= F
+~詞義 pity（n.）同情
+~原文 The class expressed deep pity for their classmate, who had unexpectedly lost a close family member.
+
+Q 13 | bank | 配合題
+stem: Some people keep a diary to ______ their personal thoughts and experiences every day.
+= C
+~詞義 record（v.）紀錄
+~原文 Some people keep a diary to record their personal thoughts and experiences every day.
+
+Q 14 | bank | 配合題
+stem: Despite Mr. Smith's age, he still carried a ______ spirit that made him popular among his students.
+= B
+~詞義 youthful（adj.）年輕的
+~原文 Despite Mr. Smith's age, he still carried a youthful spirit that made him popular among his students.
+
+Q 15 | bank | 配合題
+stem: The hunter followed the ______ of the deer carefully and silently, hoping to catch it.
+= E
+~詞義 trail（n.）足跡;痕跡
+~原文 The hunter followed the trail of the deer carefully and silently, hoping to catch it.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: spit
+B: teenage
+C: limb
+D: towed
+E: plug
+F: merry
+
+Q 16 | bank | 配合題
+stem: Chinese New Year's Eve is a ______ time for my family.
+= F
+~詞義 merry（adj.）快樂的
+~原文 Chinese New Year's Eve is a merry time for my family.
+
+Q 17 | bank | 配合題
+stem: Dave's parents gave him complete freedom during his ______ years.
+= B
+~詞義 teenage（adj.）青少年的
+~原文 Dave's parents gave him complete freedom during his teenage years.
+
+Q 18 | bank | 配合題
+stem: The doctor examined the patient's swollen ______ carefully, checking for signs of a broken bone or torn muscle.
+= C
+~詞義 limb（n.）肢體
+~原文 The doctor examined the patient's swollen limb carefully, checking for signs of a broken bone or torn muscle.
+
+Q 19 | bank | 配合題
+stem: My car was ______ away because I had parked it on the red line.
+= D
+~詞義 tow（v.）拖
+~原文 My car was towed away because I had parked it on the red line.
+
+Q 20 | bank | 配合題
+stem: As long as you place the ______ of the machine into a socket, it should work.
+= E
+~詞義 plug（n.）插頭
+~原文 As long as you place the plug of the machine into a socket, it should work.

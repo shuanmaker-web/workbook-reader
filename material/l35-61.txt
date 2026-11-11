@@ -1,0 +1,168 @@
+# Level 3–5 · Unit 61 — imported from Vocaboo (vocab-app data/questions.json) by tools/import_vocaboo.py
+# Do not edit by hand; re-run the importer instead.
+@section l35-61 | Unit 61 | Vocabulary practice · Unit 61 | 文意字彙・選擇題・配合題
+@overview 字彙王 Level 3–5 練習題本。答案與中文詞義已與教材官方解答逐題核對；題目文字為照片轉錄。
+
+@group A 文意字彙（1–5）：依提示寫出正確的字
+
+Q 1 | fill | 文意字彙
+stem: I find your excuse too r______s to believe. It can't possibly be true!
+= ridiculous
+~詞義 ridiculous（adj.）荒謬的
+~原文 I find your excuse too ridiculous to believe. It can't possibly be true!
+
+Q 2 | fill | 文意字彙
+stem: The speaker m______ed throughout the whole presentation, so the audience members had a hard time understanding what he was saying.
+= mumbled
+~詞義 mumble（v.）含糊地說
+~原文 The speaker mumbled throughout the whole presentation, so the audience members had a hard time understanding what he was saying.
+
+Q 3 | fill | 文意字彙
+stem: David's neighbor plays the violin very poorly, and every evening he has to bear the d______l sound that hurts his ears.
+= dreadful
+~詞義 dreadful（adj.）可怕的;糟糕的
+~原文 David's neighbor plays the violin very poorly, and every evening he has to bear the dreadful sound that hurts his ears.
+
+Q 4 | fill | 文意字彙
+stem: Jay Chou is u______y one of the best-known singers in Taiwan. Almost everyone has heard at least one of his songs.
+= undoubtedly
+~詞義 undoubtedly（adv.）毫無疑問地
+~原文 Jay Chou is undoubtedly one of the best-known singers in Taiwan. Almost everyone has heard at least one of his songs.
+
+Q 5 | fill | 文意字彙
+stem: Palm trees t______e in tropical climates; they don't grow well in cold places.
+= thrive
+~詞義 thrive（v.）茁壯成長
+~原文 Palm trees thrive in tropical climates; they don't grow well in cold places.
+
+@group B 選擇題（6–10）
+
+Q 6 | choice | 選擇題
+stem: Tom fell down the stairs and had many ______ on his face.
+A: bruises
+B: cores
+C: rims
+D: spines
+= A
+~詞義 bruise（n.）瘀傷
+~原文 Tom fell down the stairs and had many bruises on his face.
+
+Q 7 | choice | 選擇題
+stem: Some people struggle to grasp the ______ of the universe because it is hard for them to imagine limitless space.
+A: foul
+B: infinity
+C: coordinate
+D: browser
+= B
+~詞義 infinity（n.）無限
+~原文 Some people struggle to grasp the infinity of the universe because it is hard for them to imagine limitless space.
+
+Q 8 | choice | 選擇題
+stem: The museum ______ visitors from touching the artworks to prevent any accidental damage.
+A: asserts
+B: overturns
+C: prohibits
+D: withers
+= C
+~詞義 prohibit（v.）禁止
+~原文 The museum prohibits visitors from touching the artworks to prevent any accidental damage.
+
+Q 9 | choice | 選擇題
+stem: Forcing workers to work under poor conditions and paying them low wages is little better than ______.
+A: array
+B: coverage
+C: monopoly
+D: slavery
+= D
+~詞義 slavery（n.）奴役
+~原文 Forcing workers to work under poor conditions and paying them low wages is little better than slavery.
+
+Q 10 | choice | 選擇題
+stem: The environmentalists are protesting against the building of a factory in this region. They want to save the ______ from pollution.
+A: exploration
+B: ecosystem
+C: presidency
+D: transmission
+= B
+~詞義 ecosystem（n.）生態系統
+~原文 The environmentalists are protesting against the building of a factory in this region. They want to save the ecosystem from pollution.
+
+@group C 配合題（11–15）：從單字庫選出最適合的字
+
+@bank
+A: lest
+B: presidential
+C: browsed
+D: sowed
+E: stereotype
+F: nowhere
+
+Q 11 | bank | 配合題
+stem: A ______ election takes place every four years, and the elected person can stay in office for no more than two terms.
+= B
+~詞義 presidential（adj.）總統的
+~原文 A presidential election takes place every four years, and the elected person can stay in office for no more than two terms.
+
+Q 12 | bank | 配合題
+stem: The farmer ______ corn seeds in the field, and the plants grew quickly after the spring rain.
+= D
+~詞義 sow（v.）將…種在某處
+~原文 The farmer sowed corn seeds in the field, and the plants grew quickly after the spring rain.
+
+Q 13 | bank | 配合題
+stem: I remember bringing the key this morning, but now it is ______ to be found.
+= F
+~詞義 nowhere（adv.）無處
+~原文 I remember bringing the key this morning, but now it is nowhere to be found.
+
+Q 14 | bank | 配合題
+stem: It is an outdated gender ______ that women should do all the housework while men go out to earn money.
+= E
+~詞義 stereotype（n.）刻板印象
+~原文 It is an outdated gender stereotype that women should do all the housework while men go out to earn money.
+
+Q 15 | bank | 配合題
+stem: The mother tiptoed toward the door ______ she wake the sleeping baby.
+= A
+~詞義 lest（conj.）以免
+~原文 The mother tiptoed toward the door lest she wake the sleeping baby.
+
+@group C 配合題（16–20）：從單字庫選出最適合的字
+
+@bank
+A: currencies
+B: whined
+C: viable
+D: undertook
+E: extinct
+F: productivity
+
+Q 16 | bank | 配合題
+stem: Terry presented a plan to the manager, but she doesn't consider it a(n) ______ plan.
+= C
+~詞義 viable（adj.）可實行的
+~原文 Terry presented a plan to the manager, but she doesn't consider it a(n) viable plan.
+
+Q 17 | bank | 配合題
+stem: More and more people are investing in digital ______ even though they are a very risky form of investment.
+= A
+~詞義 currency（n.）貨幣
+~原文 More and more people are investing in digital currencies even though they are a very risky form of investment.
+
+Q 18 | bank | 配合題
+stem: The dodo, a bird from the island of Mauritius, which is east of Madagascar, went ______ in the seventeenth century due to hunting by the Dutch.
+= E
+~詞義 extinct（adj.）絕種的
+~原文 The dodo, a bird from the island of Mauritius, which is east of Madagascar, went extinct in the seventeenth century due to hunting by the Dutch.
+
+Q 19 | bank | 配合題
+stem: Tina ______ to check her younger brother's homework, even though she had a demanding schedule.
+= D
+~詞義 undertake（v.）承諾
+~原文 Tina undertook to check her younger brother's homework, even though she had a demanding schedule.
+
+Q 20 | bank | 配合題
+stem: The poor cat had been starving for days, and it ______ at those who walked past.
+= B
+~詞義 whine（v.）哀鳴
+~原文 The poor cat had been starving for days, and it whined at those who walked past.
