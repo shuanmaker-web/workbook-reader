@@ -17,8 +17,8 @@
 13. 尚未收:翻譯(三)–(八)、翻譯複習(一)(二),以及寫作(一)–(八)。
 
 ## 書本架構(2026-11-11)
-14. 首頁為四本書入口:**大滿貫**(目前 Unit 1–3 與翻譯一、二)、**克漏字開外掛**、**戰勝學測**、**Level 3–5**。克漏字開外掛、戰勝學測尚無內容,App 顯示「內容準備中」。書本設定在 `tools/build_data.py` 的 `BOOKS` / `UNITS`(每個 unit 有 `book` 欄位)。
-15. 翻譯(一)(二)原本來自另一本「翻譯／寫作」書,目前暫放在「大滿貫」底下,請確認要不要移到別本。
+14. 首頁為四本書入口:**Grand Slam**(大滿貫,目前 Unit 1–3 與翻譯一、二)、**Cloze Power-Up**(克漏字開外掛)、**Beat the GSAT**(戰勝學測)、**Level 3–5**。書名已改為只顯示英文(2026-11-11)。Cloze Power-Up、Beat the GSAT 尚無內容,App 顯示「內容準備中」。書本設定在 `tools/build_data.py` 的 `BOOKS` / `UNITS`(每個 unit 有 `book` 欄位)。
+15. 翻譯(一)(二)原本來自另一本「翻譯／寫作」書,目前暫放在「Grand Slam」底下,請確認要不要移到別本。
 16. 書名英文副標(Grand Slam、Cloze Power-Up、Beat the GSAT、Vocabulary Level 3–5)為暫訂,可在 `BOOKS` 修改。
 
 ## Level 3–5(2026-11-11,來自 Vocaboo)

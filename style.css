@@ -19,7 +19,6 @@ input.response{min-height:46px}.tag-derived{display:inline-block;font-size:10px;
 .book-num{font:28px Georgia,serif;color:var(--muted);min-width:38px}
 .book-body{flex:1;min-width:0;display:flex;flex-direction:column;gap:4px}
 .book-body b{font-size:22px;font-weight:600;letter-spacing:-.3px}
-.book-en{font:italic 13px Georgia,serif;color:var(--muted)}
 .book-sub{font-size:13px;color:var(--ink);margin-top:4px}
 .book-meta{font-size:11px;color:var(--muted);margin-top:6px}
 .book-resume{font-size:11px;color:var(--green);background:var(--wash);border-radius:8px;padding:5px 9px;margin-top:8px;align-self:flex-start}

@@ -32,10 +32,10 @@ MAT = os.path.join(ROOT, 'material')
 # Books = the top level of the app (home page shows one card per book).
 # Every unit belongs to exactly one book; a book with no sections yet shows its `plan` as "準備中".
 BOOKS = [
-    {'id': 'dmg', 'title': '大滿貫', 'english': 'Grand Slam', 'sub': '單字・綜合測驗・文意選填・篇章結構・閱讀・翻譯', 'plan': []},
-    {'id': 'cloze', 'title': '克漏字開外掛', 'english': 'Cloze Power-Up', 'sub': '克漏字', 'plan': []},
-    {'id': 'win', 'title': '戰勝學測', 'english': 'Beat the GSAT', 'sub': '', 'plan': []},
-    {'id': 'l35', 'title': 'Level 3–5', 'english': 'Vocabulary Level 3–5', 'sub': '字彙王練習題本・文意字彙・選擇題・配合題', 'plan': []},
+    {'id': 'dmg', 'title': 'Grand Slam', 'english': '', 'sub': '單字・綜合測驗・文意選填・篇章結構・閱讀・翻譯', 'plan': []},
+    {'id': 'cloze', 'title': 'Cloze Power-Up', 'english': '', 'sub': '克漏字', 'plan': []},
+    {'id': 'win', 'title': 'Beat the GSAT', 'english': '', 'sub': '', 'plan': []},
+    {'id': 'l35', 'title': 'Level 3–5', 'english': '', 'sub': '字彙王練習題本・文意字彙・選擇題・配合題', 'plan': []},
 ]
 UNITS = [
     {'id': 'u1', 'book': 'dmg', 'title': 'Unit 1', 'sub': '單字、片語・綜合測驗・篇章結構・閱讀測驗'},
