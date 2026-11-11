@@ -26,6 +26,13 @@ python3 tools/build_data.py /path/to/ecdict.csv   # 需要 pip install opencc-py
 python3 -m http.server 8801   # 開 http://localhost:8801
 ```
 
+## 部署(Cloudflare Pages)
+只發佈 app 需要的檔案:`tools/build_dist.py` 會把它們複製到 `dist/`(已列入 `.gitignore`)。
+- Build command:`python3 tools/build_dist.py`
+- Build output directory:`dist`
+- `material/`、`tools/`、`STATUS.md`、`README.md` 與原書頁面掃描都不會上線。
+- 網站存取用 Cloudflare Access 限定 email。
+
 ## 改版
 同步更新 `sw.js` 與 `app.js` 的 `CACHE` 版本字串(目前 `workbook-reader-v4`)。
 localStorage key 為 `workbook-reader-v1`(不要改,以免學生紀錄消失)。

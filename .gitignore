@@ -2,3 +2,4 @@
 assets/page-*.jpg
 ecdict.csv
 *.csv
+dist/
