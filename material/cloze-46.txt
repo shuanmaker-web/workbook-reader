@@ -1,0 +1,231 @@
+# Cloze Power-Up · Unit 46 — Technology (source pp. 153–155)
+# Transcribed from a scanned workbook PDF (uploaded by the teacher). Answers cross-checked against the
+# teacher-supplied answer key "46: CBCDB ACADB CJAGH DBEFI CABE" — every one of the 24 answers matches.
+@section cloze-46 | Unit 46 | Technology | 綜合測驗・文意選填・篇章結構
+@pages 4,5,6
+@overview Cloze Power-Up Unit 46（Technology）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+It was the final year of the twentieth century. A Columbia University professor and his students were coming up with a smart food-growing solution. [[1]] planting crops in traditional horizontal ground-level rows, they proposed stacking trays of edible greens and herbs on top of one another.
+
+These tasty towers of produce could be constructed and housed in controlled environments. This would [[2]] them largely free of bugs and bacteria, and artificial LED lighting could be employed to ensure the crops received adequate UV rays to grow. Moreover, the vertical stacks would maximize land usage and enable highly efficient water recycling and irrigation processes.
+
+Putting all these innovative agricultural elements together, the team eventually designed a stunning high-tech skyscraper of a farm. In theory, it would reach several stories into the air, [[3]] sustainably feeding up to nearly 50,000 people. However, even after more than twenty years since it was conceived, this grand vision has yet to be realized. [[4]] vertical farming isn't reaching great heights, though. Millions of dollars in venture capital and private investment are currently pouring in to this cutting-edge form of agriculture. In addition, it's already [[5]] in North America and the Middle East, and vertical crop-maximizing technologies and techniques are being refined daily.
+
+All in all, vertical farming promises a bright future, not only in agricultural production but also in sustainable practices.
+@end
+
+Q 1 | choice | Unit 46
+stem: （第 1 格）
+A: On behalf of
+B: But for
+C: Rather than
+D: Regardless of
+= C
+~! Rather than + 動名詞：與其…不如…；與其以傳統橫向地面種植，不如堆疊式栽種。
+
+Q 2 | choice | Unit 46
+stem: （第 2 格）
+A: protect
+B: render
+C: cause
+D: maintain
+= B
+~! render + O + 形容詞：使（某物）處於…狀態；render them free of bugs 使它們沒有蟲害。
+
+Q 3 | choice | Unit 46
+stem: （第 3 格）
+A: able to
+B: keen on
+C: capable of
+D: content with
+= C
+~! capable of + V-ing：有能力做…；指理論上能夠永續供應近五萬人的糧食。
+
+Q 4 | choice | Unit 46
+stem: （第 4 格）
+A: It's no exaggeration to say
+B: It goes without saying
+C: Suffice it to say
+D: That's not to say
+= D
+~! That's not to say...：但這並不代表…；雖然宏大願景尚未實現，但不代表垂直農業沒有進展（下文接著說明資金與發展現況）。
+
+Q 5 | choice | Unit 46
+stem: （第 5 格）
+A: cutting corners
+B: bearing fruit
+C: pulling strings
+D: stealing thunder
+= B
+~! bear fruit：開花結果、有所成效；指垂直農業已在北美與中東「有所成效」。
+
+@passage
+There are three key components required to create a functional touch screen. These are the touch sensor, the software, and the "controller" that facilitates communication between the two.
+
+First of all, the touch sensor, which comes in three different types, is responsible for detecting a touch "event." Most such sensors work by utilizing two metal layers separated by a tiny gap. When a user touches a specific spot on the screen, this will apply pressure on that area's surface, causing the layers to [[6]] and close the gap. This, in turn, brings about certain changes in electric current or charge, or sound waves, [[7]] signaling the nature of the event.
+
+It's then up to the middleman, the intervening controller component, to interpret these signals and determine exactly which sensors [[8]]. Once it has established the precise location of the "touch," it can pass on the relevant information to the software. This third and final touch screen element will then ensure that the event is matched by an [[9]] computing response.
+
+Miraculously, all of this signaling and relaying of information takes place within a [[10]] of a second. In practical terms, the software's reaction to a specific touch is virtually instantaneous, owing to the efficient coordination among these components.
+@end
+
+Q 6 | choice | Unit 46
+stem: （第 6 格）
+A: make contact
+B: become longer
+C: grow apart
+D: come off
+= A
+~! make contact：接觸；兩層金屬因受壓而彼此接觸，縮小間隙。
+
+Q 7 | choice | Unit 46
+stem: （第 7 格）
+A: however
+B: namely
+C: thereby
+D: instead
+= C
+~! thereby + V-ing：藉此、因而；藉由電流或聲波的變化，因而標示出觸控事件的性質。
+
+Q 8 | choice | Unit 46
+stem: （第 8 格）
+A: are being triggered
+B: been triggered
+C: to be triggered
+D: triggering
+= A
+~! determine which sensors are being triggered：現在進行式被動，表示「正在被觸發」。
+
+Q 9 | choice | Unit 46
+stem: （第 9 格）
+A: elementary
+B: informative
+C: obedient
+D: appropriate
+= D
+~! 軟體確保事件能被「適當的」運算回應所對應，故選 (D) appropriate。
+
+Q 10 | choice | Unit 46
+stem: （第 10 格）
+A: faction
+B: fraction
+C: friction
+D: fracture
+= B
+~! a fraction of a second：一瞬間、轉瞬之間。
+
+@group 二、文意選填
+@bank
+A: hit
+B: boomed
+C: pioneered
+D: ingenious
+E: refuge
+F: possible
+G: vapor
+H: repeatedly
+I: virtually
+J: moment
+
+@passage
+Technology involves applying scientific knowledge in order to create or improve upon advanced machines or equipment. This is precisely what Willis Carrier did in 1902, when he [[11]] a mechanical invention that would fundamentally transform the way people experienced summer. His innovative air conditioning system ended up changing far more than just the season, however—it changed the world.
+
+Carrier's eureka [[12]] came on a humble train platform. One day, while standing on one of these everyday surfaces and staring into the fog, he suddenly [[13]] upon a brilliant idea. Why not have warm, humid air pass over a liquid cooling agent that could absorb heat and moisture, and turn the liquid into a gas in the process?
+
+All one would have to do then was to separate the cooled air from this newly formed [[14]], redirecting the former into the space that required cooling, and the latter into a coil or chamber where the heat could be released. Over time, the temperature of the cooling agent would drop enough to return it to a liquid state, allowing it to be reused [[15]] to extract heat from more warm air.
+
+For the first time, Carrier's [[16]] refrigeration cycle allowed us to create cooler, more comfortable indoor environments at will, all year round. As a result, large-scale food production [[17]] as items such as produce and meat could be preserved more easily. In addition, an artificially cooled indoor cinema was suddenly the perfect [[18]] from the sweltering summer heat outside. Before long, the new technology was being used to render long-distance passenger flights [[19]], to cool computer servers that were constantly calculating, and to build huge shopping malls for the masses.
+
+Ever since, Carrier's brilliant innovation has been cooling and drying our homes, hospitals, offices, schools, factories, vehicles, and [[20]] every other indoor space imaginable. It is utterly impossible to imagine modern life without the ubiquitous benefit of air conditioning.
+@end
+
+Q 11 | bank | Unit 46
+stem: （第 11 格）
+= C
+~! Willis Carrier 於 1902 年「開創」了一項機械發明，故選 (C) pioneered。
+
+Q 12 | bank | Unit 46
+stem: （第 12 格）
+= J
+~! 他的「靈光一閃」的瞬間發生在月台上，故選 (J) moment。
+
+Q 13 | bank | Unit 46
+stem: （第 13 格）
+= A
+~! hit upon an idea：靈光一閃、偶然想到一個點子。
+
+Q 14 | bank | Unit 46
+stem: （第 14 格）
+= G
+~! 液態冷媒吸熱後轉變成的「氣體」。
+
+Q 15 | bank | Unit 46
+stem: （第 15 格）
+= H
+~! 冷媒可被「重複」使用以持續吸熱，故選 (H) repeatedly。
+
+Q 16 | bank | Unit 46
+stem: （第 16 格）
+= D
+~! 這是 Carrier「巧妙」的冷凍循環系統，故選 (D) ingenious。
+
+Q 17 | bank | Unit 46
+stem: （第 17 格）
+= B
+~! 因此大規模食品生產「蓬勃發展」，故選 (B) boomed。
+
+Q 18 | bank | Unit 46
+stem: （第 18 格）
+= E
+~! 電影院成為躲避酷暑的最佳「避難所」，故選 (E) refuge。
+
+Q 19 | bank | Unit 46
+stem: （第 19 格）
+= F
+~! 新科技使長途客機的飛行成為「可能」，故選 (F) possible。
+
+Q 20 | bank | Unit 46
+stem: （第 20 格）
+= I
+~! 冷氣幾乎用於「所有」想像得到的室內空間，故選 (I) virtually。
+
+@group 三、篇章結構
+@bank
+A: In certain cases, though, it isn't necessary to go to all this costly human fuss.
+B: On the one side, it has a broad, circular opening, much like the bell of a trumpet.
+C: This necessity has given rise to a wealth of options in most urban areas that cater to the needs of dog owners.
+D: Pet insurance policies are gaining popularity, covering unexpected medical expenses for our beloved companions.
+E: Some models have adjustable launch power and multiple launch openings to accommodate different dogs and environments.
+
+@passage
+Dogs can be a handful, so much so that their two-legged owners are often compelled to turn to external service providers for assistance. [[21]] These are services from costly pet care professionals such as groomers, trainers, and walkers abound. Chances are, even the odd "dog whisperer," being an expert pet communicator, is just a phone call away too.
+
+[[22]] Instead, what's needed to ease the burden of domestic animal ownership is simply some intelligent and compatible manmade machinery. One way technology is making dog lovers' lives easier is during playtime. iFetch is a patented device that can keep your best furry friend busy and active when you have better things to do. [[23]] Dogs can drop retrieved balls down into this spacious tunnel, after which the iFetch will then automatically launch the ball out through an opening at its opposite end.
+
+Depending on which model you have, the mechanical playmate can be set to "throw" the ball through either a fixed, or a random opening. The force with which the bouncing missile is expelled from the portable, fully rechargeable little cannon can also be adjusted. [[24]] What'll be even sweeter music to dog owners' ears is that the iFetch isn't noisy at all and is completely safe.
+
+With technology lending a helping hand, the question emerges—who truly is a person's best friend? Is it the playful pup scrambling across the carpet to hunt down that moving ball, or is it the time-saving technology that throw balls on behalf of a dog-tired owner?
+@end
+
+Q 21 | bank | Unit 46
+stem: （第 21 格）請由方框中選出最適合的句子。
+= C
+~! 承接「狗主人常求助付費寵物照護服務」的敘述，(C) 說明這種需求已催生出許多服務選項，呼應後句列舉的美容師、訓練師等。
+
+Q 22 | bank | Unit 46
+stem: （第 22 格）請由方框中選出最適合的句子。
+= A
+~! 承接前段各種昂貴的寵物照護服務，(A) 以「其實不必花這些錢」轉折，接到後句 Instead, what's needed is ... machinery。
+
+Q 23 | bank | Unit 46
+stem: （第 23 格）請由方框中選出最適合的句子。
+= B
+~! 描述 iFetch 裝置開口的形狀，呼應後句「狗狗把球丟進這個寬敞通道」。
+
+Q 24 | bank | Unit 46
+stem: （第 24 格）請由方框中選出最適合的句子。
+= E
+~! 補充說明 iFetch 可調整的功能（發射力道、開口），呼應前句「力道可調整」。

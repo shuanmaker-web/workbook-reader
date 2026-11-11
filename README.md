@@ -34,7 +34,7 @@ python3 -m http.server 8801   # 開 http://localhost:8801
 - 網站存取用 Cloudflare Access 限定 email。
 
 ## 改版
-同步更新 `sw.js` 與 `app.js` 的 `CACHE` 版本字串(目前 `workbook-reader-v5`)。
+同步更新 `sw.js` 與 `app.js` 的 `CACHE` 版本字串(目前 `workbook-reader-v7`)。
 localStorage key 為 `workbook-reader-v1`(不要改,以免學生紀錄消失)。
 
 ## 注意

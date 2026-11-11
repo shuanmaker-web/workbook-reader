@@ -1,0 +1,233 @@
+# Cloze Power-Up · Unit 45 — Technology (source pp. 150–152)
+# Transcribed from a scanned workbook PDF (uploaded by the teacher). Answers cross-checked against the
+# teacher-supplied answer key "45: BDABD CCBCD EAFGB CIHDJ DCAB" — every one of the 24 answers matches.
+@section cloze-45 | Unit 45 | Technology | 綜合測驗・文意選填・篇章結構
+@pages 1,2,3
+@overview Cloze Power-Up Unit 45（Technology）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+At first glance, a robot designed to resemble the world's slowest-moving mammal doesn't make much sense. Why on earth would we need a highly sophisticated [[1]] to mimic the leisurely movements of a sloth?
+
+Spending most of their lives hanging upside-down from tree branches, sloths are not known for their speed. These hairy creatures, [[2]] by their long claws and ape-like appearance, have a top speed of four and a half meters per minute on land. They also take an entire month to digest a single leaf. Even the name of this species comes from a synonym for "laziness," and they're often [[3]] a lack of activity or productivity.
+
+It's not until you consider their laid-back nature [[4]] the value of "SlothBot" becomes apparent. Displayed in the Atlanta Botanical Garden, this robot is designed to monitor plants, insects, and animals. Since it moves extremely slowly along cables tied between trees, it poses no noticeable threat to living creatures.
+
+At the same time, it can also collect and relay a large amount of important environmental data in the trees. For example, by the time the SlothBot finishes crossing a branch, it [[5]] carbon dioxide levels, tracking temperature variations second by second. Indeed, the SlothBot is far from lazy!
+@end
+
+Q 1 | choice | Unit 45
+stem: （第 1 格）
+A: mysterious story
+B: technological machine
+C: negative remark
+D: nutritious diet
+= B
+~! 前文描述需要一台「高度精密的機器」來模仿樹懶動作，故選 (B) technological machine。
+
+Q 2 | choice | Unit 45
+stem: （第 2 格）
+A: generated
+B: dominated
+C: criticized
+D: characterized
+= D
+~! be characterized by...：以…為特徵；樹懶以長爪與類人猿外觀為特徵。
+
+Q 3 | choice | Unit 45
+stem: （第 3 格）
+A: associated with
+B: exposed to
+C: deprived of
+D: compensated for
+= A
+~! be associated with...：與…有關聯；樹懶（sloth）這個字常與「缺乏活力或生產力」相關聯。
+
+Q 4 | choice | Unit 45
+stem: （第 4 格）
+A: what
+B: that
+C: and
+D: if
+= B
+~! It is not until ... that ...：分裂句型，強調「直到…才…」。
+
+Q 5 | choice | Unit 45
+stem: （第 5 格）
+A: is monitoring
+B: had been monitoring
+C: had monitored
+D: will have monitored
+= D
+~! by the time + 未來事件, S + will have Vpp：by the time 引導的時間子句搭配未來完成式，表示「到那時已經…」。
+
+@passage
+In the age of technology, whenever we unlock our devices or access an app simply by looking into our smart screens, there's some very sophisticated technology at work behind the scenes. This convenient digital feature, in fact, [[6]] intricate facial recognition software that not only improves the lives of busy mobile or tablet users but also conceals a wealth of complexity beneath its surface.
+
+These days, this convenient yet controversial [[7]] is being employed in many other ways. For instance, various private and federal security systems are utilizing it to identify and capture criminals. In addition, thousands of missing persons, and missing children [[8]], are also being successfully identified and tracked down with the assistance of "Face ID." It thus plays a crucial role in bringing lawbreakers to justice and reuniting families with their lost loved ones.
+
+Another scenario [[9]] this technology proves beneficial is when sleepy humans are behind the wheel. Recognition systems can now detect motorists showing facial signs of nodding off. These ever-alert AI watchdogs can then automatically [[10]] an alarm to wake drowsy drivers.
+
+As a result, drivers can pull over and get some much-needed rest rather than fall asleep behind the wheel. This technology isn't just helping them save face. It's also saving lives.
+@end
+
+Q 6 | choice | Unit 45
+stem: （第 6 格）
+A: involving
+B: involve
+C: involves
+D: being involved
+= C
+~! 主詞 This convenient digital feature（單數）需要單數動詞，故選 (C) involves。
+
+Q 7 | choice | Unit 45
+stem: （第 7 格）
+A: information security
+B: learning attitude
+C: identification tool
+D: melodious tune
+= C
+~! 指前文提到的人臉辨識軟體，即一種「身分辨識工具」，故選 (C) identification tool。
+
+Q 8 | choice | Unit 45
+stem: （第 8 格）
+A: by contrast
+B: in particular
+C: at any costs
+D: over time
+= B
+~! in particular：尤其、特別是；指「失蹤人口，尤其是失蹤兒童」。
+
+Q 9 | choice | Unit 45
+stem: （第 9 格）
+A: that
+B: what
+C: in which
+D: why
+= C
+~! a scenario in which...：關係子句修飾 scenario，in which = where。
+
+Q 10 | choice | Unit 45
+stem: （第 10 格）
+A: exhaust
+B: document
+C: fascinate
+D: trigger
+= D
+~! trigger an alarm：觸發警報。
+
+@group 二、文意選填
+@bank
+A: code
+B: suitable
+C: released
+D: announced
+E: sparked
+F: degree
+G: popularity
+H: rate
+I: exposure
+J: intended
+
+@passage
+When Dong Nguyen grew up in a little village near the capital, Hanoi, he did so with the 1985 platform game Super Mario Bros. This game not only provided Nguyen with lots of fun but also [[11]] his interest in gaming and computers. By the age of sixteen, he was designing and writing the [[12]] for his own games.
+
+Just a few years later, while completing a(n) [[13]] in programming, Nguyen worked as an intern at an American game developer with a satellite office in Vietnam. Whenever he had a minute to spare, he would fill it by playing games like Angry Birds on his smartphone. Despite this game's [[14]] at the time, Nguyen found it too complex. He thus set out to create something more [[15]] for busy people like himself, envisioning an extremely simple game that was nonetheless fun and challenging.
+
+Using a character from a previously discarded platform game, Nguyen created a new game in just three days. Flappy Bird was eventually [[16]] in 2013. Downloading the game was completely free, with its creator hoping to profit from in-game commercials.
+
+That's exactly what he did. Simple yet ridiculously difficult, the game proved so addictive that advertisers were soon lining up for [[17]]. At one point, Nguyen was adding to his own personal nest egg at a(n) [[18]] of fifty thousand US dollars a day.
+
+Sadly, Faby the bird was not destined to flap for long. Just a year later, Nguyen [[19]] that he would be discontinuing his game, citing the guilt he felt over its addictive nature as the chief reason. As he later explained, he had originally [[20]] to create a brief gaming escape from reality, one that would occupy people for only a minute or two. Instead, young gamers everywhere were playing for hours, flapping their little lives away.
+@end
+
+Q 11 | bank | Unit 45
+stem: （第 11 格）
+= E
+~! Nguyen 童年玩的《Super Mario Bros.》「激起」了他對電玩與電腦的興趣，故選 (E) sparked。
+
+Q 12 | bank | Unit 45
+stem: （第 12 格）
+= A
+~! 他十六歲就開始設計、撰寫自己遊戲的「程式碼」，故選 (A) code。
+
+Q 13 | bank | Unit 45
+stem: （第 13 格）
+= F
+~! 他當時正在攻讀程式設計的「學位」，故選 (F) degree。
+
+Q 14 | bank | Unit 45
+stem: （第 14 格）
+= G
+~! 指 Angry Birds 當時的人氣／知名度。
+
+Q 15 | bank | Unit 45
+stem: （第 15 格）
+= B
+~! 他想為忙碌的人設計更「合適」的遊戲，故選 (B) suitable。
+
+Q 16 | bank | Unit 45
+stem: （第 16 格）
+= C
+~! Flappy Bird 最終於 2013 年「發布」，故選 (C) released。
+
+Q 17 | bank | Unit 45
+stem: （第 17 格）
+= I
+~! line up for exposure：排隊等待曝光機會，指廣告商想在熱門遊戲中曝光。
+
+Q 18 | bank | Unit 45
+stem: （第 18 格）
+= H
+~! 他每天靠廣告賺進五萬美元的「比率」，故選 (H) rate。
+
+Q 19 | bank | Unit 45
+stem: （第 19 格）
+= D
+~! Nguyen「宣布」他將停止這款遊戲，故選 (D) announced。
+
+Q 20 | bank | Unit 45
+stem: （第 20 格）
+= J
+~! 他原本「打算」做一個讓人玩一兩分鐘的小遊戲，故選 (J) intended。
+
+@group 三、篇章結構
+@bank
+A: The joint venture is part of a $70 million "Digital Rail" project.
+B: This shows China's comprehensive strengths in the train system.
+C: In addition, JR East hopes to have an entire fleet of hands-free high-speed trains operational by 2035.
+D: Ongoing train design focuses on incorporating this advancing technology, showing the continuous evolution in the industry.
+E: The inherent peril of autonomous driving stems from potential system malfunctions, posing substantial safety risks and concerns for users.
+
+@passage
+The thought of traveling at speeds of over 200 kilometers an hour on a train might leave some of us a little dizzy. The notion of doing so without a human hand to steer operations might be even more unsettling for some. While fully driverless trains are technically feasible and operate on some routes worldwide, they still represent only a small fraction of the trains in use today. [[21]]
+
+In Japan, extensive plans are on track. JR Tokai could launch just such a fully automated bullet train service by 2028. [[22]] This infrastructural development, they hope, will not only make these lines safer but also substantially reduce labor costs.
+
+Of course, the smart sensors and other technology required to produce self-driving trains already exist. German rail operator Deutsche Bahn, in cooperation with local tech giant Siemens, has employed a completely driverless train in Hamburg for several years now. [[23]] It's thus giving railway users a taste of eco-friendly and more efficient future domestic train networks.
+
+Beijing has also introduced an advanced driverless bullet train called the Fuxing. The train was designed to transport passengers at a remarkable speed, particularly serving Olympic venues. This cutting-edge train even boasts a complete onboard broadcast studio for journalists' needs. [[24]]
+
+Should this type of AI-driven transportation indeed become standard engineering practice in coming decades, it has the potential to totally transform rail usage. One day, all train systems and metro networks could well be running like clockwork, completely unmanned.
+@end
+
+Q 21 | bank | Unit 45
+stem: （第 21 格）請由方框中選出最適合的句子。
+= D
+~! 承接「全自動列車目前只占少數」的敘述，(D) 以「持續演進」作結，呼應下一段談日本的具體計畫。
+
+Q 22 | bank | Unit 45
+stem: （第 22 格）請由方框中選出最適合的句子。
+= C
+~! 承接 JR Tokai 的自駕列車計畫，(C) 補充另一家日本鐵路公司 JR East 的類似計畫。
+
+Q 23 | bank | Unit 45
+stem: （第 23 格）請由方框中選出最適合的句子。
+= A
+~! 說明德國鐵路公司 Deutsche Bahn 與 Siemens 合作案的規模與性質。
+
+Q 24 | bank | Unit 45
+stem: （第 24 格）請由方框中選出最適合的句子。
+= B
+~! 總結前文北京自駕高鐵的先進程度，呼應「展現中國在鐵路系統的全面實力」。

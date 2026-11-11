@@ -1,0 +1,235 @@
+# Cloze Power-Up · Unit 41 — Energy (source pp. 138–140)
+# Transcribed from a scanned workbook PDF (uploaded by the teacher). Answers cross-checked against the
+# teacher-supplied answer key "41: CABDA DBCAC FDBIAJGCHE BAEC" — every one of the 24 answers matches.
+@section cloze-41 | Unit 41 | Energy | 綜合測驗・文意選填・篇章結構
+@pages 1,2,3
+@overview Cloze Power-Up Unit 41（Energy）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+We have the moon to thank for ocean swells and tides. These, in turn, bring about waves, which can be extremely powerful depending on winds and other factors. If they are powerful enough, we can even harness these natural forces to [[1]].
+
+Producing wave energy requires what's called a turbine. This is a circular machine with large blades or other rotating parts that spin due to the continuous flow of air or water over them. As rotation occurs, this energy of motion can be [[2]] electricity.
+
+Strategically placing turbines in areas where substantial and continuous ocean waves prevail [[3]] for sustained power generation as the waves keep the turbines in motion. Similar to how wind energy production relies on moving air, wave energy generation requires only sufficient volumes of moving water. Compared to conventional fossil fuels, it thus [[4]] a better renewable energy alternative.
+
+Unfortunately, in spite of these advancements, current systems designed for harnessing the ocean's motion remain on a relatively small scale. [[5]], they can't yet be relied upon to power facilities or areas with large power needs. Since many variables apply when it comes to wave size and strength, it is also difficult to guarantee constant currents, either marine or electric.
+@end
+
+Q 1 | choice | Unit 41
+stem: （第 1 格）
+A: process information
+B: install equipment
+C: generate electricity
+D: monitor pollution
+= C
+~! 空格前文描述海浪可蘊含極大能量，故推斷答案為 (C) generate electricity 產生電力。
+
+Q 2 | choice | Unit 41
+stem: （第 2 格）
+A: converted into
+B: attributed to
+C: described as
+D: connected with
+= A
+~! energy of motion（動能）can be converted into electricity（轉換成電力）為慣用搭配。
+
+Q 3 | choice | Unit 41
+stem: （第 3 格）
+A: allow
+B: allows
+C: allowed
+D: allowing
+= B
+~! 主詞是動名詞片語 placing turbines in areas ... prevail（視為單數），動詞須用單數的 allows。
+
+Q 4 | choice | Unit 41
+stem: （第 4 格）
+A: fascinates
+B: undermines
+C: dominates
+D: constitutes
+= D
+~! 之前段落鋪陳海浪能相較化石燃料的優勢，故選 (D) constitutes 構成。
+
+Q 5 | choice | Unit 41
+stem: （第 5 格）
+A: Consequently
+B: Nevertheless
+C: Indeed
+D: Likewise
+= A
+~! 上一句已點出「規模小」的缺點，此句承接說明其後果，故選 (A) Consequently 因此。
+
+@passage
+The global economy experienced a downturn due to the COVID-19 pandemic. Despite significant advancements in energy efficiency, [[6]] remains an increasing global demand for energy.
+
+This is the view of America's Energy Information Administration (EIA). A federal agency based in Washington DC, the EIA has a(n) [[7]] for accurate energy-related reporting. Over two million Internet users visit their website and other online resources on a monthly basis. Their annual World Energy Outlook reports, too, are always widely anticipated.
+
+In one of these recent [[8]], the EIA predicted that global energy usage will shoot up by almost 50% between 2020 and 2050. Development in budding Asian economies is forecast to be the main [[9]] behind this huge increase. Furthermore, traditional liquid energy in the form of oil and diesel will be fueling it.
+
+Transportation will, in fact, be one of the sectors leading this steady climb in worldwide consumption. So too will industry, which means CO2 emissions are set to similarly increase in the next two or three decades. The Middle East will thus continue to play a major role [[10]] it will still be supplying most of the crude oil to keep such growth running.
+
+In many parts of the world, therefore, energy seems to be stuck on an all-too-familiar fossil fuel track.
+@end
+
+Q 6 | choice | Unit 41
+stem: （第 6 格）
+A: where
+B: much
+C: which
+D: there
+= D
+~! there remains + 名詞：存在句型，表示「仍存在著…」。
+
+Q 7 | choice | Unit 41
+stem: （第 7 格）
+A: infinite patience
+B: international reputation
+C: proper balance
+D: lifelong education
+= B
+~! EIA 作為聯邦機構，以精確的能源報告聞名，故選 (B) international reputation 國際聲譽。
+
+Q 8 | choice | Unit 41
+stem: （第 8 格）
+A: accessories
+B: drawbacks
+C: publications
+D: initiatives
+= C
+~! 呼應前一段提到的 World Energy Outlook reports（EIA 的出版品）。
+
+Q 9 | choice | Unit 41
+stem: （第 9 格）
+A: driving force
+B: wise advice
+C: heavy traffic
+D: determined effort
+= A
+~! 亞洲新興經濟體的發展被視為此能源需求激增背後的（A) driving force 主要推力。
+
+Q 10 | choice | Unit 41
+stem: （第 10 格）
+A: whether
+B: as if
+C: since
+D: until
+= C
+~! 中東持續供應大部分原油，故以 (C) since 因為／由於 連接理由。
+
+@group 二、文意選填
+@bank
+A: produce
+B: squeezed
+C: frequented
+D: pedestrians
+E: locations
+F: novel
+G: pace
+H: track
+I: transformed
+J: sufficient
+
+@passage
+Engineer and inventor Laurence Kemball-Cook has spent a lot of time researching wind and solar power possibilities. However, when he finally came up with a(n) [[11]] way to generate eco-friendly energy, he started down a completely different renewable energy avenue. What Kemball-Cook's invention ran on wasn't particles of light or puffs of air, but [[12]].
+
+Pavegen tiles are a special type of smart pavement block. Triangular in shape, these incredible little power cells can be laid along busy city walkways and pavements to generate electricity. Every time a pedestrian steps on a tile, it is gently [[13]] down, triggering a generator at each of its three corners. The more soles land on a tile, the more "manpower" can be [[14]] into electrical energy.
+
+Currently, 270 Pavegen tiles covering a floor space of eighty square meters can, with the aid of just 120 walkers, [[15]] one kilowatt (kW) of power. This amount of electricity is enough to run a laptop for five-sixths of the day. It's also [[16]] to microwave 21 frozen pizzas, or dry twenty heads of wet hair with a hairdryer.
+
+On a busy shopping street in the heart of cities like London, roughly 200,000 to 500,000 pedestrians [[17]] up and down all day and late into the night. In such regularly [[18]] pedestrian zones, these tiles have the potential to generate enough power to light up that entire road around the clock.
+
+One final feather in Pavegen's cap is that its tiled systems can be used to [[19]] and record pedestrian numbers throughout metropolitan areas. Such data could help marketers to identify prime advertising [[20]]. It could also greatly assist with city planning and design.
+
+Kemball-Cook's technology is still just taking its first steps in the clean energy industry. But there is no doubt that his sustainable solution has gotten off on the right foot!
+@end
+
+Q 11 | bank | Unit 41
+stem: （第 11 格）
+= F
+~! 承上下文，Kemball-Cook 想出的是前所未見的新方法，故選 (F) novel 新穎的。
+
+Q 12 | bank | Unit 41
+stem: （第 12 格）
+= D
+~! 對比前句 particles of light or puffs of air，答案應為另一種驅動來源，即 (D) pedestrians 行人。
+
+Q 13 | bank | Unit 41
+stem: （第 13 格）
+= B
+~! 行人踩踏地磚的動作，故選 (B) squeezed 被擠壓。
+
+Q 14 | bank | Unit 41
+stem: （第 14 格）
+= I
+~! 人力（manpower）轉換成電能，故選 (I) transformed 被轉化。
+
+Q 15 | bank | Unit 41
+stem: （第 15 格）
+= A
+~! 120 位行人助力下地磚「產生」一千瓦電力，故選 (A) produce。
+
+Q 16 | bank | Unit 41
+stem: （第 16 格）
+= J
+~! 電量足以微波 21 個冷凍披薩，故選 (J) sufficient 足夠的。
+
+Q 17 | bank | Unit 41
+stem: （第 17 格）
+= G
+~! pace up and down：來回踱步。
+
+Q 18 | bank | Unit 41
+stem: （第 18 格）
+= C
+~! frequented 當形容詞用，表「常被往來、人潮眾多的」。
+
+Q 19 | bank | Unit 41
+stem: （第 19 格）
+= H
+~! 地磚系統可用來「追蹤」並記錄行人人數，故選 (H) track。
+
+Q 20 | bank | Unit 41
+stem: （第 20 格）
+= E
+~! 追蹤行人數據有助行銷業者找出適合打廣告的 (E) locations 地點。
+
+@group 三、篇章結構
+@bank
+A: Heat generated by the decay of radioactive material is one cause of this warmth.
+B: At the same time, its mineral-rich waters soothe and revive tired limbs and aching muscles.
+C: One particular geothermal hotspot that's making excellent use of its planet-provided power is Iceland.
+D: In winter, these hot spring resorts became desirable destinations for day trips and weekend breaks.
+E: They are areas where geothermal steam and springs occur in such abundance that they can even be harnessed to generate power.
+
+@passage
+Few pastimes are as relaxing and refreshing as soaking in a steamy hot spring on a wintry day. Its pleasant, mind-clearing fumes gently energize fortunate bathers in a warm and comforting cloud. [[21]] Despite this, not many soaking souls give much thought to the geothermal forces at work that make such indulgence possible.
+
+As scholars familiar with the word's Greek roots should be able to tell you, "geothermal" literally means "Earth's heat." The reason why we can enjoy hot springs is due to the thermal energy trapped in the crust of our remarkable planet. [[22]] Another is the energy left over from when the globe was formed billions of years ago.
+
+Today, certain places scattered over its surface are what one might literally call geothermal hotspots. [[23]] Producing geothermal energy of this nature usually involves channeling underground hot water or steam sources in order to rotate turbines to create renewable energy which is far cheaper and more eco-friendly than fossil fuels, both in terms of extraction and usage.
+
+[[24]] Over a quarter of the country's electricity needs are met with the aid of geothermal applications, and power production capacity in this field currently stands at just under 800MW. What's more, over 90% of the homes on this snowy but scenic island are heated in various geothermal ways. Best of all, this energy-giving earthly heat doesn't look like it will cool down anytime soon!
+@end
+
+Q 21 | bank | Unit 41
+stem: （第 21 格）請由方框中選出最適合的句子。
+= B
+~! 承接上一句描述泡溫泉的舒適感，(B) 補充說明溫泉水所含礦物質能舒緩痠痛的肢體與肌肉，語意銜接自然。
+
+Q 22 | bank | Unit 41
+stem: （第 22 格）請由方框中選出最適合的句子。
+= A
+~! 與後句 Another is the energy left over ... 呼應（one cause ... another [cause] ...）。
+
+Q 23 | bank | Unit 41
+stem: （第 23 格）請由方框中選出最適合的句子。
+= E
+~! 定義前句提到的 geothermal hotspots。
+
+Q 24 | bank | Unit 41
+stem: （第 24 格）請由方框中選出最適合的句子。
+= C
+~! 引出後面段落聚焦的國家 Iceland。

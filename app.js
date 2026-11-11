@@ -3,7 +3,7 @@
    items: group | entries | bank | passage | q   (q.type: choice | multi | bank | fill | trans)
    Translation (trans) questions: students answer on paper; the app only offers a "看參考答案" button,
    controlled by a teacher switch (state.transOn, remembered in localStorage). */
-const CACHE='workbook-reader-v5'; // keep in sync with sw.js
+const CACHE='workbook-reader-v7'; // keep in sync with sw.js
 const STORE='workbook-reader-v1';
 const exam=window.EXAM,dict=window.DICTIONARY||{};
 const $=s=>document.querySelector(s),esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

@@ -1,0 +1,231 @@
+# Cloze Power-Up · Unit 42 — Energy (source pp. 141–143)
+# Transcribed from a scanned workbook PDF (uploaded by the teacher). Answers cross-checked against the
+# teacher-supplied answer key "42: DBBCD ACDAB FDBGH EAICJ DEAC" — every one of the 24 answers matches.
+@section cloze-42 | Unit 42 | Energy | 綜合測驗・文意選填・篇章結構
+@pages 4,5,6
+@overview Cloze Power-Up Unit 42（Energy）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+It's roughly the weight and size of a small suitcase. It doesn't require any [[1]] or batteries, and there's no need for any coal or wood either to fire it up. All that's necessary to prepare and enjoy a delicious cooked meal is sunlight.
+
+A new state-of-the-art solar roasting instrument, the GoSun Grill is cooking up a storm in barbecue circles. Imagine a glass vacuum tube mounted on a stainless-steel stand. Inside it [[2]] another see-through cylinder that slides out like a drawer. Place sausages, steaks, pumpkins, sandwiches, marshmallows, or whatever else is in need of roasting into this cylindrical chamber, and simply let the sun [[3]].
+
+Specially designed to reflect and [[4]] solar energy onto its central tube, the GoSun Grill can safely generate temperatures of over 280 degrees Celsius. The oven-like environment it produces is thus quite sufficient to barbecue just about any meat or vegetable mixture in under two hours. For certain foods, just ten minutes is all it takes for our solar system's best and brightest to grill them to perfection.
+
+Since no supervision whatsoever is required, users can enjoy some rays in other ways [[5]] their portable, smoke-free GoSun makes light work of the cooking duties. Once they've had their swim or set of tennis, they can simply slide out the GoSun cylinder and dish up.
+@end
+
+Q 1 | choice | Unit 42
+stem: （第 1 格）
+A: household chores
+B: financial budgets
+C: complicated questions
+D: electrical outlets
+= D
+~! 烤爐不需插電（electrical outlets），只靠陽光運作，故選 (D)。
+
+Q 2 | choice | Unit 42
+stem: （第 2 格）
+A: has
+B: is
+C: are
+D: having
+= B
+~! Inside it is another cylinder：地方副詞片語放句首的倒裝句（there is 的變化），主詞 another ... cylinder 為單數，動詞用 is。
+
+Q 3 | choice | Unit 42
+stem: （第 3 格）
+A: battle against it
+B: do its work
+C: ascend the throne
+D: place it together
+= B
+~! 只要把食材放進去，「讓太陽做它的工作」即可，故選 (B) do its work。
+
+Q 4 | choice | Unit 42
+stem: （第 4 格）
+A: oppress
+B: persevere
+C: concentrate
+D: cultivate
+= C
+~! GoSun Grill 設計用來反射並「聚集」太陽能到中央管，故選 (C) concentrate。
+
+Q 5 | choice | Unit 42
+stem: （第 5 格）
+A: so that
+B: even if
+C: although
+D: while
+= D
+~! 使用者在烤爐自動運作「同時」可從事其他活動，故選 (D) while。
+
+@passage
+Once they'd identified a metal element with a nucleus easy to split up, the next step was obvious. All they had to do now was [[6]] a neutron, that component of an atom that doesn't possess a charge, at it. They did so and, to their delight, found that the nucleus did indeed divide into two new ones. [[7]] this pair of wholly separate nuclei, they also had two or three supplementary neutrons.
+
+It had been a very productive collision but this was merely the beginning. The additional created neutrons then started [[8]] other nuclei of the element. In a fraction of a second, a lively [[9]] of invading neutrons and multiplying nuclei had been started. Neutron rockets were flying everywhere and nuclei under siege were doubling in the blink of an eye.
+
+All the while, two bonus byproducts of this string of collisions and divisions were also being generated: heat and radiation, both of which could be used to warm up a cooling agent to produce steam. From this point on, it was merely a case of directing this warm vapor at rapidly turning machines which would see to it that generators were [[10]] to produce electricity. And that is how, in short, nuclear energy was born.
+@end
+
+Q 6 | choice | Unit 42
+stem: （第 6 格）
+A: to fire
+B: firing
+C: being fired
+D: to be fired
+= A
+~! All they had to do was (to) fire ...：be 動詞補語為不定詞。
+
+Q 7 | choice | Unit 42
+stem: （第 7 格）
+A: Contrary to
+B: On behalf of
+C: Apart from
+D: With respect to
+= C
+~! 承上句 found the nucleus ... divide into two，除了兩個新原子核外，「此外」還有中子，故選 (C) Apart from。
+
+Q 8 | choice | Unit 42
+stem: （第 8 格）
+A: indulging in
+B: carrying out
+C: accounting for
+D: colliding with
+= D
+~! 新產生的中子接著「撞擊」其他原子核，引發連鎖反應，故選 (D) colliding with。
+
+Q 9 | choice | Unit 42
+stem: （第 9 格）
+A: chain reaction
+B: team building
+C: lightning strike
+D: time capsule
+= A
+~! 中子不斷撞擊、原子核不斷增生，形成「連鎖反應」，故選 (A) chain reaction。
+
+Q 10 | choice | Unit 42
+stem: （第 10 格）
+A: disrupted
+B: activated
+C: consumed
+D: estimated
+= B
+~! 發電機被「啟動」以產生電力，故選 (B) activated。
+
+@group 二、文意選填
+@bank
+A: containing
+B: fertilizers
+C: produces
+D: biological
+E: employing
+F: substantial
+G: unpleasant
+H: disposing
+I: refines
+J: households
+
+@passage
+When cows eat and drink, certain natural internal processes are bound to take their course. As a result, a(n) [[11]] proportion of this consumed liquid and digested material is converted into edible steaks and the thick, creamy liquid we drizzle over our cereals.
+
+Apart from meat and milk, these [[12]] workings inevitably produce a significant amount of waste as well. While this cow poo or "manure" can be used as natural [[13]], its creation does stink for a number of reasons. In addition to the [[14]] odor and the hours of labor and energy required to process and transport this organic waste, cow droppings release huge volumes of harmful gas into the atmosphere. Finding a more sustainable means of [[15]] of this manure, therefore, would have a huge positive environmental impact.
+
+Bloom Energy Corporation has not only realized this, but even gone a step further. By [[16]] cutting-edge fuel cells to harness and store the energy released by biogas, the company has turned a dairy farm in California into an impressive self-reliant and eco-friendly operation.
+
+How it works is that waste water [[17]] pee and poo is drained away from the living areas of the farm's almost 7,000 cows. It is then piped to a large, covered area known as a digester. As the organic matter breaks down in this waste warehouse, gas is released. This is captured by the digester's cover and fed into a plant that [[18]] it into clean, usable biogas.
+
+The biogas is then passed over special fuel cells to create an electro-chemical process that [[19]] electricity. At present, the farm's biogas system generates enough electrical energy to power over 750 [[20]]. For all practical purposes, it is effectively able to power itself. Most importantly, virtually no carbon dioxide is being released in the process.
+@end
+
+Q 11 | bank | Unit 42
+stem: （第 11 格）
+= F
+~! 牛隻消化後的液體有「相當」比例轉化為牛肉與牛奶，故選 (F) substantial。
+
+Q 12 | bank | Unit 42
+stem: （第 12 格）
+= D
+~! 指牛隻的消化運作屬於「生物性」活動，故選 (D) biological。
+
+Q 13 | bank | Unit 42
+stem: （第 13 格）
+= B
+~! 牛糞可作為天然「肥料」，故選 (B) fertilizers。
+
+Q 14 | bank | Unit 42
+stem: （第 14 格）
+= G
+~! 牛糞除了肥料用途外，也有「令人不悅」的氣味，故選 (G) unpleasant。
+
+Q 15 | bank | Unit 42
+stem: （第 15 格）
+= H
+~! 需要找出更永續的方式來「處置」牛糞，故選 (H) disposing。
+
+Q 16 | bank | Unit 42
+stem: （第 16 格）
+= E
+~! 藉由「採用」尖端燃料電池來儲存沼氣能量，故選 (E) employing。
+
+Q 17 | bank | Unit 42
+stem: （第 17 格）
+= A
+~! waste water containing pee and poo：現在分詞片語修飾 waste water。
+
+Q 18 | bank | Unit 42
+stem: （第 18 格）
+= I
+~! 沼氣經處理後被「提煉」成乾淨、可用的沼氣燃料，故選 (I) refines。
+
+Q 19 | bank | Unit 42
+stem: （第 19 格）
+= C
+~! 電化學反應「產生」電力，故選 (C) produces。
+
+Q 20 | bank | Unit 42
+stem: （第 20 格）
+= J
+~! 系統發出的電力足以供應超過 750 戶「家庭」，故選 (J) households。
+
+@group 三、篇章結構
+@bank
+A: A remarkable milestone this unquestionably would be.
+B: More inventive and affordable renewable solutions are needed if we hope to curb climate change.
+C: The UK is currently meeting approximately a third of its energy needs by tapping into hydropower, wind power, and solar power.
+D: Now, nearly two and half decades into the 21st century, there is finally a significant push to transition away from these polluting energy sources.
+E: Collectively, $1.7 trillion in funding went to ventures associated with electric vehicles, batteries, wind power, solar power, and other renewables.
+
+@passage
+For centuries, humans inhabiting every corner of this planet have been burning fossil fuels. They've been doing so for heating and cooking and to generate electricity. Quite often, they have also done so with a view to getting from A to B. [[21]] That is to say, many of us are swiftly gravitating toward cleaner, greener ones.
+
+In 2023, global investment in renewable technology overtook fossil fuel spending for the first time in human history. [[22]] This was around $0.7 trillion more than poured into projects centered around oil, coal, and other more traditional fuels.
+
+China, for the moment, is leading this charge toward a more sustainable tomorrow. The Asian clean energy powerhouse is forecast to have doubled its capacity for producing solar and wind power by the time the sun sets in 2025. [[23]] This is especially impressive if one considers that they appear likely to accomplish it a full five years earlier than previously anticipated.
+
+Though nowhere near on the same scale, the Brits are not lagging too far behind, proportionally. [[24]] What's more, its domestic and offshore renewable infrastructure will only expand in the future.
+
+Lastly, even the United States is finally starting to ditch dirty fuels. America produced nearly a quarter of the power it consumed in 2023 with the aid of renewable sources. This marked an impressive one percent increase per year for the preceding decade. All signs are that a new day in the energy age is undoubtedly dawning.
+@end
+
+Q 21 | bank | Unit 42
+stem: （第 21 格）請由方框中選出最適合的句子。
+= D
+~! 承接上文「人類長期燃燒化石燃料運輸」的敘述，(D) 點出 21 世紀的現在終於出現轉型的推力，呼應後句 many of us are swiftly gravitating toward cleaner, greener ones。
+
+Q 22 | bank | Unit 42
+stem: （第 22 格）請由方框中選出最適合的句子。
+= E
+~! $1.7 trillion（再生能源）比 $0.7 trillion（化石燃料多出的金額）多，兩者相差之數字前後呼應。
+
+Q 23 | bank | Unit 42
+stem: （第 23 格）請由方框中選出最適合的句子。
+= A
+~! 承接中國太陽能、風能產能倍增的敘述，(A) 以一句總評作結，呼應後句 This is especially impressive。
+
+Q 24 | bank | Unit 42
+stem: （第 24 格）請由方框中選出最適合的句子。
+= C
+~! 承接英國「沒有落後太多」的敘述，(C) 具體說明英國目前再生能源佔比約三分之一，呼應 proportionally。

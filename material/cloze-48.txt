@@ -1,0 +1,231 @@
+# Cloze Power-Up · Unit 48 — Technology (source pp. 159–161)
+# Transcribed from a scanned workbook PDF (uploaded by the teacher). Answers cross-checked against the
+# teacher-supplied answer key "48: BCADB ABDBC BHGJA IDFCE CAED" — every one of the 24 answers matches.
+@section cloze-48 | Unit 48 | Technology | 綜合測驗・文意選填・篇章結構
+@pages 10,11,12
+@overview Cloze Power-Up Unit 48（Technology）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+New parents need all the help they can get. Let's take a look at the "smart sock," an innovative wearable, wireless baby accessory that does much more than just keep a tender little foot warm.
+
+For 24 hours a day, it monitors the heart rate of the child and relays these figures either to a monitor or to an app on parents' phones. [[1]] it detect any irregularities in the baby's pulse, it will immediately trigger audible alerts on these devices. This allows parents to investigate and address any [[2]] issues that require prompt medical attention.
+
+But that's not all; [[3]] cardiac monitoring, the smart sock also keeps a watchful eye on the baby's breathing and oxygen levels. Any worrying abnormalities will again be displayed in real time for parents and caretakers to [[4]]. What's more, it issues urgent alerts in critical situations, ensuring swift action can be taken.
+
+To top it all off, smart socks can also closely track and analyze a little one's [[5]]. This data can be very useful in helping babysitters ensure that babies get sufficient rest and are fed at the right times. Of course, it also tells those worn-out grown-ups when to try and steal some shuteye themselves!
+@end
+
+Q 1 | choice | Unit 48
+stem: （第 1 格）
+A: If
+B: Should
+C: As
+D: Had
+= B
+~! Should it detect...：Should 倒裝句，相當於 If it should detect...，表示「萬一偵測到…」的假設語氣。
+
+Q 2 | choice | Unit 48
+stem: （第 2 格）
+A: controversial
+B: abstract
+C: underlying
+D: coarse
+= C
+~! underlying issues：潛在、根本的問題。
+
+Q 3 | choice | Unit 48
+stem: （第 3 格）
+A: aside from
+B: contrary to
+C: instead of
+D: except for
+= A
+~! aside from...：除了…之外（還有）；除了監測心跳，還監測呼吸與血氧。
+
+Q 4 | choice | Unit 48
+stem: （第 4 格）
+A: give in to
+B: look down on
+C: put up with
+D: take heed of
+= D
+~! take heed of...：留意、注意；提醒父母留意即時顯示的異常數據。
+
+Q 5 | choice | Unit 48
+stem: （第 5 格）
+A: eating preferences
+B: sleep patterns
+C: weight gain
+D: nutritional intake
+= B
+~! 呼應後句「幫助保母確保寶寶睡眠充足」，故選 (B) sleep patterns。
+
+@passage
+Neo is an exceptionally talented hacker who believes he is just an average guy living an ordinary life. Well, that's what he thinks until one day when a bizarre encounter with two notorious cybercriminals turns his whole world upside down.
+
+This interaction [[6]] a startling truth: everything he seems to be experiencing is not real but rather a simulation created by supremely intelligent machines that now dominate the Earth. These machines are keeping human beings trapped and alive [[7]] their organic bodies can be used as fuel. In order to prevent the human race from [[8]] such confinement and exploitation, they create an illusion of normal existence in a digital setting.
+
+Meanwhile, some humans have escaped into the real world and are fighting the machines to free humanity. Neo, recognized for his remarkable hacking skills, is considered the key to achieving this [[9]]. The cybercriminals who disclosed the true reality to Neo are actually leaders of this resistance group, so they approach him to recruit him to liberate mankind.
+
+Now, faced with a [[10]], Neo must decide whether to leave his simulated life and join the battle against the machines. To find out the answer, you'll have to watch the 1999 Hollywood sci-fi blockbuster, The Matrix.
+@end
+
+Q 6 | choice | Unit 48
+stem: （第 6 格）
+A: unveils
+B: reckons
+C: preaches
+D: exerts
+= A
+~! unveil a truth：揭露一項真相。
+
+Q 7 | choice | Unit 48
+stem: （第 7 格）
+A: lest
+B: so that
+C: even if
+D: in case
+= B
+~! so that + 子句：表目的，「以便、好讓」身體能被用作燃料。
+
+Q 8 | choice | Unit 48
+stem: （第 8 格）
+A: adhering to
+B: associating with
+C: striving for
+D: rebelling against
+= D
+~! prevent A from rebelling against B：防止 A 反抗 B。
+
+Q 9 | choice | Unit 48
+stem: （第 9 格）
+A: absurd principle
+B: ultimate aim
+C: cognitive activity
+D: exotic appeal
+= B
+~! 呼應前段「解放人類」的終極目標，故選 (B) ultimate aim。
+
+Q 10 | choice | Unit 48
+stem: （第 10 格）
+A: tribute
+B: petition
+C: dilemma
+D: sentiment
+= C
+~! faced with a dilemma：面臨兩難抉擇。
+
+@group 二、文意選填
+@bank
+A: temporary
+B: sustaining
+C: substituted
+D: gear
+E: advising
+F: accurately
+G: spells
+H: accompanied
+I: permanent
+J: normally
+
+@passage
+Contact sports can be hard on the human body, leading to chipped teeth, twisted ankles, black eyes, muscle tears, cuts, bruises, and broken bones. The list of hits and hurts goes on and on.
+
+In the most physical sports, like boxing, rugby, wrestling, and American football, the risk of [[11]] a head injury like "concussion" is also relatively high. When concussed due to a violent blow to the head, a player will experience a period of light-headedness or confusion. This could be [[12]] by blurred vision and a ringing sensation in the ears.
+
+Although such symptoms tend not to last long, they can be followed by [[13]] of headaches, weakness, and fatigue. Patients with concussions often experience vomiting and may respond more slowly to questions and instructions than they [[14]] would.
+
+Thankfully, these unpleasant side-effects are [[15]] and merely persist for a few hours, after which the battered, battle-hardened player usually makes a full recovery. However, the danger arises when athletes, especially children, suffer concussions and then continue playing. Repeated injuries can lead to serious and even [[16]] brain damage, and must be avoided at all costs.
+
+This is where high-tech gum shields or mouth guards come in. Traditionally designed to safeguard players' smiles and reduce the impact of falls and collisions, the latest versions of this dental protective [[17]] take safety a step further. Equipped with state-of-the-art sensors, they can [[18]] measure hits to the head. They then change color according to the force behind these collisions—blue for medium force and red for hardest blows. This serves as a clear signal that the player should be examined for concussion or immediately [[19]] to avoid risk.
+
+So the color-changing technology provides a timely warning system, [[20]] users to exercise caution after hard head contacts. This innovation allows athletes, coaches, and teammates to better prevent severe injuries resulting from repeated concussions during contact sports.
+@end
+
+Q 11 | bank | Unit 48
+stem: （第 11 格）
+= B
+~! the risk of sustaining an injury：承受／遭受傷害的風險。
+
+Q 12 | bank | Unit 48
+stem: （第 12 格）
+= H
+~! 頭部遭受重擊後的暈眩或意識混亂，可能「伴隨」視線模糊與耳鳴，故選 (H) accompanied。
+
+Q 13 | bank | Unit 48
+stem: （第 13 格）
+= G
+~! spells of headaches：一陣陣的頭痛（spell 作「一陣、一段時間」解）。
+
+Q 14 | bank | Unit 48
+stem: （第 14 格）
+= J
+~! 腦震盪患者對問題與指令的反應會比「平常」更慢，故選 (J) normally。
+
+Q 15 | bank | Unit 48
+stem: （第 15 格）
+= A
+~! 這些不適副作用是「暫時性」的，只會持續幾小時，故選 (A) temporary。
+
+Q 16 | bank | Unit 48
+stem: （第 16 格）
+= I
+~! 反覆腦震盪可能導致嚴重甚至「永久性」的腦損傷，故選 (I) permanent。
+
+Q 17 | bank | Unit 48
+stem: （第 17 格）
+= D
+~! protective gear：護具、防護裝備。
+
+Q 18 | bank | Unit 48
+stem: （第 18 格）
+= F
+~! 裝有感測器的護齒套能「精準地」測量頭部撞擊力道，故選 (F) accurately。
+
+Q 19 | bank | Unit 48
+stem: （第 19 格）
+= C
+~! be substituted：被替換下場（運動賽事的換人）。
+
+Q 20 | bank | Unit 48
+stem: （第 20 格）
+= E
+~! 變色警示系統「提醒」使用者在頭部遭受重擊後要小心，故選 (E) advising。
+
+@group 三、篇章結構
+@bank
+A: With your choice of these all finely formed, you'll finally be able to boil the pasta.
+B: Pasta's historical significance extends beyond food, reflecting cultural importance and heritage.
+C: This involves pounding, stretching, and manipulating the mixture until it's suitably elastic for shaping.
+D: It also has settings for numerous types of flour, and numerous party sizes, all in one easy-to-use automated package.
+E: In just ten minutes, if you're cooking for four, this automated chef will mix, knead, and produce a perfectly shaped portion of Italian pasta.
+
+@passage
+Unless you're a full-time Italian chef or the owner of a spaghetti factory, the prospect of making fresh pasta from scratch might be intimidating. First off, you need to mix very fine flour with precise amounts of water and possibly egg to create a dough. Next comes the "kneading" process. [[21]] This shaping requires skillfully pushing or forcing the dough through a specific opening to create uniform strands, curls, tubes, or other traditional pasta shapes. [[22]] Then, you can serve it with any sauce or toppings, if you still have the energy to prepare them. In short, prepare yourself for an ordeal not likely to leave you hungry for more.
+
+An effortless alternative is to purchase a "smart pasta maker." From its range of beautiful buttons, simply choose from the several pasta types you desire this awesome appliance to magically produce. Then, enter how many lucky diners you'll be cooking for. Next, add the amount of flour, water, and egg shown on the pasta maker's stylish digital display screen, and push "Start." [[23]]
+
+As if that weren't satisfying enough, this mouth-watering device can also make pasta shells, dumplings, Japanese ramen, and lasagna. [[24]] With fine food technology like this, many kitchen headaches are a thing of the past.
+@end
+
+Q 21 | bank | Unit 48
+stem: （第 21 格）請由方框中選出最適合的句子。
+= C
+~! 承接「接下來是『揉麵』的步驟」，(C) 具體說明揉麵的動作——擠壓、拉伸、搓揉麵團直到有彈性，呼應後句「這個塑形過程」。
+
+Q 22 | bank | Unit 48
+stem: （第 22 格）請由方框中選出最適合的句子。
+= A
+~! 承接「把麵團擠壓成形」的敘述，(A) 以「選好形狀後終於可以煮麵了」承接，呼應後句「接著可以配醬料享用」。
+
+Q 23 | bank | Unit 48
+stem: （第 23 格）請由方框中選出最適合的句子。
+= E
+~! 承接「輸入人數、麵粉水蛋份量後按下 Start」，(E) 說明機器在短時間內就能完成製麵，呼應後句「這還不夠滿足」轉折語氣前的鋪陳。
+
+Q 24 | bank | Unit 48
+stem: （第 24 格）請由方框中選出最適合的句子。
+= D
+~! 承接「這台機器還能做義式餃子、拉麵、千層麵」，(D) 補充說明它也有各種麵粉與份量的設定，呼應全句強調的便利性。

@@ -1,0 +1,235 @@
+# Cloze Power-Up · Unit 43 — Energy (source pp. 144–146)
+# Transcribed from a scanned workbook PDF (uploaded by the teacher). Answers cross-checked against the
+# teacher-supplied answer key "43: BACDB BDCBA EAGHD FCIJB DAEB" — every one of the 24 answers matches.
+@section cloze-43 | Unit 43 | Energy | 綜合測驗・文意選填・篇章結構
+@pages 7,8,9
+@overview Cloze Power-Up Unit 43（Energy）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+Spread across six individual onshore wind farms, Fosen Vind is Europe's second largest wind power complex. It cost over a billion euros to construct and today generates enough electricity to power 800,000 Norwegian homes. Since commencing [[1]], it has more than doubled the country's capacity for producing wind power.
+
+In total, the Fosen Vind project boasts 278 giant turbines. These stand over eighty meters tall, reaching into the crisp Scandinavian sky. They also have impressive wing spans wider than a football field. [[2]] these giant turbines rotate around the clock, they produce a combined capacity of 1.05 gigawatts (GW) of electricity, literally out of thin air.
+
+The central Norwegian west coast, home to Fosen Vind's wind farms, [[3]] to be one of Europe's prime locations for generating this type of power. The region is extremely windy throughout the year, making it a(n) [[4]] for establishing wind farms. Among the half-dozen farms, two lie on the Fosen Peninsula while the Geitfjellet and Hitra sites are located on the nearby islands of Snillfjord and Hitra, respectively.
+
+[[5]] this advanced wind power facility, creating clean, renewable energy in this part of the world is now a breeze.
+@end
+
+Q 1 | choice | Unit 43
+stem: （第 1 格）
+A: structures
+B: operations
+C: requests
+D: categories
+= B
+~! commence operations：開始營運。
+
+Q 2 | choice | Unit 43
+stem: （第 2 格）
+A: As
+B: Wherever
+C: Whereas
+D: Unless
+= A
+~! As（因為／由於）：turbine 全天候轉動，因而（產出電力）。
+
+Q 3 | choice | Unit 43
+stem: （第 3 格）
+A: considers
+B: considering
+C: is considered
+D: has considered
+= C
+~! 主詞 the ... west coast 是被認為（is considered to be）的對象，用被動語態。
+
+Q 4 | choice | Unit 43
+stem: （第 4 格）
+A: intense debate
+B: costly project
+C: common practice
+D: ideal location
+= D
+~! 沿岸地區終年強風，使其成為設立風電場的「理想地點」，故選 (D) ideal location。
+
+Q 5 | choice | Unit 43
+stem: （第 5 格）
+A: Contrary to
+B: Thanks to
+C: On behalf of
+D: At the expense of
+= B
+~! 有了這座先進風電設施，產生潔淨能源變得輕而易舉，故以 (B) Thanks to 表「多虧了」。
+
+@passage
+Reason is the name of a very insightful short story written by acclaimed science fiction author Isaac Asimov. First [[6]] in 1941, it tells the story of two future humans working in outer space. Their task is to oversee the operations of highly intelligent robots on an important solar station. The purpose of this station is to collect "energy beams" from "the Sun" and then distribute this to the planets. The human inhabitants of these heavenly bodies can then enjoy [[7]] a dependable power source.
+
+Now, nearly a hundred years after Reason first appeared, it seems that a new age in solar power is indeed [[8]]. Research into creating potential space-based solar stations is currently under way in China, the US, and Japan. [[9]] there are several significant benefits to harnessing the sun's radiation in this fashion, these three superpowers' interest in such a project makes perfect sense.
+
+Without interference from Earth's shielding atmosphere or its clouds, far more solar energy could be collected and farmed in space. A station orbiting the planet at breakneck speed would also be able to avoid another [[10]] to such production. It's called "night," and it's the main cause of solar power harvesting being limited to daylight hours.
+
+In light of all these considerations, there's good reason to pursue such futuristic energy possibilities.
+@end
+
+Q 6 | choice | Unit 43
+stem: （第 6 格）
+A: publishing
+B: published
+C: to be published
+D: having been published
+= B
+~! First published in 1941：過去分詞片語，修飾主詞 it（= Reason），表被出版。
+
+Q 7 | choice | Unit 43
+stem: （第 7 格）
+A: bond with
+B: feedback on
+C: evidence of
+D: access to
+= D
+~! 人類得以享有「穩定可靠」的能源供給，故選 (D) access to。
+
+Q 8 | choice | Unit 43
+stem: （第 8 格）
+A: out of place
+B: in short supply
+C: on the horizon
+D: in the long run
+= C
+~! 太空太陽能的新時代似乎「即將來臨」，故選 (C) on the horizon。
+
+Q 9 | choice | Unit 43
+stem: （第 9 格）
+A: Once
+B: Since
+C: Until
+D: Yet
+= B
+~! Since（因為）：因為有這些好處，所以三大國有興趣順理成章。
+
+Q 10 | choice | Unit 43
+stem: （第 10 格）
+A: major barrier
+B: harsh remark
+C: realistic goal
+D: endless quest
+= A
+~! 太空站可避免的另一項「主要障礙」便是「夜晚」，故選 (A) major barrier。
+
+@group 二、文意選填
+@bank
+A: catastrophe
+B: sympathy
+C: households
+D: victims
+E: distinct
+F: injured
+G: explosions
+H: deafening
+I: desperate
+J: deployed
+
+@passage
+It was a hot summer's night and about to get even hotter. Just before 9 p.m. on that fateful evening, local residents reported seeing a pale smoke rising from round manhole covers in the street. The [[11]] smell of gas too was in the air and raised a few concerned eyebrows.
+
+Those with suspicions that [[12]] was about to strike did not have to wait long for their fears to be affirmed. Three minutes before midnight, a spine-chilling series of [[13]] rocked two districts of Kaohsiung, Taiwan's third-largest city.
+
+The [[14]] blasts tore up six kilometers of silent street and tipped two-ton vehicles over like shoeboxes. They produced flames towering up to skyscraper heights, and sent frightening fireballs flying through the shattered night sky. Giant gaps appeared where solid roads had once been to swallow up trucks, and scooters and [[15]] alike were shot several stories into the air.
+
+These horrifying scenes were brought about by one of the worst energy disasters in the island's history. Over thirty people lost their lives, and more than three hundred were [[16]] as a direct result of the lethal leaks. The gas feed to 23,000 plus homes was, moreover, instantly cut off, while a further 12,000 [[17]] were left without power.
+
+Injured parties were transported to at least twenty different hospitals around the city, and [[18]] relief work continued throughout the night. By morning, August 1, 2014, some of the fires were still blazing away and schools and offices had to be closed for the day.
+
+In the wake of the disaster, thousands of police, medical, and military personnel were [[19]] to assist with rescue and recovery efforts. Messages of [[20]] and support flooded in from all over the world. At last, extensive repair work was finally able to begin amid all the chemically created chaos.
+@end
+
+Q 11 | bank | Unit 43
+stem: （第 11 格）
+= E
+~! 街上瀰漫的瓦斯味十分「明顯」，故選 (E) distinct。
+
+Q 12 | bank | Unit 43
+stem: （第 12 格）
+= A
+~! 居民懷疑「災難」即將發生，故選 (A) catastrophe。
+
+Q 13 | bank | Unit 43
+stem: （第 13 格）
+= G
+~! 震驚的一連串「爆炸」襲擊高雄兩個行政區，故選 (G) explosions。
+
+Q 14 | bank | Unit 43
+stem: （第 14 格）
+= H
+~! 「震耳欲聾」的爆炸炸毀街道並掀翻車輛，故選 (H) deafening。
+
+Q 15 | bank | Unit 43
+stem: （第 15 格）
+= D
+~! scooters and victims alike：機車與罹難者皆被炸飛，people 與 vehicles 並列。
+
+Q 16 | bank | Unit 43
+stem: （第 16 格）
+= F
+~! 三百多人因氣爆而「受傷」，故選 (F) injured。
+
+Q 17 | bank | Unit 43
+stem: （第 17 格）
+= C
+~! 一萬兩千多「戶」人家因而斷電，故選 (C) households。
+
+Q 18 | bank | Unit 43
+stem: （第 18 格）
+= I
+~! 救援工作在「急迫」的情況下徹夜進行，故選 (I) desperate。
+
+Q 19 | bank | Unit 43
+stem: （第 19 格）
+= J
+~! 警消醫護與軍方人員被「派遣」支援救災，故選 (J) deployed。
+
+Q 20 | bank | Unit 43
+stem: （第 20 格）
+= B
+~! 來自世界各地的「慰問」與支持湧入，故選 (B) sympathy。
+
+@group 三、篇章結構
+@bank
+A: In the elephantnose fish, this is located in the tail and stacked with what are called "electrocytes."
+B: These alert the fish to any variations in the field, enabling it to sense the location and size of nearby objects.
+C: The elephantnose fish's unique adaptation allows it to navigate and communicate effectively in complete darkness.
+D: We might therefore be justifiably jealous of certain other living creatures that produce power with comparative ease.
+E: At the one end of each, the electric fields will be reversed so that the positive charge is now on the interior, and the negative without.
+
+@passage
+Mankind goes to an awful lot of trouble to generate electricity, and we all know why. In the absence of this precious energy commodity, our appliance-assisted, well-lit lives would probably fall to pieces.
+
+[[21]] The elephantnose fish is an example. This astonishing natural phenomenon not only has a long and thin, trunk-like mouth. It also has a built-in biological "battery" at the opposite end of its body!
+
+This incredible internal organic power point is, not shockingly at all, known as an electric organ. [[22]] Though admittedly a mouthful, electrocytes are simply disc-shaped cells with a negative charge on the inside, and a positive charge on the outside.
+
+Whenever the elephantnose fish is threatened by predators larger than itself, its brain sends very deliberate instructions to these cells. [[23]] In consequence, an electric current is generated which, assuming all the electrolytes are working together as is the norm, produces a single fishy volt (V). Though this is half a volt less than a manmade AA battery creates, it can nonetheless keep hungry visitors at least a meter away.
+
+In addition to this, elephantnose fish also come equipped with unique skin cells which are tuned into the electric field surrounding them. [[24]] All in all, the elephantnose fish therefore generates and uses electric power and principles to great effect. What science fails to explain as yet is how exactly these curious creatures do not shock themselves silly in the process.
+@end
+
+Q 21 | bank | Unit 43
+stem: （第 21 格）請由方框中選出最適合的句子。
+= D
+~! 承接前段「人類煞費苦心發電」的鋪陳，(D) 以此感嘆帶出後句 The elephantnose fish is an example 的例子，語意最自然。
+
+Q 22 | bank | Unit 43
+stem: （第 22 格）請由方框中選出最適合的句子。
+= A
+~! 緊接著引出下一句 "Though admittedly a mouthful, electrocytes are ..." 中的 electrocytes 一詞。
+
+Q 23 | bank | Unit 43
+stem: （第 23 格）請由方框中選出最適合的句子。
+= E
+~! 承接「大腦向這些細胞下達指令」，(E) 說明細胞如何藉由正負電荷反轉來產生電流，呼應後句 In consequence, an electric current is generated。
+
+Q 24 | bank | Unit 43
+stem: （第 24 格）請由方框中選出最適合的句子。
+= B
+~! 承接「皮膚細胞能感應周遭電場」的敘述，(B) 具體說明這些細胞的功用——偵測物體位置與大小。

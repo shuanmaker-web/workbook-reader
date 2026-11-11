@@ -1,0 +1,229 @@
+# Cloze Power-Up · Unit 47 — Technology (source pp. 156–158)
+# Transcribed from a scanned workbook PDF (uploaded by the teacher). Answers cross-checked against the
+# teacher-supplied answer key "47: BCCAB BCCAD GJDCF IHABE ABDC" — every one of the 24 answers matches.
+@section cloze-47 | Unit 47 | Technology | 綜合測驗・文意選填・篇章結構
+@pages 7,8,9
+@overview Cloze Power-Up Unit 47（Technology）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+Ever glanced down at your phone and wondered what the "G" in 4G or 5G stands for? The answer is "Generation." A 5G mobile network is thus a fifth generation or version which has been [[1]] by four similar systems.
+
+As one might expect from this step-up in cellular technology, it aims to make phone and online services more reliable. It also promises to boost the speed of data transmission by reducing "latency." Latency refers to the delay in the transfer of information, measured in milliseconds, across mobile networks. Online gamers often [[2]] many missed targets [[2]] this type of delay. Similarly, anyone streaming a concert or sporting event on their smart devices "in real time" might notice that the [[3]] are actually lagging slightly behind the live action. This difference can often make the viewing experience less fluid and enjoyable.
+
+The degree [[4]] latency can be lowered depends on how rapidly data can be transmitted to the receiver. Since the 5G of the future will carry more gigabits per second (Gbps) than ever before, this could greatly reduce delay by ten times. Accelerating information transfer by this [[5]] won't just make for a better streaming or gaming experience. It could also make the remote operation of engineering or medical instruments safer and more effective, and even save lives.
+@end
+
+Q 1 | choice | Unit 47
+stem: （第 1 格）
+A: proceeded
+B: preceded
+C: progressed
+D: processed
+= B
+~! has been preceded by four similar systems：被動語態，表示「在此之前已有四代」（1G–4G）。
+
+Q 2 | choice | Unit 47
+stem: （第 2 格，共用一組答案，句中出現兩次）
+A: accused...of
+B: mistook...for
+C: blamed...on
+D: showered...with
+= C
+~! blame A on B：把 A 歸咎於 B；玩家常把許多失手歸咎於這種延遲。
+
+Q 3 | choice | Unit 47
+stem: （第 3 格）
+A: audio descriptions
+B: transmission devices
+C: displayed images
+D: Internet browsers
+= C
+~! 串流時畫面落後於現場實況，指「顯示的畫面」落後。
+
+Q 4 | choice | Unit 47
+stem: （第 4 格）
+A: to which
+B: which
+C: where
+D: what
+= A
+~! the degree to which...：…的程度；介係詞 to 與先行詞 degree 的固定搭配。
+
+Q 5 | choice | Unit 47
+stem: （第 5 格）
+A: aspect
+B: margin
+C: option
+D: rhythm
+= B
+~! by this margin：以此幅度（這裡指延遲可降低十倍之多）。
+
+@passage
+These days, magic has evolved far beyond the traditional tricks of guessing mystery playing cards or hiding coins between skillful fingers. It's no longer confined to the classic performance of producing snow-white pigeons from pitch-black hats, either. That's because modern magic acts have perfectly [[6]] new technologies to create illusions on a grander scale.
+
+Proof that magic is modernizing lies in the growing trend of magicians [[7]] AI assistants rather than human ones. These highly intelligent, non-human helpers enable magicians to perform their classic tricks in more sophisticated and innovative ways.
+
+Without revealing any trade secrets, modern magicians also make use of robots to perform certain parts of their acts with great precision unmatched by humans. This [[8]] from certain mechanical tasks allows the human entertainer to focus more on the psychological aspects of the performance and to better connect with the audience.
+
+In addition, computer-generated imagery is now extensively used to create more complex and captivating illusions. Utilizing CGI technology, magicians manipulate images and screens at speeds faster than what the human eye can perceive. This incorporation of technology elevates their performances, [[9]] between reality and the supernatural. The audience is thus left in awe, wondering what is real and what is masterful illusion.
+
+It is fair to say that the modern magician is [[10]] a master of technology as a master of deception. Thanks to technological advances, magicians now have a whole new bag of tricks that seem to work like magic!
+@end
+
+Q 6 | choice | Unit 47
+stem: （第 6 格）
+A: comprised
+B: integrated
+C: resorted
+D: submitted
+= B
+~! integrate A into B：將 A 融入 B；此處指將新科技完美融入魔術表演。
+
+Q 7 | choice | Unit 47
+stem: （第 7 格）
+A: use
+B: to use
+C: using
+D: used
+= C
+~! the trend of magicians using...：動名詞片語當 trend of 的受詞，magicians 為動名詞的邏輯主詞。
+
+Q 8 | choice | Unit 47
+stem: （第 8 格）
+A: emigration
+B: disclosure
+C: liberation
+D: indifference
+= C
+~! liberation from...：從…中解放；擺脫機械性任務後能更專注於表演的心理層面。
+
+Q 9 | choice | Unit 47
+stem: （第 9 格）
+A: blurring the boundaries
+B: heightening the tension
+C: breaking the mold
+D: exploring the unknown
+= A
+~! blur the boundaries between A and B：模糊 A 與 B 之間的界線（真實與超自然之間）。
+
+Q 10 | choice | Unit 47
+stem: （第 10 格）
+A: more of
+B: not quite
+C: just as
+D: as much
+= D
+~! as much A as B：和 B 一樣地是 A；現代魔術師既是科技大師，也同樣是欺眼大師。
+
+@group 二、文意選填
+@bank
+A: reintroduced
+B: clipped
+C: pleasant
+D: form
+E: failure
+F: bare
+G: portable
+H: depressed
+I: satisfaction
+J: knock
+
+@passage
+It made quite a splash in computing circles when one of the world's leading laptop producers introduced their all new "butterfly keyboard" in 2015. This feature allowed them to create slim, lightweight notebook computers that were more [[11]] than ever before, fitting easily in a handbag.
+
+On the surface, it promised to be an industry "game changer," but it didn't take long for the innovation to take a heavy [[12]]. Unfortunately, in favoring [[13]] over function to such an unprecedented degree, the company had lost sight of the overall user experience. The keyboard's keys turned out to be so thin that customers soon complained that the distinct lack of "travel" cushioning was not very [[14]] to the touch.
+
+The "travel" of a computer key is the distance it moves down to reach its activation point when pressed. After the manufacturer had slashed this down to the [[15]] minimum of one millimeter, it didn't take long for everyone to put their finger on the problem. To make matters worse, typing was now found to be a far louder activity than before. Thinner keys, it seems, made for noisier devices and this too had a negative impact on consumer [[16]] levels across the board. When new models came out the following year, "butterfly" keys were reported to be sticking or not responding at all when [[17]].
+
+Four years of complaints, repairs, maintenance, and redesign later, the tech giant finally [[18]] their old yet trusty "scissor switch" keyboards. The butterfly's wings had finally been [[19]], and fans welcomed the return of quieter, more durable keys.
+
+So which company was it that was responsible for this key product [[20]]? Well, let's just say that if they hadn't shelved the idea pretty quickly, it could well have been a bad apple. Fortunately for them, butterfly keyboards never quite took off.
+@end
+
+Q 11 | bank | Unit 47
+stem: （第 11 格）
+= G
+~! 筆電因蝴蝶鍵盤而變得更「輕便」，更容易放進手提包，故選 (G) portable。
+
+Q 12 | bank | Unit 47
+stem: （第 12 格）
+= J
+~! take a heavy knock：受到重創、吃了大虧。
+
+Q 13 | bank | Unit 47
+stem: （第 13 格）
+= D
+~! 公司過度重視「外型」而非功能，故選 (D) form。
+
+Q 14 | bank | Unit 47
+stem: （第 14 格）
+= C
+~! 按鍵缺乏緩衝，觸感不「舒適」，故選 (C) pleasant。
+
+Q 15 | bank | Unit 47
+stem: （第 15 格）
+= F
+~! the bare minimum：最低限度。
+
+Q 16 | bank | Unit 47
+stem: （第 16 格）
+= I
+~! 按鍵變薄導致打字聲音變大，對消費者「滿意度」造成負面影響，故選 (I) satisfaction。
+
+Q 17 | bank | Unit 47
+stem: （第 17 格）
+= H
+~! when (they were) depressed：被按下時；depress 此處作「按壓」解。
+
+Q 18 | bank | Unit 47
+stem: （第 18 格）
+= A
+~! 蝴蝶鍵盤最終被公司「重新採用」舊式剪刀腳鍵盤，故選 (A) reintroduced。
+
+Q 19 | bank | Unit 47
+stem: （第 19 格）
+= B
+~! have one's wings clipped：（雙關）被剪去羽翼，意指蝴蝶鍵盤的發展受到限制、終止。
+
+Q 20 | bank | Unit 47
+stem: （第 20 格）
+= E
+~! 追問是哪家公司該為這項關鍵產品的「失敗」負責，故選 (E) failure（與 key 雙關：按鍵／關鍵）。
+
+@group 三、篇章結構
+@bank
+A: Then, of course, there's the ever-present threat of getting wet.
+B: Leading smartphone manufacturers are now able to produce virtually dust-proof devices.
+C: It won't be long before owners of e-readers and tablets no longer consider the beach out of bounds, either.
+D: They store 4GB of audio to entertain swimmers and comfortably withstand marine depths of two meters.
+E: In recent years, nanotechnology advancements have been critical for reducing heavy metal pollution in beach environments.
+
+@passage
+It's long been assumed that high-tech devices and the beach simply don't mix. Holiday hotspots, after all, hold plenty of perils for such instruments. Despite precautions, sand mysteriously worms its way into electrical ports and swiftly scratches screens. [[21]] Exposure to salty seawater is especially notorious for hampering technological performance, and depths of merely a meter inevitably seal the fate of anything smart. In addition, it can cause harm to the internal components of devices, causing problems like rust and malfunctions.
+
+Fortunately, this is not the case anymore. [[22]] These incredible gadgets can also remain a full six meters underwater for half an hour, without coming to any harm. The trend toward beach-friendly tech is also extending to other electronic essentials. The latest Bluetooth speakers are waterproof up to one meter for thirty minutes and boast a battery life that can keep the party going for twenty hours. Modern earphones allow users to plunge in for a salty swim without any phone or stereo. [[23]] Apart from the above devices, there's also the underwater camera available. It operates up to 10 meters deep and has a durable battery, allowing around 70 minutes of continuous recording. Users have successfully used this camera for snorkeling, kayaking, and water rides at amusement parks.
+
+In conclusion, technology has significantly evolved to overcome the challenges of beach environments. [[24]] These innovations not only enrich our experiences but also broaden the scope of using electronics, making the beach more accessible and enjoyable for tech lovers.
+@end
+
+Q 21 | bank | Unit 47
+stem: （第 21 格）請由方框中選出最適合的句子。
+= A
+~! 承接「沙子容易卡進插孔、刮傷螢幕」的敘述，(A) 以「當然還有浸水的威脅」承接，呼應下一句談海水腐蝕的問題。
+
+Q 22 | bank | Unit 47
+stem: （第 22 格）請由方框中選出最適合的句子。
+= B
+~! 承接「現在已經不是這樣了」，(B) 說明手機製造商已能生產防塵裝置，引出後句「也能防水六公尺」。
+
+Q 23 | bank | Unit 47
+stem: （第 23 格）請由方框中選出最適合的句子。
+= D
+~! 承接「耳機讓使用者不必帶手機或音響就能游泳」，(D) 描述另一種防水音樂裝置的規格，再接「除了上述裝置，還有防水相機」。
+
+Q 24 | bank | Unit 47
+stem: （第 24 格）請由方框中選出最適合的句子。
+= C
+~! 承接「科技已能克服海灘環境的挑戰」的總結句，(C) 以「電子閱讀器與平板也將不再是禁區」作為展望收尾。

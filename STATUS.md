@@ -26,3 +26,17 @@
 18. 答案與中文詞義在 Vocaboo 已與教材官方解答逐題核對,所以沒有「推導」標記。解析只有「詞義」(原形、詞性、中文)與「原文」(填入答案的完整句子),書上若有更詳細的解析尚未收錄。
 19. 題目文字是照片轉錄。Vocaboo 的 CHECKLIST 標記 U19、29、33、35、44、45、55–58 可能有轉錄誤差,這些單元的導讀已註明請抽查。
 20. dictionary.js 已用 ECDICT 重新產生(原有字義完全不變),新增 Level 3–5 題目用到的字;臺東、the Wangs 等專有名詞放在 CONTEXT。
+
+## Cloze Power-Up Unit 41–44「Energy」(2026-11-12,來自老師上傳的 PDF 掃描)
+21. 題目文字由老師上傳的 PDF(`UNIT 41/42/43/44 — Energy`)逐題轉錄為 `material/cloze-41.txt`–`cloze-44.txt`,每單元固定結構:一、綜合測驗(1–10,選擇題,兩篇各 5 格);二、文意選填(11–20,A–J 選項);三、篇章結構(21–24,A–E 選項),共 96 題。
+22. **答案已與老師提供的解答逐字核對、全部相符**(老師給的格式:`41: CABDA DBCAC FDBIAJGCHE BAEC` 這類 24 字母一串,對應 Q1–24),不是 Claude 推導的答案。
+23. 但每題的「解析」說明文字是 Claude 另外撰寫的(PDF 本身沒有印解析),已統一標示「推導」,請老師抽查解析內容是否恰當;答案本身不需要再核對。
+24. 暫時歸在 **Cloze Power-Up**(克漏字開外掛)這本書底下,因為三個子題型(綜合測驗、文意選填、篇章結構)都是克漏字類型的題目;如果老師覺得應該放在別本,可以再移動(只需調整 `tools/build_data.py` 的 `UNITS`)。
+25. Pavegen、Fosen Vind、GoSun、Bloom Energy、electrocytes、elephantnose 等新專有名詞已加進 `CONTEXT` 字典;dictionary.js 已用 ECDICT 重新產生。CACHE 版本已更新為 `workbook-reader-v6`。
+
+## Cloze Power-Up Unit 45–48「Technology」(2026-11-12,來自老師上傳的 PDF 掃描)
+26. 題目文字由老師上傳的 PDF(`UNIT 45/46/47/48 — Technology`)逐題轉錄為 `material/cloze-45.txt`–`cloze-48.txt`,結構與 Unit 41–44 相同:一、綜合測驗(1–10,選擇題,兩篇各 5 格);二、文意選填(11–20,A–J 選項);三、篇章結構(21–24,A–E 選項),共 96 題。主題包括 SlothBot、人臉辨識、自動駕駛列車(Unit 45)、垂直農場、觸控螢幕、冷氣機發明、iFetch 自動丟球機(Unit 46)、5G、AI 魔術表演、蝴蝶鍵盤、防水科技(Unit 47)、嬰兒智慧襪、《駭客任務》劇情、腦震盪感測牙套、智慧義大利麵機(Unit 48)。
+27. **答案已與老師提供的解答逐字核對、全部相符**(老師給的格式:`45: BDABD CCBCD EAFGB CIHDJ DCAB` 這類 24 字母一串,對應 Q1–24),不是 Claude 推導的答案。
+28. 但每題的「解析」說明文字是 Claude 另外撰寫的(PDF 本身沒有印解析),已統一標示「推導」,請老師抽查解析內容是否恰當;答案本身不需要再核對。
+29. 暫時歸在 **Cloze Power-Up**(克漏字開外掛)這本書底下,和 Unit 41–44 並列;如果老師覺得應該放在別本,可以再移動(只需調整 `tools/build_data.py` 的 `UNITS`)。
+30. Dong Nguyen(Flappy Bird 開發者)、河內、Faby、JR(Japan Railways)、Siemens、漢堡、復興號、北京、Willis Carrier、iFetch、Neo、The Matrix 等新專有名詞已加進 `CONTEXT` 字典;dictionary.js 已用 ECDICT 重新產生。CACHE 版本已更新為 `workbook-reader-v7`。

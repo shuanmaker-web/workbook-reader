@@ -1,0 +1,237 @@
+# Cloze Power-Up · Unit 44 — Energy (source pp. 147–149)
+# Transcribed from a scanned workbook PDF (uploaded by the teacher). Answers cross-checked against the
+# teacher-supplied answer key "44: DCBAD CBDAB EAHGF CDBJI ADEB" — every one of the 24 answers matches.
+@section cloze-44 | Unit 44 | Energy | 綜合測驗・文意選填・篇章結構
+@pages 10,11,12
+@overview Cloze Power-Up Unit 44（Energy）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+When one thinks of sugar cane, human rather than mechanical fuel probably comes more readily to mind. A single thirty-gram serving of pure sugar cane juice delivers around a hundred calories. It also provides over twenty grams' worth of carbohydrates, those reviving organic compounds living tissues use to store energy.
+
+[[1]] the majority of consumers with a sweet tooth might not realize, however, is that sugar cane has the capacity to fuel artificial objects. By crushing sugar cane stalks, the energy-rich internal juices can be extracted and collected. [[2]], a refined liquid is combined with a family of single-celled organisms known as Saccharomyces cerevisiae yeast.
+
+These industrious microorganisms break down the sticky substance on a chemical level, generating bubbles and heat akin to the process observed in the preparation of beer and other [[3]]. This warm, bubbly liquid is colloquially referred to as "beer" due to its alcohol content, ranging from five to twelve percent ethanol.
+
+Following two additional purifying processes, the result is 100% ethanol—a potent "biofuel" or biological fuel [[4]] powering vehicles of various types. Moreover, it can be blended with conventional petroleum, gasoline, and diesel, producing environmentally friendlier fuel [[5]]. Who knew a plant could double as a tasty treat and fuel for your car? Sugar cane is truly a jack of all trades!
+@end
+
+Q 1 | choice | Unit 44
+stem: （第 1 格）
+A: That
+B: Whether
+C: Anything
+D: What
+= D
+~! What ... might not realize is that S + V ...：分裂句型，What 引導名詞子句當主詞。
+
+Q 2 | choice | Unit 44
+stem: （第 2 格）
+A: Strangely
+B: Similarly
+C: Subsequently
+D: Surprisingly
+= C
+~! 榨汁後「接著」將其與酵母菌混合發酵，故選 (C) Subsequently。
+
+Q 3 | choice | Unit 44
+stem: （第 3 格）
+A: fragrant blossoms
+B: alcoholic beverages
+C: exotic delicacies
+D: memorable melodies
+= B
+~! 發酵過程產生的氣泡與熱類似釀造啤酒等「含酒精飲料」的過程，故選 (B) alcoholic beverages。
+
+Q 4 | choice | Unit 44
+stem: （第 4 格）
+A: capable of
+B: ashamed of
+C: eager for
+D: grateful for
+= A
+~! 純乙醇是一種「能夠」驅動各式車輛的生質燃料，故選 (A) capable of。
+
+Q 5 | choice | Unit 44
+stem: （第 5 格）
+A: trademarks
+B: exhibitions
+C: institutes
+D: alternatives
+= D
+~! 與石油、汽油、柴油混合後，產生對環境更友善的燃料「替代品」，故選 (D) alternatives。
+
+@passage
+Children are supposed to be full of energy. Sadly, a lot of that abundant inner drive is nowadays being wasted on electronic devices and computerized games. In countless schools and parks, play areas [[6]] and sports fields are growing silent.
+
+Playground Energy is a company on a mission to arrest this worrying trend. Its founders are just as determined to get kids to once again be their old active selves. With projects scattered across Europe, and a(n) [[7]] in both Australia and the US, they're playing an increasingly important part worldwide.
+
+Playground Energy creates all the usual playground attractions—swings, seesaws, rocking horses, etc. But they add a clever and energizing twist. Equipped with special generators, its [[8]] are able to convert kinetic energy, the energy of movement, into electrical and other forms. [[9]] playing children set one of these swaying, spinning, or swinging pieces of equipment into motion, they can power various applications set up around the play area. Simply by having good old-fashioned, energy-draining physical fun, they can light up multi-colored lights or toys. They can also produce fun, pre-recorded sound effects. Their activities can even be [[10]] powering music-playing Bluetooth speakers.
+
+As one might expect, such eye-catching and exciting features are a great motivation for kinetic kids to move even more!
+@end
+
+Q 6 | choice | Unit 44
+stem: （第 6 格）
+A: have neglected
+B: are neglecting
+C: are being neglected
+D: have been neglecting
+= C
+~! play areas（被）忽視：主詞是被忽視的對象，用現在進行式被動 are being neglected。
+
+Q 7 | choice | Unit 44
+stem: （第 7 格）
+A: reaction
+B: presence
+C: accuracy
+D: costume
+= B
+~! Playground Energy 在澳洲與美國也有「據點」，呼應前句 projects scattered across Europe，故選 (B) presence。
+
+Q 8 | choice | Unit 44
+stem: （第 8 格）
+A: impulsive purchases
+B: hospitable features
+C: distinctive symbols
+D: innovative products
+= D
+~! 裝有特殊發電機的遊具是公司的「創新產品」，能將動能轉為電能，故選 (D) innovative products。
+
+Q 9 | choice | Unit 44
+stem: （第 9 格）
+A: Whenever
+B: Even though
+C: Whether
+D: No matter who
+= A
+~! 「每當」孩童讓遊具擺動、旋轉，就能產生電力，故選 (A) Whenever。
+
+Q 10 | choice | Unit 44
+stem: （第 10 格）
+A: set aside
+B: channeled into
+C: embarked on
+D: conformed to
+= B
+~! 孩童玩耍的活動甚至能被「導入」為藍牙喇叭供電，故選 (B) channeled into。
+
+@group 二、文意選填
+@bank
+A: interrupt
+B: inhabitants
+C: victims
+D: access
+E: crises
+F: exposed
+G: implemented
+H: prevented
+I: investigate
+J: supply
+
+@passage
+On the last two days of July 2012, a substantial section of India was plunged into a powerless pit. In terms of the number of people affected, it was, indeed, among the most severe energy [[11]] in recorded history.
+
+The drama began in the early hours of July 30 with the tripping of a mainline "circuit breaker," which is a device that can safely [[12]] an excessively large electric current. Damage to the circuit and equipment it passes through can then be [[13]].
+
+In this particular case, however, the circuit breaker [[14]] its task a little too well. It triggered a series of similar interruptions at a power station where the line was connected. This, in turn, provoked a whole chain of pauses in power in other lines.
+
+This then spilled over into neighboring states and [[15]] the failings of several ill-equipped backup systems. Before they knew what had struck them, a staggering 230 million people across northern and eastern India found themselves the [[16]] of a massive blackout. They also found themselves without a single spark of electricity.
+
+Homes, water treatment plants and electric pumps, hospitals, trains, and even airports without [[17]] to backup generators were soon in the same boat. By morning, a quarter of the country's [[18]] were back in the pre-power 19th century and a frantic fifteen hours were spent just to regain 80% capacity.
+
+Sad to say, the next day was even worse. A faulty electric switch downed multiple recovering power stations once again at around lunchtime, eventually impacting the electricity [[19]] in 22 of India's 28 states.
+
+This time, a shocking 600 million people—half of the world's population and nearly 10% of the world's—were left powerless. As civic services ground to a silent halt, even the National Disaster Management Authority was called in to [[20]]. It was by far the biggest blackout the world has ever witnessed.
+@end
+
+Q 11 | bank | Unit 44
+stem: （第 11 格）
+= E
+~! 2012 年印度大停電是史上最嚴重的能源「危機」之一，故選 (E) crises。
+
+Q 12 | bank | Unit 44
+stem: （第 12 格）
+= A
+~! 電路斷路器能安全地「截斷」過大的電流，故選 (A) interrupt。
+
+Q 13 | bank | Unit 44
+stem: （第 13 格）
+= H
+~! 電路與設備因而能被「預防」損壞，故選 (H) prevented。
+
+Q 14 | bank | Unit 44
+stem: （第 14 格）
+= G
+~! implement one's task：執行、落實任務；此處指斷路器「過度盡責」而觸發了連鎖跳電。
+
+Q 15 | bank | Unit 44
+stem: （第 15 格）
+= F
+~! 事故蔓延至鄰近各邦，並「暴露」出備用系統的缺失，故選 (F) exposed。
+
+Q 16 | bank | Unit 44
+stem: （第 16 格）
+= C
+~! 兩億三千萬人瞬間成為大停電的「受害者」，故選 (C) victims。
+
+Q 17 | bank | Unit 44
+stem: （第 17 格）
+= D
+~! 醫院、機場等場所缺乏備用發電機的「取用」，故選 (D) access。
+
+Q 18 | bank | Unit 44
+stem: （第 18 格）
+= B
+~! 四分之一人口（居民）瞬間回到無電的 19 世紀，故選 (B) inhabitants。
+
+Q 19 | bank | Unit 44
+stem: （第 19 格）
+= J
+~! 停電影響了印度 22 個邦的電力「供應」，故選 (J) supply。
+
+Q 20 | bank | Unit 44
+stem: （第 20 格）
+= I
+~! 國家災害管理局被請來「調查」此事，故選 (I) investigate。
+
+@group 三、篇章結構
+@bank
+A: Unfortunately for humans, hydrogen in gas form is relatively rare.
+B: Worldwide, therefore, things are looking promising for hydrogen power and its human advocates.
+C: Hydrogen can also be used to power spaceships, showing it can do more than just benefit us here on Earth.
+D: Fueling stations for vehicles powered by hydrogen fuel cells are popping up all over these five countries.
+E: These machines, developed at the University of Melbourne, could potentially be used to isolate zero-carbon hydrogen simply by tapping into moisture in the air.
+
+@passage
+Around a quarter of everything in the known universe is made up of its most abundant element: hydrogen. It's rather plentiful down here on Earth too. Hence, you'll find its atoms in virtually all earthly things: plants, animals, and water. It's also present, of course, in the other important "h": humans.
+
+[[21]] The reason this is a pity is that hydrogen gas is a fantastically clean renewable energy alternative to fossil fuels. Electricity can be used very efficiently to obtain hydrogen from water with no harmful byproducts. Secondly, no world-warming CO2 is produced when hydrogen is burned to create energy. When utilized in fuel cells, in fact, the only "extra" formed in combustion (burning), is good old H2O.
+
+Germany, South Korea, China, Japan, and America are all well aware of these benefits. [[22]] China, in particular, is buying into this green technology in a big way and already has over ten thousand hydrogen-powered cars and trucks on its roads. Relying on many more of these, as well as electric vehicles, in years to come, they hope to have achieved net-zero carbon emissions for everything on wheels by 2050.
+
+Australia, similarly, is making substantial investments in solar-powered hydrogen harnessing devices. [[23]] Functioning prototypes are already doing just that, and a ten-square-meter unit, they claim, will be all that's needed to fuel home cooking and heating.
+
+[[24]] With research, innovation, and a bit of luck, this truly natural gas will hopefully be powering a lot more for us in the future.
+@end
+
+Q 21 | bank | Unit 44
+stem: （第 21 格）請由方框中選出最適合的句子。
+= A
+~! 承接前段氫為宇宙中最豐富元素的敘述，(A) 說明對人類而言，氣態氫其實「相對稀少」，呼應後句 The reason this is a pity。
+
+Q 22 | bank | Unit 44
+stem: （第 22 格）請由方框中選出最適合的句子。
+= D
+~! these five countries 指前句列出的 Germany, South Korea, China, Japan, America。
+
+Q 23 | bank | Unit 44
+stem: （第 23 格）請由方框中選出最適合的句子。
+= E
+~! 下一句 Functioning prototypes are already doing just that 的 that 即指此句描述的裝置功能。
+
+Q 24 | bank | Unit 44
+stem: （第 24 格）請由方框中選出最適合的句子。
+= B
+~! 呼應前文各國氫能發展的敘述，(B) 以此作結，呼應後句 this truly natural gas will hopefully be powering a lot more。

@@ -42,6 +42,14 @@ UNITS = [
     {'id': 'u2', 'book': 'dmg', 'title': 'Unit 2', 'sub': '單字、片語・文意選填・篇章結構・閱讀測驗'},
     {'id': 'u3', 'book': 'dmg', 'title': 'Unit 3', 'sub': '開頭：單字表'},
     {'id': 'tr', 'book': 'dmg', 'title': '翻譯', 'sub': '翻譯（一）表目的句法・翻譯（二）以動詞開頭'},
+    {'id': 'cz41', 'book': 'cloze', 'title': 'Unit 41', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz42', 'book': 'cloze', 'title': 'Unit 42', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz43', 'book': 'cloze', 'title': 'Unit 43', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz44', 'book': 'cloze', 'title': 'Unit 44', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz45', 'book': 'cloze', 'title': 'Unit 45', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz46', 'book': 'cloze', 'title': 'Unit 46', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz47', 'book': 'cloze', 'title': 'Unit 47', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz48', 'book': 'cloze', 'title': 'Unit 48', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
 ]
 assert all(u['book'] in {b['id'] for b in BOOKS} for u in UNITS), 'unit with unknown book'
 # section id -> (unit, title, english, range, pages, overview) for sections whose file has no full @section header
@@ -54,7 +62,9 @@ VOCAB_META = {
                  'Unit 3 目前只有開頭一頁的單字表，其餘內容之後再補。'),
 }
 # sections whose id prefix is not the unit id
-UNIT_OF = {'tr-1': 'tr', 'tr-2': 'tr'}
+UNIT_OF = {'tr-1': 'tr', 'tr-2': 'tr',
+           'cloze-41': 'cz41', 'cloze-42': 'cz42', 'cloze-43': 'cz43', 'cloze-44': 'cz44',
+           'cloze-45': 'cz45', 'cloze-46': 'cz46', 'cloze-47': 'cz47', 'cloze-48': 'cz48'}
 
 # Level 3–5 (imported from Vocaboo by tools/import_vocaboo.py): one section per workbook unit,
 # material/l35-NN.txt, grouped ten units per sidebar group.
@@ -66,12 +76,18 @@ for n in L35_UNITS:
     UNIT_OF[f'l35-{n:02d}'] = f'l35g{(n - 1) // 10 + 1}'
 ORDER = ['u1-vocab', 'u1-drill', 'u1-cloze', 'u1-struct', 'u1-reading',
          'u2-vocab', 'u2-drill', 'u2-cloze', 'u2-struct', 'u2-reading', 'u3-vocab',
-         'tr-1', 'tr-2']
+         'tr-1', 'tr-2',
+         'cloze-41', 'cloze-42', 'cloze-43', 'cloze-44',
+         'cloze-45', 'cloze-46', 'cloze-47', 'cloze-48']
 FILES = {'u1-vocab': 'u1-words.txt', 'u1-drill': 'u1-drill.txt', 'u1-cloze': 'u1-cloze.txt',
          'u1-struct': 'u1-struct.txt', 'u1-reading': 'u1-reading.txt',
          'u2-vocab': 'u2-words.txt', 'u2-drill': 'u2-drill.txt', 'u2-cloze': 'u2-cloze.txt',
          'u2-struct': 'u2-struct.txt', 'u2-reading': 'u2-reading.txt', 'u3-vocab': 'u3-words.txt',
-         'tr-1': 'trans-1.txt', 'tr-2': 'trans-2.txt'}
+         'tr-1': 'trans-1.txt', 'tr-2': 'trans-2.txt',
+         'cloze-41': 'cloze-41.txt', 'cloze-42': 'cloze-42.txt',
+         'cloze-43': 'cloze-43.txt', 'cloze-44': 'cloze-44.txt',
+         'cloze-45': 'cloze-45.txt', 'cloze-46': 'cloze-46.txt',
+         'cloze-47': 'cloze-47.txt', 'cloze-48': 'cloze-48.txt'}
 ORDER += [f'l35-{n:02d}' for n in L35_UNITS]
 FILES.update({f'l35-{n:02d}': f'l35-{n:02d}.txt' for n in L35_UNITS})
 
@@ -325,6 +341,24 @@ CONTEXT = {
     'tom': '人名：Tom（湯姆）', 'david': '人名：David（大衛）',
     'taitung': '地名：臺東', 'wangs': '人名：the Wangs 王家（一家人）',
     'scammers': 'n. 詐騙者（scammer 的複數）', 'propagandas': 'n. 宣傳（propaganda 的複數）',
+    'kemball': '人名：Laurence Kemball-Cook，Pavegen 發電地磚的發明人', 'pavegen': '專有名詞：Pavegen（踩踏發電地磚品牌）',
+    'fosen': '地名：Fosen Vind（挪威大型風力發電複合案場）', 'geitfjellet': '地名：Geitfjellet（挪威風力發電場之一）',
+    'hitra': '地名：Hitra（挪威島嶼，風力發電場所在地）', 'snillfjord': '地名：Snillfjord（挪威島嶼，風力發電場所在地）',
+    'gosun': '專有名詞：GoSun（太陽能燒烤爐品牌）', 'bloom': '專有名詞：Bloom Energy Corporation（燃料電池公司）',
+    'saccharomyces': '生物學名：Saccharomyces cerevisiae 釀酒酵母菌', 'cerevisiae': '生物學名：Saccharomyces cerevisiae 釀酒酵母菌',
+    'electrocytes': 'n. 發電細胞（electrocyte 的複數，電魚體內產生電流的特化細胞）',
+    'elephantnose': '專有名詞：elephantnose fish 象鼻魚（一種能發電的非洲淡水魚）',
+    'asimov': '人名：Isaac Asimov（以撒・艾西莫夫，科幻小說家）', 'kaohsiung': '地名：高雄',
+    'melbourne': '地名：墨爾本（澳洲城市）',
+    'nguyen': '人名：Dong Nguyen（阮東，Flappy Bird 的開發者，越南人）', 'hanoi': '地名：河內（越南首都）',
+    'faby': '專有名詞：Faby（Flappy Bird 遊戲中小鳥角色的暱稱）',
+    'jr': '縮寫：JR（Japan Railways，日本鐵路公司，如 JR Tokai、JR East）',
+    'siemens': '專有名詞：Siemens（西門子，德國跨國科技公司）', 'hamburg': '地名：漢堡（德國城市）',
+    'fuxing': '專有名詞：復興號（Fuxing，中國大陸高速列車型號）', 'beijing': '地名：北京',
+    'carrier': '人名：Willis Carrier（威利斯・開利，現代冷氣機發明人）',
+    'ifetch': '專有名詞：iFetch（自動拋球遛狗裝置品牌）',
+    'neo': '人名：Neo（電影《駭客任務》男主角）',
+    'matrix': '專有名詞：The Matrix（電影《駭客任務》）',
 }
 
 def build_dictionary(sections, ecdict_path):
