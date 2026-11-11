@@ -31,7 +31,7 @@ python3 -m http.server 8801   # 開 http://localhost:8801
 localStorage key 為 `workbook-reader-v1`(不要改,以免學生紀錄消失)。
 
 ## 注意
-- 目前 repo 內只有翻譯單元的 `material/trans-1.txt`、`trans-2.txt`;Unit 1–3 的 material 檔(u1-*.txt、u2-*.txt、u3-words.txt)仍在 claude.ai Project 中,需補進 `material/` 才能完整 build。
-- `data.js`、`dictionary.js` 尚未產生,部署前需先執行上面的 build。
+- 首頁有四本書:大滿貫、克漏字開外掛、戰勝學測、Level 3–5;書本設定在 `tools/build_data.py` 的 `BOOKS` / `UNITS`。
+- 沒有 ECDICT csv 時,`build_data.py` 只重建 `data.js`,不會覆蓋 `dictionary.js`。
 - 原書頁面掃描(`assets/page-*.jpg`)已列入 `.gitignore`,不要上傳;公開部署前請確認授權。
 - 書上沒有印答案的題目,答案與解析由 Claude 推導並標「推導」,請老師審閱後再給學生使用。
