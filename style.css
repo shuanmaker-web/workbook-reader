@@ -11,3 +11,36 @@ input.response{min-height:46px}.tag-derived{display:inline-block;font-size:10px;
 .trans-answer .alts{margin:12px 0 0;padding:10px 0 0;border-top:1px dashed var(--line);list-style:none;font:14px/1.8 Georgia,serif}.trans-answer .alts-title{font:11px -apple-system,sans-serif;color:var(--muted);margin-top:12px}.trans-answer .tn{margin:8px 0 0;font:12px/1.8 -apple-system,sans-serif;color:var(--muted)}.paper-hint{color:var(--muted);font-size:12px;margin:0 0 4px}.lock-note{font-size:12px;color:var(--muted);padding:10px 14px;background:var(--wash);border-radius:10px;margin-top:10px}
 .exp-line{margin:0 0 6px}.analysis-card .explain{white-space:normal}.analysis-card .answer-full{margin-top:0}
 .trans-switch{display:flex;align-items:center;justify-content:space-between;gap:10px;background:var(--wash);border-radius:12px;padding:10px 14px;margin:12px 0 0}.trans-switch .hint{margin:0}
+
+/* ---- Books (home page & contents) ---- */
+.book-grid{display:grid;gap:14px;margin:24px 0}
+.book-card{display:flex;align-items:center;gap:18px;background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:22px 24px;box-shadow:var(--shadow);transition:transform .15s}
+.book-card:active{transform:scale(.99)}
+.book-num{font:28px Georgia,serif;color:var(--muted);min-width:38px}
+.book-body{flex:1;min-width:0;display:flex;flex-direction:column;gap:4px}
+.book-body b{font-size:22px;font-weight:600;letter-spacing:-.3px}
+.book-en{font:italic 13px Georgia,serif;color:var(--muted)}
+.book-sub{font-size:13px;color:var(--ink);margin-top:4px}
+.book-meta{font-size:11px;color:var(--muted);margin-top:6px}
+.book-resume{font-size:11px;color:var(--green);background:var(--wash);border-radius:8px;padding:5px 9px;margin-top:8px;align-self:flex-start}
+.dark .book-resume{color:#dce6a5}
+.book-go{font-size:22px;color:var(--muted)}
+.book-card.is-empty{opacity:.75;box-shadow:none}
+.book-empty{padding:30px;margin:24px 0;line-height:1.9;font-size:14px;color:var(--muted)}
+.book-empty small{display:block;margin-top:14px;font-size:12px}
+.plan-list{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.plan-list span{border:1px dashed var(--line);border-radius:10px;padding:8px 14px;color:var(--ink);font-size:13px}
+.resume-card{display:block;background:var(--wash);border:1px solid var(--line);border-radius:16px;padding:16px 20px;margin:22px 0 4px}
+.resume-card span{display:block;font-size:11px;color:var(--muted);letter-spacing:1px}
+.resume-card b{display:block;font-size:16px;font-weight:600;margin:5px 0 3px}
+.resume-card small{font-size:11px;color:var(--muted)}
+.toc{display:grid;gap:8px;margin:10px 0 4px}
+.toc-row{display:flex;align-items:stretch;background:var(--paper);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.toc-main{flex:1;padding:15px 18px;min-width:0}
+.toc-main b{display:block;font-size:15px;font-weight:600}
+.toc-main small{display:block;font-size:11px;color:var(--muted);margin-top:4px}
+.toc-side{display:flex;align-items:center;padding:0 18px;border-left:1px solid var(--line);font-size:12px;color:var(--muted);white-space:nowrap}
+.groupbar .hint{font-size:11px}
+.back-books{margin-bottom:2px}
+.book-title b{font-weight:600}
+@media(max-width:680px){.book-card{padding:18px;gap:12px}.book-num{font-size:22px;min-width:28px}.book-body b{font-size:19px}.toc-side{padding:0 12px}.groupbar{flex-wrap:wrap;gap:4px}}

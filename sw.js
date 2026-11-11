@@ -1,4 +1,4 @@
-const CACHE='workbook-reader-v2'; // keep in sync with app.js
+const CACHE='workbook-reader-v3'; // keep in sync with app.js
 const CORE=['./','index.html','style.css','app.js','data.js','dictionary.js','manifest.webmanifest','assets/icon-192.png','assets/icon-512.png'];
 // original-page scans are optional: cached when present, ignored when missing
 const PAGES=Array.from({length:40},(_,i)=>i+1).flatMap(n=>[`assets/page-${n}.jpg`,...(n<10?[`assets/page-0${n}.jpg`]:[])]);

@@ -5,6 +5,9 @@ Usage:  python3 tools/build_data.py [path/to/ecdict.csv]
   - data.js        window.EXAM   (sections, word entries, passages, questions, analyses)
   - dictionary.js  window.DICTIONARY (tap-to-define: workbook glosses first, then ECDICT, converted to Traditional)
 
+Books: edit BOOKS / UNITS below. To add a new book's material: add its units to UNITS (with 'book'),
+its sections to ORDER and FILES, then put the .txt files in material/.
+
 Material grammar (see material/*.txt headers):
   @section id | 標題 | English | range      @pages 6,7     @overview text
   @group title            starts a group (word entries / passages / questions follow)
@@ -26,12 +29,20 @@ import csv, json, os, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MAT = os.path.join(ROOT, 'material')
 
-UNITS = [
-    {'id': 'u1', 'title': 'Unit 1', 'sub': '單字、片語・綜合測驗・篇章結構・閱讀測驗'},
-    {'id': 'u2', 'title': 'Unit 2', 'sub': '單字、片語・文意選填・篇章結構・閱讀測驗'},
-    {'id': 'u3', 'title': 'Unit 3', 'sub': '開頭：單字表'},
-    {'id': 'tr', 'title': '翻譯', 'sub': '翻譯（一）表目的句法・翻譯（二）以動詞開頭'},
+# Books = the top level of the app (home page shows one card per book).
+# Every unit belongs to exactly one book; a book with no sections yet shows its `plan` as "準備中".
+BOOKS = [
+    {'id': 'dmg', 'title': '大滿貫', 'english': 'Grand Slam', 'sub': '單字・綜合測驗・文意選填・篇章結構・閱讀・翻譯', 'plan': []},
+    {'id': 'cloze', 'title': '克漏字開外掛', 'english': 'Cloze Power-Up', 'sub': '克漏字', 'plan': []},
+    {'id': 'win', 'title': '戰勝學測', 'english': 'Beat the GSAT', 'sub': 'Level 3–5', 'plan': ['Level 3', 'Level 4', 'Level 5']},
 ]
+UNITS = [
+    {'id': 'u1', 'book': 'dmg', 'title': 'Unit 1', 'sub': '單字、片語・綜合測驗・篇章結構・閱讀測驗'},
+    {'id': 'u2', 'book': 'dmg', 'title': 'Unit 2', 'sub': '單字、片語・文意選填・篇章結構・閱讀測驗'},
+    {'id': 'u3', 'book': 'dmg', 'title': 'Unit 3', 'sub': '開頭：單字表'},
+    {'id': 'tr', 'book': 'dmg', 'title': '翻譯', 'sub': '翻譯（一）表目的句法・翻譯（二）以動詞開頭'},
+]
+assert all(u['book'] in {b['id'] for b in BOOKS} for u in UNITS), 'unit with unknown book'
 # section id -> (unit, title, english, range, pages, overview) for sections whose file has no full @section header
 VOCAB_META = {
     'u1-vocab': ('u1', '單字、片語', 'Key words & phrases', 'A 單字 · B 片語', [6, 7, 8, 9, 10],
@@ -389,14 +400,19 @@ def main():
         secs.append(sec)
     if errors:
         print('\n'.join(errors)); print(f'{len(errors)} error(s)'); sys.exit(1)
-    exam = {'title': 'Workbook 隨身讀', 'units': UNITS, 'sections': secs,
+    exam = {'title': 'Workbook 隨身讀', 'books': BOOKS, 'units': UNITS, 'sections': secs,
             'notice': '本 app 依書本掃描整理：書中印有解析的題目照抄書上的解析；書中沒有解答的題目，答案與解析由 Claude 推導（標示「推導」），請老師審閱後再給學生使用。原書權利屬原權利人。'}
     with open(os.path.join(ROOT, 'data.js'), 'w', encoding='utf-8') as f:
         f.write('window.EXAM=' + json.dumps(exam, ensure_ascii=False, separators=(',', ':')) + ';\n')
     ecp = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, '..', 'work', 'ecdict', 'ecdict.csv')
-    dic, miss = build_dictionary(secs, ecp)
-    with open(os.path.join(ROOT, 'dictionary.js'), 'w', encoding='utf-8') as f:
-        f.write('window.DICTIONARY=' + json.dumps(dic, ensure_ascii=False, separators=(',', ':')) + ';\n')
+    if not os.path.exists(ecp) and os.path.exists(os.path.join(ROOT, 'dictionary.js')):
+        # don't overwrite the full ECDICT dictionary with a book-glosses-only one
+        print('ECDICT csv not found: data.js rebuilt, dictionary.js left unchanged')
+        dic, miss = {}, []
+    else:
+        dic, miss = build_dictionary(secs, ecp)
+        with open(os.path.join(ROOT, 'dictionary.js'), 'w', encoding='utf-8') as f:
+            f.write('window.DICTIONARY=' + json.dumps(dic, ensure_ascii=False, separators=(',', ':')) + ';\n')
     nq = sum(1 for s in secs for i in s['items'] if i['t'] == 'q')
     ne = sum(len(i['list']) for s in secs for i in s['items'] if i['t'] == 'entries')
     nd = sum(1 for s in secs for i in s['items'] if i['t'] == 'q' for a in i['an'] if a.get('d'))

@@ -22,7 +22,7 @@ python3 -m http.server 8801   # 開 http://localhost:8801
 ```
 
 ## 改版
-同步更新 `sw.js` 與 `app.js` 的 `CACHE` 版本字串(目前 `workbook-reader-v2`)。
+同步更新 `sw.js` 與 `app.js` 的 `CACHE` 版本字串(目前 `workbook-reader-v3`)。
 localStorage key 為 `workbook-reader-v1`(不要改,以免學生紀錄消失)。
 
 ## 注意
