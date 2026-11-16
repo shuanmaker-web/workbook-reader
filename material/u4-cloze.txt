@@ -1,0 +1,162 @@
+# Unit 4 · 02 文意選填 (teacher PDF p.28–31, source pages 56–58)
+# Printed explanations (歷屆範例 1–10) copied from the book; 類題練習 11–20 answers derived by Claude.
+@section u4-cloze | 文意選填 | Word-bank cloze | 學測重點：主題：醫療與健康
+@overview 文意選填：先判斷選項詞性，再用句構（空格前後是什麼詞性）縮小範圍，最後依文意與詞意選出答案。歷屆範例 10 題附原書解析；類題練習 10 題為本 app 推導的答案。
+
+@group 解題步驟
+@page 56
+= 先判斷選項詞性
+(A) military 名詞　(B) harder 形容詞（比較級）　(C) wider 形容詞（比較級）　(D) deadly 形容詞　(E) shipments 名詞（複數）
+(F) infected 形容詞／動詞（ed／pp）　(G) preceded 動詞（ed／pp）　(H) warn 動詞　(I) accelerated 動詞（ed／pp）　(J) sweep through 動詞
+= 以句構判斷各空格詞性，再依文意和詞意選出正答
+空格前後的詞性與語法位置（名詞、形容詞、比較級、被動語態需要的 pp…）先縮小範圍，再看文意。
+
+@group 歷屆試題範例
+@bank
+A: military
+B: harder
+C: wider
+D: deadly
+E: shipments
+F: infected
+G: preceded
+H: warn
+I: accelerated
+J: sweep through
+
+@passage
+The 1918 influenza epidemic, which occurred during World War I, was one of the most devastating health crises of the 20th century. Between September 1918 and June 1919, more than 600,000 Americans died of influenza and pneumonia, making the epidemic far more [[1]] than the war itself. The influenza hit Americans in two waves. The first wave attacked the army camps and was less fatal than the second. The second wave arrived in the port city of Boston in September 1918 with war [[2]] of machinery and supplies. Other wartime events enabled the disease to [[3]] the country quickly. As men across the nation were joining the [[4]] to serve the country, they brought the virus with them everywhere they went. In October 1918 alone, the virus killed almost 200,000. In the following month, the end of World War I resulted in an even [[5]] spread of the disease. The celebration of the end of the war with parades and parties was a complete disaster from the standpoint of public health. This [[6]] the spread of the disease in some cities. The flu that winter was destructive beyond imagination as millions were [[7]] and thousands died. In fact, it caused many more deaths than any of the other epidemics which had [[8]] it.
+
+Medical scientists [[9]] that another epidemic will attack people at some point in the future. Today's worldwide transportation makes it even [[10]] to control an epidemic. Therefore, doctors advise that we continue to get our annual flu shots in order to stay healthy.
+@end
+
+Q 1 | bank | 104指考
+stem: （第 1 格）
+= D
+~ more 是副詞，空格應為形容詞，且有些形容詞的比較級是前面加 more，再依文意可判斷答案為 (D) deadly 致命的。
+~文意 1918 年 9 月至 1919 年 6 月期間，超過 60 萬美國人死於流感和肺炎，使得這種流行病遠遠比戰爭本身更致命。
+
+Q 2 | bank | 104指考
+stem: （第 2 格）
+= E
+~ with 是介系詞，of 是介系詞，空格應為名詞，依文意可判斷答案為 (E) shipments 運輸、運送的貨物。
+~文意 第二波隨著戰爭裝備和供給的運輸，於 1918 年 9 月來到波士頓港口。
+
+Q 3 | bank | 104指考
+stem: （第 3 格）
+= J
+~ enabled … to V. 為不定詞用法，空格應為原形動詞，依文意可判斷答案為 (J) sweep through 席捲。
+~文意 其他戰時事件使該疾病迅速席捲全國。
+
+Q 4 | bank | 104指考
+stem: （第 4 格）
+= A
+~ 空格前 the 是冠詞，空格應為名詞，故答案為 (A) military 軍隊。
+~文意 當全國各地的人們加入軍隊為國家服務時，他們所到之處都帶著病毒。
+
+Q 5 | bank | 104指考
+stem: （第 5 格）
+= C
+~ even 是副詞（甚至更），空格後面 spread 在此當名詞。由於 even 常用來修飾形容詞比較級，故可判斷空格是比較級形容詞，再依文意可判斷答案為 (C) wider 更廣泛的。
+~文意 接下來的月份，第一次世界大戰的結束導致疾病甚至更廣泛的擴散。
+
+Q 6 | bank | 104指考
+stem: （第 6 格）
+= I
+~ This 是代名詞（指前句文意）且句中無動詞，故空格即為動詞，依文意可判斷答案為 (I) accelerated 加速。
+~文意 這件事加速疾病在一些城市的傳播。
+
+Q 7 | bank | 104指考
+stem: （第 7 格）
+= F
+~ were 是 be 動詞，空格應為形容詞／動詞過去分詞（被動），依文意可判斷答案為 (F) infected 感染。
+~文意 那年冬天的流感破壞性超乎想像，數百萬人被感染，數千人死亡。
+
+Q 8 | bank | 104指考
+stem: （第 8 格）
+= G
+~ had 表完成式，it 是受詞（指流感），空格應為動詞過去分詞，故答案為 (G) preceded 比……更之前。
+~文意 事實上，該流感的致死人數比更之前發生的任何流行病都要來得多。
+
+Q 9 | bank | 104指考
+stem: （第 9 格）
+= H
+~ Medical scientists 是主詞，空格後是 that 名詞子句，空格應為動詞，依文意可判斷答案為 (H) warn 警告。
+~文意 醫療科學家警告未來某個時間會有另外一種流行病襲擊人類。
+
+Q 10 | bank | 104指考
+stem: （第 10 格）
+= B
+~ even 是副詞（甚至更），空格應為比較級形容詞，依文意可判斷答案為 (B) harder 更困難。
+~文意 現今的全球交通使得控制流行病變得更加困難。
+
+@group 類題練習
+@bank
+A: elimination
+B: stimulate
+C: immune
+D: furthermore
+E: though
+F: weakened
+G: expanded
+H: experiment
+I: delivery
+J: protection
+
+@passage
+Vaccines stand as one of the most remarkable achievements in the history of medicine. They offer [[11]] against a myriad of infectious diseases. The story of vaccination dates back to the late 18th century when Edward Jenner, an English physician, introduced the world to the concept. In 1796, Jenner performed an [[12]] where he inoculated a young boy with cowpox, a relatively mild disease similar to smallpox. Remarkably, the boy became [[13]] not only to cowpox but also to smallpox. This crucial moment marked the birth of the world's first vaccine, paving the way for the eventual [[14]] of smallpox and inspiring the development of countless other vaccines.
+
+Common types of vaccines [[15]] our body's ability to combat diseases. One prevalent type is the inactivated or killed vaccine, where the germ is [[16]] to the point where it can't cause disease. Examples include the influenza vaccine and the polio vaccine. Another type is the live attenuated vaccine, which contains a lesser form of the live pathogen. Subunit vaccines, [[17]], contain only specific antigens or parts of the pathogen.
+
+The advent of modern biotechnology has [[18]] the vaccine landscape, leading to the development of more innovative vaccine platforms such as mRNA vaccines. There's still ongoing research aiming to address challenges, [[19]]. One involves the need for improved vaccine [[20]] methods in order to ensure that vaccines won't spoil during transportation. Hopefully, they will protect individuals and communities from preventable diseases.
+@end
+
+Q 11 | bank | 類題 1
+stem: （第 1 格）
+= J
+~! offer 為及物動詞，空格需要名詞；offer protection against ... 提供對……的保護，故選 protection。
+
+Q 12 | bank | 類題 2
+stem: （第 2 格）
+= H
+~! 冠詞 an 後接母音開頭的單數名詞；perform an experiment 做實驗，後面 where 子句說明實驗內容（為男孩接種牛痘），故選 experiment。
+
+Q 13 | bank | 類題 3
+stem: （第 3 格）
+= C
+~! became 後接形容詞；be/become immune to N. 對……免疫：男孩不只對牛痘、也對天花「免疫」，故選 immune。
+
+Q 14 | bank | 類題 4
+stem: （第 4 格）
+= A
+~! the eventual ___ of smallpox：冠詞＋形容詞後需要名詞；天花最終被「根除」，故選 elimination。
+
+Q 15 | bank | 類題 5
+stem: （第 5 格）
+= B
+~! 主詞 Common types of vaccines（複數）後缺現在式動詞；疫苗「刺激」人體對抗疾病的能力，故選 stimulate。
+
+Q 16 | bank | 類題 6
+stem: （第 6 格）
+= F
+~! is ___ 為被動語態，需要過去分詞；不活化疫苗的病原體被「弱化」到無法致病的程度，故選 weakened。
+
+Q 17 | bank | 類題 7
+stem: （第 7 格）
+= D
+~! 前面依序介紹不活化疫苗（One prevalent type）、減毒活疫苗（Another type），這裡再補充第三種次單位疫苗，用插入的副詞 furthermore「此外」。though 雖然也能放在句中，但第 9 格只有 though 能放在句尾，故此格用 furthermore。
+
+Q 18 | bank | 類題 8
+stem: （第 8 格）
+= G
+~! has ___ 為現在完成式，需要過去分詞；現代生物科技「擴展」了疫苗的版圖，催生 mRNA 等新平台，故選 expanded。
+
+Q 19 | bank | 類題 9
+stem: （第 9 格）
+= E
+~! 句尾的副詞 though「不過、然而」表轉折：前面講疫苗的成就與進展，這裡說「不過」仍有挑戰需要研究。furthermore 不能放在句尾。
+
+Q 20 | bank | 類題 10
+stem: （第 10 格）
+= I
+~! vaccine ___ methods：名詞修飾名詞；為確保疫苗在運輸途中不會變質，需要改良疫苗的「配送」方法，故選 delivery。

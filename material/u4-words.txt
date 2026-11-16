@@ -1,0 +1,343 @@
+# Unit 4 · 01 單字、片語 (teacher PDF p.22–27, source pages 51–54)
+# Phonetic line: "[...]" right after "= word".
+@section u4-vocab
+@group A 學測重點單字
+
+@page 51
+= recite
+[rɪˈsaɪt]
+vt. 背誦；朗誦
+= crew
+[kru]
+n. 全體船員；工作人員
+= charm
+[tʃɑrm]
+n. 魅力
+vt. 使著迷；施魔法
+= familiar
+[fəˈmɪljɚ]
+a. 熟悉的；親近的
+= expand
+[ɪkˈspænd]
+vt./vi. 擴展；擴大
+= chilly
+[ˈtʃɪlɪ]
+a. 寒冷的；冷淡的
+= pretend
+[prɪˈtɛnd]
+vt./vi. 假裝；裝作
+= harvest
+[ˈhɑrvɪst]
+n./vt. 收穫；收成
+= trend
+[trɛnd]
+n. 趨勢；潮流
+= breeze
+[briz]
+n. 微風
+vi. 吹著微風
+= committee
+[kəˈmɪtɪ]
+n. 委員會
+= complaint
+[kəmˈplent]
+n. 抱怨；投訴
+= resignation
+[ˌrɛzɪgˈneʃən]
+n. 辭職；辭呈
+= influential
+[ˌɪnfluˈɛnʃəl]
+a. 有影響力的
+= recommend
+[ˌrɛkəˈmɛnd]
+vt. 推薦；建議
+= reluctant
+[rɪˈlʌktənt]
+a. 不情願的；勉強的
+= conquer
+[ˈkɑŋkɚ]
+vt. 征服；戰勝
+= glimpse
+[glɪmps]
+n. 一瞥；瞥見
+vt. 瞥見
+= sprinkle
+[ˈsprɪŋkəl]
+vt./vi. 灑；撒
+n. 少量
+= bounce
+[baʊns]
+vt./vi./n. 彈起
+= blossom
+[ˈblɑsəm]
+vi. 開花；興旺
+n. 花
+= weave
+[wiv]
+vt./vi. 編織；編造
+= dismiss
+[dɪsˈmɪs]
+vt. 解僱；解散
+= confront
+[kənˈfrʌnt]
+vt. 面對；對抗
+= sway
+[swe]
+vt./vi./n. 搖動；擺動；影響
+= concentration
+[ˌkɑnsənˈtreʃən]
+n. 集中；專心
+= sincerity
+[sɪnˈsɛrətɪ]
+n. 誠意；真誠
+= undoubtedly
+[ʌnˈdaʊtɪdlɪ]
+adv. 無疑地；確實地
+= superstition
+[ˌsupɚˈstɪʃən]
+n. 迷信；盲從
+= hesitation
+[ˌhɛzɪˈteʃən]
+n. 猶豫；遲疑
+= comment
+[ˈkɑmɛnt]
+vt./vi./n. 評論
+= acceptance
+[əkˈsɛptəns]
+n. 接受；承認
+= initial
+[ɪˈnɪʃəl]
+a. 最初的
+n.（姓名）首字母
+> make an initial assessment  做初步評估
+> the initials of a name  姓名的首字母
+* 104學測 | Under Nazi occupation, Norwegians were prohibited from wearing symbols of national unity, such as buttons with the initials of their king. | 挪威人被禁止佩戴任何象徵其民族團結的標誌，例如印有國王姓名首字母的鈕扣。
+= initiate
+[ɪˈnɪʃɪˌet]
+vt. 開始；發起；傳授
+> initiate a process  開始一個流程
+> initiate sb. into ...  傳授……的知識
+
+@page 52
+= initiative
+[ɪˈnɪʃətɪv]
+n. 主動性；倡議；計畫
+> to seize/lose the initiative  掌握／失去主動權
+> educational initiative  教育計劃
+= comprehend
+[ˌkɑmprɪˈhɛnd]
+vt. 理解；領會
+> comprehend how/why + 子句  理解如何／為何……
+= comprehension
+[ˌkɑmprɪˈhɛnʃən]
+n. 理解；理解力
+> beyond sb.'s comprehension  難以理解
+= comprehensive
+[ˌkɑmprɪˈhɛnsɪv]
+a. 全面的
+> comprehensive plan  全面的計畫
+= comprehensible
+[ˌkɑmprɪˈhɛnsəbəl]
+a. 可理解的
+= option
+[ˈɑpʃən]
+n. 選擇；選項
+> have no option but to V.  別無選擇只能……
+= optional
+[ˈɑpʃənəl]
+a. 可選擇的；非必須的
+> optional course  選修課程
+= courage
+[ˈkɝɪdʒ]
+n. 勇氣
+> pluck up the courage to V.  鼓起勇氣做……
+= discourage
+[dɪsˈkɝɪdʒ]
+vt. 使氣餒；使沮喪；阻止；防止
+> discourage sb. from V-ing  勸阻某人別做……／阻止某人做……
+> be discouraged by N.  因……感到沮喪
+= courageous
+[kəˈredʒəs]
+a. 勇敢的；有膽量的
+> courageous behavior  勇敢之舉
++同義 brave, bold
+= encourage
+[ɪnˈkɝɪdʒ]
+vt. 鼓勵；支持；促進
+> encourage sb. to V.  鼓勵某人去做……
+= attach
+[əˈtætʃ]
+vt. 附上；依附；附屬
+> be attached to N.  附著在……
++反義 detach 拆下
+= attachment
+[əˈtætʃmənt]
+n. 附件；依戀；附屬機構
+> form an attachment to sb.  對……形成依戀
+= remark
+[rɪˈmɑrk]
+n. 評論；話語
+v. 談論；評論
+> sb.'s remarks on ...  對於……的評論
+> remark that ...  發表意見
+> remark on/upon N.  對……發表評論
+= remarkable
+[rɪˈmɑrkəbəl]
+a. 非凡的；顯著的
+> a remarkable difference  顯著的差異
+> a remarkable achievement  非凡的成就
+= competent
+[ˈkɑmpɪtənt]
+a. 有能力的；能勝任的；足夠的；合格的
+> be competent in N./V-ing  能勝任……
+> be competent to V.  有能力做……
+> a competent performance  尚可的表現
+= competence
+[ˈkɑmpɪtəns]
+n. 能力；技能
+> gain/have competence in N./V-ing  獲得／有……的能力
+= exclude
+[ɪkˈsklud]
+vt. 排除；不包括
+> exclude A from B  將 A 排除於 B 之外
+> be excluded from N.  被排除在……之外
+= exclusive
+[ɪkˈsklusɪv]
+a. 獨有的
+n. 獨家新聞
+> be exclusive of ...  不包含……
+> be exclusive to N.  專屬於……
+
+@page 53
+= create
+[krɪˈet]
+vt. 創造；創建
+= creative
+[krɪˈetɪv]
+a. 有創造力的
+> be creative in N./V-ing  在……上有創造力
+= creativity
+[ˌkrieˈtɪvətɪ]
+n. 創造力；創意
+> show creativity in N./V-ing  在……中展現創意
+= express
+[ɪkˈsprɛs]
+vt. 表達；陳述
+n. 快車；快遞
+a. 快速的；特快的
+> express A through B  通過 B（方式）表達 A（事）
+> send ... by express  用快遞寄送……
++同義 fast、rapid
+= expression
+[ɪkˈsprɛʃən]
+n. 表達；表情
+> freedom of expression  表達自由
+> facial expressions  臉部表情
+= expressive
+[ɪkˈsprɛsɪv]
+a. 表現的；表達情感的
+> be expressive of N.  表達某種情感
+* 108學測 | Silence in some way is as expressive as speech. It can be used to show, for example, disagreement or lack of interest. | 沉默不語在某方面跟說話一樣富有表達力。舉例來說，它可以被用來表達不同意或者沒興趣。
+= religion
+[rɪˈlɪdʒən]
+n. 宗教；信仰
+> have faith in religion  對宗教有信仰
+= religious
+[rɪˈlɪdʒəs]
+a. 宗教的；虔誠的
+> religious belief  宗教信仰
+= threat
+[θrɛt]
+n. 恐嚇；威脅性
+> a (big) threat to ...  對……而言是一大威脅
+= threaten
+[ˈθrɛtṇ]
+vt./vi. 威脅
+> be threatened by N.  受到……的威脅
++同義 intimidate
+= revolve
+[rɪˈvɑlv]
+vi. 旋轉；圍繞
+> revolve around N.  繞著某物旋轉
+> revolve around a theme  圍繞一個主題
+= revolution
+[ˌrɛvəˈluʃən]
+n. 革命；公轉
+> a revolution in ...  某領域的重大變革
+= revolutionary
+[ˌrɛvəˈluʃəˌnɛrɪ]
+a. 革命性的
+> be revolutionary in + N.  在某方面具有革命性
+* 110學測 | The invention of the steam engine, which was used to power heavy machines, brought about revolutionary changes to society. | 用於為重型機器提供動力的蒸汽機出現為社會帶來革命性的變化。
+= prior
+[ˈpraɪɚ]
+a. 先前的；在前的
+> prior to N.  在……之前
+= priority
+[praɪˈɔrətɪ]
+n. 優先事項；優先權
+> have priority over N.  比……有優先權
+= rebel
+[ˈrɛbəl]
+n. 反叛者；叛逆者
+vi. 反抗；造反
+> rebel against N.  反抗……
+= rebellion
+[rɪˈbɛljən]
+n. 叛亂；反抗
+> teenage rebellion  青少年叛逆
+
+@page 54
+= regulate
+[ˈrɛgjəˌlet]
+vt. 管理；控制；調節；校準
+> regulate the temperature  調節溫度
++同義 control、manage
+= regulation
+[ˌrɛgjuˈleʃən]
+n. 規定；管理
+> school regulations  學校規定
+> violate the regulation  違規
+
+@group B 學測重點片語
+@page 54
+= be drawn to N.
+被……吸引
+= be exposed to N.
+暴露在……
+= be familiar/acquainted with ...
+對……熟悉
+= be followed by ...
+接著……
+= be furious with ...
+對……感到憤怒
+= be held up
+延誤
+= be home to N.
+為……的發源地
+= be unique/peculiar to N.
+為……所特有
+= be known as ...
+以……身分而聞名
+= be of great importance
+非常重要
+= be opposed to N.
+反對……
+= be presented with ...
+被授予……
+= be prior to N.
+早於……
+= be related to N.
+與……有關
+= be relative to N.
+與……有關
+= be relevant/irrelevant to N.
+與……有關／無關
+= be subject to N.
+遭受……；接受……
+= be vulnerable to N.
+易遭受……
+= be prone to N.
+易遭受……；容易……
+= be susceptible to N.
+易受……影響／傷害的

@@ -1,0 +1,109 @@
+# Unit 3 · 01 單字、片語 · 試題演練 (teacher PDF p.7–8, source pages 39–40)
+# No printed answer key; answers derived from context by Claude.
+@section u3-drill | 試題演練 | Vocabulary practice | 1–14
+@overview 先做文意字彙與詞類變化（看首尾字母拼出單字，必要時變化詞類）、單字配合題，最後是學測詞彙題。本段答案皆為本 app 依語意推導，書中沒有印出解答。
+
+@group 文意字彙與詞類變化（依首尾字母填入單字）
+
+Q 1 | fill | 試題演練
+stem: The customer called the hotel to c______m her reservation for the weekend, ensuring her room was booked in advance.
+= confirm
+~! 打電話給飯店「確認」週末的訂房，確保房間已事先訂好；to + 原形動詞，故填 confirm。
+
+Q 2 | fill | 試題演練
+stem: Many people believe that spreading g______p can be harmless fun, but it often causes serious misunderstandings in relationships.
+= gossip
+~! spread gossip 散布八卦；八卦常造成人際間的誤會，故填 gossip（不可數名詞，不加 s）。
+
+Q 3 | fill | 試題演練
+stem: The football player's severe i______y during the intense match required immediate medical attention. Thankfully, he is now recovering very well.
+= injury
+~! 比賽中嚴重「受傷」需要立即就醫，現在正在康復；severe injury 嚴重受傷，故填 injury。
+
+Q 4 | fill | 試題演練
+stem: The novel's protagonist faced a difficult m______l dilemma, forcing her to choose between personal gain and doing the right thing.
+= moral
+~! 在個人利益與做對的事之間抉擇，是「道德的」兩難；a moral dilemma 道德困境，故填 moral。
+
+@group 單字配合題
+@bank
+A: intuition
+B: reveal
+C: maturity
+D: legal
+E: refer
+F: definite
+G: adventurous
+H: surrender
+
+Q 5 | bank | 試題演練
+stem: The salesman felt frustrated because the customer wouldn't give him a(n) ______ answer as to whether he would place a new order or not.
+= F
+~! 客戶遲遲不給「明確的」答覆，業務員才感到挫折；a definite answer 明確的答案（本單元單字 definite 的搭配）。
+
+Q 6 | bank | 試題演練
+stem: The cheese reaches the required level of ______ after aging for six months, and its rich texture and flavor make it very popular with customers.
+= C
+~! 起司熟成六個月後達到所需的「成熟度」；the level of + 名詞，故選 maturity。
+
+Q 7 | bank | 試題演練
+stem: After the rebels lost control of their base, they had no choice but to ______ to the government, and the conflict finally came to an end.
+= H
+~! have no choice but to + 原形動詞；叛軍失去基地後只好向政府「投降」，衝突才結束；surrender to N. 向……投降。
+
+Q 8 | bank | 試題演練
+stem: Making decisions based on ______ can be risky, but it can often be the best approach, especially when time is extremely limited.
+= A
+~! based on + 名詞；時間有限時憑「直覺」做決定雖有風險卻常是最好的方法，故選 intuition。
+
+Q 9 | bank | 試題演練
+stem: Jenny enjoys exploring new places. That's why she is known for her ______ spirit, often traveling to remote places alone.
+= G
+~! 喜歡探索新地方、常獨自去偏遠地方旅行，以「愛冒險的」精神聞名；空格修飾名詞 spirit，需要形容詞 adventurous。
+
+@group 學測詞彙題
+
+Q 10 | choice | 學測詞彙題
+stem: Apple Inc. used to ______ the smartphone market in this country; however, Samsung seems to be catching up these days.
+A: overlook
+B: transport
+C: dominate
+D: request
+= C
+~! dominate the market 控制／主宰市場；however 後說三星正在迎頭趕上，可知蘋果過去「主宰」市場。overlook 忽視、transport 運輸、request 請求，皆不合語意。
+
+Q 11 | choice | 學測詞彙題
+stem: Ms. Ko provided a list of books as ______ for her students' research projects, and they were very thankful to her because these materials helped them a lot.
+A: authority
+B: discipline
+C: reference
+D: ownership
+= C
+~! 老師提供書單作為研究專題的「參考資料」，學生因這些資料而受益，故選 reference。authority 權威、discipline 紀律、ownership 所有權，皆不合語意。
+
+Q 12 | choice | 學測詞彙題
+stem: Often, if someone ______ guilty to a crime or an offence they commit, they will get a less serious punishment.
+A: migrates
+B: resorts
+C: defines
+D: pleads
+= D
+~! plead guilty 認罪；認罪通常可獲較輕的刑罰，故選 pleads。migrate 移居、resort 訴諸、define 定義，皆不合語意。
+
+Q 13 | choice | 學測詞彙題
+stem: Her degree and experience give her the ______ needed to apply for the managerial position, and she is confident that her skills will get her the job.
+A: residences
+B: qualifications
+C: conquests
+D: landmarks
+= B
+~! 學歷與經驗讓她具備申請管理職所需的「資格」，故選 qualifications。residence 住宅、conquest 征服、landmark 地標，皆不合語意。
+
+Q 14 | choice | 學測詞彙題
+stem: Paul has been hired in a ______ position that will only last three months, and once the project is finished he will be out of work again.
+A: legitimate
+B: temporary
+C: concrete
+D: crispy
+= B
+~! 只持續三個月、專案結束後又會失業，是「臨時的」職位，故選 temporary。legitimate 合法的、concrete 具體的、crispy 酥脆的，皆不合語意。

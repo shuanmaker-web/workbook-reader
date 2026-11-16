@@ -1,0 +1,96 @@
+# Unit 4 · 03 篇章結構 (teacher PDF p.31–33, source pages 58–60)
+# Printed explanations copied for 歷屆範例 1–4; 類題練習 5–8 answers derived by Claude.
+@section u4-struct | 篇章結構 | Paragraph coherence | 學測重點：段落文意連貫性與一致性
+@overview 通常每個文章段落只會針對一個主題重點討論，段落中文意會相互連貫，主題論述會保持一致。先抓每段的主題（優點？缺點？改進？），再挑出和該段主題一致、又能銜接前後句的句子。歷屆範例 4 題附原書解析；類題練習 4 題為本 app 推導的答案。
+
+@group 學測重點：段落文意連貫性與一致性
+@page 58
+= 段落文意連貫性與一致性
+通常每個文章段落只會針對一個主題重點討論。段落中文意會相互連貫，主題論述會保持一致。
++例 Solar panels have gained widespread popularity due to their environmental benefits. They produce clean energy by harnessing sunlight, which reduces greenhouse gas emissions and dependence on fossil fuels. Additionally, solar power is a renewable resource, meaning it won't run out as long as the sun continues to shine. This makes solar panels a sustainable option for generating electricity for homes and businesses. | 第一段文意一致陳述優點 benefits；關鍵字：produce clean energy、renewable resource、sustainable option。
++例 However, despite their advantages, solar panels come with some limitations. For example, they can be expensive to install, and their efficiency is heavily dependent on weather conditions. On cloudy days, the amount of energy generated can decrease significantly. Another issue is the amount of space required for optimal energy capture, which can be a challenge in urban areas. | 第二段從 However 語意轉折後，文意皆為陳述缺點 limitations；關鍵字：expensive、dependent on weather conditions、space required。
+
+@group 歷屆試題範例
+@bank
+A: Attempts to develop rechargeable lithium-ion batteries failed due to memory problems.
+B: New and enhanced chemical combinations are introduced every six months or so.
+C: That is, they carry more power in a smaller unit, helping to reduce overall weight and size.
+D: Another downside is the increase of the internal resistance that occurs with cycling and aging.
+E: Despite its overall advantages, the lithium-ion battery has its drawbacks.
+
+@passage
+Since the early 1990s, the lithium-ion battery has been the most suitable battery for portable electronic equipment. Today, they're commonly used for cellphones, computers, tablets, digital cameras, and other devices.
+
+Lithium-ion batteries have nearly twice the energy density of traditional nickel cadmium batteries. [[1]] This feature has important implications for cellphones and computers, because it makes these items more portable for consumers. It also makes power tools easier to use and allows workers to use them for longer periods of time.
+
+The lithium-ion battery is also a low maintenance battery. Lithium-ion batteries retain no "memory" of their power capacity from previous charging cycles. Thus they require no scheduled cycling and can be fully re-fueled to their maximum capacity during each charging cycle. Other rechargeable battery types, in contrast, retain information from previous charging cycles, which wastes valuable storage space. Over time, this makes these rechargeable batteries hold less of a charge.
+
+[[2]] It is fragile and requires a protection circuit to maintain safe operation. A high load could overheat the pack and safety might be jeopardized. [[3]] After 2-3 years of use, the pack often becomes unserviceable due to a large voltage drop caused by high internal resistance.
+
+It should be noted, however, that manufacturers are constantly making improvements on lithium-ion batteries. [[4]] With such rapid progress, the use of lithium-ion batteries will certainly expand further.
+@end
+
+Q 1 | bank | 104指考
+stem: （第 1 格）請由方框中選出最適合的句子。
+= C
+~ 此段主旨為鋰電池優點。敘述為優點且與前後語意相呼應的為 (C)。關鍵字（優點）：carry more power、reduce overall weight and size。
+~文意 鋰電池的電量密度幾乎是傳統鎳鎘電池的兩倍。也就是說，它們在較小的單元中承載更多的功率，有助於降低整體重量和尺寸。此功能對手機和電腦具有重要意義，因為它使這些產品對消費者來說更便於攜帶。
+
+Q 2 | bank | 104指考
+stem: （第 2 格）請由方框中選出最適合的句子。
+= E
+~ 此段主旨為鋰電池缺點。依後句語意可判斷答案應為 (E)。Despite 表前後語意轉折（前面優點，後方缺點）。關鍵字（缺點）：drawbacks、fragile、requires a protection circuit。
+~文意 儘管鋰離子電池具有整體優點，但也有其缺點。它很脆弱，需要保護電路來維持安全運作。高負載可能會使電池組過熱，危及安全。
+
+Q 3 | bank | 104指考
+stem: （第 3 格）請由方框中選出最適合的句子。
+= D
+~ 空格同在缺點段落中，且前後句語意依舊保持一致，可判斷答案為 (D)。關鍵字（缺點）：Another downside、unserviceable。
+~文意 高負載可能會使電池組過熱，危及安全。另一個缺點是隨著循環和老化而發生的內阻增加。使用 2～3 年後，電池組常會因內阻過高而導致電壓下降而無法使用。
+
+Q 4 | bank | 104指考
+stem: （第 4 格）請由方框中選出最適合的句子。
+= B
+~ 此段主旨為鋰電池的改進，依前後語意可判斷答案為 (B)。關鍵字（改進）：New and enhanced、improvement、rapid progress。
+~文意 但值得注意的是，製造商正在不斷對鋰電池進行改進。每六個月左右就會推出新的和增強的化學組合。隨著如此快速的進步，鋰電池的使用肯定會進一步擴大。
+~選項 (A) 由於記憶效應問題，嘗試開發可充電鋰離子電池這件事失敗了。
+
+@group 類題練習
+@bank
+A: Such spinning, in turn, drives a generator to produce electricity.
+B: They range from noise and low-frequency vibrations that may lead to sleep disturbances to other health issues.
+C: Their participation has contributed to the rapid development and adoption of green energy like wind power.
+D: Meanwhile, emerging economies are also investing in and developing wind power projects.
+E: Wind power is said to be more efficient and cost-productive than solar or nuclear energy.
+
+@passage
+Wind power is a technology that converts wind energy into electricity. Its basic principle involves using the force of the wind to drive the rotation of wind turbine blades. [[5]] Wind farms are usually constructed in areas with high wind speeds, and the availability of wind resources and economic viability are important considerations.
+
+In fact, more and more companies are joining the RE100 initiative, committing to sourcing 100% of their electricity from renewable sources. On the list are prominent names like Apple, Google, Microsoft, Hon Hai and TSMC. [[6]]
+
+In addition to voluntary commitments by businesses, many countries are actively promoting the development of wind power. For instance, numerous European countries have set renewable energy targets and provide corresponding policy support and incentives. [[7]] One of their goals is to address growing energy demand and reduce reliance on fossil fuels.
+
+Despite its many advantages, there are still some who oppose wind power due to potential health effects of wind turbines on residents. [[8]] Moreover, there are concerns about the environmental impact of wind power, such as the effects of constructing wind turbines on land and water resources.
+
+Overall, while wind power is an important clean energy source, it still requires careful consideration and balancing of various interests to ensure its sustainability and environmental friendliness.
+@end
+
+Q 5 | bank | 類題 1
+stem: （第 1 格）請由方框中選出最適合的句子。
+= A
+~! 本段說明風力發電的原理：風力帶動葉片旋轉 → (A) 這樣的旋轉（Such spinning ↔ rotation）再帶動發電機發電，步驟連貫一致。
+
+Q 6 | bank | 類題 2
+stem: （第 2 格）請由方框中選出最適合的句子。
+= C
+~! 本段談企業加入 RE100，前句列出 Apple、Google、台積電等知名企業；(C) 的 Their participation 指這些企業的參與，說明它們推動了風電等綠能的快速發展。
+
+Q 7 | bank | 類題 3
+stem: （第 3 格）請由方框中選出最適合的句子。
+= D
+~! 本段談各國政府推動風電：先舉歐洲國家，(D) Meanwhile 再補充新興經濟體也在投資；後句 One of their goals 的 their 指新興經濟體，目標是因應成長的能源需求。
+
+Q 8 | bank | 類題 4
+stem: （第 4 格）請由方框中選出最適合的句子。
+= B
+~! 本段談反對理由：前句說風機可能影響居民健康，(B) 的 They 指這些 health effects，從噪音、低頻震動造成睡眠障礙到其他健康問題。(E) 講風電比太陽能、核能更有效率，和本段「反對、缺點」的主題不一致，是多餘選項。

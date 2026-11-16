@@ -1,0 +1,245 @@
+# Unit 3 · 02 綜合測驗 (teacher PDF p.8–13, source pages 40–44)
+# Printed explanations (歷屆範例 1–5) copied from the book; 類題練習 6–15 answers derived by Claude.
+@section u3-cloze | 綜合測驗 | Pronouns in cloze | 學測重點：代名詞
+@overview 綜合測驗的代名詞題：先看空格要代替的是單數還是複數、可數還是不可數，再看句型（虛主詞 / 虛受詞 it、one … the other …、that / those 比較句）。歷屆範例 5 題附原書解析；類題練習 10 題為本 app 推導的答案。
+
+@group 學測重點：It 的常見用法
+@page 40
+= it 虛主詞
+It + be V. + adj./N. + to V.
+It + be V. + adj./N. + that S + V.
++例 It is students' responsibility to study hard and strive for perfection. | 學生有責任努力學習並追求卓越。
++例 It is indeed true that hard work will finally pay off. | 確實，努力終將有回報。
+= it 虛受詞
+S + V. + it + adj./N. + to V.
+S + V. + it + adj./N. + that S + V.
+常見動詞：think、make、consider、find、believe
++例 People nowadays often think it necessary to have a cellphone with them. | 現今的人們常常認為隨身攜帶手機是必要的。
++例 I find it difficult that I need to finish those tasks in a day. | 我覺得在一天內完成那些任務是很困難的。
+= 加強語氣
+It is + 強調部分 + that + 剩餘部分。
+強調部分＋剩餘部分＝完整原句。可強調人事物、時間、地點、介系詞＋名詞。
++例 It was at the orientation that the CEO gave a speech. | 執行長是在新人訓練會發表談話的。
+
+@group 常見不定代名詞
+@page 40
+= some / both / all
+some 一些、both 兩個都、all 所有（三個以上）
+= neither / none
+neither 兩者都不、none 一個也沒（三個以上）
+= either / any
+either 兩者中任何一個、any 任一個（三個以上）
+= one / ones
+one 一個、ones 一些
+= another / others
+another 另一個、再一個、others 其餘的
+= the other / the others
+the other 剩下的那一個、the others 其他的、剩下的
++補充 another 代替三者以上，非第一也非最後的其中「另外一個」。
++例 A is one thing and B is another. | A 和 B 是兩回事。
+= one another
+互相（＝each other）
++例 This is a group project, so we have to help one another. | 這是小組專題，所以我們必須互相幫忙。
+= one after another
+一個接一個
+
+@group 常見不定代名詞句型
+@page 41
+= the 表示有限制範圍
+有 the：範圍有限，指「剩下的」那一個／那些。
+= one ... the other ...
+一個……另一個……（總共兩個）
++例 I have two sisters. One is a teacher, and the other is a high-school student. | 我有兩個姐妹。一個是老師，另一個是高中生。
+= one ..., another ..., the other ...
+一個……另一個……剩下的一個……（總共三個）
++例 Amy uses three pens for learning. One is red, another is black, and the other is blue. | 愛咪使用三枝筆來學習。一枝是紅色，一枝是黑色，一枝是藍色。
+= some ..., the others ...
+有些……另一些……（總共兩批）
++例 It's my to-do list. I just finished some, and I need to get the others done before 5pm. | 這是我的待辦事項清單。我剛剛完成了一些，我需要在下午 5 點前完成其他的。
+= some ..., others ..., the others ...
+有些……另一些……剩下的那些……（總共三批）
++例 I got many recipes from Anne. I've tried some myself, shared others with my family, and haven't cooked the others yet. | 我從安妮那裡得到了很多食譜。我自己嘗試過一些，與家人分享了一些，但還沒有煮過其他的。
+= one ... another ...
+一個，另一個（沒有範圍限制，可能不止兩個）
++例 One waiter asked me to wait here. Another showed me to my table. | 一位服務員要我在這裡等一下。另一個人帶我到我的桌子旁。
+= one ... another ... still another
+一個，另一個，再另外一個（沒有範圍限制，可能不止三個）
++例 One deer appeared in the distance, and another, and still another. Wow, it's a herd. | 遠處出現了一隻鹿，然後又是另一隻，又是另一隻。哇，這是一群。
+= some ..., others ...
+有些……另一些……（沒有範圍限制，可能不止兩批）
++例 Some people brought tomatoes and onions, while others brought potatoes and garlics. | 有些人帶來了番茄和洋蔥，而有些人則帶來了馬鈴薯和大蒜。
+= some ..., some/others ..., still others ...
+有些……另一些……再另外一些……（沒有範圍限制，可能不只三批）
++例 Some people enjoy comedies, some/others prefer tragedies, and still others like neither. | 有些人喜歡喜劇，有些人喜歡悲劇，有些人兩者都不喜歡。
+
+@group 指示代名詞 that、those 與不定代名詞 one、ones 的區別
+@page 41
+= one / ones
+一般句子為了避免重複出現前面的可數名詞，單數用 one，複數用 ones 代替。
++例 I don't like this green shirt. Do you have another one? | 我不喜歡這件綠色襯衫。你還有另一件嗎？
+= that / those
+在具有比較意味的句子中，用 that 或 those 避免重複前面的名詞：前方名詞為單數／不可數用 that，複數用 those。
++例 The weather in Tainan is usually hotter than that in Taipei. | 臺南的天氣通常比臺北熱。
+= the former / the latter
+文意中提及的兩個事項中，the former 指前者，the latter 指後者。
++例 Of these two options mentioned above, I prefer the former because the latter is too time-consuming. | 在上面提到的這兩個選項中，我更喜歡前者，因為後者太耗時。
+
+@group 歷屆試題範例
+
+Q 1 | choice | 108學測
+stem: A camera and a viewing system are built into these glasses. As the wearer brings the food toward their mouth, the camera captures an image of the food. It replays the image back through the glasses after processing it on an attached computer. The size of the food they are about to eat is magnified while ______ of their hand remains normal.
+A: this
+B: that
+C: some
+D: other
+= B
+~ 連接詞 while 表轉折，由於這裡要比較的是 the size of the food 跟 the size of their hand，因此為避免 the size（單數）重複使用，故答案為 (B) that。that 在此為代名詞，代替句首的 The size。
+~文意 這些眼鏡內建攝影機和觀看系統。當佩戴者將食物放入口中時，相機會拍下食物的圖像。在連接的電腦上處理影像後，它會透過眼鏡回放影像。他們要吃的食物會被放大，而他們的手的大小卻保持正常。
+
+Q 2 | choice | 106指考
+stem: One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. ______ of these reactions are possible without enzymes.
+A: Any
+B: All
+C: None
+D: More
+= C
+~ 依文意可知沒有酵素就不能進行任何反應，故答案為 (C) None 無；沒有。選項 (A) 任何一個、(B) 全部、(D) 更多，皆不合語意。
+~文意 區分生物和無生物的一項因素是，有機體能執行攸關生存的化學反應。想像大型有機體，例如人類，每天執行無止盡的反應。如果沒有酵素，這些反應無一可行。
+
+Q 3 | choice | 105學測
+stem: International trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making ______ cheaper for some countries to import goods rather than make them.
+A: them
+B: such
+C: what
+D: it
+= D
+~ 此句型：make it + adj. + for sb. + to V. 讓某事……，故答案為 (D) it。it = to import goods rather than make them。
+~文意 國際貿易是國家間商品和服務的交流。貿易是由不同國家不同的生產成本所驅動的，這使得一些國家進口商品比製造商品更便宜。
+
+Q 4 | choice | 103學測
+stem: Aesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens ... A few hours later, ______ traveler came down the road. He too stopped and asked Aesop the same question.
+A: a
+B: the
+C: other
+D: another
+= D
+~ 空格後方為單數名詞，可先刪除 (C) other（other 後方接複數名詞）。依文意可判斷空格指的是「另一個」旅客，故答案應為 (D) another 另一個。
+~文意 有一天，希臘寓言作家伊索坐在路邊，一位旅人問他雅典住著什麼樣的人……幾個小時後，另一個旅人從路上走過來。他也停下來，問伊索同樣的問題。
+
+Q 5 | choice | 101學測
+stem: Brahma called a council of the gods to help him decide on a place to hide the divinity. The gods suggested that they hide humans' divinity deep in the earth or take it to the top of the highest mountain. But Brahma thought ______ would do because he believed humans would dig into the earth and climb every mountain, and eventually find it.
+A: each
+B: more
+C: any
+D: neither
+= D
+~ 前面提到兩個地方：地底深處跟山峰之巔，再依照文意判斷答案是兩者皆不，故應為 (D) neither 兩者皆不；選項 (A) 各個、(B) 更多的人事物、(C) 任何一個，皆不合語意。
+~文意 梵天 Brahma 召集眾神委員會來幫助他決定隱藏神性的地方。眾神建議將人類的神性隱藏在地底深處或帶到最高的山峰之巔。但梵天認為兩者都行不通，因為他相信人類會挖掘土地並攀登每一座山，並最終找到它。
+
+@group 類題練習 ①
+
+@passage
+Indoor gardening has become increasingly popular, but it takes skill and knowledge to be good at it. For instance, not every plant thrives in low-light conditions [[6]] an indoor environment. Moreover, the watering frequency of indoor plants differs from [[7]] of outdoor varieties, not to mention the soil quality. It may thus take a great deal of trial and error before settling down on the most suitable plants for your home environment.
+
+[[8]] those potential difficulties, indoor gardening provides individuals with a unique opportunity to personalize their living or working environments by creating green spaces where they can relax and unwind. Some may find [[9]] a source of joy to nurture smaller plants like succulents. Others may prefer the grandeur of larger ferns or spider plants. [[10]] might opt for a mix of both, depending on their preferences and interior designs.
+
+By incorporating indoor gardening into their daily lives, individuals can experience the benefits of nature while enhancing the beauty and greenery of their indoor spaces.
+@end
+
+Q 6 | choice | 類題 1
+stem: （第 1 格）
+A: native to
+B: available to
+C: typical of
+D: reliant on
+= C
+~! low-light conditions typical of an indoor environment 指「室內環境典型的」低光照條件；be typical of 是……的典型特徵。native to 原產於、available to 可供……使用、reliant on 依賴，皆不合語意。
+
+Q 7 | choice | 類題 2
+stem: （第 2 格）
+A: what
+B: those
+C: that
+D: which
+= C
+~! 比較句型：室內植物的澆水頻率 vs. 戶外品種的澆水頻率。為避免重複前面的單數名詞 the watering frequency，用 that 代替（that of outdoor varieties）；複數才用 those。
+
+Q 8 | choice | 類題 3
+stem: （第 3 格）
+A: Even with
+B: Concerning
+C: In contrast to
+D: Second to
+= A
+~! 前一段講室內園藝的困難，本句說它仍提供獨特的機會，前後為讓步關係：Even with those potential difficulties「即使有那些潛在困難」。Concerning 關於、In contrast to 與……相反、Second to 僅次於，皆不合語意。
+
+Q 9 | choice | 類題 4
+stem: （第 4 格）
+A: those
+B: which
+C: it
+D: that
+= C
+~! 虛受詞句型 S + find + it + N. + to V.：Some may find it a source of joy to nurture smaller plants，it 代替後面的不定詞 to nurture smaller plants。
+
+Q 10 | choice | 類題 5
+stem: （第 5 格）
+A: One
+B: Other
+C: One another
+D: Still others
+= D
+~! 不定代名詞句型 some ..., others ..., still others ...（有些……另一些……再另外一些）：Some may find ... Others may prefer ... Still others might opt for a mix of both。One 為單數、Other 不能單獨當主詞、One another 是「互相」，皆不合。
+
+@group 類題練習 ②
+
+@passage
+Guide dogs play an essential role in the lives of individuals with visual impairments, providing them with independence, mobility, and companionship. The selection and training process of guide dogs is [[11]]. It typically begins with carefully chosen breeds known for their intelligence, obedience, and gentle temperament. These potential guide dog candidates [[12]] thorough health screenings and temperament assessments to ensure they possess the necessary qualities for guiding individuals safely. Once [[13]], they begin their training process, usually around the age of 1.5 years. Additionally, guide dogs are trained to disregard distractions and focus solely on their handler's safety.
+
+[[14]] imperative for the general public to understand and respect the vital role guide dogs play in the lives of their handlers. When we encounter a guide dog accompanied by its handler, [[15]] reminders are as important as remembering not to distract or pet them while they are working. It's no doubt the most important thing to keep in mind and will ensure the safety and effectiveness of guide dogs in assisting their handlers.
+@end
+
+Q 11 | choice | 類題 6
+stem: （第 6 格）
+A: what is a demand
+B: ones in demand
+C: those who are demanding
+D: a demanding one
+= D
+~! 主詞 The selection and training process 為單數，補語用 a demanding one（一個要求很高的過程），one 代替前面的 process。ones / those 為複數，what is a demand 文法不通。
+
+Q 12 | choice | 類題 7
+stem: （第 7 格）
+A: approve
+B: determine
+C: examine
+D: undergo
+= D
+~! 導盲犬候選犬「接受」徹底的健康篩檢與性情評估；undergo 經歷、接受（檢查、訓練等）。approve 批准、determine 決定、examine 檢查（主詞應為檢查的人），皆不合語意。
+
+Q 13 | choice | 類題 8
+stem: （第 8 格）
+A: selection
+B: selecting
+C: selected
+D: to select
+= C
+~! Once (they are) selected 的省略：連接詞後省略相同主詞與 be 動詞；狗是「被」選中，用過去分詞 selected。
+
+Q 14 | choice | 類題 9
+stem: （第 9 格）
+A: What's considered
+B: It's considered
+C: Considering
+D: Considered
+= B
+~! 虛主詞句型 It is considered + adj. + for sb. + to V.：It's considered imperative for the general public to understand ...，It 代替後面的不定詞。
+
+Q 15 | choice | 類題 10
+stem: （第 10 格）
+A: many
+B: a great many
+C: a little
+D: few
+= D
+~! few reminders are as important as ... 「很少有提醒比……更重要」，等於說不要讓導盲犬分心、不要摸牠是最重要的事，與下一句 It's no doubt the most important thing 呼應。reminders 為可數複數，不能用 a little；many / a great many 會變成「很多提醒同樣重要」，與下一句矛盾。

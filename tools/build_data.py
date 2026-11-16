@@ -13,6 +13,7 @@ Material grammar (see material/*.txt headers):
   @group title            starts a group (word entries / passages / questions follow)
   @page n                 source page of the following word entries
   = word                  start a word entry (outside Q blocks); plain lines = senses
+  [ˈfɔnɪk]                phonetic (first "[...]" line of an entry; shown next to the headword)
   > phrase  中文          phrase line (two spaces between phrase and 中文)
   +同義 / +反義 / +諺語 text   note;  +例 English | 中文   example
   * 96指考 | English | 中文   boxed exam sentence
@@ -38,31 +39,38 @@ BOOKS = [
     {'id': 'l35', 'title': 'Level 3–5', 'english': '', 'sub': '字彙王練習題本・文意字彙・選擇題・配合題', 'plan': []},
 ]
 UNITS = [
-    {'id': 'u1', 'book': 'dmg', 'title': 'Unit 1', 'sub': '單字、片語・綜合測驗・篇章結構・閱讀測驗'},
-    {'id': 'u2', 'book': 'dmg', 'title': 'Unit 2', 'sub': '單字、片語・文意選填・篇章結構・閱讀測驗'},
-    {'id': 'u3', 'book': 'dmg', 'title': 'Unit 3', 'sub': '開頭：單字表'},
-    {'id': 'tr', 'book': 'dmg', 'title': '翻譯', 'sub': '翻譯（一）表目的句法・翻譯（二）以動詞開頭'},
-    {'id': 'cz41', 'book': 'cloze', 'title': 'Unit 41', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
-    {'id': 'cz42', 'book': 'cloze', 'title': 'Unit 42', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
-    {'id': 'cz43', 'book': 'cloze', 'title': 'Unit 43', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
-    {'id': 'cz44', 'book': 'cloze', 'title': 'Unit 44', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
-    {'id': 'cz45', 'book': 'cloze', 'title': 'Unit 45', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
-    {'id': 'cz46', 'book': 'cloze', 'title': 'Unit 46', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
-    {'id': 'cz47', 'book': 'cloze', 'title': 'Unit 47', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
-    {'id': 'cz48', 'book': 'cloze', 'title': 'Unit 48', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
+    # kind: 'unit' (regular units) or 'trans' (translation units) — the app's quick-switch bar has one tab per kind.
+    {'id': 'u1', 'book': 'dmg', 'kind': 'unit', 'title': 'Unit 1', 'sub': '單字、片語・綜合測驗・篇章結構・閱讀測驗'},
+    {'id': 'u2', 'book': 'dmg', 'kind': 'unit', 'title': 'Unit 2', 'sub': '單字、片語・文意選填・篇章結構・閱讀測驗'},
+    {'id': 'u3', 'book': 'dmg', 'kind': 'unit', 'title': 'Unit 3', 'sub': '單字、片語・綜合測驗・篇章結構・閱讀測驗'},
+    {'id': 'u4', 'book': 'dmg', 'kind': 'unit', 'title': 'Unit 4', 'sub': '單字、片語・文意選填・篇章結構・閱讀測驗'},
+    {'id': 'gs1', 'book': 'dmg', 'kind': 'unit', 'title': '特訓（一）', 'sub': '大滿貫特訓（一）・詞彙題'},
+    {'id': 'tr1', 'book': 'dmg', 'kind': 'trans', 'title': '翻譯（一）', 'sub': '表目的句法'},
+    {'id': 'tr2', 'book': 'dmg', 'kind': 'trans', 'title': '翻譯（二）', 'sub': '以動詞開頭'},
+    {'id': 'cz41', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 41', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz42', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 42', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz43', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 43', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz44', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 44', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz45', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 45', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz46', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 46', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz47', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 47', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz48', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 48', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
 ]
 assert all(u['book'] in {b['id'] for b in BOOKS} for u in UNITS), 'unit with unknown book'
+assert all(u.get('kind') in ('unit', 'trans') for u in UNITS), 'unit without kind'
 # section id -> (unit, title, english, range, pages, overview) for sections whose file has no full @section header
 VOCAB_META = {
     'u1-vocab': ('u1', '單字、片語', 'Key words & phrases', 'A 單字 · B 片語', [6, 7, 8, 9, 10],
                  '學測重點單字與片語。點單字旁的 ☆ 可收進「我的單字」；點例句裡的任何英文字可查詞義。'),
     'u2-vocab': ('u2', '單字、片語', 'Key words & phrases', 'A 單字 · B 片語', [22, 23, 24, 25, 26],
                  '學測重點單字與片語。點單字旁的 ☆ 可收進「我的單字」；點例句裡的任何英文字可查詞義。'),
-    'u3-vocab': ('u3', '單字、片語（開頭）', 'Key words (opening page)', 'A 單字', [35],
-                 'Unit 3 目前只有開頭一頁的單字表，其餘內容之後再補。'),
+    'u3-vocab': ('u3', '單字、片語', 'Key words & phrases', 'A 單字 · B 片語', [],
+                 '學測重點單字與片語（附音標）。點單字旁的 ☆ 可收進「我的單字」；點例句裡的任何英文字可查詞義。'),
+    'u4-vocab': ('u4', '單字、片語', 'Key words & phrases', 'A 單字 · B 片語', [],
+                 '學測重點單字與片語（附音標）。點單字旁的 ☆ 可收進「我的單字」；點例句裡的任何英文字可查詞義。'),
 }
 # sections whose id prefix is not the unit id
-UNIT_OF = {'tr-1': 'tr', 'tr-2': 'tr',
+UNIT_OF = {'tr-1': 'tr1', 'tr-2': 'tr2', 'gs1-vocab': 'gs1',
            'cloze-41': 'cz41', 'cloze-42': 'cz42', 'cloze-43': 'cz43', 'cloze-44': 'cz44',
            'cloze-45': 'cz45', 'cloze-46': 'cz46', 'cloze-47': 'cz47', 'cloze-48': 'cz48'}
 
@@ -71,18 +79,24 @@ UNIT_OF = {'tr-1': 'tr', 'tr-2': 'tr',
 L35_UNITS = sorted(int(f[4:6]) for f in os.listdir(MAT) if f.startswith('l35-') and f.endswith('.txt'))
 for g in range(0, max(L35_UNITS or [0]), 10):
     lo, hi = g + 1, min(g + 10, max(L35_UNITS))
-    UNITS.append({'id': f'l35g{g // 10 + 1}', 'book': 'l35', 'title': f'Unit {lo}–{hi}', 'sub': '文意字彙・選擇題・配合題'})
+    UNITS.append({'id': f'l35g{g // 10 + 1}', 'book': 'l35', 'kind': 'unit', 'title': f'Unit {lo}–{hi}', 'sub': '文意字彙・選擇題・配合題'})
 for n in L35_UNITS:
     UNIT_OF[f'l35-{n:02d}'] = f'l35g{(n - 1) // 10 + 1}'
 ORDER = ['u1-vocab', 'u1-drill', 'u1-cloze', 'u1-struct', 'u1-reading',
-         'u2-vocab', 'u2-drill', 'u2-cloze', 'u2-struct', 'u2-reading', 'u3-vocab',
+         'u2-vocab', 'u2-drill', 'u2-cloze', 'u2-struct', 'u2-reading',
+         'u3-vocab', 'u3-drill', 'u3-cloze', 'u3-struct', 'u3-reading',
+         'u4-vocab', 'u4-drill', 'u4-cloze', 'u4-struct', 'u4-reading', 'gs1-vocab',
          'tr-1', 'tr-2',
          'cloze-41', 'cloze-42', 'cloze-43', 'cloze-44',
          'cloze-45', 'cloze-46', 'cloze-47', 'cloze-48']
 FILES = {'u1-vocab': 'u1-words.txt', 'u1-drill': 'u1-drill.txt', 'u1-cloze': 'u1-cloze.txt',
          'u1-struct': 'u1-struct.txt', 'u1-reading': 'u1-reading.txt',
          'u2-vocab': 'u2-words.txt', 'u2-drill': 'u2-drill.txt', 'u2-cloze': 'u2-cloze.txt',
-         'u2-struct': 'u2-struct.txt', 'u2-reading': 'u2-reading.txt', 'u3-vocab': 'u3-words.txt',
+         'u2-struct': 'u2-struct.txt', 'u2-reading': 'u2-reading.txt',
+         'u3-vocab': 'u3-words.txt', 'u3-drill': 'u3-drill.txt', 'u3-cloze': 'u3-cloze.txt',
+         'u3-struct': 'u3-struct.txt', 'u3-reading': 'u3-reading.txt',
+         'u4-vocab': 'u4-words.txt', 'u4-drill': 'u4-drill.txt', 'u4-cloze': 'u4-cloze.txt',
+         'u4-struct': 'u4-struct.txt', 'u4-reading': 'u4-reading.txt', 'gs1-vocab': 'gs1-vocab.txt',
          'tr-1': 'trans-1.txt', 'tr-2': 'trans-2.txt',
          'cloze-41': 'cloze-41.txt', 'cloze-42': 'cloze-42.txt',
          'cloze-43': 'cloze-43.txt', 'cloze-44': 'cloze-44.txt',
@@ -235,6 +249,9 @@ def parse_file(sid, fname):
         if entry is None:
             err(fname, ln, f'line outside any block: {line[:40]}')
             continue
+        if re.fullmatch(r'\[[^\[\]]+\]', line.strip()) and not entry.get('ph'):
+            entry['ph'] = line.strip()[1:-1]
+            continue
         if line.startswith('> '):
             body = line[2:].strip()
             mm = re.split(r'\s{2,}', body, maxsplit=1)
@@ -359,6 +376,25 @@ CONTEXT = {
     'ifetch': '專有名詞：iFetch（自動拋球遛狗裝置品牌）',
     'neo': '人名：Neo（電影《駭客任務》男主角）',
     'matrix': '專有名詞：The Matrix（電影《駭客任務》）',
+    # Grand Slam Unit 3–4
+    'camino': '專有名詞：Camino de Santiago 聖雅各之路（西班牙朝聖路線）；camino 為西班牙語「道路」',
+    'frances': '專有名詞：Camino Frances 法國之路（聖雅各之路最熱門的路線）',
+    'portugues': '專有名詞：Camino Portugues 葡萄牙之路（聖雅各之路的路線之一）',
+    'santiago': '地名：Santiago（de Compostela）聖地牙哥－德孔波斯特拉（西班牙朝聖地）；Santiago 也指聖雅各',
+    'ka': '專有名詞：Ka Mate（毛利戰舞哈卡的一種）', 'mate': '專有名詞：Ka Mate（毛利戰舞哈卡的一種）；一般字義 n. 夥伴；配偶',
+    'kapa': '專有名詞：Kapa o Pango（2005 年為紐西蘭全黑隊創作的哈卡戰舞）',
+    'pango': '專有名詞：Kapa o Pango（2005 年為紐西蘭全黑隊創作的哈卡戰舞）',
+    'louis': '人名：Louis XIV 路易十四（法國國王）', 'sorbet': 'n. 雪酪（以果汁、糖和水冰凍而成，不含乳製品的冰品）',
+    'maniq': '專有名詞：Maniq 馬尼克人（泰國南部的狩獵採集族群）',
+    'jahai': '專有名詞：Jahai 賈海語（馬來半島狩獵採集族群使用的語言）',
+    'aminobutyric': '化學名：gamma-aminobutyric acid（GABA）γ-胺基丁酸，一種抑制性神經傳導物質',
+    'popole': '人名：Popole Misenga（剛果出身的柔道選手，代表難民奧運代表隊參賽）',
+    'misenga': '人名：Popole Misenga（剛果出身的柔道選手，代表難民奧運代表隊參賽）',
+    'tsmc': '專有名詞：TSMC 台積電（台灣積體電路製造公司）',
+    'hon': '專有名詞：Hon Hai 鴻海（鴻海精密工業）', 'hai': '專有名詞：Hon Hai 鴻海（鴻海精密工業）',
+    'superfood': 'n. 超級食物（被認為營養價值特別高的食物）', 'superfoods': 'n. 超級食物（superfood 的複數）',
+    'desalinating': 'v. 將（海水）淡化、去除鹽分（desalinate 的 -ing 形）',
+    'unresearched': 'a. 尚未被研究的',
 }
 
 def build_dictionary(sections, ecdict_path):

@@ -1,0 +1,91 @@
+# Unit 3 · 03 篇章結構 (teacher PDF p.13–15, source pages 44–46)
+# Printed explanations copied for 歷屆範例 1–4; 類題練習 5–8 answers derived by Claude.
+@section u3-struct | 篇章結構 | Repeated & related ideas | 學測重點：重複／類似的字詞或文意
+@overview 英文文章常在前後句或鄰近內容中，重複出現相同、類似、呼應的單字、名詞、事實或概念，來針對該內容進行更深入的解說。找出空格前後與選項之間的重複／類似字詞，就能判斷哪一句接得上。歷屆範例 4 題附原書解析；類題練習 4 題為本 app 推導的答案。
+
+@group 學測重點：重複／類似的字詞或文意
+@page 44
+= 重複／類似的字詞或文意
+英文文章常在前後句或鄰近內容中，重複出現相同、類似、呼應的單字／名詞／事實／概念，來針對該內容進行更深入的解說。而此特色也能協助判斷篇章結構作答。
++例 In 2020, the global pandemic forced schools to close, and students transitioned to online learning. That year, many educators struggled with the shift to virtual classrooms and the loss of face-to-face interaction. By the end of the year, studies showed that student engagement had dropped significantly. | In 2020、That year 為文意呼應詞彙；online learning、virtual classrooms 為重複／類似詞彙。
+
+@group 歷屆試題範例
+@bank
+A: Hitler, for example, is claimed to have been a victim of bullying in his childhood.
+B: The friends and classmates of the bully and the victim may accept the violence as normal.
+C: Psychologists have been puzzled by the inactivity of crowds and bystanders in urban centers when crimes occur in crowded places.
+D: The link between bullying and school violence has attracted increasing attention since the 1999 tragedy at a Colorado high school.
+E: Campus bullying is becoming a serious problem in some high schools in big cities.
+
+@passage
+The effect of bullying can be serious and even lead to tragedy. Unfortunately, it is still a mostly unresearched area.
+
+[[1]] That year two shotgun-wielding students, both of whom had been identified as gifted and who had been bullied for years, killed 13 people, wounded 24 and then committed suicide. A year later an analysis by the US government found that bullying played a major role in more than two-thirds of the campus violence.
+
+Research indicates that bullying may form a chain reaction and the victim often becomes the bully. Numerous dictators and invaders throughout history have tried to justify their bullying behavior by claiming that they themselves were bullied. [[2]] Although it is no justification for bullying, many of the worst humans in history have indeed been bullies and victims of bullying.
+
+Since bullying is mostly ignored, it may provide an important clue in crowd behavior and passer-by behavior. [[3]] Many of them have suggested bullying as one of the reasons of this decline in emotional sensitivity and acceptance of violence as normal. When someone is bullied, it is not only the bully and the victim who are becoming less sensitive to violence. [[4]] In this sense, bullying affects not only the bullied but his friends and classmates and the whole society.
+@end
+
+Q 1 | bank | 100指考改
+stem: （第 1 格）請由方框中選出最適合的句子。
+= D
+~ 後句 That year 可推論空格句應有年份、年紀相關字詞。依文意可判斷答案為 (D)。重複／類似字詞：1999 tragedy ↔ That year、school violence ↔ campus violence。
+~文意 自 1999 年科羅拉多州一所高中發生的悲劇以來，霸凌與校園暴力之間的關聯引起了越來越多的關注。那年，兩名持槍的學生——皆被視為資優生，但多年來一直受到霸凌——殺害了 13 人，並造成 24 人受傷，隨後他們自殺身亡。一年後，美國政府的一項分析發現，霸凌在超過三分之二的校園暴力事件中扮演了重要角色。
+
+Q 2 | bank | 100指考改
+stem: （第 2 格）請由方框中選出最適合的句子。
+= A
+~ 依文意及關鍵字詞，可判斷答案為 (A)。重複／類似字詞：victim of bullying ↔ were bullied、Hitler ↔ dictator。
+~文意 歷史上無數獨裁者和侵略者試圖以他們曾經遭受霸凌為由，來為自己的霸凌行為辯護。例如，希特勒據稱在童年時期曾是霸凌的受害者。雖然這不能為霸凌行為開脫，但歷史上許多大惡人確實既是霸凌者也是霸凌受害者。
+
+Q 3 | bank | 100指考改
+stem: （第 3 格）請由方框中選出最適合的句子。
+= C
+~ 依文意及重複／類似字詞，可判斷答案為 (C)。重複／類似字詞：inactivity ↔ ignored、crowds, bystander ↔ crowd, passer-by。
+~文意 由於大部分的霸凌都會被忽略，群眾行為與旁觀者行為可能可以提供重要線索。當犯罪發生在擁擠地方時，心理學家對於市中心人群和旁觀者的不作為感到困惑。其中許多人已將霸凌視為降低情緒敏感度以及將暴力視為常態的原因之一。
+
+Q 4 | bank | 100指考改
+stem: （第 4 格）請由方框中選出最適合的句子。
+= B
+~ 依 In this sense 可知後句與空格句語意延續且相關，可判斷答案為 (B)。重複字詞：The friends and classmates ↔ friends and classmates、the victim ↔ the bullied。
+~文意 當有人遭受霸凌時，霸凌者及受害者都會逐漸變得對暴力不敏感。霸凌者和受害者的朋友和同學可能會將暴力視為正常。從這個方面來說，霸凌影響的不僅僅是受害者，還有他的朋友和同學，與整個社會。
+~選項 (E) 校園霸凌在一些大城市的高中裡正成為一個嚴重的問題。
+
+@group 類題練習
+@bank
+A: Such a spirit requires everyone to exercise sportsmanship and to compete on fairgrounds.
+B: Proper gear, including durable footwear, lightweight clothing, and a well-packed backpack, is essential.
+C: Pilgrims embark on this route to pay homage to St. James the Great, whose remains are said to rest in the cathedral.
+D: This entails maintaining an open heart and mind, showing kindness to fellow travelers, and being receptive to the unexpected challenges and blessings along the way.
+E: Originating in the early Middle Ages, the Camino de Santiago symbolizes far more than a mere physical trek.
+
+@passage
+The Camino de Santiago, or the Way of St. James, stands as a timeless pilgrimage route famous for its deep spiritual significance and transformative journey. [[5]] It stands for a journey of self-discovery, resilience, and connection with the divine, nature, and fellow travelers.
+
+This legendary pilgrimage encompasses several routes, each offering its own distinct landscapes, cultural experiences, and historical landmarks. Among the most traveled is the Camino Frances. [[6]] Alternatively, the Camino Portugues winds through the scenic countryside of Portugal before merging with the Camino Frances.
+
+Preparing for the Camino requires careful consideration and planning to ensure a safe and enriching experience. It's crucial to assess one's fitness level and choose a route that aligns with personal capabilities. [[7]] Booking accommodation in advance is advisable, especially during peak pilgrimage seasons.
+
+As pilgrims embark on their journey, they are encouraged to embrace the spirit of the Camino. [[8]] We are not unfamiliar with touching stories where pilgrims lent others a helping hand as they strived toward their common goal of completing the journey. The Camino de Santiago is not merely a physical endeavor; it offers a unique opportunity for personal growth and compassion.
+@end
+
+Q 5 | bank | 類題 1
+stem: （第 1 格）請由方框中選出最適合的句子。
+= E
+~! 前句說朝聖之路以深刻的精神意義聞名，後句 It stands for a journey of self-discovery ... 說明它「代表」什麼。(E) 的 symbolizes far more than a mere physical trek 與後句 stands for、spiritual significance 呼應（類似字詞：symbolizes ↔ stands for），且 It 指 the Camino de Santiago。
+
+Q 6 | bank | 類題 2
+stem: （第 2 格）請由方框中選出最適合的句子。
+= C
+~! 前句提到最多人走的 Camino Frances，(C) 用 this route 承接，說明朝聖者走這條路是為了向聖雅各致敬；下一句 Alternatively 再介紹另一條路線 Camino Portugues。重複／類似字詞：the Camino Frances ↔ this route、pilgrimage ↔ Pilgrims。
+
+Q 7 | bank | 類題 3
+stem: （第 3 格）請由方框中選出最適合的句子。
+= B
+~! 本段談行前準備（Preparing for the Camino ... planning）：評估體能、選路線、(B) 準備合適裝備、提前訂住宿，語意一致。重複／類似字詞：Preparing、planning ↔ Proper gear、well-packed backpack。
+
+Q 8 | bank | 類題 4
+stem: （第 4 格）請由方框中選出最適合的句子。
+= D
+~! 前句說朝聖者被鼓勵擁抱 the spirit of the Camino，(D) This entails ... 說明這份精神包含開放的心胸、善待同行旅人；後句再舉朝聖者互相幫助的感人故事。(A) 講運動家精神與公平競爭，和朝聖的互助精神不符，是多餘選項。

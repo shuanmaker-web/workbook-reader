@@ -1,0 +1,96 @@
+# 大滿貫特訓（一）· 詞彙題 (teacher PDF p.37, source page 63)
+# No printed answer key; answers derived from context by Claude.
+@section gs1-vocab | 大滿貫特訓（一） | Grand Slam drill (1) | 詞彙題 1–10
+@overview Unit 3–4 之後的綜合詞彙練習，10 題學測詞彙題。本段答案皆為本 app 依語意推導，書中沒有印出解答。
+
+@group 詞彙題
+
+Q 1 | choice | 詞彙題
+stem: The teacher provided a detailed explanation to ______ any of the students' misconceptions about the complicated math problem.
+A: clarify
+B: ignore
+C: abandon
+D: prolong
+= A
+~! 老師提供詳細說明，是為了「釐清」學生對難題的誤解；clarify misconceptions 釐清誤解。ignore 忽視、abandon 放棄、prolong 延長，皆不合語意。
+
+Q 2 | choice | 詞彙題
+stem: New policies have been implemented to ______ the increasing number of accidents caused by distracted drivers.
+A: forecast
+B: prevent
+C: neglect
+D: expand
+= B
+~! 實施新政策是為了「防止」分心駕駛造成的事故增加，故選 prevent。forecast 預測、neglect 忽略、expand 擴大，皆不合語意。
+
+Q 3 | choice | 詞彙題
+stem: While discussing the environmental crisis, the speaker ______ the urgent need to reduce plastic waste globally.
+A: emphasized
+B: resisted
+C: dismissed
+D: overlooked
+= A
+~! 講者談環境危機時「強調」減少塑膠垃圾的迫切需要；emphasize the need to V. 強調……的必要。resisted 抵抗、dismissed 不予理會、overlooked 忽視，皆與 urgent need 語意相反。
+
+Q 4 | choice | 詞彙題
+stem: Despite her difficult circumstances, she carried herself with ______, refusing to let these challenges define her.
+A: fatigue
+B: panic
+C: dignity
+D: confusion
+= C
+~! 儘管處境艱難，她仍保持「尊嚴」，不讓困難定義自己；carry oneself with dignity 舉止端莊、有尊嚴（本單元單字 dignity）。fatigue 疲勞、panic 恐慌、confusion 困惑，皆不合語意。
+
+Q 5 | choice | 詞彙題
+stem: Advanced satellite technology has made it possible to ______ even the most remote regions with remarkable accuracy.
+A: compose
+B: object
+C: locate
+D: summarize
+= C
+~! 衛星科技能以驚人的精準度「找出、定位」最偏遠的地區，故選 locate（本單元單字 locate；precisely locate sth. 精確定位）。compose 組成、object 反對、summarize 總結，皆不合語意。
+
+Q 6 | choice | 詞彙題
+stem: The loud noise in the middle of the night ______ a wave of fear among the residents, prompting them to investigate.
+A: triggered
+B: filtered
+C: rescued
+D: honored
+= A
+~! 半夜的巨響在居民之間「引發」一陣恐慌；trigger fear 引起恐懼。filtered 過濾、rescued 救援、honored 尊敬，皆不合語意。
+
+Q 7 | choice | 詞彙題
+stem: His consistent hard work over the years has ______ him a trustworthy professional in the industry.
+A: altered
+B: rendered
+C: achieved
+D: resulted
+= B
+~! render + 受詞 + 補語「使……成為」：多年的努力使他成為業界值得信賴的專業人士（本單元單字 render）。altered 改變、achieved 達成、resulted 導致（須接 in），都不能接受詞＋補語。
+
+Q 8 | choice | 詞彙題
+stem: Her performance in the final round was ______, and the judges unanimously declared her the winner.
+A: miserable
+B: naive
+C: superb
+D: dull
+= C
+~! 評審一致判定她獲勝，可知決賽表現「極好的」，故選 superb。miserable 悲慘的、naive 天真的、dull 無趣的，皆不合語意。
+
+Q 9 | choice | 詞彙題
+stem: In response to the humanitarian crisis, international organizations worked together to provide immediate relief to ______ who had lost their homes.
+A: refugees
+B: colleagues
+C: legends
+D: respondents
+= A
+~! 人道危機中失去家園的人是「難民」，國際組織提供緊急救援，故選 refugees（本單元單字 refugee）。colleagues 同事、legends 傳奇人物、respondents 受訪者，皆不合語意。
+
+Q 10 | choice | 詞彙題
+stem: Even though the initial results were discouraging, the scientist chose to ______ in her research, eventually making a groundbreaking discovery.
+A: persist
+B: qualify
+C: hesitate
+D: suspend
+= A
+~! 雖然一開始結果令人沮喪，科學家仍選擇「堅持」研究，最後有了突破性發現；persist in N. 堅持……。qualify 具備資格、hesitate 猶豫、suspend 暫停，皆不合語意。

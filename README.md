@@ -34,10 +34,12 @@ python3 -m http.server 8801   # 開 http://localhost:8801
 - 網站存取用 Cloudflare Access 限定 email。
 
 ## 改版
-同步更新 `sw.js` 與 `app.js` 的 `CACHE` 版本字串(目前 `workbook-reader-v7`)。
+同步更新 `sw.js` 與 `app.js` 的 `CACHE` 版本字串(目前 `workbook-reader-v9`)。
 localStorage key 為 `workbook-reader-v1`(不要改,以免學生紀錄消失)。
 
 ## 注意
+- 側欄有單元切換列:每本書的 unit 依 `kind` 分成 `Units` / `Translation` 兩個分頁(在 `tools/build_data.py` 的 `UNITS` 設定),下方是單元按鈕,側欄只列出目前單元的各節;每個單元會記住上次看的那一節。
+- 單字表支援音標:在 `= word` 下一行寫 `[ˈfɔnɪk]`。
 - 首頁有四本書,書名只顯示英文:Grand Slam、Cloze Power-Up、Beat the GSAT、Level 3–5;書本設定在 `tools/build_data.py` 的 `BOOKS` / `UNITS`。
 - 沒有 ECDICT csv 時,`build_data.py` 只重建 `data.js`,不會覆蓋 `dictionary.js`。
 - 原書頁面掃描(`assets/page-*.jpg`)已列入 `.gitignore`,不要上傳;公開部署前請確認授權。

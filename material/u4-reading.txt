@@ -1,0 +1,106 @@
+# Unit 4 · 04 閱讀測驗、混合題 (teacher PDF p.33–36, source pages 60–62)
+# Printed explanations copied for 歷屆範例 1–3; 類題練習 4–7 answers derived by Claude.
+@section u4-reading | 閱讀測驗、混合題 | Word inference (1) | 學測重點：字詞推論（一）一字多義＆同義詞
+@overview 字詞推論題通常是一字多義題、同義詞題、詞組題：一字多義題考常見單字的「不常見意思」，同義詞題考較難的字，都要透過文章主題、考點前後句與上下文來推論字義。歷屆範例 3 題附原書解析；類題練習 4 題（混合題）的答案為本 app 推導。
+
+@group 學測重點：字詞推論（一）一字多義＆同義詞
+@page 60
+= 字詞推論題
+閱讀測驗題型是字詞推論題，通常會是一字多義題、同義詞題、詞組題。
+> What does the word "文章中粗體字" in the ... paragraph most likely mean?  試題常見敘述
+> Which of the following is closest in meaning to the word "文章中粗體字" in the ... paragraph?  試題常見敘述
+> Which word in ... means "該字詞或片語的解釋說法"?  試題常見敘述
+= 一字多義題
+考點通常為常見單字，但考的不會是常見意思，需透過前後句、上下文判斷該詞彙可能字義。
+= 同義詞彙
+考點通常不是常見單字或 4500 單字，需透過文章主題、考點前後句、上下文等線索推論與其接近、相似的詞彙。
+
+@group 歷屆試題範例
+
+@passage
+In many languages, such as English, there is no straightforward way to talk about smell. For want of dedicated odor terminology, English speakers are often forced to use odor-sources such as "flowery" and "vanilla" and metaphors like "sweet" and "oriental" in their descriptions of smell.
+
+But the difficulty with talking about smell is not universal. The Maniq, a group of hunter-gatherers in southern Thailand, can describe smells using at least fifteen different terms, which express only smells and are not applicable across other sensory domains. In addition to Maniq, researchers found that there are also a dozen words for various smells in Jahai, a language spoken by a neighboring hunter-gatherer population.
+@end
+
+Q 1 | choice | 108指考
+stem: What does the word "want" in the first paragraph most likely mean?
+A: Lack.
+B: Growth.
+C: Loss.
+D: Search.
+= A
+~ 第一段的「want」一詞最有可能是什麼意思？一字多義題：want 常見意思是想要 v.，依前後文意可得知答案為 (A) Lack 缺乏。
+~文意 在許多語言中，例如英語，沒有直接說法來談論氣味。由於缺乏專門的氣味術語，說英語的人在描述氣味時常被迫用「花香」和「香草」等氣味來源……
+
+@passage
+Researchers at Vanderbilt University are particularly interested in zebrafish retina regeneration. They have learned that damage of retina can cause blindness in zebrafish, yet it only takes about three to four weeks before vision is restored. The structure and cell types of zebrafish retinas are almost identical to those of humans. If the process can be replicated in humans, it may give rise to new treatments for blindness caused by retinal damage.
+
+In order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons. They found that lowering GABA levels in zebrafish can trigger retinal regeneration, while a high level of GABA concentration will suppress the regeneration process. This suggested that GABA plays an important role in the fish's ability to regain their sight.
+
+The team is beginning to test the GABA theory on mice. If that works, human trials will be next on the agenda. If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank.
+@end
+
+Q 2 | choice | 111學測
+stem: Which of the following is closest in meaning to "replicated" in the paragraph?
+A: Reproduced.
+B: Reassembled.
+C: Recycled.
+D: Restored.
+= A
+~ 下列哪個字的意思與「replicated」一詞最接近？同義字題：前句語意為關鍵判斷點，可得知答案為 (A) Reproduced 複製。
+~文意 斑馬魚視網膜的結構和細胞類型幾乎與人類相同。如果這個過程可以在人類身上複製，那麼對於因視網膜損傷引起的失明，可能會產生新的治療方法。
+
+@passage
+Popole Misenga was born in the Democratic Republic of the Congo. When he was nine, the country's civil war claimed the life of his mother and left him homeless. Escaping from the war zone, he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced children in the capital, Kinshasa.
+
+There, Popole discovered judo, from which he gained strength in body and mind. "Judo helped me by giving me serenity, discipline, commitment—everything," he said. He trained hard and became a professional judoka. However, each time he lost a competition, his coaches would lock him in a cage for days, feeding him only coffee and bread. Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection.
+
+Popole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility. He made his Olympic debut at Rio 2016. He also represented the Refugee Olympic Team in 2021 Tokyo Games.
+@end
+
+Q 3 | fill | 111學測
+stem: Which word in Popole Misenga's story means "protection given by a country or embassy to refugees from another country"?
+= asylum
+~ Popole Misenga 故事中哪個字的意思是「一個國家或大使館對來自另一個國家難民所提供的保護」？同義字題：找出對應段落（第二段、第三段）的關鍵字，可判斷答案為 asylum 庇護。
+~原文 第二段：... he decided to seek protection.（……他決定尋求保護。）第三段：Popole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility.
+~文意 2014 年，Popole 得到巴西政府的庇護，隨後繼續在青年中心進行柔道訓練。他於 2016 年里約奧運會首次亮相，並在 2021 年東京奧運會上代表難民奧林匹克隊參賽。
+
+@group 類題練習
+
+@passage
+Taiwan is widely known as the "Bicycle Kingdom" due to its rich history in bicycle manufacturing and innovation. Starting in the mid-20th century, Taiwan became a global leader in bicycle production, with companies like Giant and Merida leading the charge. These companies grew to dominate international markets, known for producing high-quality bicycles for both recreational cyclists and professional athletes. Taiwan's expertise in manufacturing bicycles, coupled with its advanced technology and design, helped it maintain its reputation as the hub of the global bicycle industry.
+
+However, in recent years, the bicycle industry in Taiwan has faced challenges that have led to stagnation. The once booming export figures began to decline, with a significant drop in demand for traditional bicycles and a reduction in the overall export volume. This stagnation is primarily due to shifts in consumer preferences, such as the growing demand for electric bikes (E-bikes) and increasing competition from other countries, which have led to slower growth in Taiwan's bicycle sector. Despite the high quality of Taiwanese bicycles, the industry has struggled to keep up with the rapidly changing global market.
+
+Despite these obstacles, there are signs of a potential turnaround for Taiwan's bicycle industry. As the market for electric bikes continues to grow, Taiwanese manufacturers are adapting by shifting focus toward E-bikes, where they have already established a strong presence in the international market. Additionally, industry experts believe that as global economies stabilize and consumer spending rises, Taiwan's bicycle industry may see some growth. The development of new technologies, such as smart bicycles and innovations in lightweight materials, could also play a role in revitalizing the industry and securing Taiwan's place as a leader in the global bicycle market once again.
+@end
+
+Q 4 | choice | 類題 1
+stem: Which of the following is the best title for this passage?
+A: "Why cycling has taken the world by storm – story of Taiwan"
+B: "Taiwan's Bicycle Industry: Challenges and a Path to Revival"
+C: "New trends and innovations in bicycle design"
+D: "The pros and cons of using bikes as a means of transportation"
+= B
+~! 全文三段：臺灣曾是「自行車王國」→ 近年面臨停滯的挑戰 → 出現轉機（電動自行車、新技術）。(B)「臺灣自行車產業：挑戰與復興之路」完整涵蓋。(A) 講自行車風靡全球、(C) 只講設計創新、(D) 講騎車通勤的利弊，皆偏離主旨。
+
+Q 5 | choice | 類題 2
+stem: Which of the following is the closest definition of the word "stagnation" in the second paragraph?
+A: The state of being widespread or commonly occurring in a particular area or group.
+B: A bias or preference toward one side, person, or thing, often unfairly.
+C: The condition of not progressing, developing, or moving; often refers to a lack of growth or change in an economy, market, or situation.
+D: The action or process of classifying something into categories based on shared characteristics or attributes.
+= C
+~! 同義詞題：第 2 段接著說出口數字下滑、成長變慢（slower growth），可知 stagnation 指「停滯、不再成長」，即 (C)。(A) 是 prevalence 普遍、(B) 是 bias 偏見、(D) 是 classification 分類。
+
+Q 6 | fill | 類題 3
+stem: Please fill in the blank below with a word from the passage. Remember to change the form if necessary.
+  The bike industry in Taiwan has ______ to the changes in the global market by focusing on electric bicycles.
+= adapted
+~! 第 3 段 Taiwanese manufacturers are adapting by shifting focus toward E-bikes；adapt to N. 適應……。空格前有 has，現在完成式要用過去分詞，故填 adapted。
+
+Q 7 | fill | 類題 4
+stem: Which word from the last paragraph means "giving new life, energy, or strength to something, often by improving or refreshing it"?
+= revitalizing | revitalize
+~! 最後一段 could also play a role in revitalizing the industry；revitalize（使恢復生機、振興）符合「給予新的生命、活力」的解釋。題目要求文中的字，原文為 revitalizing。

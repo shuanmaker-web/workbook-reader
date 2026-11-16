@@ -1,88 +1,379 @@
-# Unit 3 · 01 單字、片語 · opening page only (PDF p.30, source page 35)
+# Unit 3 · 01 單字、片語 (teacher PDF "Cloze and Reading Units 3 and 4" p.1–7, source pages 35–39)
+# Phonetic line: "[...]" right after "= word".
 @section u3-vocab
-@group A 學測重點單字（Unit 3 開頭）
+@group A 學測重點單字
+
 @page 35
 = refugee
+[ˌrɛfjuˈdʒi]
 n. 難民；流亡者
 = exhibit
+[ɪgˈzɪbɪt]
 vt./vi./n. 展覽；展示
 = overlook
+[ˌovɚˈlʊk]
 vt. 忽視；俯瞰
 n. 眺望
 = bargain
+[ˈbɑrgɪn]
 n. 便宜貨；廉價品
 vi. 協議；討價還價
 = doubtful
+[ˈdaʊtfəl]
 a. 懷疑的；可疑的
 = gossip
+[ˈgɑsɪp]
 n. 八卦
 vi. 說閒話
 = afford
+[əˈfɔrd]
 vt. 負擔得起；提供
 = forecast
+[ˈfɔrˌkæst]
 vt./vi./n. 預測；預報
 = injury
+[ˈɪndʒərɪ]
 n. 受傷；損害
 = mischief
+[ˈmɪstʃɪf]
 n. 惡作劇；淘氣
 = acceptable
+[əkˈsɛptəbəl]
 a. 可接受的；合意的
 = temporary
+[ˈtɛmpəˌrɛrɪ]
 a. 暫時的；臨時的
 = marvelous
+[ˈmɑrvələs]
 a. 了不起的；非凡的
 = preparation
+[ˌprɛpəˈreʃən]
 n. 準備；預備
 = discipline
+[ˈdɪsəplɪn]
 n. 紀律；訓練
 vt. 訓練；懲戒
 = honor
+[ˈɑnɚ]
 n./vt. 榮譽；尊敬
 = confirm
+[kənˈfɝm]
 vt. 確認；證實
 = reveal
+[rɪˈvil]
 vt. 揭露；顯示
 = concrete
+[ˈkɑnkrit]
 a. 具體的；實質的
 n. 混凝土
 = formula
+[ˈfɔrmjələ]
 n. 公式；配方
 = authority
+[əˈθɔrətɪ]
 n. 權威；當局
 = dignity
+[ˈdɪgnətɪ]
 n. 尊嚴；莊嚴
 = glory
+[ˈglɔrɪ]
 n. 榮耀；光榮
 = ratio
+[ˈreʃo]
 n. 比例；比率
 = secure
+[sɪˈkjʊr]
 a. 安全的
 vt. 保護
 = interaction
+[ˌɪntɚˈrækʃən]
 n. 互動；交流
 = intuition
+[ˌɪntjuˈɪʃən]
 n. 直覺
 = landmark
+[ˈlændˌmɑrk]
 n. 地標；里程碑
 = ownership
-n. 所有權；物主身份
+[ˈonɚˌʃɪp]
+n. 所有權；物主身分
 = resort
-n. 度假村；憑藉/手段
+[rɪˈzɔrt]
+n. 度假村；憑藉／手段
 vi. 求助；訴諸（+ to N.）
 = company
+[ˈkʌmpənɪ]
 n. 公司；企業；陪伴；作伴
 > keep sb. company  陪伴某人
-+諺語 A man is known by the company he keeps.  觀其友，知其人
++諺語 A man is known by the company he keeps. 觀其友，知其人。
 = accompany
+[əˈkʌmpənɪ]
 vt. 陪伴；伴隨
-> be accompanied by...  伴隨著…
+> be accompanied by ...  伴隨著……
 = companion
+[kəmˈpænjən]
 n. 伴侶；同伴
-> travel/work companion  旅伴/工作夥伴
+> travel/work companion  旅伴／工作夥伴
 = render
-vt. 使成為；使變得
-vt. 提供；交付
-vt. 表達；呈現
-> render N. + a.  使…成為某狀態
-> render a service/assistance  提供服務/幫助
+[ˈrɛndɚ]
+vt. 使成為；使變得；提供；交付；表達；呈現
+> render N. + a.  使……成為某狀態
+> render a service/assistance  提供服務／幫助
 > render a judgment  作出判決
+
+@page 36
+= surrender
+[səˈrɛndɚ]
+vt./vi. 投降；自首；放棄
+n. 投降；屈服；放棄
+> surrender to/under N.  向……投降／屈服
+> force sb. into surrender  迫使某人投降
+= refer
+[rɪˈfɝ]
+vt./vi. 提到；談及；把……提交；送交；介紹；推薦；查閱；參考；指的是；與……相關
+> refer to N.  提到／談及某事
+> refer a case to N.  把案件提交至……
+> refer sb. to a specialist  把某人推薦給專家
+> refer to a dictionary  查閱字典
+> refer to N.  指的是……／與……相關
+> refer to A as B  視為……
+= reference
+[ˈrɛfərəns]
+n. 提及；談到；參考；參考資料；推薦信；推薦人
+> with/in reference to N.  與……的提及或關聯
+> for reference  供參考
++同義 recommendation
+= venture
+[ˈvɛntʃɚ]
+n. 冒險；企業
+vt./vi. 冒險
+> a joint venture  聯合投資
+> venture to do sth.  冒險做某事
+> venture into + 地點／活動  冒險進入……
+= adventure
+[ədˈvɛntʃɚ]
+n. 冒險；刺激的經歷
+> go on an adventure  進行冒險
+= adventurous
+[ədˈvɛntʃərəs]
+a. 冒險的；喜冒險的
+> an adventurous journey  冒險旅程
+> an adventurous person  喜歡冒險的人
+= qualify
+[ˈkwɑləˌfaɪ]
+vt. 使有資格
+vi. 具備資格
+> qualify sb. for N.  使某人有資格……
+> qualify for/as N.  具備……資格／條件
+= qualification
+[ˌkwɑləfəˈkeʃən]
+n. 資格；能力
+> have the qualifications for N.  具備……的資格
+= transport
+[trænsˈpɔrt]
+vt. 運輸；使心情轉移
+n. 運輸
+> transport N. to + 地點  把某物運輸到某地
+> transport sb. to ...  讓人進入特定情境
+> air transport  航空運輸
++例 The music transported her to a state of calm. | 音樂讓她進入了冷靜的狀態。
+= transportation
+[ˌtrænsˌpɔrˈteʃən]
+n. 運輸；運輸系統
+> public transportation  公共運輸系統
+> a means/form of transportation  交通工具
+= legal
+[ˈligəl]
+a. 法律的；合法的
+> legal rights  法律權利
+> legal advice  法律建議
+= legitimate
+[lɪˈdʒɪtəmɪt]
+a. 合法的；正當的
+> legitimate business  合法生意
+= quest
+[kwɛst]
+n. 尋求；探索；追求
+> quest for N.  尋求……
+* 111學測 | After watching a TV program on natural history, Adam decided to go on a quest for dinosaur fossils in South Dakota. | 在觀看自然歷史電視節目後，亞當決定前往南達科他州尋找恐龍化石。
+= request
+[rɪˈkwɛst]
+n./vt. 請求；要求
+> make a request for N.  請求……
+> request permission  請求許可
+
+@page 37
+= conquest
+[ˈkɑnˌkwɛst]
+n. 征服；占領；克服
+> conquest of a territory  領土征服
+= reside
+[rɪˈzaɪd]
+vi. 居住；定居
+> reside in ...  居住在……
+> reside with ...  和……同住
+= resident
+[ˈrɛzədənt]
+n. 居民；住戶
+a. 居住的；定居的
+> permanent resident  永久居民
+> resident doctor  住院醫生
+= residence
+[ˈrɛzədəns]
+n. 住宅；居住地
+> private residence  私人住宅
+= residential
+[ˌrɛzɪˈdɛnʃəl]
+a. 住宅的；居住的
+> residential area  住宅區
+= plea
+[pli]
+n. 懇求；辯解
+> make a plea for N.  懇求……
+= plead
+[plid]
+vi. 辯護；懇求
+vt. 辯護；以……為理由
+> plead with sb. to V./for N.  懇求某人做……
+> plead that ...  主張／辯解……
+> plead (not) guilty  承認／不承認有罪
+= moral
+[ˈmɔrəl]
+a. 道德的
+n. 教訓；寓意
+> moral standards  道德標準
+= morality
+[məˈrælətɪ]
+n. 道德；道德觀
+= inferior
+[ɪnˈfɪrɪɚ]
+a. 劣等的；下等的
+n. 下級者；劣等物
+> inferior to ...  比……差
+> inferior quality  劣等品質
+> social inferior  社會底層
+> moral inferior  道德低下者
+= superior
+[suˈpɪrɪɚ]
+a. 優越的；上等的
+n. 上級；長官
+> superior to ...  優於……
+> superior quality  優質
+> direct superior  直屬上司
+* 97學測 | This new computer is obviously superior to the old one because it has many new functions. | 這個新電腦顯然比舊電腦優越，因為它有許多新功能。
+= locate
+[loˈket]
+vt. 找出；定位；設置；確定位置
+> precisely locate sth.  精確定位某物
+> locate N. in/at/on + place  將……設置於……
+> be located in/at/on + place  座落在……／位於……
+= location
+[loˈkeʃən]
+n. 地點；位置
+> remote location  偏遠地點
+= define
+[dɪˈfaɪn]
+vt. 定義；界定
+> define N. as N./a.  將……定義為……
+= definite
+[ˈdɛfənɪt]
+a. 明確的
+> definite answer  明確答案
+= definitely
+[ˈdɛfənɪtlɪ]
+adv. 肯定地
+= definition
+[ˌdɛfəˈnɪʃən]
+n. 定義；解釋；清晰度
+> dictionary definition  字典定義
+> high definition  高清畫質
+> image definition  圖像清晰度
+
+@page 38
+= dominate
+[ˈdɑməˌnet]
+vt./vi. 控制；支配
+> dominate the market  控制市場
+> dominate a game  掌控比賽
+= dominant
+[ˈdɑmənənt]
+a. 主要的；支配的；占優勢的
+> dominant position  支配地位
+> dominant culture  主流文化
+* 110試辦學測 | Famous for his great achievements as an artist and scientist, Leonardo da Vinci is one of the dominant figures of the Renaissance. | 達文西以其作為藝術家和科學家的偉大成就而聞名，是文藝復興時期的傑出人物之一。
+= migrate
+[ˈmaɪˌgret]
+vi. 移居；遷移；（動物）遷徙
+> migrate to + place  移居某處
+= immigrant
+[ˈɪməgrənt]
+n. 移入者（移民）
+> illegal immigrant  非法移民
+= migrant
+[ˈmaɪgrənt]
+n. 移出者（移居國外）
+> migrant family  移民家庭
+> migrant worker  移工
+= mature
+[məˈtjʊr]
+a. 成熟的；明智的
+vt./vi. 成熟；完善
+> be mature for one's age  比同齡人更成熟
+> mature into N.  成長為……
+= maturity
+[məˈtjʊrətɪ]
+n. 成熟度
+> maturity in N.  在……方面的成熟
+= immature
+[ˌɪməˈtjʊr]
+a. 未成熟的；幼稚的
+> immature for one's age  與年齡不符的幼稚
+> immature fruit  未成熟的果實
+= premature
+[ˌpriməˈtjʊr]
+a. 過早的；不成熟的
+> premature birth  早產
+
+@group B 學測重點片語
+@page 38
+= at the expense of ...
+以……為代價
+= at the rate of ...
+以……的比率／速率
+= at the risk of ...
+冒……的風險
+= at the same time
+同時
+= at the wheel
+駕駛中
+= at will
+隨心所欲地
+= attend to N.
+處理；照顧
+= back up
+支持
+= based on ...
+根據……
+= battle for ...
+為……而搏鬥
+= be accompanied by ...
+被……陪伴／伴奏著
+= be accustomed to N.
+習慣於……
+= be associated with ...
+與……有關聯
+= be aware of ...
+意識到……
+= be blessed with ...
+有幸享有……
+= be capable of ...
+能夠……
+= be composed of ...
+由……組成
+@page 39
+= be crowded with ...
+擠滿……
+= be different from ...
+與……不同
+= be worn out ...
+筋疲力盡

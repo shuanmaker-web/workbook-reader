@@ -1,0 +1,109 @@
+# Unit 4 · 01 單字、片語 · 試題演練 (teacher PDF p.27–28, source pages 54–56)
+# No printed answer key; answers derived from context by Claude.
+@section u4-drill | 試題演練 | Vocabulary practice | 1–14
+@overview 先做文意字彙與詞類變化（看首尾字母拼出單字，必要時變化詞類）、單字配合題，最後是學測詞彙題。本段答案皆為本 app 依語意推導，書中沒有印出解答。
+
+@group 文意字彙與詞類變化（依首尾字母填入單字）
+
+Q 1 | fill | 試題演練
+stem: Modern thermostats allow users to r______te the temperature of their homes remotely using a smartphone app.
+= regulate
+~! allow sb. to + 原形動詞；regulate the temperature 調節溫度（本單元單字 regulate 的搭配），故填 regulate。
+
+Q 2 | fill | 試題演練
+stem: While reviewing the surveillance footage, the security guard happened to g______se a suspicious figure near the exit, so he decided to check it up.
+= glimpse
+~! happen to + 原形動詞；看監視器畫面時碰巧「瞥見」出口附近的可疑人物，故填 glimpse。
+
+Q 3 | fill | 試題演練
+stem: The hiring committee was impressed by Joanne's experience and considered her highly c______t, so they offered her the position.
+= competent
+~! consider + 受詞 + 形容詞；委員會認為她非常「能勝任」，所以給她這個職位，故填 competent。
+
+Q 4 | fill | 試題演練
+stem: The proposal for the new community center was met with overwhelming a______ce by local residents, who are excited about the plans.
+= acceptance
+~! be met with + 名詞「受到……的回應」；居民對計畫感到興奮，表示提案獲得壓倒性的「接受、認可」，故填 acceptance。
+
+@group 單字配合題
+@bank
+A: swayed
+B: exclusive
+C: comprehension
+D: religious
+E: revolutionary
+F: sprinkled
+G: rebellion
+H: attach
+
+Q 5 | bank | 試題演練
+stem: The invention of the internet is considered one of the most ______ developments in human history because it has transformed communication worldwide.
+= E
+~! one of the most + 形容詞 + 複數名詞；網路改變了全世界的溝通方式，是最「革命性的」發展之一，故選 revolutionary。
+
+Q 6 | bank | 試題演練
+stem: All of the workers are required to ______ the safety harness securely before starting the repairs on the outside of the high building.
+= H
+~! be required to + 原形動詞；在高樓外牆維修前要把安全帶「繫牢、扣上」，故選 attach。
+
+Q 7 | bank | 試題演練
+stem: The teacher tested the students' ______ of the novel by asking detailed questions about its plot and themes.
+= C
+~! 以詳細的劇情與主題問題測試學生對小說的「理解」；所有格 students' 後接名詞，故選 comprehension。
+
+Q 8 | bank | 試題演練
+stem: This luxury resort offers ______ access to its private beach for guests who are staying in the premium suites.
+= B
+~! 只有住頂級套房的客人才能使用私人海灘，是「專屬的」使用權；exclusive access 獨享的進入權，故選 exclusive。
+
+Q 9 | bank | 試題演練
+stem: Public opinion is often ______ by the media. For example, after a food company was reported to have used expired ingredients in its products, its reputation was completely ruined.
+= A
+~! 被動語態 is ... swayed by N.「被……左右、影響」；媒體報導讓食品公司聲譽全毀，說明輿論常被媒體影響，故選 swayed。
+
+@group 學測詞彙題
+
+Q 10 | choice | 學測詞彙題
+stem: The hotel received a ______ from a guest about the noisy air conditioning, so the staff offered him the opportunity to change rooms.
+A: committee
+B: complaint
+C: resignation
+D: regulation
+= B
+~! 房客對吵雜的冷氣提出「抱怨」，所以員工讓他換房間；receive a complaint about ... 收到關於……的投訴。committee 委員會、resignation 辭職、regulation 規定，皆不合語意。
+
+Q 11 | choice | 學測詞彙題
+stem: The company plans to ______ its operations into foreign markets in order to increase its influence and broaden its customer base.
+A: expand
+B: recite
+C: weave
+D: pretend
+= A
+~! 為了提升影響力、擴大客群，公司計畫把業務「擴展」到海外市場；expand ... into ... 擴展到……。recite 背誦、weave 編織、pretend 假裝，皆不合語意。
+
+Q 12 | choice | 學測詞彙題
+stem: It is obvious that the little boy is ______ to part with the toy he has been playing with, for he looks as if he is about to cry.
+A: remarkable
+B: optional
+C: reluctant
+D: initial
+= C
+~! be reluctant to V. 不情願做……；小男孩快哭了，顯然「不願意」和玩具分開。remarkable 非凡的、optional 可選擇的、initial 最初的，皆不合語意。
+
+Q 13 | choice | 學測詞彙題
+stem: A woman the politician was having an affair with tried to blackmail him, ______ to expose their secret relationship in the media.
+A: expressing
+B: threatening
+C: recommending
+D: revolving
+= B
+~! 勒索（blackmail）就是「威脅」要在媒體上揭露兩人的祕密關係；分詞構句 threatening to V. 威脅要……。expressing 表達、recommending 推薦、revolving 旋轉，皆不合語意。
+
+Q 14 | choice | 學測詞彙題
+stem: When resources are limited, governments must carefully determine which infrastructure projects have the highest ______ for funding.
+A: attachment
+B: priority
+C: comment
+D: initiative
+= B
+~! 資源有限時，政府要決定哪些建設案在經費上有最高的「優先順序」；have priority for/over ... 有……的優先權。attachment 依戀、comment 評論、initiative 主動性，皆不合語意。

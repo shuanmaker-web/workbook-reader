@@ -1,0 +1,198 @@
+# Unit 3 · 04 閱讀測驗、混合題 (teacher PDF p.15–21, source pages 46–50)
+# Printed explanations copied for 歷屆範例 1–3; 類題練習 4–7 answers derived by Claude.
+@section u3-reading | 閱讀測驗、混合題 | Author's attitude questions | 學測重點：作者態度題
+@overview 作者態度題：判斷關鍵為每段首句與結論句，再從文中找出表達態度的關鍵詞彙（例如 attractive、promising → hopeful）。歷屆範例 3 題附原書解析；類題練習 4 題（混合題）的答案為本 app 推導。
+
+@group 學測重點：作者態度題
+@page 46
+= 作者態度題
+作者態度題判斷關鍵為每段首句與結論句。
+> According to the passage, which of the following best describes the author's attitude towards ...?  常見試題敘述
+> Which of the following best describes the tone of this article?  常見試題敘述
+
+@group 常見作者態度相關詞彙
+@page 47
+= optimistic
+樂觀的
+= pessimistic
+悲觀的
+= subjective
+主觀的
+= objective
+客觀的
+= positive
+正向的
+= negative
+負面的
+= active
+積極主動的
+= passive
+消極被動的
+= conservative
+保守的
+= liberal
+自由開明的
+= enthusiastic
+熱情的
+= passionate
+熱情的
+= frustrated
+挫敗的
+= disappointed
+失望的
+= discouraged
+喪氣的
+= humorous
+幽默的
+= cynical
+憤世嫉俗的
+= critical
+批判的
+= sympathetic
+同情的
+= respectful
+尊重的
+= amazed
+感到驚嘆的
+= doubtful
+懷疑的
+= skeptical
+懷疑的
+= suspicious
+猜疑的
+= favorable
+贊同支持的
+= supportive
+支援的
+= neutral
+中立的
+= impartial
+無偏見的
+= unbiased
+無偏見的
+= unprejudiced
+無偏見的
+= satirical
+諷刺的
+= ironic
+諷刺的
+= sarcastic
+諷刺的
+= promising
+有前景的
+= prospective
+預期的
+= hopeful
+有希望的
+
+@group 歷屆試題範例
+
+@passage
+It is an appealing idea that some foods are unhealthy, some healthy, and some super-healthy. About 61% of British people reported buying foods because they were supposed superfoods, according to a 2014 survey. But what are superfoods? Are they really so good for our health?
+
+Currently, kale is one of the coolest superfoods around. Kale, a very common vegetable, has grown in northern Europe, and plenty of other places, for thousands of years. Its nutrition is similar to that of cabbage, broccoli, and cauliflower. Is kale significantly better than other vegetables? Fans of superfoods like to list the things that kale contains a lot of, such as iron and vitamins, and point out what those things do (make red blood cells). But that doesn't mean your body gets superpowers if you eat more than you need, especially if you're already getting enough from other sources. It is like trying to make your car go faster by putting in more petrol. No good evidence shows that eating plenty of fruit and vegetables with kale is any better than eating plenty of them without.
+
+Another example is chia seeds. One hundred grams of chia seeds contain about 17g of Omega-3s, about eight times as much as salmon. However, the Omega-3s in chia seeds are different from the ones in fish. Our body turns the chia kind into the fish kind very inefficiently, meaning that you will actually absorb less. Nor is it easy to eat a full 100g of chia seeds, which contain 486 Calories, almost as much as a Big Mac. So fish is definitely a good source of Omega-3 fatty acids for you, which help to protect against cardiovascular disease. But there is little evidence to suggest the health benefits from chia seeds.
+
+Indeed, good nutrition helps the body fight against diseases. The truth, however, is that nutrition is fabulously complex, different for everybody and mostly mysterious. We know that if you eat a balanced diet with plenty of fruit and vegetables and do regular exercise, you don't need any superfood. And if you don't, no superfood will save you.
+@end
+
+Q 1 | choice | 110學測參考試卷
+stem: According to the passage, which of the following best describes the author's attitude towards the health benefits of superfoods?
+A: Doubtful.
+B: Optimistic.
+C: Objective.
+D: Frustrated.
+= A
+~ 根據文章，以下哪個選項最能描述作者對超級食物健康益處的態度？以每段首句與結論句作為判斷關鍵文意，可知答案為 (A)。
+~段落1 首句：大家普遍會認為有些食物很健康，有些不太健康，還有一些超級健康。結論：什麼是超級食物呢？它們真的對我們的健康如此有益嗎？
+~段落2 首句：現在很紅的超級食物之一就是羽衣甘藍。結論：沒有充分證據表明，食用大量水果蔬菜時，有吃羽衣甘藍會比沒吃時更好。
+~段落3 首句：奇亞籽是另一個例子。結論：但目前幾乎沒有證據表明奇亞籽對健康有益。
+~段落4 首句：的確，良好的營養有助於身體抵抗疾病。結論：如果你不做這些，那麼什麼超級食物也救不了你。
+
+@passage
+Most parts of Taiwan have access to sufficient supplies of fresh water for drinking. But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources. As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical. Some may ask, "Since the ocean covers more than 70 percent of the Earth, why not just get drinking water from the ocean?"
+
+To turn seawater into fresh water, we need to remove the salt in seawater, that is, to desalinate seawater. The problem is that the desalination of water requires a lot of energy. Salt dissolves very easily in water, forming strong chemical bonds, and those bonds are difficult to break. The energy and technology to desalinate water are both expensive, and this means that desalinating water can be costly.
+
+There are environmental costs of desalination as well. Sea life can get sucked into desalination plants, killing small ocean creatures like baby fish and plankton, upsetting the food chain. Also, there is the problem of what to do with the separated salt, which is left over as a very concentrated brine. Pumping this super-salty water back into the ocean can harm local aquatic life. Reducing these impacts is possible, but it adds to the costs.
+
+Despite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources. At present, desalinating seawater is the only viable way to provide water to growing populations in rural areas of the Middle East and North Africa. Therefore, the race is on to find a cheaper, cleaner, and more energy-efficient way of desalinating seawater, and promising new findings are being reported.
+@end
+
+Q 2 | choice | 107學測
+stem: Which of the following best describes the author's attitude toward the future of desalination?
+A: Amazed.
+B: Doubtful.
+C: Conservative.
+D: Hopeful.
+= D
+~ 哪一項最能描述作者對海水淡化未來的態度？根據試題先找到敘述與海水淡化未來的段落：最後一段，再從文中找出與作者態度相關的關鍵詞彙：attractive 具吸引力的、promising 有希望的，故答案為 (D) Hopeful 充滿希望的。
+
+@passage
+❶ The All Blacks, New Zealand's national rugby team, is widely credited for bringing the "haka" to the world stage. Immediately before kick-off, the whole team will issue a warlike chant, stamping their feet, slapping their thighs, rolling their eyes, flicking their tongues, and making aggressive gestures in unison. This performance before each match, which is intended to heighten their morale and intimidate opponents, is a sight to behold. ❷ No other international sporting team possesses a pre-match ritual as powerful as the famed All Blacks haka.
+
+What does "haka" mean? ❸ Haka is often thought of as a broad term for Maori war dances traditionally used to intimidate the enemy and prepare the warriors for battle. Most people believe it was performed either on the battlefield prior to engaging the enemy, or as the warriors were leaving their own village en route to a battle. ❹ But in the language of Maori, the word haka simply means a dance. The dance is accompanied by a chant that expresses emotions or tells ancient stories. While many haka should be performed by males, there are some haka that can be performed by anyone, male or female. There are even some women-only haka.
+
+❺ Thanks to the All Blacks, two of the haka have become widely renowned: Ka Mate and Kapa o Pango. The former was composed by a Maori chief in the early 1800s about how he outsmarted his enemies. It was first performed by the All Blacks in 1906. The latter was written specifically for the team in 2005. They are now performed interchangeably by the All Blacks.
+
+Today, different varieties of haka are performed on various ceremonial occasions - from receiving distinguished guests to birthdays, weddings, or the funerals of chiefs and people of high status. ❻ Though the practice had traditionally been limited to Maori communities, it has now spread far beyond that. Maori and New Zealanders of European heritage alike view doing the haka with a sense of pride, both on the rugby field and outside it. ❼ The haka has become the most recognizable symbol of New Zealanders as a people.
+@end
+
+Q 3 | fill | 109指考改
+stem: Some sentences in this passage are numbered ❶ to ❼. Which sentences best describe the tone of the author towards this article as being respectful? Write down the NUMBER of those sentences.
+= 1,2,5,7
+~ 這篇文章編號 ❶ 到 ❼ 的句子，哪些句子最能展現作者對於本文內容的尊重語氣？依各句找到展現尊重的關鍵文意，可判斷答案為 ❶、❷、❺、❼。
+~文意 ❶ 紐西蘭國家橄欖球隊全黑隊因將「哈卡戰舞」推向世界舞臺而受到廣泛讚譽。
+~文意 ❷ 沒有任何國際運動隊伍擁有像著名的全黑隊哈卡戰舞那樣強大的賽前儀式。
+~文意 ❸ 哈卡戰舞往往被視為是毛利人戰舞的廣義名詞，這種舞傳統上是用來恫嚇敵人並且為戰士做好參戰的準備。
+~文意 ❹ 但是在毛利語裡面，haka 這個字單純只指舞蹈。
+~文意 ❺ 多虧了全黑隊，兩種戰舞變得廣為人知：Ka Mate 和 Kapa o Pango。
+~文意 ❻ 雖然這個做法傳統上只限於毛利人社會，但現在傳播出去的範圍已經遠不止於此了。
+~文意 ❼ 哈卡戰舞已成為紐西蘭人最知名的象徵。
+
+@group 類題練習
+
+@passage
+Sorbet's history can be traced back over 3,000 years to ancient Persia, where royalty enjoyed an early version of this frozen treat. They combined snow from the mountains with grape juice to create a refreshing dessert for hot summers. This practice wasn't just about enjoyment—it symbolized status and luxury, as only the elite had access to mountain snow and quality fruit. Over time, this innovation spread across the Middle East and Mediterranean regions, where variations began to include honey and spices, adding depth to its flavor. （❶） Sorbet's simple yet innovative origins highlight how ancient cultures used creativity and local resources to craft unique culinary experiences that stood the test of time.
+
+（❷） When the Arabs introduced sugar to Europe during the Middle Ages, sorbet underwent a transformation that elevated it to a sophisticated dessert. Italy, in particular, embraced sorbet, with early versions served at lavish banquets during the Renaissance. It became a favorite in the courts of France, especially during the reign of Louis XIV, where chefs experimented with exotic fruits and perfected its smooth texture. By this time, sorbet was no longer just a dessert but a symbol of artistry and cultural refinement. （❸） Served as both a palate cleanser and a luxurious treat, it embodied the elegance and innovation of European cuisine, cementing its reputation as a delicacy for the elite.
+
+As someone who loves light and refreshing desserts, I find sorbet absolutely delightful. （❹） Its vibrant fruit flavors and dairy-free simplicity make it stand out from richer options like ice cream. Sorbet's history adds to its charm—knowing it once graced royal tables makes every bite feel a little more special. For me, it's the perfect combination of indulgence and refreshment, a dessert that never fails to brighten my day.
+@end
+
+Q 4 | choice | 類題 1
+stem: Which of the following is most likely to be the author's comment?
+A: Sorbet has been enjoyed by the public since the start.
+B: Sorbet is usually more popular with western customers.
+C: Sorbet's history with the royalty makes it even more enjoyable.
+D: Sorbet is prepared by crushing tropical fruit with fresh nuts.
+= C
+~! 最後一段是作者的個人看法：Sorbet's history adds to its charm—knowing it once graced royal tables makes every bite feel a little more special，與 (C) 相符。(A) 原文說最早只有王室與菁英能享用；(B) 沒有比較東西方顧客；(D) 原文說是雪加葡萄汁，且 sorbet 不含堅果、乳製品。
+
+Q 5 | choice | 類題 2
+stem: Where can the following sentence be best put in the passage?
+  "That is, it represented the creativity and sophistication of the society."
+A: ❶
+B: ❷
+C: ❸
+D: ❹
+= C
+~! That is（也就是說）用來換句話說：❸ 前一句 sorbet was no longer just a dessert but a symbol of artistry and cultural refinement，正好被換句話說成 it represented the creativity and sophistication of the society（artistry ↔ creativity、cultural refinement ↔ sophistication）。
+
+Q 6 | multi | 類題 3
+stem: Please choose the correct statement(s) according to the passage.（多選題）
+A: Sorbet was first enjoyed as a cool summer treat.
+B: Sorbet had its origin in the Mediterranean regions.
+C: The addition of exotic fruits to sorbet started in Europe.
+D: Selling sorbet used to be a profitable business in its place of origin.
+E: Sorbet is usually served last in a formal multiple-course meal.
+F: Without certain ingredients, sorbet melts faster than ice cream.
+= AC
+~! (A) 第 1 段：古波斯王室用山上的雪加葡萄汁做成 a refreshing dessert for hot summers。(C) 第 2 段：法國宮廷的廚師 experimented with exotic fruits；在此之前只提到葡萄汁、蜂蜜與香料，可知加入異國水果是從歐洲開始。(B) 起源於古波斯，不是地中海；(D) 沒提到販售獲利；(E) 只說可當 palate cleanser，沒說最後上；(F) 沒提到融化速度。注意：(C) 需要推論，請老師確認。
+
+Q 7 | fill | 類題 4
+stem: Please fill in the blanks below with words from the passage. Remember to change the form if necessary.
+  Compared with ice cream, sorbet does not contain ______ ingredients, which makes the dessert simple.
+= dairy
+~! 最後一段 Its vibrant fruit flavors and dairy-free simplicity make it stand out from richer options like ice cream：sorbet 不含「乳製品」成分，所以簡單；dairy ingredients 乳製品成分。
