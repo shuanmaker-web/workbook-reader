@@ -19,11 +19,12 @@ Material grammar (see material/*.txt headers):
   * 96指考 | English | 中文   boxed exam sentence
   @bank  ... "A: text" lines until a blank line     (answer bank for 'bank' questions)
   @passage ... @end         paragraphs separated by blank lines; [[n]] = blank of question n
-  Q n | type | src          type: choice | multi | bank | fill | trans
+  Q n | type | src          type: choice | multi | bank | fill | trans | write
     stem: ...   (continuation lines start with two spaces)   A: ... J: ...
     = answer                 (fill: alternatives separated by " | "; trans: one reference translation, shown on reveal, not auto-graded)
     ~ text / ~label text / ~! text (derived by Claude)       analysis lines
     (trans uses ~替換 word: alt1 / alt2 for the book's 替換詞 lists)
+    write: writing prompt; "= model essay" is optional (" ¶ " = paragraph break); students write on paper
 """
 import csv, json, os, re, sys
 
@@ -39,7 +40,7 @@ BOOKS = [
     {'id': 'l35', 'title': 'Level 3–5', 'english': '', 'sub': '字彙王練習題本・文意字彙・選擇題・配合題', 'plan': []},
 ]
 UNITS = [
-    # kind: 'unit' (regular units) or 'trans' (translation units) — the app's quick-switch bar has one tab per kind.
+    # kind: 'unit' (regular units), 'trans' (translation) or 'write' (writing) — the app's quick-switch bar has one tab per kind.
     {'id': 'u1', 'book': 'dmg', 'kind': 'unit', 'title': 'Unit 1', 'sub': '單字、片語・綜合測驗・篇章結構・閱讀測驗'},
     {'id': 'u2', 'book': 'dmg', 'kind': 'unit', 'title': 'Unit 2', 'sub': '單字、片語・文意選填・篇章結構・閱讀測驗'},
     {'id': 'u3', 'book': 'dmg', 'kind': 'unit', 'title': 'Unit 3', 'sub': '單字、片語・綜合測驗・篇章結構・閱讀測驗'},
@@ -47,6 +48,11 @@ UNITS = [
     {'id': 'gs1', 'book': 'dmg', 'kind': 'unit', 'title': '特訓（一）', 'sub': '大滿貫特訓（一）・詞彙題'},
     {'id': 'tr1', 'book': 'dmg', 'kind': 'trans', 'title': '翻譯（一）', 'sub': '表目的句法'},
     {'id': 'tr2', 'book': 'dmg', 'kind': 'trans', 'title': '翻譯（二）', 'sub': '以動詞開頭'},
+    {'id': 'tr3', 'book': 'dmg', 'kind': 'trans', 'title': '翻譯（三）', 'sub': '現在完成式'},
+    {'id': 'tr4', 'book': 'dmg', 'kind': 'trans', 'title': '翻譯（四）', 'sub': '名詞子句'},
+    {'id': 'trr1', 'book': 'dmg', 'kind': 'trans', 'title': '複習（一）', 'sub': '翻譯複習（一）'},
+    {'id': 'wr1', 'book': 'dmg', 'kind': 'write', 'title': '寫作（一）', 'sub': '表個人看法／意見／經驗分享'},
+    {'id': 'wr2', 'book': 'dmg', 'kind': 'write', 'title': '寫作（二）', 'sub': '表達優缺／利弊／正反面'},
     {'id': 'cz41', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 41', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
     {'id': 'cz42', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 42', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
     {'id': 'cz43', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 43', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
@@ -57,7 +63,7 @@ UNITS = [
     {'id': 'cz48', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 48', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
 ]
 assert all(u['book'] in {b['id'] for b in BOOKS} for u in UNITS), 'unit with unknown book'
-assert all(u.get('kind') in ('unit', 'trans') for u in UNITS), 'unit without kind'
+assert all(u.get('kind') in ('unit', 'trans', 'write') for u in UNITS), 'unit without kind'
 # section id -> (unit, title, english, range, pages, overview) for sections whose file has no full @section header
 VOCAB_META = {
     'u1-vocab': ('u1', '單字、片語', 'Key words & phrases', 'A 單字 · B 片語', [6, 7, 8, 9, 10],
@@ -70,7 +76,8 @@ VOCAB_META = {
                  '學測重點單字與片語（附音標）。點單字旁的 ☆ 可收進「我的單字」；點例句裡的任何英文字可查詞義。'),
 }
 # sections whose id prefix is not the unit id
-UNIT_OF = {'tr-1': 'tr1', 'tr-2': 'tr2', 'gs1-vocab': 'gs1',
+UNIT_OF = {'tr-1': 'tr1', 'tr-2': 'tr2', 'tr-3': 'tr3', 'tr-4': 'tr4', 'tr-r1': 'trr1',
+           'wr-1': 'wr1', 'wr-2': 'wr2', 'gs1-vocab': 'gs1',
            'cloze-41': 'cz41', 'cloze-42': 'cz42', 'cloze-43': 'cz43', 'cloze-44': 'cz44',
            'cloze-45': 'cz45', 'cloze-46': 'cz46', 'cloze-47': 'cz47', 'cloze-48': 'cz48'}
 
@@ -86,7 +93,7 @@ ORDER = ['u1-vocab', 'u1-drill', 'u1-cloze', 'u1-struct', 'u1-reading',
          'u2-vocab', 'u2-drill', 'u2-cloze', 'u2-struct', 'u2-reading',
          'u3-vocab', 'u3-drill', 'u3-cloze', 'u3-struct', 'u3-reading',
          'u4-vocab', 'u4-drill', 'u4-cloze', 'u4-struct', 'u4-reading', 'gs1-vocab',
-         'tr-1', 'tr-2',
+         'tr-1', 'tr-2', 'tr-3', 'tr-4', 'tr-r1', 'wr-1', 'wr-2',
          'cloze-41', 'cloze-42', 'cloze-43', 'cloze-44',
          'cloze-45', 'cloze-46', 'cloze-47', 'cloze-48']
 FILES = {'u1-vocab': 'u1-words.txt', 'u1-drill': 'u1-drill.txt', 'u1-cloze': 'u1-cloze.txt',
@@ -97,7 +104,8 @@ FILES = {'u1-vocab': 'u1-words.txt', 'u1-drill': 'u1-drill.txt', 'u1-cloze': 'u1
          'u3-struct': 'u3-struct.txt', 'u3-reading': 'u3-reading.txt',
          'u4-vocab': 'u4-words.txt', 'u4-drill': 'u4-drill.txt', 'u4-cloze': 'u4-cloze.txt',
          'u4-struct': 'u4-struct.txt', 'u4-reading': 'u4-reading.txt', 'gs1-vocab': 'gs1-vocab.txt',
-         'tr-1': 'trans-1.txt', 'tr-2': 'trans-2.txt',
+         'tr-1': 'trans-1.txt', 'tr-2': 'trans-2.txt', 'tr-3': 'trans-3.txt', 'tr-4': 'trans-4.txt',
+         'tr-r1': 'trans-r1.txt', 'wr-1': 'write-1.txt', 'wr-2': 'write-2.txt',
          'cloze-41': 'cloze-41.txt', 'cloze-42': 'cloze-42.txt',
          'cloze-43': 'cloze-43.txt', 'cloze-44': 'cloze-44.txt',
          'cloze-45': 'cloze-45.txt', 'cloze-46': 'cloze-46.txt',
@@ -173,7 +181,7 @@ def parse_file(sid, fname):
                 if ord(m.group(1)) - 65 != len(q['opts']) - 1:
                     err(fname, ln, f'option letter {m.group(1)} out of order')
             elif line.startswith('= '):
-                q['ans'] = line[2:].strip()
+                q['ans'] = line[2:].strip().replace(' ¶ ', '\n\n')
             elif line.startswith('~'):
                 body = line[1:]
                 derived = False
@@ -290,7 +298,7 @@ def validate(sec):
     for q in qs:
         where = f'{f} Q{q["n"]}'
         if q['stem'] is None: err(where, 0, 'no stem')
-        if q['ans'] is None: err(where, 0, 'no answer'); continue
+        if q['ans'] is None and q['type'] != 'write': err(where, 0, 'no answer'); continue
         t = q['type']
         if t in ('choice', 'bank'):
             if not re.fullmatch(r'[A-J]', q['ans']) or ord(q['ans']) - 65 >= len(q['opts']):
@@ -300,8 +308,8 @@ def validate(sec):
                 err(where, 0, f'bad multi answer {q["ans"]!r}')
         elif t == 'fill':
             if q['opts']: err(where, 0, 'fill with options')
-        elif t == 'trans':
-            if q['opts']: err(where, 0, 'trans with options')
+        elif t in ('trans', 'write'):
+            if q['opts']: err(where, 0, f'{t} with options')
         else:
             err(where, 0, f'unknown type {t}')
         if t == 'choice' and len(q['opts']) < 2: err(where, 0, 'choice needs options')
@@ -329,7 +337,7 @@ def collect_text(sections):
             elif it['t'] == 'bank': out += it['opts']
             elif it['t'] == 'q':
                 out += [it['stem']] + it['opts'] + [a['t'] for a in it['an'] if a['l'] in ('', '原文', '文意', '替換', '補充', '詞義') ]
-                out.append(it['ans'] if it['type'] in ('fill', 'trans') else '')
+                out.append(it['ans'] if it['type'] in ('fill', 'trans', 'write') and it['ans'] else '')
             elif it['t'] == 'entries':
                 for e in it['list']:
                     out.append(e['w'])

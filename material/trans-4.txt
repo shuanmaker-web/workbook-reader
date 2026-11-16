@@ -1,0 +1,99 @@
+# Translation (四) · 使用「名詞子句」句型 (book p.11–13) — from the 翻譯／寫作 workbook
+# 歷屆試題解題範例 1–5: printed. 試題演練 1–8: derived by Claude (~!), need teacher review.
+@section tr-4 | 翻譯（四）：使用「名詞子句」句型 | Translation: noun clauses | 學測重點：使用「名詞子句」句型
+@overview 句子某個部分代表一個完整的概念、事實、問題、觀點或想法，且在句子中扮演主詞、受詞或補語時，用名詞子句作答：that 子句、whether / if 子句、wh- 疑問詞子句（也可改寫為 wh-word to V）。歷屆範例 5 題附書上的替換詞；試題演練 8 題的參考答案為本 app 推導，請老師審閱。
+
+@group 學測重點：使用「名詞子句」句型
+@page 11
+= that 名詞子句
+句子中包含某件事情作為主詞或受詞：使用 that 名詞子句。*註：學測通常當受詞居多；當受詞時，that 可省略。
++例 My parents think (that) learning English is important. | 我的父母認為學英語很重要。（「學英語很重要」是個想法以及動詞「認為」的受詞）
+= whether / if 名詞子句
+句子中有是否的概念：使用 whether / if 名詞子句。
++例 I don't know if Kate will attend the meeting. | 我不知道 Kate 是否會來開會。（「Kate 是否會來開會」為不確定的情境及動詞「知道」的受詞）
+= wh- 疑問詞 + S + V
+句子中有疑問詞引導的內容：使用 wh- 疑問詞（what, who, where, when, why, how）+ S + V。這種名詞子句有時還可改寫為 wh-word to V 的名詞片語。
++例 Jay explained why he was late this morning. | Jay 解釋了他今天早上為什麼會遲到。（「為什麼遲到」是個原因，作為「解釋」的受詞）
++例 Alice told me how I could get to the nearest bus station. | Alice 告訴我怎麼去最近的公車站。
++例 Alice told me how to get to the nearest bus station. | Alice 告訴我怎麼去最近的公車站。（wh-word to V）
+
+@group 歷屆試題解題範例
+
+Q 1 | trans | 110指考
+stem: 很多人好奇今年年初在美國破紀錄的低溫是否與全球暖化有關。
+= Many people wonder if the record-breaking low temperatures earlier this year in the US were related to global warming.
+~替換 wonder: are curious about
+~替換 if: whether
+~替換 record-breaking low: record-low
+~替換 earlier: early / in the early part of / at the beginning of
+~替換 were related to: were related with / had (something) to do with
+
+Q 2 | trans | 110指考
+stem: 不論答案為何，氣候專家預告這種不正常的天氣將會變成新的常態。
+= Whatever the answer is, climate experts have predicted (that) this kind of abnormal weather will become the new normal / norm.
+~替換 Whatever: No matter what
+~替換 kind: type
+~替換 abnormal: unusual
+
+Q 3 | trans | 109指考補考
+stem: 例如，志工服務讓學生學到如何與不同背景及不同年齡層的人互動。
+= For example, volunteer services make students learn how to interact with people of different backgrounds and ages.
+~替換 For example: For instance
+~替換 volunteer: voluntary
+~替換 services: works
+
+Q 4 | trans | 105學測
+stem: 在這個快速改變的世界中，他們必須學習如何有效地因應新的挑戰。
+= In this fast-changing world, they have to learn how to react to new challenges effectively.
+~替換 fast-changing: rapidly-changing
+~替換 have to: need to / must / should
+~替換 react to: respond to / deal with / handle
+
+Q 5 | trans | 96指考
+stem: 專家警告我們不應該再將食物價格低廉視為理所當然。
+= Experts warned that we should not take low food prices for granted any more.
+~替換 low food prices: low-price food / low-priced food / the low cost of food
+~替換 any more: any longer
+
+@group 試題演練
+@page 12
+
+Q 6 | trans | 試題演練 1
+stem: 坦白說，我們對於他為了會議準備的東西感到印象深刻。
+= To be honest, we are impressed by what he prepared for the meeting.
+~! 「他為了會議準備的東西」用 what 名詞子句 what he prepared for the meeting，當介系詞 by 的受詞；「坦白說」To be honest / Frankly speaking。
+
+Q 7 | trans | 試題演練 2
+stem: 事實上，沒有人能夠預測我們是否能贏得冠軍。
+= In fact, no one can predict whether we will win the championship.
+~! 「是否」用 whether 名詞子句，當 predict 的受詞；win the championship 贏得冠軍。
+
+Q 8 | trans | 試題演練 3
+stem: 最重要的事情是要一起想出解決問題的方法。
+= The most important thing is that we come up with a way to solve the problem together.
+~! 名詞子句當補語：The most important thing is that …；「想出」come up with / figure out。也可寫 … is to figure out together how to solve the problem.
+
+Q 9 | trans | 試題演練 4
+stem: 他人很隨和且大方是大家都知道的事情。
+= That he is easygoing and generous is known to everyone.
+~! that 名詞子句當主詞，視為單數；也可用虛主詞改寫：It is known to everyone that he is easygoing and generous.
+
+Q 10 | trans | 試題演練 5
+stem: 他現在能做的事情就是做足準備，為最糟的情形作打算。
+= What he can do now is (to) prepare well and plan for the worst.
+~! what 名詞子句當主詞 What he can do now；be 動詞後可接 (to) + 原形動詞；「為最糟的情形作打算」plan / prepare for the worst。
+
+Q 11 | trans | 試題演練 6
+stem: 他如何短時間內完成作業是我們好奇的事情。
+= How he finished the assignment in such a short time is what we are curious about.
+~! 主詞與補語都是名詞子句：How he finished … 當主詞，what we are curious about 當補語；be curious about 對…好奇。
+
+Q 12 | trans | 試題演練 7
+stem: 你有沒有考慮過他可能不會改變心意的可能性？
+= Have you considered the possibility that he may not change his mind?
+~! the possibility that + S + V 為同位語名詞子句，說明 possibility 的內容；「有沒有考慮過」用現在完成式疑問句。
+
+Q 13 | trans | 試題演練 8
+stem: 有一個普遍的信念是成功屬於堅持到最後的人。
+= There is a common belief that success belongs to those who persevere to the end.
+~! a common belief that … 同位語名詞子句；「堅持到最後的人」those who persevere / hold on to the end。

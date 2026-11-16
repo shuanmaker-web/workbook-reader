@@ -3,7 +3,7 @@
    items: group | entries | bank | passage | q   (q.type: choice | multi | bank | fill | trans)
    Translation (trans) questions: students answer on paper; the app only offers a "看參考答案" button,
    controlled by a teacher switch (state.transOn, remembered in localStorage). */
-const CACHE='workbook-reader-v9'; // keep in sync with sw.js
+const CACHE='workbook-reader-v10'; // keep in sync with sw.js
 const STORE='workbook-reader-v1';
 const exam=window.EXAM,dict=window.DICTIONARY||{};
 const $=s=>document.querySelector(s),esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -20,7 +20,8 @@ const questions=s=>s.items.filter(i=>i.t==='q');
 const qkey=(s,q)=>`${s.id}-${q.n}`;
 const qIndex={},entryIndex={};
 exam.sections.forEach(s=>{questions(s).forEach(q=>{qIndex[qkey(s,q)]={s,q}});s.items.forEach(it=>{if(it.t==='entries')it.list.forEach(e=>{entryIndex[e.w.toLowerCase()]=e})})});
-const isTrans=q=>q.type==='trans';
+const isTrans=q=>q.type==='trans'||q.type==='write';
+const isWrite=q=>q.type==='write';
 const hasTrans=s=>questions(s).some(isTrans);
 const canSee=q=>!isTrans(q)||state.transOn;
 const isRevealed=(s,q)=>canSee(q)&&(showAll||!!state.revealed[qkey(s,q)]);
@@ -43,8 +44,8 @@ const bookSections=b=>exam.sections.filter(s=>bookOf(s)===b);
 const lastSection=b=>{const secs=bookSections(b);return secs.find(s=>s.id===state.bookSection[b.id])||secs[0]};
 const isLesson=()=>mode==='read'||mode==='analysis';
 /* unit switcher: a book's units are grouped by kind ('unit' | 'trans'); the sidebar shows one unit at a time */
-const KINDS=[['unit','Units'],['trans','Translation']];
-const kindOf=u=>u&&u.kind==='trans'?'trans':'unit';
+const KINDS=[['unit','Units'],['trans','Translation'],['write','Writing']];
+const kindOf=u=>u&&(u.kind==='trans'||u.kind==='write')?u.kind:'unit';
 const unitSections=u=>exam.sections.filter(s=>s.unit===u.id);
 const liveUnits=(b,k)=>bookUnits(b).filter(u=>(!k||kindOf(u)===k)&&unitSections(u).length);
 const unitEntry=u=>{const secs=unitSections(u);return secs.find(s=>s.id===(state.unitSection||{})[u.id])||secs[0]};
@@ -55,7 +56,7 @@ const chipLabel=u=>{const m=u.title.match(/^Unit\s+(.+)$/);return m?m[1]:u.title
 function chapterSelect(){const opts=bookUnits(book).map(u=>{const secs=exam.sections.filter(s=>s.unit===u.id);if(!secs.length)return '';return `<optgroup label="${esc(u.title)}">${secs.map(s=>`<option value="${s.id}" ${s.id===section.id?'selected':''}>${esc(s.title)}　${esc(s.range)}</option>`).join('')}</optgroup>`}).join('');return `<select class="mobile-chapters" id="chapterSelect" aria-label="選擇單元">${opts}</select>`}
 function hero(analysis=false){const nq=questions(section).length,ne=section.items.filter(i=>i.t==='entries').reduce((n,i)=>n+i.list.length,0);return `<section class="hero"><div class="eyebrow">${esc(book.title)} · ${analysis?'TEACHER’S DESK / 解析備課':esc((unitOf(section.unit)||{}).title||'WORKBOOK').toUpperCase()}</div><h1>${esc(section.english)}</h1><div class="pillrow"><span class="pill">${esc(section.title)}</span><span class="pill">${esc(section.range)}</span>${nq?`<span class="pill">${nq} 題</span>`:''}${ne?`<span class="pill">${ne} 個單字／片語</span>`:''}</div></section>${unitSwitch('mobile-switch')}${chapterSelect()}`}
 function navrow(){const secs=bookSections(book),i=secs.indexOf(section),prev=secs[i-1],next=secs[i+1];return `<div class="navrow">${prev?`<a href="#${mode}/${prev.id}">← ${esc(prev.title)}</a>`:`<a href="#book/${book.id}">← ${esc(book.title)} 目錄</a>`}${next?`<a href="#${mode}/${next.id}">${esc(next.title)} →</a>`:'<a href="#home">回到首頁，換一本書 →</a>'}</div>`}
-function transSwitch(){return hasTrans(section)?`<div class="trans-switch"><span class="hint">老師可在這裡決定要不要顯示翻譯參考答案。</span><label class="switch"><input type="checkbox" id="transToggle" ${state.transOn?'checked':''}>顯示翻譯答案</label></div>`:''}
+function transSwitch(){return hasTrans(section)?`<div class="trans-switch"><span class="hint">老師可在這裡決定要不要顯示翻譯參考答案與範文。</span><label class="switch"><input type="checkbox" id="transToggle" ${state.transOn?'checked':''}>顯示參考答案</label></div>`:''}
 
 /* ---------- items ---------- */
 function renderEntry(e){const key=e.w.toLowerCase(),starred=!!state.words[key]?.star;return `<article class="entry"><div class="entry-head"><h3>${wordify(e.w)}${e.ph?`<span class="ph">[${esc(e.ph)}]</span>`:''}</h3><button class="starbtn" data-entry-star="${esc(key)}" aria-pressed="${starred}" aria-label="${starred?'取消收藏':'收藏'} ${esc(e.w)}">${starred?'★':'☆'}</button></div>`
@@ -79,10 +80,10 @@ function renderQuestion(q){const s=section,key=qkey(s,q),revealed=isRevealed(s,q
   if(revealed){tag=fillCorrect(q,draft)?'✓ 答對了':'參考答案';body+=`<div class="text-answer">${altList(q.ans).map(esc).join('　/　')}</div>`}
  }else if(isTrans(q)){
   body='';
-  if(revealed){tag=q.an.some(a=>a.d)?'參考答案 · 推導':'參考答案';body+=`<div class="text-answer trans-answer">${wordify(q.ans)}${altsHtml(q)}<p class="tn">這題的英文說法不只一種，以上僅供參考。</p></div>`}
+  if(revealed&&q.ans){tag=isWrite(q)?'範文':q.an.some(a=>a.d)?'參考答案 · 推導':'參考答案';body+=`<div class="text-answer trans-answer">${wordify(q.ans)}${altsHtml(q)}<p class="tn">${isWrite(q)?'範文僅供參考。':'這題的英文說法不只一種，以上僅供參考。'}</p></div>`}
  }
- const showBtn=canSee(q);
- return `<article class="qcard" id="q-${key}"><div class="qtop"><span class="qnum">${esc(qLabel(q))}</span>${tag?`<span class="answer-tag">${esc(tag)}</span>`:''}</div><div class="qstem">${text(q.stem,s)}</div>${q.type==='multi'?'<p class="hint">本題為多選。</p>':''}${body}<div class="qactions">${showBtn?`<button class="reveal" data-reveal="${key}">${revealed?'收起答案 ↑':isTrans(q)?'看參考答案 ↓':'顯示答案 ↓'}</button>`:'<span class="hint">翻譯答案已關閉</span>'}${showBtn&&!isTrans(q)?`<a class="to-analysis" href="#analysis/${s.id}/${q.n}">查看解析 ↗</a>`:'<span></span>'}</div></article>`}
+ const showBtn=canSee(q)&&!!q.ans;
+ return `<article class="qcard" id="q-${key}"><div class="qtop"><span class="qnum">${esc(qLabel(q))}</span>${tag?`<span class="answer-tag">${esc(tag)}</span>`:''}</div><div class="qstem">${text(q.stem,s)}</div>${q.type==='multi'?'<p class="hint">本題為多選。</p>':''}${body}<div class="qactions">${showBtn?`<button class="reveal" data-reveal="${key}">${revealed?'收起答案 ↑':isWrite(q)?'看範文 ↓':isTrans(q)?'看參考答案 ↓':'顯示答案 ↓'}</button>`:`<span class="hint">${!q.ans?'學生在紙上寫作（本題沒有範文）':'參考答案已關閉'}</span>`}${showBtn&&!isTrans(q)?`<a class="to-analysis" href="#analysis/${s.id}/${q.n}">查看解析 ↗</a>`:'<span></span>'}</div></article>`}
 function renderItem(it){switch(it.t){case 'group':return `<div class="sectionbar groupbar"><h2>${esc(it.title)}</h2></div>`;case 'entries':return it.list.map(renderEntry).join('');case 'bank':return renderBank(it);case 'passage':return `<div class="reading-card"><div class="article-label">THE PASSAGE / 文章</div><div class="passage">${it.paras.map(p=>`<p>${text(p,section,true)}</p>`).join('')}</div></div>`;case 'q':return renderQuestion(it)}return ''}
 function answeredCount(s){return questions(s).filter(q=>{const k=qkey(s,q);return q.type==='fill'?(state.drafts[k]||'').trim():state.picks[k]}).length}
 function groupSegments(s){const pre=[],segs=[];let cur=null;for(const it of s.items){if(it.t==='group'){cur={title:it.title,items:[]};segs.push(cur)}else if(cur)cur.items.push(it);else pre.push(it)}return{pre,segs}}
@@ -101,9 +102,9 @@ function renderRead(){const nq=questions(section).length,done=answeredCount(sect
 
 /* ---------- analysis ---------- */
 function renderAnalysisQ(q){const s=section,key=qkey(s,q),hide=isTrans(q)&&!state.transOn;let ctx=q.type==='bank'||/^（第/.test(q.stem)?blankContext(s,q):'';const excerpt=ctx?wordify(ctx):text(q.stem,s);
- let full='';if(!hide){full=q.type==='choice'||q.type==='bank'?`${q.ans}. ${answerText(q)}`:q.type==='multi'?q.ans.split('').map(l=>`${l}. ${q.opts[l.charCodeAt(0)-65]}`).join('\n'):isTrans(q)?q.ans:altList(q.ans).join('　/　')}
- const lines=isTrans(q)?'':q.an.map(a=>`<p class="exp-line">${a.l?`<span class="exp-tag">${esc(a.l)}</span>`:''}${a.d?'<span class="tag-derived">推導</span>':''}${wordify(a.t)}</p>`).join('');
- const body=hide?`<div class="lock-note">翻譯答案目前已關閉。可到「設定」或該課頂端的開關開啟。</div>`:`<div class="answer-full">${wordify(full)}</div>${isTrans(q)?`<div class="trans-answer">${altsHtml(q)}</div>`:`<div class="explain">${lines}</div>`}`;
+ let full='';if(!hide){full=q.type==='choice'||q.type==='bank'?`${q.ans}. ${answerText(q)}`:q.type==='multi'?q.ans.split('').map(l=>`${l}. ${q.opts[l.charCodeAt(0)-65]}`).join('\n'):isTrans(q)?(q.ans||'（本題沒有範文，學生依提示自行寫作。）'):altList(q.ans).join('　/　')}
+ const lines=isTrans(q)&&!isWrite(q)?'':q.an.map(a=>`<p class="exp-line">${a.l?`<span class="exp-tag">${esc(a.l)}</span>`:''}${a.d?'<span class="tag-derived">推導</span>':''}${wordify(a.t)}</p>`).join('');
+ const body=hide?`<div class="lock-note">翻譯答案目前已關閉。可到「設定」或該課頂端的開關開啟。</div>`:`<div class="answer-full">${wordify(full)}</div>${isTrans(q)&&!isWrite(q)?`<div class="trans-answer">${altsHtml(q)}</div>`:`<div class="explain">${lines}</div>`}`;
  return `<article class="analysis-card" id="a-${key}"><h3><span class="qnum">${esc(qLabel(q))}</span>${!hide&&q.type!=='fill'&&!isTrans(q)?`<span class="answer-tag">${q.ans.split('').join('、')}</span>`:''}</h3><div class="qexcerpt">${excerpt}</div>${body}<div class="qactions"><a class="to-analysis" href="#read/${s.id}/${q.n}">回到題目 ↗</a></div></article>`}
 function renderAnalysis(){return `${hero(true)}${transSwitch()}<div class="sectionbar"><h2>單元導讀</h2>${section.pages&&section.pages.length?'<button class="sourcebtn" id="openSource">原書頁面核對 ↗</button>':''}</div><div class="overview">${esc(section.overview||'')}</div>${section.items.map(it=>it.t==='q'?renderAnalysisQ(it):it.t==='group'||it.t==='entries'?renderItem(it):'').join('')}${navrow()}<div class="notebox">${esc(exam.notice||'')}</div>`}
 

@@ -51,3 +51,9 @@
 37. 翻譯(一)(二)原本是同一個 unit「翻譯」,現在拆成兩個 unit(`tr1`、`tr2`,kind = `trans`),之後加翻譯(三)起只要在 `UNITS` 加一行 kind 為 `trans` 的 unit。section id(`tr-1`、`tr-2`)沒變,學生作答紀錄不受影響。
 38. Camino de Santiago、Ka Mate / Kapa o Pango、Louis XIV、Maniq、Jahai、GABA、Popole Misenga、TSMC、Hon Hai 等專有名詞已加進 `CONTEXT`;dictionary.js 已用 ECDICT 重新產生。CACHE 版本已更新為 `workbook-reader-v9`。
 39. **合併注意**:Project 裡的 `claude/app.js` / `index.html` / `style.css` 曾有一版(CACHE v8)沒有 push 到 repo,內含「題型分頁(全部／各 group)」、「選項庫固定在畫面下方(bank dock)」、首頁綠色區塊改英文、側欄底部改英文。這次已把那些功能合併進來,再加上 Unit 3–4 與單元切換列;首頁綠色區塊的英文介紹文字也一併拿掉(只留 TUTOR'S BAG 與統計)。合併後的版本 CACHE 為 `workbook-reader-v9`,repo 與 Project 現在一致(repo 尚未 commit)。
+
+## 翻譯（三）（四）、翻譯複習（一）、寫作（一）（二）(2026-11-17,來自老師拍的「翻譯／寫作」書 p.8–15、30–33)
+40. 新增翻譯（三）現在完成式、翻譯（四）名詞子句(各:歷屆範例 5 題照抄書上答案與替換詞、試題演練 8 題)、翻譯複習（一）(8 題,每題前後兩句)。翻譯（二）p.5–7 先前已收,這次的照片沒有新內容。
+41. **推導答案新增 24 則**:翻譯（三）（四）試題演練各 8 題、翻譯複習（一）8 題,書上沒有印答案,參考答案為 Claude 推導(標「推導」),請審閱。翻譯複習（一）第 8 題中文「為了…，自己出國旅行是很多青少年的夢想」,為避免懸垂的目的片語,參考答案改寫成 many teenagers dream of traveling abroad on their own。
+42. **寫作**成為側欄第三個分頁(`Units` / `Translation` / `Writing`),目前有寫作（一）（二):實用句型、歷屆寫作範例(題目 + 書上範文,照抄)、試題演練(只有題目;書上沒有範文,App 顯示「學生在紙上寫作」)。新題型 `write`:範文可有可無,`" ¶ "` 表示分段;範文與翻譯參考答案共用同一個顯示開關。
+43. CACHE 版本更新為 `workbook-reader-v10`。

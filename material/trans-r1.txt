@@ -1,0 +1,54 @@
+# 翻譯複習（一） (book p.14–15) — from the 翻譯／寫作 workbook
+# No printed answers; reference translations derived by Claude (~!), need teacher review.
+@section tr-r1 | 翻譯複習（一） | Translation review (1) | 試題演練 1–8（每題兩句）
+@overview 綜合複習翻譯（一）到（四）的句型：表目的、動詞開頭、現在完成式、名詞子句。每題有前後兩句。書中沒有印出解答，參考答案為本 app 推導，請老師審閱。
+
+@group 試題演練
+
+Q 1 | trans | 試題演練 1
+stem: 不管我們贏或輸，我們都要盡全力試圖達到我們的目標。
+  在這過程中，我們不僅能學到寶貴的經驗，也可以獲得成就感。
+= Whether we win or lose, we should do our best to achieve our goals. In the process, we can not only learn valuable lessons but also gain a sense of achievement.
+~! 「不管…或…」Whether … or …；「盡全力」do one's best；「不僅…也…」not only … but also …；「成就感」a sense of achievement / accomplishment。
+
+Q 2 | trans | 試題演練 2
+stem: 過去幾年來，有越來越多不同年齡層的學生對智慧型手機成癮。
+  為了對抗這個問題，有些學校禁止學生攜帶電子產品到學校。
+= Over the past few years, more and more students of different ages have become addicted to smartphones. To combat this problem, some schools have banned students from bringing electronic devices to school.
+~! 「過去幾年來」用現在完成式 have become；be/become addicted to N. 對…成癮；「為了」To V. 表目的；ban sb. from V-ing 禁止某人做…。
+
+Q 3 | trans | 試題演練 3
+stem: 隨著食物外送平臺越來越受歡迎，有很高比例的學生選擇不吃學校午餐。
+  然而，不可否認的是，學校午餐價格合理，且提供均衡的營養。
+= As food delivery platforms become increasingly popular, a high percentage of students choose not to eat school lunch. However, it is undeniable that school lunches are reasonably priced and provide balanced nutrition.
+~! 「隨著」As + S + V；「很高比例的」a high percentage / proportion of；「不可否認的是」It is undeniable that …（虛主詞 + that 名詞子句）；「價格合理」reasonably priced。
+
+Q 4 | trans | 試題演練 4
+stem: 現在，想要成為寵物主人的人們多會被鼓勵領養而非購買動物。
+  畢竟，領養可以幫忙舒緩流浪動物的問題，減少牠們對環境的衝擊。
+= Nowadays, people who want to become pet owners are mostly encouraged to adopt rather than buy animals. After all, adoption can help ease the problem of stray animals and reduce their impact on the environment.
+~! be encouraged to V. 被鼓勵做…；A rather than B 而非；「舒緩」ease / relieve；「流浪動物」stray animals；impact on N. 對…的衝擊。
+
+Q 5 | trans | 試題演練 5
+stem: 多數高中畢業生都面臨未來大學要住在宿舍或是自己租屋的選擇。
+  雖然租屋較貴，但學生可以享有隱私，且學著過獨立的生活。
+= Most high school graduates face the choice of whether to live in a dormitory or rent a place of their own in college. Although renting is more expensive, students can enjoy privacy and learn to live independently.
+~! the choice of whether to V. or V. 選擇是否…（whether to V. 名詞片語）；「雖然…但」英文只用 Although，不再加 but；「動名詞當主詞」Renting is more expensive。
+
+Q 6 | trans | 試題演練 6
+stem: 許多人主張發展觀光業有益於當地經濟，所以歡迎世界各國的旅客。
+  但是，坦白說，過度的觀光對於當地居民的生活品質可能有負面的影響。
+= Many people argue that developing tourism benefits the local economy, so they welcome travelers from all over the world. However, frankly speaking, excessive tourism may have a negative impact on local residents' quality of life.
+~! argue that … 主張（that 名詞子句當受詞）；動名詞 developing tourism 當子句主詞；have a negative impact on N. 對…有負面影響。
+
+Q 7 | trans | 試題演練 7
+stem: 和過去的學生比起來，現今臺灣高中生普遍面臨不同來源的壓力。
+  其中一個最難的課題就是在學校、家庭，和課外活動間取得平衡。
+= Compared with students in the past, high school students in Taiwan today generally face pressure from different sources. One of the hardest challenges is striking a balance among school, family, and extracurricular activities.
+~! 「和…比起來」Compared with / to …（分詞構句）；「取得平衡」strike a balance between/among …（三者以上用 among），動名詞當補語。
+
+Q 8 | trans | 試題演練 8
+stem: 為了挑戰自我和拓展視野，自己出國旅行是很多青少年的夢想。
+  只要對目的地做足研究，他們就可以享受一趟令人滿意的旅程。
+= To challenge themselves and broaden their horizons, many teenagers dream of traveling abroad on their own. As long as they do enough research on their destinations, they can enjoy a satisfying trip.
+~! To V. 表目的放句首時，主要子句主詞要是做這件事的人（many teenagers），所以改寫成 many teenagers dream of V-ing；「只要」As long as；「令人滿意的」satisfying。

@@ -1,0 +1,41 @@
+# 寫作（二） · 主題寫作：表達(人事物)優缺／利弊／正反面等陳述 (book p.32–33) — from the 翻譯／寫作 workbook
+# 歷屆寫作範例: prompt + model essay printed. 試題演練: prompt only (book prints no model essay).
+@section wr-2 | 寫作（二）：表達優缺／利弊／正反面 | Writing: pros & cons | 學測重點：主題寫作
+@overview 正反論述與論述優缺利弊能夠應用的題型相當廣泛，記敘與議論皆能使用。1. 重點在表達優缺利弊，結合表達個人看法，架構完整段落。2. 架構以正面 → 反面 → 總合的邏輯演進，可用一般觀點切入，再帶出個人不同看法，最終給出結論。3. 描述正反面的優缺利弊，可加入衝擊、影響的描述，作為支持句。
+
+@group 實用句型
+@page 32
+= 表達優缺點、利弊
+> There are both advantages and disadvantages to ...  …既有優點也有缺點。
+> One of the main benefits / drawbacks of ... is ...  …的主要優勢／缺點之一是…。
+> On the one hand, ... On the other hand, ...  一方面…，另一方面…。
+> The pros and cons of ... should be carefully weighed.  …的利弊應該被仔細權衡。
+= 表示某事物的正面與負面影響
+> While ... has positive effects, it also has negative consequences.  雖然…有正面影響，但它也帶來負面後果。
+> The positive / negative impact of ... cannot be ignored.  …的正面／負面影響不可忽視。
+= 表示不同觀點並進行比較
+> Some people argue that ... while others believe that ...  有些人認為…，而另一些人則認為…。
+> While some may view ... as a disadvantage, others see it as an advantage.  雖然有些人認為…是一個缺點，但另一些人則認為它是一個優勢。
+= 「正、反、合」描述事情
+> Generally (speaking), ...  一般來說，…
+> However, it is not unusual to see ...  然而，看到…並不罕見。
+> To V. ..., ...  為了（目的），（執行）…
+= 表影響；衝擊
+> have a huge impact / influence on ...  對…有相當大的影響／衝擊
+> enhance / increase / maximize the impact  增加影響／衝擊
+> lessen / reduce / minimize the impact  減少影響／衝擊
+
+@group 歷屆寫作範例
+
+Q 1 | write | 96指考
+stem: 提示：你能想像一個沒有電（electricity）的世界嗎？請寫一篇文章，第一段描述我們的世界沒有了電以後，會是甚麼樣子，第二段說明這樣的世界是好是壞，並舉例解釋原因。
+= Generally speaking, electricity is essential to our daily lives, and living without it would be extremely challenging. Without electricity, there are pros and cons of how we function as a society. On the positive side, people might develop new ways to live more sustainably. For example, instead of using electric-powered transportation, people might walk or ride bicycles more often, leading to a healthier lifestyle. However, there are significant drawbacks to consider. Without electricity, water supply systems, hospitals, and emergency services would face major difficulties. A world without electricity would have a profound impact on modern civilization. ¶ However, it is not unusual to see that many people are overly dependent on electricity. To lessen the impact, society would need to adapt by using renewable energy and manual labor. On the positive side, families might bond more, as they would spend less time on digital devices. However, economic development would slow down significantly. Overall, while a world without electricity might encourage simpler living, its disadvantages would far outweigh its advantages.
+~ 範文照錄書上「歷屆寫作範例」。以 Generally speaking 一般觀點切入，用 On the positive side / However, there are significant drawbacks 呈現正反兩面，再以 However, it is not unusual to see、To lessen the impact 帶出個人看法，最後用 Overall, while … 總合。
+
+@group 試題演練
+@page 33
+
+Q 2 | write | 試題演練
+stem: 說明：依提示寫一篇英文作文，文長至少 120 個單詞（words）。
+  提示：許多高中為了增進學生考試表現，會提供課後自習的教室，或是提供夜間或是假日的輔導課程。請同學寫一篇兩段的文章，第一段請根據自己或是他人的經驗，討論這樣措施的優缺點，第二段請分享您心目中，課後讀書時間安排理想的規劃，如：環境／時間長短／是否有人伴讀等細節，並說明原因。
+~ 書上沒有範文；學生依提示在紙上寫作。可套用本單元「表達優缺點、利弊」「正、反、合」「表影響；衝擊」的句型。

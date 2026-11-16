@@ -1,0 +1,102 @@
+# Translation (三) · 使用「現在完成式」句型 (book p.8–10) — from the 翻譯／寫作 workbook
+# 歷屆試題解題範例 1–5: printed. 試題演練 1–8: derived by Claude (~!), need teacher review.
+@section tr-3 | 翻譯（三）：使用「現在完成式」句型 | Translation: present perfect | 學測重點：使用「現在完成式」句型
+@overview 試題中出現「已經、尚未、自從、從…以來、最近、近年來、到目前為止」等關鍵字時，須用現在完成式（have/has + p.p.）作答。歷屆範例 5 題附書上的替換詞；試題演練 8 題的參考答案為本 app 推導，請老師審閱。
+
+@group 學測重點：使用「現在完成式」句型
+@page 8
+= 現在完成式關鍵字
+當試題中有已經、尚未、自從、從…以來、最近、近年來、到目前為止等關鍵字，須用現在完成式作答。
++例 Mike has already submitted his assignment. | Mike 已經提交了他的作業。
++例 The manager has not yet approved the proposal. | 經理尚未批准這份提案。
++例 Since it was launched, the app has gained popularity. | 自從推出後，這款應用程式變得很受歡迎。
++例 Over the past five years, Amy has visited many countries. | 過去五年來，Amy 去過許多國家。
++例 Dan has recently joined a baseball team. | Dan 最近加入了一支棒球隊。
++例 Up to now/so far, Jack has published three novels. | 到目前為止，Jack 已經出版了三本小說。
+
+@group 歷屆試題解題範例
+
+Q 1 | trans | 108學測
+stem: 自 2007 年營運以來，高鐵（the High Speed Rail）已成為臺灣最便利、最快速的交通工具之一。
+= Since the operation of the High Speed Rail in 2007, it has become one of the most convenient and fastest transportations in Taiwan.
+~替換 become: turned into
+
+Q 2 | trans | 107學測
+stem: 近年來，有越來越多超級颱風，通常造成嚴重災害。
+= Recently, there have been more and more super typhoons, which usually cause serious disasters.
+~替換 Recently: In recent years / Over the past few years / In the past few years
+~替換 cause: result in / lead to
+~替換 serious: severe
+~替換 disasters: damage
+
+Q 3 | trans | 101學測
+stem: 近年來，許多臺灣製作的影片已經受到國際的重視。
+= In recent years, many movies made in Taiwan have attracted international attention.
+~替換 In recent years: Recently / Over the past few years / In the past few years
+~替換 many: a lot of / a great number of
+~替換 movies: films
+~替換 made: produced
+~替換 attracted: received / gained / obtained / drawn / won
+~替換 international: global / worldwide
+
+Q 4 | trans | 100指考
+stem: 日本的核電廠爆炸已經引起全球對核子能源安全的疑慮。
+= The explosion of the nuclear power plant in Japan has caused global concerns for the safety of nuclear energy.
+~替換 caused: resulted in / brought about / led to / given rise to / triggered / raised / aroused
+~替換 global: worldwide
+~替換 concerns: worries
+~替換 for: about / over
+~替換 the safety of nuclear energy: nuclear (energy) safety
+
+Q 5 | trans | 99指考
+stem: 近二十年來我國的出生率快速下滑。
+= In the past twenty years, our country's birthrate has rapidly declined.
+~替換 In: Over / For
+~替換 past: last
+~替換 twenty years: two decades
+~替換 country's: nation's
+~替換 rapidly: sharply / dramatically / quickly / drastically / steeply
+~替換 declined: dropped / fallen / decreased
+
+@group 試題演練
+@page 9
+
+Q 6 | trans | 試題演練 1
+stem: 近年來，各種的交通事故已經引起大眾的關注，使大眾要求更嚴格的法律。
+= In recent years, various traffic accidents have drawn public attention, causing people to demand stricter laws.
+~! 「近年來…已經引起」用現在完成式 have drawn；「使大眾要求」用分詞構句 causing people to V. 表結果；「更嚴格的法律」stricter laws。
+
+Q 7 | trans | 試題演練 2
+stem: 自從 1965 於臺北成立以來，故宮博物院一直是重要的文化地標。
+= Since it was founded in Taipei in 1965, the National Palace Museum has been an important cultural landmark.
+~! since 子句用過去式（was founded），主要子句用現在完成式 has been；「一直是」不必加 always；「文化地標」cultural landmark。
+
+Q 8 | trans | 試題演練 3
+stem: 大量的歷史文件和重要寶物在這間博物館中被保存了好幾十年。
+= A large number of historical documents and important treasures have been preserved in this museum for decades.
+~! 「被保存了好幾十年」用現在完成式被動 have been preserved + for decades；「大量的」+ 可數複數用 a large number of。
+
+Q 9 | trans | 試題演練 4
+stem: 到目前為止，還沒有人交出獎學金的申請，這讓我感到意外。
+= Up to now, no one has handed in an application for the scholarship, which surprises me.
+~! 「到目前為止」up to now / so far，搭配現在完成式 has handed in；「這讓我感到意外」用 , which 接續整句（非限定關係子句）。
+
+Q 10 | trans | 試題演練 5
+stem: 到海外求學一直是 Jimmy 的野心之一，因為他想拓展自己的視野。
+= Studying abroad has always been one of Jimmy's ambitions because he wants to broaden his horizons.
+~! 動名詞當主詞 Studying abroad；「一直是」用現在完成式 has always been；「拓展視野」broaden one's horizons。
+
+Q 11 | trans | 試題演練 6
+stem: 有長達五年的時間他都在研究細菌對人腦的影響。
+= He has been studying the effects of bacteria on the human brain for as long as five years.
+~! 動作持續到現在，用現在完成進行式 has been studying；「長達五年」for as long as five years；the effect(s) of A on B A 對 B 的影響。
+
+Q 12 | trans | 試題演練 7
+stem: 觀光業在過去十年來快速發展，有許多來自美國的遊客。
+= The tourism industry has developed rapidly over the past decade, with many tourists coming from the United States.
+~! 「在過去十年來」over the past decade，用現在完成式 has developed；後半用 with + N. + V-ing 表附帶狀況。
+
+Q 13 | trans | 試題演練 8
+stem: 令人感到訝異的是，從昨天晚上到現在，他已經睡了十小時了。
+= To my surprise, he has been sleeping for ten hours since last night.
+~! 「令人訝異的是」To my surprise / Surprisingly；「從昨晚到現在已經睡了」持續中的動作，用現在完成進行式 has been sleeping + since last night。
