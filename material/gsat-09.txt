@@ -1,0 +1,280 @@
+# Beat the GSAT · Unit 9 (book p.74–81) — photographed by the teacher.
+# No printed answer key: all answers and analyses derived by Claude (~!). Student pencil / red-pen marks are NOT transcribed.
+@section gsat-09 | Unit 9 | Unit 9 | 綜合測驗・文意選填・篇章結構・閱讀測驗・混合題
+@overview Beat the GSAT Unit 9。一、綜合測驗（1–5）；二、文意選填（6–15）；三、篇章結構（16–19）；四、閱讀測驗（20–23）；五、混合題（24–27）。書中沒有附解答，答案與解析皆為本 app 推導，請老師審閱。
+
+@group 一、綜合測驗
+
+@passage
+Many people who are suffering from aches and pains don't go straight to the doctor for medicine. [[1]], they turn to alternative methods of healing. One popular therapy that people use is massage. However, so many different types of massage abound that it can be difficult to know which one is right for you. Treatments range from the classic Swedish massage to more exotic types, like shiatsu. Swedish massage is good for relieving stress and can be helpful if you are recovering from a mild [[2]]. Aromatherapy massage is similar, but incorporates special oils into the massage. The oils are used on the skin and sometimes the oil is added to an oil burner to create a perfumed vapor. These special oil formulas can provide relief from pain and other health problems, [[3]] sleep disturbance. Hot stone massage is another therapy that [[4]] more popular lately. The heat from the stones is [[5]] in releasing muscle tension. Meanwhile, shiatsu massage, which is derived from traditional Chinese medicine, aims to improve the flow of energy through the body. Whichever massage therapy you choose, you are sure to feel incredible benefits. Even if massage can't cure diseases, it can certainly make you feel more relaxed.
+@end
+
+Q 1 | choice | Unit 9
+stem: （第 1 格）
+A: Altogether
+B: Likewise
+C: Afterward
+D: Instead
+= D
+~! 前句說很多人身體痠痛不直接去看醫生拿藥，「反而」轉向替代療法，故選 Instead。Altogether 總共、Likewise 同樣地、Afterward 之後，皆不合語意。
+
+Q 2 | choice | Unit 9
+stem: （第 2 格）
+A: blessing
+B: injury
+C: obesity
+D: labor
+= B
+~! recover from a mild injury 從輕微「傷害」中復原，與按摩可舒緩的情況相符。blessing 祝福、obesity 肥胖、labor 勞動，皆不合語意。
+
+Q 3 | choice | Unit 9
+stem: （第 3 格）
+A: based on
+B: regardless of
+C: even if
+D: such as
+= D
+~! sleep disturbance 是 other health problems 的例子，用 such as「例如」。based on 根據、regardless of 不論、even if 即使（後接子句），皆不合。
+
+Q 4 | choice | Unit 9
+stem: （第 4 格）
+A: has also become
+B: also became
+C: also becomes
+D: will also become
+= A
+~! 句尾 lately「最近」搭配現在完成式，表示到目前為止變得越來越受歡迎，故選 has also become。
+
+Q 5 | choice | Unit 9
+stem: （第 5 格）
+A: commercial
+B: skeptical
+C: effective
+D: terminal
+= C
+~! be effective in V-ing 在…方面有效；熱石的熱度能有效放鬆肌肉緊繃。commercial 商業的、skeptical 懷疑的、terminal 末期的，皆不合語意。
+
+@group 二、文意選填
+@bank
+A: sectors
+B: continuously
+C: involve
+D: replaced
+E: preferred
+F: absent
+G: capable
+H: generated
+I: particularly
+J: touch
+
+@passage
+Ask any company executive what kind of personnel they want, and they'll invariably say "productive workers". Of course, they also want staff who are never [[6]]. While this is understandable, humans can't [[7]] meet these standards. Human limitations have therefore led to machines displacing people in the workplace for well over a century.
+
+For a long time, most jobs taken by robots were in manufacturing. As technology advanced, however, jobs in numerous [[8]] have been affected. An abundance of statistics have circulated in the media recently, like the study which inferred that 47% of employment in the U.S. was vulnerable. These figures have [[9]] dread among the public.
+
+We're already confronted by some technological innovations. Many grocery stores now use self-checkout machines rather than cashiers. Six hundred traders were recently [[10]] by software. Even more shocking, a tool has been invented to auto-generate articles, therefore reducing the need for writers.
+
+If you're worried that your [[11]] job could be stolen by a robot, there are some things to consider. First, a management consulting company has developed a tool that shows whether your job is at risk. Second, machines need further improvement, and most jobs still require a human [[12]]. Just because a machine is [[13]] of doing a job, it doesn't mean that businesses will invest in the technology. After all, many jobs [[14]] several tasks being done simultaneously, not all of which can be automated. Finally, it is possible that new jobs will emerge, [[15]] in the service industries, which will rely heavily on human interaction.
+
+If you have skills and knowledge, technology is not likely to take your job. We should all stay optimistic and look for new opportunities that arise.
+@end
+
+Q 6 | bank | Unit 9
+stem: （第 6 格）
+= F
+~! staff who are never ___：be 動詞後接形容詞；公司希望員工從不「缺席」，故選 absent。
+
+Q 7 | bank | Unit 9
+stem: （第 7 格）
+= B
+~! can't 和 meet 之間需要副詞；人類無法「一直、持續地」達到這些標準，故選 continuously。
+
+Q 8 | bank | Unit 9
+stem: （第 8 格）
+= A
+~! numerous 後接複數名詞；以前機器人搶的是製造業的工作，如今「許多產業」都受影響，故選 sectors。
+
+Q 9 | bank | Unit 9
+stem: （第 9 格）
+= H
+~! have + 過去分詞（現在完成式）；這些數據在大眾之間「引發」恐慌，generate dread，故選 generated。
+
+Q 10 | bank | Unit 9
+stem: （第 10 格）
+= D
+~! were ___ by software：被動語態；600 名交易員最近「被」軟體「取代」，故選 replaced。
+
+Q 11 | bank | Unit 9
+stem: （第 11 格）
+= E
+~! your ___ job：所有格與名詞之間需要形容詞；擔心你「心儀的」工作被機器人搶走，故選 preferred。
+
+Q 12 | bank | Unit 9
+stem: （第 12 格）
+= J
+~! a human touch 人的接觸、人性化的處理；多數工作仍需要人的參與，故選 touch。
+
+Q 13 | bank | Unit 9
+stem: （第 13 格）
+= G
+~! be capable of V-ing 有能力做…；機器「能夠」做某工作，不代表企業就會投資，故選 capable。
+
+Q 14 | bank | Unit 9
+stem: （第 14 格）
+= C
+~! many jobs ___ several tasks being done simultaneously：複數主詞後需要原形動詞；很多工作「涉及」同時進行數項任務，故選 involve。
+
+Q 15 | bank | Unit 9
+stem: （第 15 格）
+= I
+~! 逗號後插入副詞修飾 in the service industries：新工作可能出現，「特別是」在服務業，故選 particularly。
+
+@group 三、篇章結構
+@bank
+A: Boys are steered toward subjects such as science and math, while girls are expected to excel in arts and social studies.
+B: As a matter of fact, the number of working moms and stay-at-home dads is increasing.
+C: This incident provides proof that, regardless of what we may think, we are still a long way from perceiving the genders as equal.
+D: These demonstrate that women's salaries are 20-30% less, on average.
+E: For a start, we should adjust the language we use when talking about boys and girls.
+
+@passage
+In 2019, a TV news anchor in the United States was forced to apologize when she mocked six-year-old Prince George, a member of the British royal family, for taking ballet lessons. The response to the gender stereotyping of the young prince was massive, with the hashtag #boysdancetoo soon going viral on the Internet. [[16]]
+
+Parents support the stereotypes by buying only pink or blue clothes for their children. In addition, they provide toys that correspond to stereotypes, such as dolls for girls and cars for boys. Once children start school, stereotypes continue. [[17]] It should come as no surprise, then, that gender stereotypes are widespread in the workplace as well.
+
+A recent study found that men were perceived as being better suited to launching high-stakes projects or leading organizational change, while women were thought to be better at planning events. In addition, studies have shown that there is still a considerable gender pay gap in the United States. [[18]]
+
+In spite of recent awareness campaigns that have been effective at pointing out inequalities between men and women, it seems that we have not yet succeeded in eliminating gender bias and gender inequality. So, what can be done to prevent gender stereotyping? [[19]] For example, if a girl likes to be active and prefers wearing shorts to wearing dresses, should we automatically refer to her as a "tomboy"? Furthermore, we should not automatically assign certain toys, school subjects, or workplace roles. Most importantly, we should allow boys and girls the freedom to be whoever and whatever they want to be.
+@end
+
+Q 16 | bank | Unit 9
+stem: （第 16 格）請由方框中選出最適合的句子。
+= C
+~! 前面講主播嘲笑喬治王子學芭蕾而被迫道歉的事件；(C) This incident 承接這件事，點出全文主題：我們離兩性平等還很遠。
+
+Q 17 | bank | Unit 9
+stem: （第 17 格）請由方框中選出最適合的句子。
+= A
+~! 前句 Once children start school, stereotypes continue；(A) 舉學校裡的例子：男生被引導讀數理、女生被期待擅長藝術與社會科。後句 It should come as no surprise, then … in the workplace as well 由學校延伸到職場。
+
+Q 18 | bank | Unit 9
+stem: （第 18 格）請由方框中選出最適合的句子。
+= D
+~! 前句說研究顯示美國仍有明顯的性別薪資差距；(D) These（指這些研究）顯示女性薪資平均少 20–30%。(B) 說職業媽媽與家庭主夫變多，和本段的不平等論述不一致，是多餘選項。
+
+Q 19 | bank | Unit 9
+stem: （第 19 格）請由方框中選出最適合的句子。
+= E
+~! 前句問該如何避免性別刻板印象；(E) For a start 提出第一個做法：調整談論男孩女孩時的用語；後句 For example … should we automatically refer to her as a "tomboy"? 正是用語的例子，再接 Furthermore、Most importantly。
+
+@group 四、閱讀測驗
+
+@passage
+Spirited Away is the most famous feature-length animated film by Japanese manga artist, animator, and director Hayao Miyazaki. The main inspiration for Spirited Away came when Miyazaki spent a vacation in a mountain cabin with his family and five 10-year-old girls who were friends of the family. He noticed that the manga the girls were reading contained subjects mainly related to crushes and romance. These were not themes he believed girls at that age really cared about, so Miyazaki set out to create a heroine who all young girls could look up to. Thus, Sen is not portrayed as a typically cute girl like the leading female characters of most anime, and she emerges from most of her struggles through hard work and by building relationships with others. Her character develops by evaluating her own past experiences, not by simply "growing up" to be like her parents. Also typical of Miyazaki's films is the lack of a clear villain. The witch Yubaba and the monstrous No-Face cause a great deal of trouble for Sen, but later demonstrate good reasons for their actions.
+
+Much of the story takes place within a mysterious bathhouse filled with ghosts and spirits. Although Miyazaki opted to limit the use of computer-generated effects and present simpler hand-drawn animated visuals, the animation nonetheless shows incredible detail in its depiction of scenery. Besides similarities to Japan's Dogo Onsen, the buildings outside the bathhouse are visibly inspired by Taiwan's old gold town of Jiufen. Thanks to its interesting story and beautiful visuals, Spirited Away remains one of the most beloved animated films of all time.
+@end
+
+Q 20 | choice | Unit 9
+stem: What is the purpose of this passage?
+A: To describe animation techniques in Japan
+B: To persuade readers to vacation in mountain cabins
+C: To reveal information about a film
+D: To introduce the works of Hayao Miyazaki
+= C
+~! 全文介紹《神隱少女》這部電影的靈感來源、主角塑造、場景與畫面，目的是提供這部片的相關資訊。(D) 只談一部作品，不是介紹宮崎駿的「作品們」；(A)(B) 只是細節。
+
+Q 21 | choice | Unit 9
+stem: According to the passage, why did Hayao Miyazaki create a heroine in his movie Spirited Away?
+A: He wanted to make a character that resembled his mother.
+B: He wanted to make young boys question traditional beliefs.
+C: He wanted to make his children think about gender roles.
+D: He wanted to make a character young girls could admire.
+= D
+~! 第 1 段 Miyazaki set out to create a heroine who all young girls could look up to；look up to = admire。
+
+Q 22 | choice | Unit 9
+stem: Who does "their" in the first paragraph refer to?
+A: Yubaba and Sen
+B: Yubaba and No-Face
+C: No-Face and Sen
+D: Sen and her parents
+= B
+~! The witch Yubaba and the monstrous No-Face cause a great deal of trouble for Sen, but later demonstrate good reasons for their actions：their 指給 Sen 製造麻煩的湯婆婆與無臉男。
+
+Q 23 | choice | Unit 9
+stem: Which of the following is NOT true of Hayao Miyazaki's Spirited Away?
+A: Most of the animation was created by hand.
+B: Miyazaki made use of many computer-generated effects.
+C: The creator got the idea for it while on vacation.
+D: The main character is a young girl.
+= B
+~! 第 2 段 Miyazaki opted to limit the use of computer-generated effects，與 (B)「使用很多電腦特效」相反。(A) simpler hand-drawn animated visuals；(C) 在山中小屋度假時得到靈感；(D) 主角 Sen 是年輕女孩，皆為真。
+
+@group 五、混合題
+
+@passage
+There is more to coral reefs than meets the eye. Many people think that coral is a type of plant or rock, but they are actually animals. So do you know what corals feed on? Most corals rely on algae, which feed them and give them their color. They also eat tiny fish that they catch. Corals are classified as either soft or hard. The hard ones produce a rock-like outer shell and form a coral reef as they attach themselves to rocks and to each other. The largest of these reefs is the Great Barrier Reef in Australia, which is more than 2,300 kilometers long. Many species of fish, such as clownfish and sharks, can be found there. In fact, around a quarter of all ocean species depend on coral for food and shelter. Unfortunately, corals are under serious threat.
+
+Most people believe that if nothing is done to protect them, all live coral reefs could disappear by 2050. What poses the biggest threat to coral reefs is rising water temperatures. The warming of the ocean causes corals to become stressed, to drive out the algae that live inside them, and to turn white. Even if this doesn't kill the corals completely, it does weaken them to the point of dying. Polluted waters, fishing, and taking coral from the ocean also harms reefs.
+
+If you ask how we can protect coral reefs, well, one step that is already being taken is to make them protected areas. We can also help by being more environmentally friendly. Coral reefs play an important part in preserving ocean life. If we don't act now to protect them, our oceans will be a lot less colorful.
+@end
+
+Q 24 | choice | Unit 9
+stem: What is the tone of the author?
+A: Optimistic
+B: Urgent
+C: Indifferent
+D: Arrogant
+= B
+~! 作者提到珊瑚可能在 2050 年前消失，結尾 If we don't act now to protect them …，語氣是「急迫的」。
+
+Q 25 | choice | Unit 9
+stem: Which of the following is TRUE according to the article?
+A: All bleached corals die immediately.
+B: Fishing activity poses the biggest threat to corals.
+C: Coral reefs are made up of only soft corals.
+D: The life span of corals is being shortened.
+= D
+~! 第 2 段：海水暖化讓珊瑚白化，即使沒有馬上死亡，也會被削弱到瀕死，可知珊瑚的壽命正在縮短。(A) 原文說 doesn't kill the corals completely；(B) 最大威脅是水溫上升；(C) 形成珊瑚礁的是硬珊瑚。
+
+Q 26 | multi | Unit 9
+stem: What can help save coral reefs, according to the article? (There is more than one answer.)
+A: Setting up conservation areas
+B: Reducing pollution in the ocean
+C: Slowing down global warming
+D: Growing seaweed
+E: Keeping corals in aquariums
+F: Stopping overfishing
+= ABCF
+~! 第 3 段：把珊瑚礁設為保護區 → (A)；更環保 → 減少汙染 (B)、減緩暖化 (C)。第 2 段：最大威脅是水溫上升 (C)，汙染的水 (B)、捕魚 (F) 也會傷害珊瑚礁。文中沒有提到種海藻 (D)；把珊瑚放進水族箱 (E) 等於從海中取走珊瑚，反而有害。注意：(B)(C)(F) 是由「威脅」反推出的保護方法，請老師確認本題的標準答案範圍。
+
+Q 27 | fill | 27a
+stem: Fill in the blanks below to clarify the causes and effects from the text.
+  Cause: Corals form a reef by attaching themselves to ___a.___ and to each other. → Effect: Around ___b.___ all ocean species depend on corals for food and shelter.
+  Cause: Sea water temperature ___c.___. → Effect: Corals turn ___d.___.
+  Cause: Polluted waters, fishing, and taking ___e.___ from the ocean → Effect: Coral is harmed.
+  a. ______
+= rocks
+~! 第 1 段 they attach themselves to rocks and to each other。
+
+Q 28 | fill | 27b
+stem: b. Around ______ all ocean species depend on corals for food and shelter.
+= a quarter of | a quarter | one quarter of | one fourth of | a fourth of
+~! 第 1 段 around a quarter of all ocean species depend on coral for food and shelter。
+
+Q 29 | fill | 27c
+stem: c. Sea water temperature ______.
+= rises | is rising | increases | goes up
+~! 第 2 段 rising water temperatures 是最大威脅；表格要用動詞：Sea water temperature rises。
+
+Q 30 | fill | 27d
+stem: d. Corals turn ______.
+= white
+~! 第 2 段 The warming of the ocean causes corals … to turn white。
+
+Q 31 | fill | 27e
+stem: e. Polluted waters, fishing, and taking ______ from the ocean
+= coral | corals
+~! 第 2 段 Polluted waters, fishing, and taking coral from the ocean also harms reefs。

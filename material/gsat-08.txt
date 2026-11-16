@@ -1,0 +1,273 @@
+# Beat the GSAT · Unit 8 (book p.66–73) — photographed by the teacher.
+# No printed answer key: all answers and analyses derived by Claude (~!). Student pencil / red-pen marks are NOT transcribed.
+# Sub-items of a question (27a, 27b …) are separate Q numbers whose src is "27a" etc.
+@section gsat-08 | Unit 8 | Unit 8 | 綜合測驗・文意選填・篇章結構・閱讀測驗・混合題
+@overview Beat the GSAT Unit 8。一、綜合測驗（1–5）；二、文意選填（6–15）；三、篇章結構（16–19）；四、閱讀測驗（20–23）；五、混合題（24–27）。書中沒有附解答，答案與解析皆為本 app 推導，請老師審閱。
+
+@group 一、綜合測驗
+
+@passage
+What do petroleum and watermelons have in common? A lot more than you'd think. In the near future, people may use this juicy fruit to power their vehicles. It may seem bizarre, but scientists in the United States are actively studying the [[1]].
+
+Of course, drivers won't be able to just [[2]] watermelons in their gas tanks for fuel. Instead, it is the flesh and skin from the fruit that will be used to make a fuel called ethanol. [[3]], corn is mostly used to make this liquid.
+
+Since watermelons have a lot of natural sugar in them, they are ideal for making ethanol. In fact, it is more efficient and cheaper to use watermelons than corn. [[4]], about twenty percent of the watermelons grown in the U.S. can't be sold because they are damaged. Ethanol could be made from those watermelons that would [[5]] be thrown away. By using watermelons as a green fuel, we can anticipate life on Earth being a lot sweeter.
+@end
+
+Q 1 | choice | Unit 8
+stem: （第 1 格）
+A: possibility
+B: prosperity
+C: popularity
+D: personality
+= A
+~! 科學家正在積極研究「用西瓜當車輛燃料的可能性」，the possibility 承接前句 people may use this juicy fruit to power their vehicles。prosperity 繁榮、popularity 受歡迎、personality 個性，皆不合語意。
+
+Q 2 | choice | Unit 8
+stem: （第 2 格）
+A: take
+B: waste
+C: soak
+D: place
+= D
+~! 駕駛人不能直接把西瓜「放進」油箱當燃料；place A in B 把 A 放進 B。take 拿、waste 浪費、soak 浸泡，皆不合語意。
+
+Q 3 | choice | Unit 8
+stem: （第 3 格）
+A: Currently
+B: Continuously
+C: Severely
+D: Temporarily
+= A
+~! 西瓜做燃料是「未來」的事，「目前」乙醇主要是用玉米做的，故選 Currently。Continuously 持續地、Severely 嚴重地、Temporarily 暫時地，皆不合語意。
+
+Q 4 | choice | Unit 8
+stem: （第 4 格）
+A: Beforehand
+B: Furthermore
+C: Altogether
+D: Namely
+= B
+~! 前句說用西瓜比玉米更有效率又便宜，本句再補充另一個好處（約兩成西瓜因受損賣不出去，可拿來做乙醇），用 Furthermore「此外」。Beforehand 事先、Altogether 總共、Namely 也就是，皆不合語意。
+
+Q 5 | choice | Unit 8
+stem: （第 5 格）
+A: otherwise
+B: therefore
+C: moreover
+D: thus
+= A
+~! those watermelons that would otherwise be thrown away「那些否則就會被丟掉的西瓜」；otherwise 在此為副詞「否則、不然」。therefore / thus 因此、moreover 此外，放在 would 和 be 之間皆不通。
+
+@group 二、文意選填
+@bank
+A: derived
+B: popular
+C: distinctive
+D: range
+E: relieve
+F: wonder
+G: properties
+H: flavor
+I: consume
+J: hasten
+
+@passage
+Turmeric has been astonishing people in the health and wellness world lately. You might have come into contact with this exotic spice in the supermarket and be wondering what all the fuss is about.
+
+A cousin of ginger, turmeric is a golden-colored root with a slightly bitter [[6]] that Indians have used as a cooking spice, as well as a medicine, for thousands of years. The vapor that came from frying turmeric was once used to [[7]] blocked noses. Turmeric juice was also massaged into wounds to aid healing, and turmeric paste was applied to treat skin conditions. While critics might dismiss these usages as mere ancient superstition, recent studies have affirmed that turmeric really does have some incredible medicinal [[8]].
+
+Turmeric's singular health benefits are [[9]] from a chemical called curcumin. This substance gives turmeric its [[10]] yellow color. Curcumin has been shown to help with a(n) [[11]] of medical issues, from sleep disturbances, to mild infections, to more acute diseases like diabetes, depression, and cancer. No [[12]] ancient Indians referred to turmeric as jayanti, meaning "one who is victorious over diseases."
+
+Today, thanks to the growing realization that curcumin can [[13]] healing, people are incorporating turmeric into their lives in numerous ways. Formulas for making turmeric-based beauty products abound on the Internet. The spice is also becoming a(n) [[14]] addition to people's diets and is often added to soups, teas, and even pancakes.
+
+Unfortunately, even if you [[15]] a lot of turmeric, there will be little curcumin in your bloodstream, as our bodies don't absorb it well. However, combining turmeric with a source of fat can significantly increase the absorption of curcumin. That's why many people drink turmeric milk, a healthy alternative to coffee.
+@end
+
+Q 6 | bank | Unit 8
+stem: （第 6 格）
+= H
+~! a slightly bitter ___：形容詞 bitter 後需要名詞；薑黃是帶點苦「味」的根，故選 flavor。
+
+Q 7 | bank | Unit 8
+stem: （第 7 格）
+= E
+~! be used to + 原形動詞；炸薑黃的蒸氣曾被用來「緩解」鼻塞，relieve blocked noses，故選 relieve。
+
+Q 8 | bank | Unit 8
+stem: （第 8 格）
+= G
+~! medicinal properties 藥用特性；研究證實薑黃確實有驚人的藥用「特性」，故選 properties。
+
+Q 9 | bank | Unit 8
+stem: （第 9 格）
+= A
+~! be derived from N. 源自於…；薑黃的健康益處來自一種叫薑黃素（curcumin）的化學物質，故選 derived。
+
+Q 10 | bank | Unit 8
+stem: （第 10 格）
+= C
+~! its ___ yellow color：空格為形容詞，薑黃素給了薑黃「獨特的」黃色，故選 distinctive。
+
+Q 11 | bank | Unit 8
+stem: （第 11 格）
+= D
+~! a range of N. 一系列的…；後面列出從睡眠障礙到糖尿病、癌症等各種病症，故選 range。
+
+Q 12 | bank | Unit 8
+stem: （第 12 格）
+= F
+~! No wonder + S + V. 難怪…；薑黃素能對抗這麼多疾病，難怪古印度人稱薑黃為「戰勝疾病者」，故選 wonder。
+
+Q 13 | bank | Unit 8
+stem: （第 13 格）
+= J
+~! can + 原形動詞；薑黃素能「加速」癒合，hasten healing，故選 hasten。
+
+Q 14 | bank | Unit 8
+stem: （第 14 格）
+= B
+~! a(n) ___ addition：空格為形容詞；薑黃常被加進湯、茶、鬆餅，成為飲食中「受歡迎的」添加物，故選 popular。
+
+Q 15 | bank | Unit 8
+stem: （第 15 格）
+= I
+~! even if you ___ a lot of turmeric：主詞 you 後需要原形動詞；即使「吃下」大量薑黃，血液中的薑黃素仍很少，故選 consume。
+
+@group 三、篇章結構
+@bank
+A: Maybe no one you know has experienced nasty insults online.
+B: One suggestion is to avoid responding or commenting.
+C: Reviewing your privacy settings is also important.
+D: This behavior can make people feel embarrassed and foolish.
+E: As a result, bullying can now happen anywhere and anytime.
+
+@passage
+Bullying has long been a miserable fact of life that used to be limited to schools and schoolyards. In the digital age, however, a new form of bullying has emerged: cyberbullying—bullying using the Internet. Young people are connected twenty-four hours a day through text messaging, e-mail, and social media. [[16]]
+
+There are many examples of cyberbullying. Someone might browse someone else's social media account to find, or post, embarrassing pictures of that person. It could also involve spreading rumors online or sending mean messages. Cyberbullies often keep their identities hidden, so you may not know who is bullying you. No matter the means, cyberbullying can leave people feeling hurt or depressed. That's why it's important to know what to do if you or someone you care about is bullied online. [[17]] Bullies often feed off people's reactions. Another helpful tip is to take a screenshot as proof. That way, cyberbullies won't be able to refute their actions later.
+
+Perhaps the best way to curb cyberbullying is to prevent it from happening in the first place. It often occurs when someone takes control of one of your social media accounts. Keep your devices locked, and avoid sharing passwords, even with your closest friends. [[18]] This lets you choose who can see certain information. Additionally, remember that the Internet is a public place. Even if you remove a post, someone else might have saved it.
+
+[[19]] Still, you can take steps to fight it. If your school doesn't have any guidelines to tackle cyberbullying, point this out. If one of your friends is being bullied, stand up for them. Or, if you know a cyberbully, call them out on it. Doing so could save someone a lot of distress.
+@end
+
+Q 16 | bank | Unit 8
+stem: （第 16 格）請由方框中選出最適合的句子。
+= E
+~! 前句說年輕人透過簡訊、電郵、社群媒體一天 24 小時都連線；(E) As a result 接結果：霸凌從以前只限學校，變成隨時隨地都可能發生（anywhere and anytime ↔ twenty-four hours a day、limited to schools）。
+
+Q 17 | bank | Unit 8
+stem: （第 17 格）請由方框中選出最適合的句子。
+= B
+~! 前句說要知道被網路霸凌時該怎麼做；(B) 第一個建議是不要回應或留言，後句 Bullies often feed off people's reactions 說明原因，再接 Another helpful tip，與 One suggestion 呼應。
+
+Q 18 | bank | Unit 8
+stem: （第 18 格）請由方框中選出最適合的句子。
+= C
+~! 本段談預防：鎖好裝置、不分享密碼，(C) 再檢查隱私設定；後句 This lets you choose who can see certain information 的 This 指隱私設定。
+
+Q 19 | bank | Unit 8
+stem: （第 19 格）請由方框中選出最適合的句子。
+= A
+~! 後句 Still, you can take steps to fight it 用 Still 表讓步：(A)「也許你認識的人都沒遇過網路上的惡意辱罵」，即使如此，你仍可以採取行動。(D) 講霸凌讓人難堪，與 Still 接不起來，是多餘選項。
+
+@group 四、閱讀測驗
+
+@passage
+Traveling in Europe may cost a fortune, but it's definitely worth it. Even a short visit will allow you to take in multiple countries, cultures, landmarks, and food. Getting around is quite easy and doesn't take much effort. Europe's excellent transportation and the "Schengen Agreement" mean that you can cross borders really easily with a single visa in your passport. Buying a European rail pass will not only save you money, but will enable you to enjoy outstanding landscapes as you travel through snow-capped mountains, green fields, and glorious coastlines that will take your breath away.
+
+Many people visit Europe to absorb its rich history. If you enjoy traveling back in time, you should spend some time visiting the famous ruins of the Acropolis in Athens, Greece. Or put yourself in the shoes of the ancient Roman soldier, also known as a "gladiator", as you compete in front of a large audience inside Italy's most famous ancient landmark, the Colosseum. But why stop there? History surrounds you almost everywhere you go, from medieval castles in England and Scotland, to cathedrals in Spain, to France's famous palaces.
+
+As you travel through Europe, you will encounter so much culture that it will be hard to take it all in. London, Paris, and Amsterdam are just three European cities that are home to famous museums and impressive art galleries. If music is more your thing, don't hesitate to stop by Vienna, Austria. Here you can treat yourself to a nice cup of coffee and a delicious cake as you immerse yourself in the city of music.
+
+With so much to see and do, you'll soon realize that one visit can never be enough!
+@end
+
+Q 20 | choice | Unit 8
+stem: What is the article mainly about?
+A: The history of European culture
+B: The benefits of visiting Europe
+C: The delicious food in Europe
+D: The cost of traveling to Europe
+= B
+~! 首句 Traveling in Europe may cost a fortune, but it's definitely worth it 點出主旨，全文列出交通方便、歷史、文化等到歐洲旅遊的好處，結尾 one visit can never be enough。(A)(C)(D) 都只是文中的細節。
+
+Q 21 | choice | Unit 8
+stem: According to the article, which of the following about traveling in Europe is NOT true?
+A: It is difficult because you have to cross many borders.
+B: It is an expensive place for travelers to visit.
+C: Buying a rail pass can save you some money.
+D: You can visit many countries during your trip.
+= A
+~! 第 1 段說交通方便，加上申根協定，you can cross borders really easily，所以「因為要跨越很多國界而很困難」與文意相反。(B) may cost a fortune；(C) save you money；(D) take in multiple countries，皆為真。
+
+Q 22 | choice | Unit 8
+stem: Which of the following is closest in meaning to "immerse" in the third paragraph?
+A: Inform
+B: Behave
+C: Involve
+D: Overwhelm
+= C
+~! immerse oneself in … 讓自己沉浸於…，即 involve oneself in … 讓自己投入其中；在維也納一邊喝咖啡吃蛋糕，一邊沉浸在音樂之都的氛圍中。Inform 通知、Behave 表現、Overwhelm 壓垮，皆不合。
+
+Q 23 | choice | Unit 8
+stem: Below is a picture of the Colosseum in Rome. Based on the information mentioned in the passage, which function might the Colosseum have served?
+  （附圖：羅馬競技場 Colosseum 的素描）
+A: Hosting political debates
+B: Providing a place of worship
+C: Hosting sporting competitions
+D: Displaying works of art
+= C
+~! 第 2 段說可以化身古羅馬的「角鬥士」，在競技場裡於大批觀眾面前 compete（比賽、搏鬥），可推知競技場用來舉辦競技比賽。
+
+@group 五、混合題
+
+@passage
+Apparently we humans are the most intelligent species on the planet, but it turns out that many of our ideas about other animals are mistaken. Here are some commonly-held beliefs about animals that simply aren't true.
+
+You can't teach an old dog new tricks, can you? Most dogs are perfectly capable of learning at any age. It takes about 15 minutes a day for two weeks to train your dog to do simple tasks like sitting or fetching. While a newborn puppy might be too young, an old dog in good shape shouldn't have a problem. Touching a toad can give you warts, can't it? It's true that warts are contagious, but you won't get them from toads. These creatures, which are small animals similar to frogs, often have bumps on their skin that resemble warts. It could be what inspired this myth. Bats cannot see, can they? This is a very commonly believed myth, but while many bats use echoes to assist them in flight, they also rely on vision. A camel carries water in its hump, doesn't it? Not so! A camel's hump is filled with fat. If the fat were distributed around its body, a camel's body heat would be uncomfortably high in the hot desert. It is true, however, that camels can go up to seven months without water.
+
+It might be easy to get the wrong idea about animals that we don't come across very frequently. However, you don't need to be an animal expert to separate the truth from the myths. If you want to be as wise as an owl, just check the facts!
+@end
+
+Q 24 | choice | Unit 8
+stem: What does "in good shape" mean in paragraph two?
+A: To be physically large
+B: To be intelligent
+C: To be healthy
+D: To be cared for
+= C
+~! in good shape 狀況良好、身體健康；對比前面 a newborn puppy might be too young，一隻「健康的」老狗學新把戲沒問題。
+
+Q 25 | choice | Unit 8
+stem: What is the author's claim in this passage?
+A: Human beings are not the center of the universe.
+B: People mostly use stereotypes to judge things.
+C: Even many vets do not separate fact from myth.
+D: Humans often misunderstand animals.
+= D
+~! 首段 many of our ideas about other animals are mistaken，全文舉老狗、蟾蜍、蝙蝠、駱駝的迷思為例，可知作者主張人類常誤解動物。
+
+Q 26 | fill | Unit 8
+stem: The graph below represents the five senses we are familiar with. Which ones are NOT mentioned in the article?
+  （附圖：VISION、SMELL、HEARING、TASTE、TOUCH 五種感官的圖示）
+= smell, taste | smell and taste | taste, smell | taste and smell | smell taste
+~! 文中提到 Touching a toad（觸覺 TOUCH）、bats use echoes（回聲，聽覺 HEARING）、they also rely on vision（視覺 VISION）；沒有提到的是嗅覺 SMELL 與味覺 TASTE。
+
+Q 27 | fill | 27a
+stem: Animals are frequently used in slang to describe people's personalities. Match the appropriate adjectives with the animals based on the information provided in the passage.
+  （blind / toxic / sick / fat / wise）
+  a. as ______ as a toad
+= toxic
+~! 文中說摸蟾蜍不會長疣，蟾蜍皮膚上只是有像疣的凸起；在 blind / toxic / sick / fat / wise 中，最能形容蟾蜍的是 toxic（有毒的）。本題需要一點常識推論，請老師確認。
+
+Q 28 | fill | 27b
+stem: b. as ______ as a bat
+= blind
+~! 文中 Bats cannot see 是常見迷思，英文俗語 as blind as a bat 即「像蝙蝠一樣瞎」，故填 blind。
+
+Q 29 | fill | 27c
+stem: c. as ______ as an owl
+= wise
+~! 文末 If you want to be as wise as an owl, just check the facts! 直接出現 as wise as an owl。

@@ -1,0 +1,285 @@
+# Beat the GSAT · Unit 10 (book p.82–89) — photographed by the teacher.
+# No printed answer key: all answers and analyses derived by Claude (~!).
+@section gsat-10 | Unit 10 | Unit 10 | 綜合測驗・文意選填・篇章結構・閱讀測驗・混合題
+@overview Beat the GSAT Unit 10。一、綜合測驗（1–5）；二、文意選填（6–15）；三、篇章結構（16–19）；四、閱讀測驗（20–23）；五、混合題（24–27）。書中沒有附解答，答案與解析皆為本 app 推導，請老師審閱。
+
+@group 一、綜合測驗
+
+@passage
+As more and more people have started "eating on the go," the use of plastic cutlery, such as forks and spoons, has increased dramatically. This is a growing problem, [[1]] most plastic cutlery cannot be recycled and is the cause of much plastic pollution.
+
+Now the Indian pioneer, Narayana Peesapaty, has invented a(n) [[2]]. His company, Bakey's, has started manufacturing cutlery with a dual purpose. It can be used to consume your favorite takeout food and it is also edible! Bakey's cutlery design could radically reduce the problem of single-use plastics in our society. It is both sturdy enough to eat with and lightweight at the same time. The cutlery is made from various types of flour, such as sorghum, wheat, and rice, [[3]] with hot water. When the mixture is ready, it is baked in special molds. Because it is, in essence, a 100% natural, vegan product, it doesn't have any waste impact and will [[4]] disappear if not eaten. [[5]] that, but this breakthrough product also comes in three different flavors—plain, sweet, and savory! Since it's unlikely that we will collectively change our eating habits any time soon, this cutlery will at least allow us to enjoy a meal without feeling guilty. Hopefully it won't take too long for plastic cutlery to become a thing of the past.
+@end
+
+Q 1 | choice | Unit 10
+stem: （第 1 格）
+A: if
+B: unless
+C: as
+D: but
+= C
+~! 後半說明為什麼這是個日益嚴重的問題（塑膠餐具大多無法回收），as 在此表原因「因為」。if 如果、unless 除非、but 但是，皆不合語意。
+
+Q 2 | choice | Unit 10
+stem: （第 2 格）
+A: alternative
+B: remedy
+C: exception
+D: disguise
+= A
+~! 他發明了塑膠餐具的「替代品」——可以吃的餐具，故選 alternative。remedy 療法、exception 例外、disguise 偽裝，皆不合語意。
+
+Q 3 | choice | Unit 10
+stem: （第 3 格）
+A: mixing
+B: mixed
+C: mixes
+D: to mix
+= B
+~! 各種麵粉是「被」拿來和熱水混合，用過去分詞 (which are) mixed with hot water 作後位修飾；後句 When the mixture is ready 也呼應。
+
+Q 4 | choice | Unit 10
+stem: （第 4 格）
+A: additionally
+B: scarcely
+C: precisely
+D: eventually
+= D
+~! 天然、純素的產品如果沒被吃掉，「最終」也會自行分解消失，故選 eventually。additionally 此外、scarcely 幾乎不、precisely 精確地，皆不合語意。
+
+Q 5 | choice | Unit 10
+stem: （第 5 格）
+A: Not only
+B: Except
+C: No wonder
+D: Despite
+= A
+~! Not only that, but … also … 不只如此，還…；與後面的 but this breakthrough product also comes in three different flavors 呼應。
+
+@group 二、文意選填
+@bank
+A: liable
+B: annoying
+C: gap
+D: intimate
+E: setting
+F: accustomed
+G: interact
+H: factors
+I: retreat
+J: tense
+
+@passage
+Have you ever felt that someone was standing a little too close to you? Maybe you even yearned to cautiously [[6]] or shove them away. If so, you're not alone.
+
+We all have our own sense of personal space and it's quite [[7]] when someone intrudes on it. It's natural to feel anxious or uncomfortable. However, at its core, this sentiment may actually be less "personal" than cultural. For most Westerners, the ideal amount of personal space is around one meter. In Asia, however, personal space can be as little as a few centimeters. Since their countries are often more populated, Asians have become [[8]] to having much less personal space.
+
+Touch also plays a part. While touching between acquaintances may be considered too [[9]] in the United States, in South America and southern Europe, physical contact is an essential part of conversation. Those who don't [[10]] physically are seen as cold. There are also environmental and individual considerations. When you're in a familiar [[11]], you're more prone to getting closer to people. The same goes for generally safe public places. Enter an unfamiliar area, however, and you're more [[12]] to want to keep your distance. This is an instinctive defense mechanism activated by the brain. As for individual [[13]], your personality is often significant. The more [[14]] you are, the more space you'll tend to uphold between yourself and others.
+
+With all these variables to ponder, how can anybody be sure whether they're invading someone else's personal space? The easiest thing to do is to watch other people's body language. If someone moves away from you, don't insist on closing the [[15]]. This will probably just make the other person feel uncomfortable.
+@end
+
+Q 6 | bank | Unit 10
+stem: （第 6 格）
+= I
+~! yearned to cautiously ___ or shove them away：to 後接原形動詞，與 shove 並列；有人站太近時，想小心地「後退」或把他推開，故選 retreat。
+
+Q 7 | bank | Unit 10
+stem: （第 7 格）
+= B
+~! it's quite ___ when someone intrudes on it：空格為形容詞；有人侵入個人空間很「惱人」，故選 annoying。
+
+Q 8 | bank | Unit 10
+stem: （第 8 格）
+= F
+~! become accustomed to V-ing 變得習慣於…；亞洲國家人口較稠密，人們習慣較小的個人空間，故選 accustomed。
+
+Q 9 | bank | Unit 10
+stem: （第 9 格）
+= D
+~! too ___：副詞 too 後接形容詞；在美國，熟人之間的碰觸可能被認為太「親密」，故選 intimate。
+
+Q 10 | bank | Unit 10
+stem: （第 10 格）
+= G
+~! Those who don't ___ physically：don't 後接原形動詞；在南美與南歐，不以肢體「互動」的人會被認為冷淡，故選 interact。
+
+Q 11 | bank | Unit 10
+stem: （第 11 格）
+= E
+~! a familiar ___：形容詞後需要單數名詞；在熟悉的「環境」中，人比較會靠近別人，故選 setting。
+
+Q 12 | bank | Unit 10
+stem: （第 12 格）
+= A
+~! be liable to V. 容易…、可能…；與前句 more prone to 呼應，進入陌生地方時更「容易」想保持距離，故選 liable。
+
+Q 13 | bank | Unit 10
+stem: （第 13 格）
+= H
+~! individual ___：與前面 environmental and individual considerations 呼應；至於個人「因素」，個性很重要，故選 factors。
+
+Q 14 | bank | Unit 10
+stem: （第 14 格）
+= J
+~! The more ___ you are：the + 比較級句型，空格為形容詞；越「緊張」的人，越會跟別人保持距離，故選 tense。
+
+Q 15 | bank | Unit 10
+stem: （第 15 格）
+= C
+~! close the gap 縮短距離；如果對方退開，就不要堅持再靠近，故選 gap。
+
+@group 三、篇章結構
+@bank
+A: Besides providing pleasure, it is a great way to relieve physical and mental tension.
+B: This is the condition of maximum concentration, and the brain blocks out all interruptions.
+C: But reading is a more effective form of escape because it demands the reader's full attention.
+D: In fact, those tested only needed six minutes of reading to cut mental pressure by more than two thirds.
+E: After all, reading on electronic devices offers a lot of convenience.
+
+@passage
+To many, reading seems like a tiresome pursuit. While books are commonly credited with broadening people's knowledge, some don't enjoy reading because it reminds them of schoolwork. However, reading doesn't have to be tedious. [[16]]
+
+The expression "curl up with a good book" perfectly illustrates the refreshment that reading can provide. Studies have shown that it's the most effective means of achieving relaxation, outdoing more standard practices. In tested subjects, listening to music reduced stress levels by 61 percent, sipping a cup of tea by 54 percent, and taking a walk by 42 percent. Reading's effects are much greater, decreasing anxiety by 68 percent! [[17]]
+
+Psychologists believe that the act of entering into a story is so distracting that it eases muscle tightness. So, if a fictional world is the calming factor, shouldn't TV accomplish the same results? It does, but not as well. People often turn to TV programs when they want to relax. The average American adult spends as much as 15 years of his or her life watching TV. [[18]] A story occupies the mind with information that diverts attention away from one's worries. In contrast, the minimal concentration needed by a television program still allows the mind to wander and focus on other things.
+
+Reading produces an effect on the brain similar to that of meditations. According to researchers, when students read silently, they read four to seven words per second. Scientists determined decades ago that seeing four to seven flashes of light per second transports the brain into the Theta rhythm—the same phase in which meditation occurs. [[19]] Therefore, when the brain is reading, it is actually in an altered state of consciousness.
+
+The next time you come home exhausted and reach for the remote, do your brain a favor and immerse yourself in a story instead.
+@end
+
+Q 16 | bank | Unit 10
+stem: （第 16 格）請由方框中選出最適合的句子。
+= A
+~! 前句說閱讀不一定無聊；(A) 補充閱讀除了帶來樂趣，還能舒緩身心壓力，這也是下面各段（放鬆、減壓、冥想般的效果）的主旨句。
+
+Q 17 | bank | Unit 10
+stem: （第 17 格）請由方框中選出最適合的句子。
+= D
+~! 前句列出研究數據：閱讀讓焦慮減少 68%；(D) In fact 再補充：受試者只要讀六分鐘，壓力就降低超過三分之二（68% ≈ more than two thirds）。
+
+Q 18 | bank | Unit 10
+stem: （第 18 格）請由方框中選出最適合的句子。
+= C
+~! 前面說看電視也能放鬆但效果較差；(C) But 轉折：閱讀是更有效的逃離方式，因為需要讀者全神貫注；後句 A story occupies the mind … In contrast, the minimal concentration needed by a television program … 正是對比說明。
+
+Q 19 | bank | Unit 10
+stem: （第 19 格）請由方框中選出最適合的句子。
+= B
+~! 前句說每秒四到七個閃光會讓大腦進入 Theta 節奏（冥想發生的階段）；(B) This 指這個狀態，是專注力最高、大腦隔絕所有干擾的狀態，後句 Therefore … altered state of consciousness 作結。(E) 談電子裝置閱讀很方便，與本段無關，是多餘選項。
+
+@group 四、閱讀測驗
+
+@passage
+Time compels us to live and interact with each other in a certain way. In fact, time is such an influential part of our lives that we may not realize that other people experience time differently. The truth is, how we use and perceive time is influenced by our culture. Therefore, examining how other cultures structure time can give us a more in-depth understanding of their customs and values, as well as our own.
+
+One way to understand a culture's attitude toward time is to look at the culture's pace. You might have the notion that the people of a foreign culture are not productive because they walk slowly or take too long to accomplish things. This could be a sign that your own culture is fast-paced. If, on the other hand, the people of another culture appear rushed, perhaps your culture is simply slower-paced in comparison. In general, industrialized countries have the tendency to have faster rhythms of life. By contrast, in many South American and Arabian countries, people tend to live a more relaxed life.
+
+A common English saying is "time is money," which means that every moment should be used productively. This attitude can be seen in the strict way in which North Americans structure time for appointments and meetings. Similarly, in Japan, most people live by the clock. This is reflected in the Japanese train system, which is known to always be on time. Nevertheless, not all cultures live under pressure from the ticking hands of the clock. For example, people in Mediterranean countries, such as Spain and Italy, have a more laid-back attitude. In these countries, people tend to eat lunch later, between about 2 p.m. and 4:30 p.m. After this, restaurants close for several hours, giving staff a chance to rest before returning to work, where they stay until very late.
+
+In short, every country has a rhythm set by its people. Therefore, understanding a culture's idea of time can help you know when to hurry and when to take it easy. If you don't keep pace with the rhythm, you might just stumble and fall!
+@end
+
+Q 20 | choice | Unit 10
+stem: What is the main idea of the article?
+A: It is better to be fast-paced because "time is money."
+B: The pace of life varies from country to country.
+C: A slower pace of life makes people happier.
+D: We would be more productive if we took longer breaks.
+= B
+~! 全文說明不同文化看待時間的方式不同，結論 every country has a rhythm set by its people，即生活步調因國而異。(A)(C)(D) 作者都沒有主張哪種步調比較好。
+
+Q 21 | choice | Unit 10
+stem: What does "This" refer to in the second paragraph?
+A: A belief that every culture should have a similar pace of life
+B: A way of thinking which sees other cultures as fast-paced
+C: The idea that other cultures are not achieving very much
+D: The theory that life is better when we all slow down
+= C
+~! 前句：你可能覺得某個外國文化的人走路慢、做事拖拖拉拉，所以「沒有生產力」；This 指這個想法（別的文化的人成就不多），這可能代表你自己的文化步調很快。(B) 方向相反。
+
+Q 22 | choice | Unit 10
+stem: The following graphs are some restaurants' busy hours (Popular times, Thursday, 6 a.m.–9 p.m.). Based on the passage, which is most likely located in Spain?
+  （A）中午 12 點到下午 2 點左右有一小段人潮，之後從下午約 4 點開始越來越多，晚上 8 點左右最多。
+  （B）早上 9 點起一路都有客人，傍晚漸增，晚上 7 點左右最多。
+  （C）早上 9 點到下午 3 點左右有客人，中午 12 點最多，晚上沒有人潮。
+  （D）中午前後沒有客人，下午約 2 點到 4 點半有一段人潮，之後中斷數小時，晚上 9 點左右到很晚又有人潮。
+  （以上依書中長條圖的形狀描述）
+A: (A)
+B: (B)
+C: (C)
+D: (D)
+= D
+~! 第 3 段：西班牙人約下午 2 點到 4 點半才吃午餐，之後餐廳休息幾個小時，晚上再營業到很晚。(D) 的人潮時段（下午 2–4 點半一段、休息後晚上很晚再一段）最符合。
+
+Q 23 | choice | Unit 10
+stem: What can be inferred from the last paragraph about the author's attitude toward time?
+A: "When in Rome, do as the Romans do."
+B: "Time and tide wait for no man."
+C: "There is no place like home."
+D: "There's no use crying over spilt milk."
+= A
+~! 最後一段：了解一個文化的時間觀，才知道何時該快、何時該放慢；跟不上當地節奏可能會跌倒。即「入境隨俗」When in Rome, do as the Romans do。(B) 歲月不待人、(C) 金窩銀窩不如自己的狗窩、(D) 覆水難收，皆不合。
+
+@group 五、混合題
+
+@passage
+Coffee is the third most popular drink in the world after water and tea, and around 90 percent of North Americans say they regularly drink coffee. One reason coffee is so popular is that it has caffeine, which makes drinkers feel more awake and alert. Many people start their day by brewing a pot of coffee immediately after getting out of bed in the morning.
+
+Unfortunately, coffee's popularity is causing devastating damage to the environment. Coffee was originally grown in the shade in between trees, which meant that it could grow naturally in forest areas without the need for dedicated farmland. In the 1970s, farmers began growing coffee in full sunlight because the plants would ripen faster and produce more coffee berries, helping them to sell more coffee. This meant the clearing of many forests to make space for coffee growing, and because over-farming eventually causes the quality of the soil to become poor, more land must be found every few years. Furthermore, employing the full-sunlight growing method requires lots of fertilizer, which causes problems when rain washes it into sources of drinking water.
+
+Now many coffee farmers are returning to the shade-grown method to protect the environment, as well as their future livelihoods. The next time you reach for a cup of coffee, make sure it is genuine shade-grown coffee. It's not only good for the environment; coffee experts report that it tastes better, too.
+@end
+
+Q 24 | choice | Unit 10
+stem: What is the purpose of this passage?
+A: To persuade readers to drink shade-grown coffee
+B: To explain the benefits of drinking coffee
+C: To introduce the varieties of coffee trees
+D: To boost the sales of a specific brand of coffee
+= A
+~! 文章說明全日照種植咖啡對環境的傷害，結尾 make sure it is genuine shade-grown coffee … it tastes better, too，目的是說服讀者喝遮蔭種植的咖啡。
+
+Q 25 | choice | Unit 10
+stem: Based on the passage, why did farmers begin growing coffee beans in full sunlight?
+A: Because the coffee beans ripen faster
+B: Because less water is used in the process
+C: Because it maintains a healthy eco-system
+D: Because it saves more fertilizer
+= A
+~! 第 2 段 farmers began growing coffee in full sunlight because the plants would ripen faster and produce more coffee berries。(D) 原文說全日照種植反而需要大量肥料。
+
+Q 26 | choice | Unit 10
+stem: According to the passage, which of the following is TRUE?
+A: More than 95% of people drink tea in the world.
+B: It's better to find out how your coffee was grown.
+C: The shade-grown coffee method originated in the 1970s.
+D: Coffee plants can only survive in the shade.
+= B
+~! 最後一段建議喝咖啡時要確認是真正遮蔭種植的，即最好了解咖啡是怎麼種出來的。(A) 文中只說約 90% 北美人常喝咖啡；(C) 1970 年代開始的是全日照種植；(D) 咖啡也能在全日照下生長。
+
+Q 27 | fill | 27a
+stem: List the causes and effects from the passage.
+  Cause: The global popularity of coffee → Effect: ___a.___ to the environment is caused.
+  Cause: Excessive farming activity → Effect: There is a decrease in ___b.___ quality.
+  Cause: Farmers employing the full-sunlight growing method → Effect: Much more ___c.___ needs to be used.
+  Cause: Consumers choosing ___d.___ coffee → Effect: The environment is benefitted.
+  a. ______
+= damage | devastating damage
+~! 第 2 段 coffee's popularity is causing devastating damage to the environment。
+
+Q 28 | fill | 27b
+stem: b. There is a decrease in ______ quality.
+= soil
+~! 第 2 段 over-farming eventually causes the quality of the soil to become poor。
+
+Q 29 | fill | 27c
+stem: c. Much more ______ needs to be used.
+= fertilizer
+~! 第 2 段 employing the full-sunlight growing method requires lots of fertilizer。
+
+Q 30 | fill | 27d
+stem: d. Consumers choosing ______ coffee
+= shade-grown | shade grown
+~! 第 3 段 make sure it is genuine shade-grown coffee. It's not only good for the environment …

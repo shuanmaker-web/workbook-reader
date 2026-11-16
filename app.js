@@ -3,7 +3,7 @@
    items: group | entries | bank | passage | q   (q.type: choice | multi | bank | fill | trans)
    Translation (trans) questions: students answer on paper; the app only offers a "看參考答案" button,
    controlled by a teacher switch (state.transOn, remembered in localStorage). */
-const CACHE='workbook-reader-v11'; // keep in sync with sw.js
+const CACHE='workbook-reader-v12'; // keep in sync with sw.js
 const STORE='workbook-reader-v1';
 const exam=window.EXAM,dict=window.DICTIONARY||{};
 const $=s=>document.querySelector(s),esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -25,7 +25,7 @@ const isWrite=q=>q.type==='write';
 const hasTrans=s=>questions(s).some(isTrans);
 const canSee=q=>!isTrans(q)||state.transOn;
 const isRevealed=(s,q)=>canSee(q)&&(showAll||!!state.revealed[qkey(s,q)]);
-const qLabel=q=>/^(類題|試題演練) \d+/.test(q.src)?q.src:`第 ${q.n} 題 · ${q.src}`;
+const qLabel=q=>/^(類題|試題演練) \d+/.test(q.src)?q.src:/^\d+[a-e]$/.test(q.src)?`第 ${q.src} 題`:`第 ${q.n} 題 · ${q.src}`;
 const altList=a=>a.split('|').map(x=>x.trim()).filter(Boolean);
 const normFill=s=>s.toLowerCase().replace(/\s+/g,' ').replace(/[.。]+$/,'').trim();
 const numSet=s=>(String(s).match(/\d+/g)||[]).map(Number).sort((a,b)=>a-b).join(',');

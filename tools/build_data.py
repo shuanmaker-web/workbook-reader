@@ -36,7 +36,7 @@ MAT = os.path.join(ROOT, 'material')
 BOOKS = [
     {'id': 'dmg', 'title': 'Grand Slam', 'english': '', 'sub': '單字・綜合測驗・文意選填・篇章結構・閱讀・翻譯', 'plan': []},
     {'id': 'cloze', 'title': 'Cloze Power-Up', 'english': '', 'sub': '克漏字', 'plan': []},
-    {'id': 'win', 'title': 'Beat the GSAT', 'english': '', 'sub': '', 'plan': []},
+    {'id': 'win', 'title': 'Beat the GSAT', 'english': '', 'sub': '綜合測驗・文意選填・篇章結構・閱讀測驗・混合題', 'plan': []},
     {'id': 'l35', 'title': 'Level 3–5', 'english': '', 'sub': '字彙王練習題本・文意字彙・選擇題・配合題', 'plan': []},
 ]
 UNITS = [
@@ -53,6 +53,9 @@ UNITS = [
     {'id': 'trr1', 'book': 'dmg', 'kind': 'trans', 'title': '複習（一）', 'sub': '翻譯複習（一）'},
     {'id': 'wr1', 'book': 'dmg', 'kind': 'write', 'title': '寫作（一）', 'sub': '表個人看法／意見／經驗分享'},
     {'id': 'wr2', 'book': 'dmg', 'kind': 'write', 'title': '寫作（二）', 'sub': '表達優缺／利弊／正反面'},
+    {'id': 'w8', 'book': 'win', 'kind': 'unit', 'title': 'Unit 8', 'sub': '綜合測驗・文意選填・篇章結構・閱讀測驗・混合題'},
+    {'id': 'w9', 'book': 'win', 'kind': 'unit', 'title': 'Unit 9', 'sub': '綜合測驗・文意選填・篇章結構・閱讀測驗・混合題'},
+    {'id': 'w10', 'book': 'win', 'kind': 'unit', 'title': 'Unit 10', 'sub': '綜合測驗・文意選填・篇章結構・閱讀測驗・混合題'},
     {'id': 'cz41', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 41', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
     {'id': 'cz42', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 42', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
     {'id': 'cz43', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 43', 'sub': 'Energy・綜合測驗・文意選填・篇章結構'},
@@ -78,6 +81,7 @@ VOCAB_META = {
 # sections whose id prefix is not the unit id
 UNIT_OF = {'tr-1': 'tr1', 'tr-2': 'tr2', 'tr-3': 'tr3', 'tr-4': 'tr4', 'tr-r1': 'trr1',
            'wr-1': 'wr1', 'wr-2': 'wr2', 'gs1-vocab': 'gs1',
+           'gsat-08': 'w8', 'gsat-09': 'w9', 'gsat-10': 'w10',
            'cloze-41': 'cz41', 'cloze-42': 'cz42', 'cloze-43': 'cz43', 'cloze-44': 'cz44',
            'cloze-45': 'cz45', 'cloze-46': 'cz46', 'cloze-47': 'cz47', 'cloze-48': 'cz48'}
 
@@ -95,7 +99,8 @@ ORDER = ['u1-vocab', 'u1-drill', 'u1-cloze', 'u1-struct', 'u1-reading',
          'u4-vocab', 'u4-drill', 'u4-cloze', 'u4-struct', 'u4-reading', 'gs1-vocab',
          'tr-1', 'tr-2', 'tr-3', 'tr-4', 'tr-r1', 'wr-1', 'wr-2',
          'cloze-41', 'cloze-42', 'cloze-43', 'cloze-44',
-         'cloze-45', 'cloze-46', 'cloze-47', 'cloze-48']
+         'cloze-45', 'cloze-46', 'cloze-47', 'cloze-48',
+         'gsat-08', 'gsat-09', 'gsat-10']
 FILES = {'u1-vocab': 'u1-words.txt', 'u1-drill': 'u1-drill.txt', 'u1-cloze': 'u1-cloze.txt',
          'u1-struct': 'u1-struct.txt', 'u1-reading': 'u1-reading.txt',
          'u2-vocab': 'u2-words.txt', 'u2-drill': 'u2-drill.txt', 'u2-cloze': 'u2-cloze.txt',
@@ -109,7 +114,8 @@ FILES = {'u1-vocab': 'u1-words.txt', 'u1-drill': 'u1-drill.txt', 'u1-cloze': 'u1
          'cloze-41': 'cloze-41.txt', 'cloze-42': 'cloze-42.txt',
          'cloze-43': 'cloze-43.txt', 'cloze-44': 'cloze-44.txt',
          'cloze-45': 'cloze-45.txt', 'cloze-46': 'cloze-46.txt',
-         'cloze-47': 'cloze-47.txt', 'cloze-48': 'cloze-48.txt'}
+         'cloze-47': 'cloze-47.txt', 'cloze-48': 'cloze-48.txt',
+         'gsat-08': 'gsat-08.txt', 'gsat-09': 'gsat-09.txt', 'gsat-10': 'gsat-10.txt'}
 ORDER += [f'l35-{n:02d}' for n in L35_UNITS]
 FILES.update({f'l35-{n:02d}': f'l35-{n:02d}.txt' for n in L35_UNITS})
 
@@ -403,6 +409,20 @@ CONTEXT = {
     'superfood': 'n. 超級食物（被認為營養價值特別高的食物）', 'superfoods': 'n. 超級食物（superfood 的複數）',
     'desalinating': 'v. 將（海水）淡化、去除鹽分（desalinate 的 -ing 形）',
     'unresearched': 'a. 尚未被研究的',
+    # Beat the GSAT Unit 8–10
+    'curcumin': 'n. 薑黃素（薑黃中的主要活性成分）', 'jayanti': '印度語：jayanti，意為「戰勝疾病者」（古印度對薑黃的稱呼）',
+    'schengen': '專有名詞：Schengen Agreement 申根協定（歐洲多國互免邊境檢查）',
+    'acropolis': '地名：Acropolis 雅典衛城（希臘）', 'colosseum': '地名：Colosseum 羅馬競技場（義大利）',
+    'narayana': '人名：Narayana Peesapaty（印度發明家，可食用餐具 Bakey\'s 創辦人）',
+    'peesapaty': '人名：Narayana Peesapaty（印度發明家，可食用餐具 Bakey\'s 創辦人）',
+    'bakey': '專有名詞：Bakey\'s（印度可食用餐具公司）', "bakey's": '專有名詞：Bakey\'s（印度可食用餐具公司）',
+    'hayao': '人名：Hayao Miyazaki 宮崎駿（日本動畫導演）', 'miyazaki': '人名：Hayao Miyazaki 宮崎駿（日本動畫導演）',
+    "miyazaki's": '人名：宮崎駿的', 'sen': '人名：Sen 千（《神隱少女》女主角千尋）',
+    'yubaba': '人名：Yubaba 湯婆婆（《神隱少女》中的魔女）', 'jiufen': '地名：九份（新北市的老金礦小鎮）',
+    'dogo': '地名：Dogo Onsen 道後溫泉（日本愛媛縣）', 'onsen': '日語：onsen 溫泉',
+    'cyberbully': 'n. 網路霸凌者；v. 網路霸凌', 'cyberbullies': 'n. 網路霸凌者（cyberbully 的複數）',
+    'boysdancetoo': '主題標籤：#boysdancetoo（男生也跳舞）',
+    'theta': 'n. 希臘字母 θ；Theta rhythm θ 腦波（冥想、放鬆時出現）',
 }
 
 def build_dictionary(sections, ecdict_path):

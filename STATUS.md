@@ -57,3 +57,9 @@
 41. **推導答案新增 24 則**:翻譯（三）（四）試題演練各 8 題、翻譯複習（一）8 題,書上沒有印答案,參考答案為 Claude 推導(標「推導」),請審閱。翻譯複習（一）第 8 題中文「為了…，自己出國旅行是很多青少年的夢想」,為避免懸垂的目的片語,參考答案改寫成 many teenagers dream of traveling abroad on their own。
 42. **寫作**成為側欄第三個分頁(`Units` / `Translation` / `Writing`),目前有寫作（一）（二):實用句型、歷屆寫作範例(題目 + 書上範文,照抄)、試題演練(書上沒有範文;2026-11-17 由 Claude 各寫一篇範文,標「推導」,請審閱)。新題型 `write`:範文可有可無,`" ¶ "` 表示分段;範文與翻譯參考答案共用同一個顯示開關。
 43. CACHE 版本更新為 `workbook-reader-v11`。
+
+## Beat the GSAT Unit 8–10(2026-11-17,來自老師拍的課本 p.66–89)
+44. 新增 Beat the GSAT 第一批內容:Unit 8、9、10,每單元一個 section(`material/gsat-08.txt`–`gsat-10.txt`),結構:一、綜合測驗(1–5)、二、文意選填(6–15)、三、篇章結構(16–19)、四、閱讀測驗(20–23)、五、混合題(24–27)。共 90 題(混合題第 27 題拆成 27a、27b… 小題,App 顯示「第 27a 題」)。
+45. **書中沒有附解答,90 題的答案與解析全部是 Claude 推導**(標「推導」)。照片上學生的鉛筆作答與紅筆訂正沒有收錄,也沒有拿來當答案依據。需要特別確認的題目:Unit 8 第 27a 題(as ___ as a toad,我填 toxic,要靠常識推論);Unit 9 第 26 題多選(我給 ABCF,其中 B、C、F 是由文中的「威脅」反推出的保護方法)。
+46. 書中的圖片題改用文字描述:Unit 8 第 23 題(羅馬競技場素描)、第 26 題(五感圖示)、Unit 10 第 22 題(四家餐廳週四人潮長條圖,依長條形狀描述各時段)。若需要原圖,可再把照片裁切成圖片放進 App(要注意原書圖片版權)。
+47. 新專有名詞(curcumin、Schengen、Acropolis、Colosseum、Narayana Peesapaty、Bakey's、Hayao Miyazaki、Yubaba、Jiufen、Dogo Onsen、Theta、cyberbully 等)已加進 `CONTEXT`;dictionary.js 已重新產生。CACHE 版本更新為 `workbook-reader-v12`。
