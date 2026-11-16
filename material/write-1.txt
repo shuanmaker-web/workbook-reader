@@ -1,5 +1,5 @@
 # 寫作（一） · 主題寫作：表個人看法／意見／經驗分享 (book p.30–31) — from the 翻譯／寫作 workbook
-# 歷屆寫作範例: prompt + model essay printed. 試題演練: prompt only (book prints no model essay).
+# 歷屆寫作範例: prompt + model essay printed. 試題演練: model essay written by Claude (~!), not in the book.
 # Question type "write": students write on paper; " ¶ " in the answer = paragraph break.
 @section wr-1 | 寫作（一）：表個人看法／意見／經驗分享 | Writing: opinions & experiences | 學測重點：主題寫作
 @overview 此題型屬於夾敘述夾議論的類型。1. 重點在於表達個人意見或分享經驗，並帶出原因與支持句。2. 描述原因細節時，用不同角度切入，找出不同論點，增加文章內容全面性。3. 第二段常要求撰寫為了達成特定目的的做法。
@@ -58,4 +58,5 @@ stem: 提示：近年來，很多大學鼓勵教授以英語講授專業課程�
 Q 2 | write | 試題演練
 stem: 說明：依提示寫一篇英文作文，文長至少 120 個單詞（words）。
   提示：許多歐美的高中或是大學生，在畢業之後並不會馬上進入職場或是繼續升學，而是利用一年的時間，來進行一些自我實現的計畫，如擔任志工／旅遊／學習語言等，當作是充實自己的機會，稱為 gap year。請同學寫一篇兩段的文章，第一段討論您是否認同這樣的趨勢，第二段則分享若您有一年的 gap year，您打算做怎樣的安排，並說明原因。
-~ 書上沒有範文；學生依提示在紙上寫作。可套用本單元「表個人看法」「表達過程／順序」「為達目的，實行計畫」的句型。
+= From my perspective, taking a gap year is a meaningful trend that more students in Taiwan should consider. Firstly, after years of preparing for exams, many students have never had the chance to think about what they truly want. A gap year enables them to explore their interests before choosing a major or a career. Moreover, by volunteering, traveling, or learning a new language, students gain real-world experience that cannot be found in textbooks. What's more, living on their own for a year helps them become more independent and responsible. Overall, as long as it is carefully planned, a gap year can be a valuable investment in one's future. ¶ If I had a gap year, I would spend it on two goals. To begin with, I would work as a volunteer English teacher in a remote village for six months. Through teaching children, I could not only improve my communication skills but also find out whether education is the right career for me. Besides, I would use the rest of the year to travel around Japan on a working holiday. To achieve this, I would start learning Japanese and save money in advance. In the long run, I believe these experiences would make me more mature and better prepared for college life.
+~! 書上沒有範文，以上範文為本 app 撰寫，僅供參考。第一段用 From my perspective 表明立場，以 Firstly / Moreover / What's more / Overall 列出理由；第二段用 To begin with / Besides / To achieve this / In the long run 說明 gap year 的安排與原因。

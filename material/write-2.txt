@@ -1,5 +1,5 @@
 # 寫作（二） · 主題寫作：表達(人事物)優缺／利弊／正反面等陳述 (book p.32–33) — from the 翻譯／寫作 workbook
-# 歷屆寫作範例: prompt + model essay printed. 試題演練: prompt only (book prints no model essay).
+# 歷屆寫作範例: prompt + model essay printed. 試題演練: model essay written by Claude (~!), not in the book.
 @section wr-2 | 寫作（二）：表達優缺／利弊／正反面 | Writing: pros & cons | 學測重點：主題寫作
 @overview 正反論述與論述優缺利弊能夠應用的題型相當廣泛，記敘與議論皆能使用。1. 重點在表達優缺利弊，結合表達個人看法，架構完整段落。2. 架構以正面 → 反面 → 總合的邏輯演進，可用一般觀點切入，再帶出個人不同看法，最終給出結論。3. 描述正反面的優缺利弊，可加入衝擊、影響的描述，作為支持句。
 
@@ -38,4 +38,5 @@ stem: 提示：你能想像一個沒有電（electricity）的世界嗎？請寫
 Q 2 | write | 試題演練
 stem: 說明：依提示寫一篇英文作文，文長至少 120 個單詞（words）。
   提示：許多高中為了增進學生考試表現，會提供課後自習的教室，或是提供夜間或是假日的輔導課程。請同學寫一篇兩段的文章，第一段請根據自己或是他人的經驗，討論這樣措施的優缺點，第二段請分享您心目中，課後讀書時間安排理想的規劃，如：環境／時間長短／是否有人伴讀等細節，並說明原因。
-~ 書上沒有範文；學生依提示在紙上寫作。可套用本單元「表達優缺點、利弊」「正、反、合」「表影響；衝擊」的句型。
+= There are both advantages and disadvantages to after-school study rooms and extra tutoring sessions. On the one hand, they provide a quiet place for students to concentrate. In my experience, studying in the classroom after school keeps me away from my phone and the TV at home, so I can finish more practice tests in less time. Teachers are also available to answer questions right away. On the other hand, staying at school until nine at night leaves students exhausted. Some of my classmates even fall asleep at their desks, which shows that longer hours do not always lead to better results. Overall, the pros and cons of such measures should be carefully weighed. ¶ In my opinion, an ideal after-school study plan should be flexible and efficient. Firstly, the environment should be quiet and well-lit, such as the school library or a study room with comfortable seats. Secondly, I would study for about two hours, with a short break every fifty minutes, because it is important for students to rest their eyes and minds. Additionally, I prefer studying with one or two classmates who share the same goal. We can quiz each other and stay motivated. By applying this plan, I believe students can study effectively without sacrificing their health.
+~! 書上沒有範文，以上範文為本 app 撰寫，僅供參考。第一段用 There are both advantages and disadvantages to … / On the one hand … On the other hand … 依經驗談優缺點，以 The pros and cons of … should be carefully weighed 收尾；第二段用 Firstly / Secondly / Additionally 說明環境、時間長短、伴讀的規劃與原因。

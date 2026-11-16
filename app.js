@@ -3,7 +3,7 @@
    items: group | entries | bank | passage | q   (q.type: choice | multi | bank | fill | trans)
    Translation (trans) questions: students answer on paper; the app only offers a "看參考答案" button,
    controlled by a teacher switch (state.transOn, remembered in localStorage). */
-const CACHE='workbook-reader-v10'; // keep in sync with sw.js
+const CACHE='workbook-reader-v11'; // keep in sync with sw.js
 const STORE='workbook-reader-v1';
 const exam=window.EXAM,dict=window.DICTIONARY||{};
 const $=s=>document.querySelector(s),esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -80,7 +80,7 @@ function renderQuestion(q){const s=section,key=qkey(s,q),revealed=isRevealed(s,q
   if(revealed){tag=fillCorrect(q,draft)?'✓ 答對了':'參考答案';body+=`<div class="text-answer">${altList(q.ans).map(esc).join('　/　')}</div>`}
  }else if(isTrans(q)){
   body='';
-  if(revealed&&q.ans){tag=isWrite(q)?'範文':q.an.some(a=>a.d)?'參考答案 · 推導':'參考答案';body+=`<div class="text-answer trans-answer">${wordify(q.ans)}${altsHtml(q)}<p class="tn">${isWrite(q)?'範文僅供參考。':'這題的英文說法不只一種，以上僅供參考。'}</p></div>`}
+  if(revealed&&q.ans){tag=isWrite(q)?(q.an.some(x=>x.d)?'範文 · 推導':'範文'):q.an.some(a=>a.d)?'參考答案 · 推導':'參考答案';body+=`<div class="text-answer trans-answer">${wordify(q.ans)}${altsHtml(q)}<p class="tn">${isWrite(q)?'範文僅供參考。':'這題的英文說法不只一種，以上僅供參考。'}</p></div>`}
  }
  const showBtn=canSee(q)&&!!q.ans;
  return `<article class="qcard" id="q-${key}"><div class="qtop"><span class="qnum">${esc(qLabel(q))}</span>${tag?`<span class="answer-tag">${esc(tag)}</span>`:''}</div><div class="qstem">${text(q.stem,s)}</div>${q.type==='multi'?'<p class="hint">本題為多選。</p>':''}${body}<div class="qactions">${showBtn?`<button class="reveal" data-reveal="${key}">${revealed?'收起答案 ↑':isWrite(q)?'看範文 ↓':isTrans(q)?'看參考答案 ↓':'顯示答案 ↓'}</button>`:`<span class="hint">${!q.ans?'學生在紙上寫作（本題沒有範文）':'參考答案已關閉'}</span>`}${showBtn&&!isTrans(q)?`<a class="to-analysis" href="#analysis/${s.id}/${q.n}">查看解析 ↗</a>`:'<span></span>'}</div></article>`}
