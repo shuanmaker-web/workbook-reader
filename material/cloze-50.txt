@@ -1,0 +1,231 @@
+# Cloze Power-Up · Unit 50 — Plants
+# Transcribed from a teacher-provided fillable PDF ("Units 49–54", typed text, not a scan of the
+# original textbook — no page images, so this section has no @pages / 原書頁面核對.
+# Answers cross-checked against the teacher-supplied answer-key photo "50: ADCCD ADBCD BCAEJIHFDG ACDE" — every one of the 24 answers matches.
+@section cloze-50 | Unit 50 | Plants | 綜合測驗・文意選填・篇章結構
+@overview Cloze Power-Up Unit 50（Plants）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+Since these vegetables would require a relatively lengthy period of warmth to mature—around six months in all—the seeds had been planted as soon as the weather began to warm up. The young vines sprouted quickly from the nutrient-rich soil, and soon baby leaves appeared on sturdy stems.
+
+The vine expanded rapidly along a neatly [[1]] cane framework. Within weeks, this bamboo structure was covered in dark-green, diamond-shaped leaves. What's more, several chubby "silk melons," known [[2]] by the local Mandarin speakers, dangled here and there among the leaves. Some of these relatives of the humble pumpkin had already grown to the length of a human arm and appeared to be [[3]]. However, despite their readiness, they remained untouched.
+
+Surprisingly, these melons were not cultivated for their nutritional value, [[4]] they were indeed edible and could have been a welcome addition to summer starters and soups. Instead, they were left to mature fully on the vine. As they did, these initially swollen melons [[5]] due to a lack of moisture, which resulted in a withered appearance with cracked and flaking skins.
+
+After several days into autumn, the inner "silk" of these crops had dried and hardened into a light but tough fiber. And this, my friends, is how that "loofah" scrubbing sponge in your shower was grown.
+@end
+
+Q 1 | choice | Unit 50
+stem: （第 1 格）
+A: constructed
+B: constructing
+C: construction
+D: construct
+= A
+~! a neatly constructed cane framework：過去分詞作形容詞，修飾後面的 framework（整齊搭建的竹架）。
+
+Q 2 | choice | Unit 50
+stem: （第 2 格）
+A: and the like
+B: in the name of
+C: a tough call
+D: as such
+= D
+~! known as such：就以這個稱呼（絲瓜／絲瓜絡）被當地華語使用者稱呼。
+
+Q 3 | choice | Unit 50
+stem: （第 3 格）
+A: too delicate to pick
+B: heavily guarded
+C: ripe for harvest
+D: in need of a trim
+= C
+~! ripe for harvest：已成熟可採收；呼應後句「儘管已經成熟，卻仍未被摘採」的轉折。
+
+Q 4 | choice | Unit 50
+stem: （第 4 格）
+A: since
+B: despite
+C: though
+D: unless
+= C
+~! though：雖然；雖然不是為了營養價值而種植，但它們確實可食用，語氣轉折。
+
+Q 5 | choice | Unit 50
+stem: （第 5 格）
+A: vanished
+B: exploded
+C: leaked
+D: shrank
+= D
+~! shrank due to a lack of moisture：因缺乏水分而「萎縮」，導致表皮乾裂剝落。
+
+@passage
+The marigold is a group of over 50 related flowering plants in the Tagetes genus. The most popular [[6]] are known for their vibrant, warm-colored flowers that bloom in large, showy, pom-pom-like shapes. Their petals are often brilliant shades of orange, red, or yellow with delicate, lacy frills that can brighten anyone's day. As a result of such [[7]], marigolds are extremely popular annuals frequently seen in flower markets and florists worldwide.
+
+As annual plants, marigolds complete their entire lifecycle within a single growing season, from seed germination to full maturity with vibrant blossoms and then to seed production. Their existence [[8]] just from spring through summer. Although marigold plants are short-lived, they persist through self-seeding, allowing [[9]] generations to emerge seasonally year after year.
+
+Marigolds belong to the same "genus," a classification between "species" and "family." The name "Tagetes" is derived from a mythical Roman prophet who was believed to have emerged spontaneously from the plowed earth. This legend likely inspired the genus name [[10]] marigolds seem to grow effortlessly across fields and gardens season after season, much like the mythical Tages himself. Thus, marigolds are associated with this tale due to their resilience and recurring seasonal blooms.
+@end
+
+Q 6 | choice | Unit 50
+stem: （第 6 格）
+A: varieties
+B: scales
+C: careers
+D: colonies
+= A
+~! the most popular varieties：最受歡迎的（萬壽菊）品種。
+
+Q 7 | choice | Unit 50
+stem: （第 7 格）
+A: pleasant aroma
+B: smooth texture
+C: mild flavor
+D: visual appeal
+= D
+~! visual appeal：視覺吸引力；對應前段描述花瓣鮮豔的外觀。
+
+Q 8 | choice | Unit 50
+stem: （第 8 格）
+A: roams
+B: spans
+C: ushers
+D: deters
+= B
+~! Their existence spans just from spring through summer：它們的生命週期僅「橫跨」春季到夏季。
+
+Q 9 | choice | Unit 50
+stem: （第 9 格）
+A: selective
+B: oppressive
+C: successive
+D: imperative
+= C
+~! successive generations：一代接一代；靠自播種延續「接續不斷的」世代。
+
+Q 10 | choice | Unit 50
+stem: （第 10 格）
+A: for fear that
+B: ever since
+C: provided that
+D: in that
+= D
+~! in that...：在於…（說明原因）；此傳說之所以啟發屬名，是因為萬壽菊也像 Tages 一樣毫不費力地生長。
+
+@group 二、文意選填
+@bank
+A: rare
+B: stir
+C: happens
+D: venture
+E: completely
+F: external
+G: guess
+H: involves
+I: distribute
+J: possibly
+
+@passage
+Around two and a half thousand. That's about how many distinct palm species exist in the world, according to scientists. Around 300 of these species are found on the tropical island of Borneo, where one palm in particular is currently creating quite a(n) [[11]]—it's Pinanga subterranean.
+
+The reason why this species is causing such a sensation is that it is, at the time of writing, the only palm tree known to science that [[12]] to both flower and fruit underground.
+
+This preference, ability, or black magic—whatever you wish to call it—is actually extremely [[13]] in the plant kingdom. In fact, only one other species is known to do the same with its fruits and flowers. It is a(n) [[14]] unrelated orchid, hidden many thousands of miles away under the rich Australian soil.
+
+How any reclusive member of the tree family could [[15]] hope to display all its beauty and reproduce beneath the surface of the Earth and survive is a mystery. Researchers have observed boars (wild pigs) digging up and feeding on the tender red fruits of the Pinanga subterranea palm, thereby helping to [[16]] its seeds throughout nearby jungles. However, what experts do not yet know is which other members of the animal kingdom, if any, assist in their pollination.
+
+Pollination is the process by which most plants reproduce. It [[17]] the spreading of a special powder found in flowers, known as "pollen," to the female parts of other flowers. This usually requires the help of a(n) [[18]] agent, such as the wind or a bee, to be accomplished. The pollen of Pinanga subterranea, however, is buried well below the surface, in places where neither bees nor winds hardly ever [[19]]. Who or what exactly is collecting and delivering its precious plant powder is thus anyone's [[20]].
+
+Solve this puzzling riddle and you'll have tree lovers everywhere eating out of the palm of your hand.
+@end
+
+Q 11 | bank | Unit 50
+stem: （第 11 格）
+= B
+~! creating quite a stir：引起一陣轟動、騷動。
+
+Q 12 | bank | Unit 50
+stem: （第 12 格）
+= C
+~! the only palm tree that happens to flower and fruit underground：碰巧（偶然）在地底開花結果的唯一棕櫚樹種。
+
+Q 13 | bank | Unit 50
+stem: （第 13 格）
+= A
+~! extremely rare in the plant kingdom：在植物界中極為「罕見」。
+
+Q 14 | bank | Unit 50
+stem: （第 14 格）
+= E
+~! a completely unrelated orchid：一種「完全」無親緣關係的蘭花。
+
+Q 15 | bank | Unit 50
+stem: （第 15 格）
+= J
+~! could possibly hope to：究竟要如何才「有可能」指望展現美麗並順利繁殖。
+
+Q 16 | bank | Unit 50
+stem: （第 16 格）
+= I
+~! helping to distribute its seeds：幫忙把種子「散播」到鄰近叢林。
+
+Q 17 | bank | Unit 50
+stem: （第 17 格）
+= H
+~! It involves the spreading of pollen：授粉「包含」花粉的傳播過程。
+
+Q 18 | bank | Unit 50
+stem: （第 18 格）
+= F
+~! an external agent such as wind or a bee：風或蜜蜂這類「外部」媒介。
+
+Q 19 | bank | Unit 50
+stem: （第 19 格）
+= D
+~! hardly ever venture：（風或蜂）幾乎不會「冒險深入」地底花粉所在之處。
+
+Q 20 | bank | Unit 50
+stem: （第 20 格）
+= G
+~! anyone's guess：沒人說得準、純屬「猜測」。
+
+@group 三、篇章結構
+@bank
+A: In her own words, it was as though her upper limbs were suddenly both "on fire."
+B: Kenzie's experience highlights the importance of being cautious when handling unfamiliar plants.
+C: Hardly an hour after her shower, Kenzie started to experience several other unpleasant symptoms.
+D: Here, it didn't take this facility's medical staff long to determine the cause of her life-threatening symptoms.
+E: By some cruel twist of fate, it resembles certain edible plants very closely, and is remarkably similar to wild carrot.
+
+@passage
+Kenzie Kizer was busy ridding her backyard of weeds one fine spring day, a task many homeowners undertake, when she was suddenly interrupted in her outdoor labors. Without warning, she experienced a severe burning sensation in her arms. [[21]] Thinking some tiny fragments of a stem, branch, or thorn had merely pierced her skin and caused all the irritation, she wasn't too alarmed. Although her discomfort was rather intense, she was confident that putting down her tools and taking a cooling shower would easily remedy matters.
+
+The cooling shower did bring some relief, but this measure was not enough to prevent what happened next. [[22]] For one, she felt extremely unsteady on her feet and was even shaking. Her tongue too was visibly swollen and the heat in her skin had returned with greater vigor than before.
+
+The situation became critical when Kenzie started experiencing difficulty breathing. At this point, she sought treatment at a nearby hospital emergency room. [[23]] It turns out that during her gardening endeavors, Kenzie had come into contact with the stems, leaves, or roots of "poison hemlock."
+
+Poison hemlock is quite common in the state where Kenzie resides. It has small, white umbrella-like clusters of flowers, and stems spotted with red or purple spots and patches. [[24]] If swallowed, however, poison hemlock can kill a healthy adult in under three hours.
+@end
+
+Q 21 | bank | Unit 50
+stem: （第 21 格）請由方框中選出最適合的句子。
+= A
+~! 承接「手臂突然出現劇烈灼熱感」，(A) 以她自己的話描述「彷彿雙臂同時著火」，呼應後句「她以為只是被莖、枝或刺扎傷」的推測。
+
+Q 22 | bank | Unit 50
+stem: （第 22 格）請由方框中選出最適合的句子。
+= C
+~! 承接「沖涼並未阻止接下來的情況」，(C) 說明沖澡後不到一小時她又出現其他不適症狀，呼應後句「首先，她覺得站不穩，甚至發抖」的列舉。
+
+Q 23 | bank | Unit 50
+stem: （第 23 格）請由方框中選出最適合的句子。
+= D
+~! 承接「她前往急診室就醫」，(D) 說明醫護人員很快就查出致命症狀的原因，呼應後句「原來她在除草時接觸到毒參（poison hemlock）」的說明。
+
+Q 24 | bank | Unit 50
+stem: （第 24 格）請由方框中選出最適合的句子。
+= E
+~! 承接「毒參有白色繖形花叢與帶紅紫斑點的莖」的外觀描述，(E) 補充說明它外型與野胡蘿蔔等可食植物極為相似，才會造成誤食，呼應後句「若誤食，可在三小時內致命」。

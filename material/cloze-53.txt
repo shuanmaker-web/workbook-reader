@@ -1,0 +1,245 @@
+# Cloze Power-Up · Unit 53 — Society
+# Transcribed from a teacher-provided fillable PDF ("Units 49–54", typed text, not a scan of the
+# original textbook — no page images, so this section has no @pages / 原書頁面核對.
+# Answers cross-checked against the teacher-supplied answer-key photo "53: ACDBB DBACC IBAHEDFCGJ CBAD" — every one of the 24 answers matches.
+@section cloze-53 | Unit 53 | Society | 綜合測驗・文意選填・篇章結構
+@overview Cloze Power-Up Unit 53（Society）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+When coming face to face with poverty, it is perhaps fair to say that many people turn a blind eye. Should we encounter [[1]] on the street, therefore, this may not lead to any meaningful interaction, or to a genuine attempt to improve their struggle-ridden lives.
+
+Too often, in other words, the poor are seen as a necessary evil in the society. Seldom, however, [[2]] its far more privileged citizens feel directly responsible for assisting them.
+
+Luckily, every now and then, special individuals come along who do not simply stick their heads in the sand. [[3]] pretending not to observe poverty, or simply choosing to dismiss it from their minds, these people will sit down and give considerable thought to changing things for the better.
+
+One such person is Kacey Wong. A resident of Hong Kong, Kacey set about designing public display units or statues that could be [[4]] sleeping shelters for those who do not have a home.
+
+His most famous design is a metal robot sculpture that can, in just a few simple steps, be "transformed" into a compact living space for whoever needs it. The robot can be folded out into a full-length, covered bed, or [[5]] into a chair and table.
+
+For those with nowhere to turn, this innovative street art is a precious piece of home.
+@end
+
+Q 1 | choice | Unit 53
+stem: （第 1 格）
+A: unhoused persons
+B: wandering echoes
+C: drifting shadows
+D: forsaken fantasies
+= A
+~! Should we encounter unhoused persons on the street：若我們在街上遇到「無家可歸的人」。
+
+Q 2 | choice | Unit 53
+stem: （第 2 格）
+A: are
+B: have
+C: do
+D: did
+= C
+~! Seldom + 助動詞倒裝：Seldom do its...citizens feel...，否定副詞 Seldom 置於句首須倒裝，助動詞用 do。
+
+Q 3 | choice | Unit 53
+stem: （第 3 格）
+A: Not to mention
+B: In addition to
+C: Regardless of
+D: Rather than
+= D
+~! Rather than pretending not to observe...：與其假裝沒看見貧窮，這些人選擇坐下來思考如何改善現況。
+
+Q 4 | choice | Unit 53
+stem: （第 4 格）
+A: derived from
+B: converted into
+C: decorated with
+D: stripped of
+= B
+~! units that could be converted into sleeping shelters：能被「轉換成」睡眠空間的裝置。
+
+Q 5 | choice | Unit 53
+stem: （第 5 格）
+A: calculated
+B: reassembled
+C: immigrated
+D: negotiated
+= B
+~! or reassembled into a chair and table：或「重新組裝」成一張椅子和桌子。
+
+@passage
+In around a quarter of the world's countries, it's completely legal for a man to have more than one spouse. This is known as "polygyny," a word that literally means "many women" in Greek.
+
+A controversial social practice, there are often complex cultural or religious reasons for it being allowed. Usually, it's also only [[6]] that husbands may take a second wife.
+
+Certain countries, for instance, only permit multiple marriages if these are prescribed by a man's faith or recognized local customs. Other societies only welcome such arrangements if the husband's first wife gives her [[7]] to any additional unions.
+
+[[8]] you personally might stand on the issue, supporters of polygyny do offer certain arguments in favor of such a liberty. One reason they cite for its being beneficial is that larger families automatically raise the social status of these households. With more potential breadwinners under one roof, they claim, enlarged clans also have a better chance of enjoying [[9]].
+
+Another motivation for supporting such a practice, they maintain, is that it significantly eases the burden of bearing and rearing children. Additional wives, moreover, can help to perform these motherly requirements, and even allow earlier spouses [[10]] alternative careers.
+
+Is this enough, in your opinion, to justify polygyny? And shouldn't polyandry ("many men") be allowed then too?
+@end
+
+Q 6 | choice | Unit 53
+stem: （第 6 格）
+A: during specified events
+B: amid isolated contexts
+C: in regulated environments
+D: under specific conditions
+= D
+~! only under specific conditions that husbands may take a second wife：只有在「特定條件下」丈夫才可以娶第二任妻子。
+
+Q 7 | choice | Unit 53
+stem: （第 7 格）
+A: vacancy
+B: consent
+C: sprint
+D: paradox
+= B
+~! gives her consent to any additional unions：給予她的「同意」讓丈夫再娶。
+
+Q 8 | choice | Unit 53
+stem: （第 8 格）
+A: Wherever
+B: However
+C: Whenever
+D: Whoever
+= A
+~! Wherever you personally might stand on the issue：無論你個人在這議題上「站在哪個立場」。
+
+Q 9 | choice | Unit 53
+stem: （第 9 格）
+A: tolerance
+B: reception
+C: prosperity
+D: sympathy
+= C
+~! a better chance of enjoying prosperity：更有機會享有「繁榮富足」。
+
+Q 10 | choice | Unit 53
+stem: （第 10 格）
+A: pursue
+B: pursuing
+C: to pursue
+D: pursued
+= C
+~! allow earlier spouses to pursue alternative careers：allow sb to V，允許較早嫁入的妻子「追求」其他職涯。
+
+@group 二、文意選填
+@bank
+A: central
+B: shared
+C: prevents
+D: minimize
+E: adjust
+F: obtained
+G: achieves
+H: collect
+I: installed
+J: continuous
+
+@passage
+These days, the adjective "smart" is being paired with a growing number of nouns. Smartphones and smartwatches are everywhere, and it's not unheard of to have smart TVs and smart fridges [[11]] at home. In the not-too-distant future, we might all be living in "smart societies" as well.
+
+In a smart society, the most is made of digital technology to create a(n) [[12]] living space that's more energy efficient, safer, more convenient, and more pleasant to stay in.
+
+Individual housing units in sophisticated residential communities such as these are all interconnected. Their various smart devices, appliances, and energy systems are linked to a(n) [[13]] database. This allows the community to constantly monitor all its various components in real time. It's thus able to [[14]] extensive data with regard to water and energy usage patterns.
+
+With all this enlightening digital information at their fingertips, management and residents can then [[15]] living arrangements accordingly. They can also fine-tune device and appliance settings in order to maximize efficiency and [[16]] waste.
+
+At the same time, renewable energy generated from eco-friendly fittings such as solar paneling can be evenly distributed. So too, can water [[17]] from smart rainwater filtering systems. Pooling resources in this fashion utilizes stored-up energy and water reserves to the full. It also [[18]] individual units from unnecessarily tapping into less sustainable supplies.
+
+Last but by no means least, a smart society also connects member citizens. It [[19]] this goal with high-tech digital platforms through which to communicate and collaborate. Since everyone can offer feedback and work together for the benefit of the entire community, everyone remains engaged and informed.
+
+Everybody is thus included when it comes to making [[20]] improvements and adjustments. Everyone, in other words, is involved in keeping the society smart.
+@end
+
+Q 11 | bank | Unit 53
+stem: （第 11 格）
+= I
+~! have smart fridges installed at home：家裡「裝設」智慧冰箱。
+
+Q 12 | bank | Unit 53
+stem: （第 12 格）
+= B
+~! create a shared living space：打造一個社區「共享」的生活空間（各戶智慧系統互聯、資源共用）。
+
+Q 13 | bank | Unit 53
+stem: （第 13 格）
+= A
+~! linked to a central database：連結到一個「中央」資料庫。
+
+Q 14 | bank | Unit 53
+stem: （第 14 格）
+= H
+~! able to collect extensive data：能夠「蒐集」大量關於水電使用模式的數據。
+
+Q 15 | bank | Unit 53
+stem: （第 15 格）
+= E
+~! adjust living arrangements accordingly：依據數據「調整」生活安排。
+
+Q 16 | bank | Unit 53
+stem: （第 16 格）
+= D
+~! maximize efficiency and minimize waste：將效率最大化，將浪費「最小化」。
+
+Q 17 | bank | Unit 53
+stem: （第 17 格）
+= F
+~! water obtained from smart rainwater filtering systems：從智慧雨水過濾系統「取得」的水。
+
+Q 18 | bank | Unit 53
+stem: （第 18 格）
+= C
+~! prevents individual units from tapping into less sustainable supplies：「防止」各戶取用較不永續的資源。
+
+Q 19 | bank | Unit 53
+stem: （第 19 格）
+= G
+~! It achieves this goal with high-tech platforms：藉由高科技平台「達成」這個目標。
+
+Q 20 | bank | Unit 53
+stem: （第 20 格）
+= J
+~! making continuous improvements and adjustments：持續不斷地做出改善與調整。
+
+@group 三、篇章結構
+@bank
+A: Needless to say, xenophobia leads to an unhealthy society.
+B: What's more, hostile locals threatened to take even more drastic action if outsiders didn't "pack up and go home."
+C: Concerned local citizens then began to complain of the state having failed to protect the rights of its own people.
+D: Educating and informing citizens of all ages about the value that diverse cultures, languages, and practices can offer are two key weapons in combating it.
+E: Examples may include making assumptions about a person based on where they come from, for example, saying that all French people like to eat snails.
+
+@passage
+Vicious rumors were going around that foreigners were coming in and "stealing" locals' jobs. As these false reports circulated, public sentiment seemed to swing heavily in favor of more conservative domestic labor policies. [[21]] By having outsiders enter the country and occupy professional positions, the government was "plainly letting them down."
+
+Soon, locals were angered by the mere presence of immigrants and other perfectly legal visitors. They took to the streets and openly protested against permitting immigration of any kind. People considered insufficiently localized were physically attacked, and their property was targeted. This led to injuries and damage. [[22]]
+
+The scenario described above is a classic example of "xenophobia." This is the prejudiced tendency to distrust, fear, dislike, or even hate people belonging to a different country, territory, tribe, culture, or religion.
+
+[[23]] It breaks up communities and can result in highly destructive acts of intimidation and violence. In the long run, this type of discrimination can, moreover, lead to a lack of diversity and a decrease in foreign interest and investment.
+
+Fortunately, there are ways to counter xenophobic behavior and trends. [[24]] So too are initiatives and activities that bring together different members of the community, or try to include and absorb groups perceived as "outsiders." Finally, simply speaking out against xenophobia can spark constructive public debate and help unite rather than divide.
+@end
+
+Q 21 | bank | Unit 53
+stem: （第 21 格）請由方框中選出最適合的句子。
+= C
+~! 承接「輿論轉向支持更保守的勞動政策」，(C) 說明憂心的在地民眾開始抱怨政府未能保護自身人民權益，直接呼應後句「政府『明顯辜負了他們』」。
+
+Q 22 | bank | Unit 53
+stem: （第 22 格）請由方框中選出最適合的句子。
+= B
+~! 承接「這導致傷害與財產損失」，(B) 進一步說明敵對的在地居民甚至揚言若外來者不「收拾行李回家」就要採取更激烈行動，語氣持續升高。
+
+Q 23 | bank | Unit 53
+stem: （第 23 格）請由方框中選出最適合的句子。
+= A
+~! 承接「對不同國家、族群、文化或宗教的人產生不信任、恐懼甚至憎恨」的定義，(A) 以「不用說，仇外心理導致社會不健康」承上啟下，呼應後句「它會瓦解社區，甚至導致毀滅性的脅迫與暴力行為」。
+
+Q 24 | bank | Unit 53
+stem: （第 24 格）請由方框中選出最適合的句子。
+= D
+~! 承接「幸好有方法可以對抗仇外行為與趨勢」，(D) 指出教育與宣導多元文化的價值是對抗仇外的兩大武器之一，呼應後句「同樣地，能凝聚社區不同成員的活動也是（另一項武器）」的 So too。

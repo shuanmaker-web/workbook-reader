@@ -63,3 +63,13 @@
 45. **書中沒有附解答,90 題的答案與解析全部是 Claude 推導**(標「推導」)。照片上學生的鉛筆作答與紅筆訂正沒有收錄,也沒有拿來當答案依據。需要特別確認的題目:Unit 8 第 27a 題(as ___ as a toad,我填 toxic,要靠常識推論);Unit 9 第 26 題多選(我給 ABCF,其中 B、C、F 是由文中的「威脅」反推出的保護方法)。
 46. 書中的圖片題改用文字描述:Unit 8 第 23 題(羅馬競技場素描)、第 26 題(五感圖示)、Unit 10 第 22 題(四家餐廳週四人潮長條圖,依長條形狀描述各時段)。若需要原圖,可再把照片裁切成圖片放進 App(要注意原書圖片版權)。
 47. 新專有名詞(curcumin、Schengen、Acropolis、Colosseum、Narayana Peesapaty、Bakey's、Hayao Miyazaki、Yubaba、Jiufen、Dogo Onsen、Theta、cyberbully 等)已加進 `CONTEXT`;dictionary.js 已重新產生。CACHE 版本更新為 `workbook-reader-v12`。
+
+## Cloze Power-Up Unit 49–54「Plants / Society」(2026-11-19，來自老師上傳的 Fillable PDF「Units 49–54」)
+48. 題目文字由老師上傳的 PDF（`Units_49-54_Fillable.pdf`）逐題轉錄為 `material/cloze-49.txt`–`cloze-54.txt`，結構與 Unit 41–48 相同：一、綜合測驗（1–10，選擇題，兩篇各 5 格）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項），共 144 題。主題包括海神草、虎尾蘭、瀕危植物（德州乳草、紫斑雞屎藤）、O. Henry 短篇小說裡的仙人掌（Unit 49）；絲瓜（loofah）、萬壽菊、地下開花的婆羅洲棕櫚 Pinanga subterranea（Unit 50）；金雞納樹與奎寧的傳說、四點鐘花 Mirabilis jalapa、植物間的化學／電訊溝通、指甲花 henna（Unit 51）；菟絲子（witches' hair）、亞馬遜王蓮、苔蘚、Yamaki 盆栽（Unit 52）；黃國才的街頭變形傢俱雕塑、一夫多妻制 polygyny、智慧社會（Unit 53）；種族／性別／年齡歧視、Luisa Neubauer 以社群媒體推動氣候倡議、Thomas More 的《烏托邦》、StrongMinds 憂鬱症慈善組織（Unit 54）。
+49. **這批來源是打字版的可填寫 PDF（非掃描原書頁面），沒有印頁碼，也沒有原書掃描圖檔**，所以 Unit 49–54 和 Grand Slam Unit 3–4 一樣沒有 `@pages`，不顯示「原書頁面核對」按鈕。
+50. **答案已與老師提供的解答照片（Unit 49–54 共 6 張「解答篇」）逐字核對、全部相符**（每張照片給出該單元 Q1–24 的字母答案），不是 Claude 推導的答案。
+51. 但每題的「解析」說明文字是 Claude 另外撰寫的（PDF 與答案照片都沒有印詳解，照片下方的「詳解篇」欄位被截斷看不到內容），已統一標示「推導」，請老師抽查解析內容是否恰當；答案本身不需要再核對。
+52. 暫時歸在 **Cloze Power-Up**（克漏字開外掛）這本書底下，和 Unit 41–48 並列；如果老師覺得應該放在別本，可以再移動（只需調整 `tools/build_data.py` 的 `UNITS`）。
+53. Sansevieria trifasciata、Trysdale、Ventomarme、Pinanga subterranea、Countess of Chinchón、cinchona、quinine、Mirabilis jalapa、Cuscuta（dodder）、Victoria amazonica、Yamaki pine、Kacey Wong、polygyny、Luisa Neubauer、StrongMinds、Utopia（Thomas More）、xenophobia、ageism 等新專有名詞已加進 `tools/build_data.py` 的 `CONTEXT` 字典。**這個 session 沒有 `ecdict.csv`，所以只重新產生了 `data.js`，`dictionary.js` 還沒更新**——這些新詞目前點字典可能查不到，請老師之後在有 `ecdict.csv` 的環境執行 `python3 tools/build_data.py /path/to/ecdict.csv` 補跑一次，把這批 CONTEXT 收進 `dictionary.js`。CACHE 版本已更新為 `workbook-reader-v13`。
+54. **尚未 push**：這次的變更（`material/cloze-49.txt`–`cloze-54.txt`、`tools/build_data.py`、`data.js`、`app.js`／`sw.js` 的 CACHE 版本）目前只在本機 clone，等老師確認後再 push 到 GitHub（repo 為公開部署，push 後會直接反映在正式網站上）。
+

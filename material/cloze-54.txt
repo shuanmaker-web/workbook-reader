@@ -1,0 +1,239 @@
+# Cloze Power-Up · Unit 54 — Society
+# Transcribed from a teacher-provided fillable PDF ("Units 49–54", typed text, not a scan of the
+# original textbook — no page images, so this section has no @pages / 原書頁面核對.
+# Answers cross-checked against the teacher-supplied answer-key photo "54: DBDCA CBBAB IBDFHJCAEG DCBA" — every one of the 24 answers matches.
+@section cloze-54 | Unit 54 | Society | 綜合測驗・文意選填・篇章結構
+@overview Cloze Power-Up Unit 54（Society）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+It's a well-known fact that communities everywhere are often torn apart by two destructive "-ism" evils. One is racism; [[1]] is sexism. Both of these are superficial prejudices based on bias or stereotypes, and are often the result of cultural or social conditioning.
+
+In short, they lead us to [[2]] judge others based merely on their gender or their skin color. Of course, we do so prior to actually attempting to get to know or understand those "others" first, and merely to seek solidarity with members of our own particular social group.
+
+A third evil "-ism" that divides us further is ageism. This involves [[3]] preconceived notions about fellow community members, based purely on, as you might have guessed, how old they are. Assuming, [[4]], that all teenagers are poor decision-makers is a form of ageism. So too is taking it for granted that pensioners' views are outdated and worthless.
+
+Like with most prejudices of this nature, the "cure" for this particular "-ism" starts with setting one's personal biases aside, and actively cultivating meaningful relationships with younger or older people. Following this, we can educate people of all ages on how to [[5]] and combat ageism.
+
+Finally, we can elect leaders and policy makers committed to using the law to stamp out this age-old form of discrimination.
+@end
+
+Q 1 | choice | Unit 54
+stem: （第 1 格）
+A: another
+B: second
+C: other
+D: the other
+= D
+~! One is racism; the other is sexism：兩者之中「另一個」是性別歧視（指定範圍為二，故用 the other）。
+
+Q 2 | choice | Unit 54
+stem: （第 2 格）
+A: redundantly
+B: prematurely
+C: voluntarily
+D: objectively
+= B
+~! lead us to prematurely judge others：讓我們「過早、倉促地」評斷他人（尚未真正認識對方就下定論）。
+
+Q 3 | choice | Unit 54
+stem: （第 3 格）
+A: analyzing
+B: intending
+C: recalling
+D: harboring
+= D
+~! This involves harboring preconceived notions：這牽涉到「心懷」先入為主的成見。
+
+Q 4 | choice | Unit 54
+stem: （第 4 格）
+A: as a consequence
+B: in brief
+C: for instance
+D: in other words
+= C
+~! Assuming, for instance, that...：「舉例來說」，假設所有青少年都不擅做決定……。
+
+Q 5 | choice | Unit 54
+stem: （第 5 格）
+A: guard against
+B: lean toward
+C: comply with
+D: look upon
+= A
+~! educate people on how to guard against and combat ageism：教導大家如何「防範」並對抗年齡歧視。
+
+@passage
+Skimming through social media feeds, one can't help but feel this magnificent modern global community platform isn't really having the positive impact on society that it might. We have this incredible high-tech tool to connect [[6]]. And yet, we're wasting it on largely superficial discussions.
+
+Most of the time, if we're honest, social media sites are accessed merely to comment on restaurant pics, or show off the latest holiday destination. It's also a common [[7]] for users to air casual opinions on politics or pop culture, without any desire to act on these views.
+
+Luisa Neubauer, a young climate activist from Hamburg, is mobilizing social media to get everyone [[8]] more important things. During the recent COVID pandemic, people could no longer take to the streets to protest against climate change. Consequently, she made use of social media to [[9]].
+
+She arranged to have people from all over post selfies with their signs and banners from home. She also organized mass email events and online calls to raise awareness. On one comment platform, Neubauer even inspired a "tweet storm" of carbon footprint comments, proving just how much support there was for socially [[10]] change.
+
+Young people like Neubauer are showing just how society should be using this young technology.
+@end
+
+Q 6 | choice | Unit 54
+stem: （第 6 格）
+A: within our domain
+B: under our control
+C: at our disposal
+D: in our custody
+= C
+~! a tool to connect us all, right at our disposal：一項任我們「隨意使用」的強大工具。
+
+Q 7 | choice | Unit 54
+stem: （第 7 格）
+A: territory
+B: medium
+C: summit
+D: charity
+= B
+~! a common medium for users to air casual opinions：一個供使用者隨意發表意見的常見「媒介」。
+
+Q 8 | choice | Unit 54
+stem: （第 8 格）
+A: do
+B: doing
+C: does
+D: done
+= B
+~! get everyone doing more important things：get sb V-ing，讓大家去做更重要的事。
+
+Q 9 | choice | Unit 54
+stem: （第 9 格）
+A: get her message across
+B: straighten her case out
+C: sort her things out
+D: think her proposal over
+= A
+~! made use of social media to get her message across：利用社群媒體「傳達她的訴求」。
+
+Q 10 | choice | Unit 54
+stem: （第 10 格）
+A: shed
+B: driven
+C: laid
+D: ushered
+= B
+~! socially driven change：由社會力量「驅動的」改變。
+
+@group 二、文意選填
+@bank
+A: labor
+B: explorer
+C: weaving
+D: features
+E: hearty
+F: purchase
+G: religion
+H: stored
+I: ordinary
+J: objects
+
+@passage
+Rarely do essays influence society for hundreds of years. Then again, Utopia, written by Sir Thomas More in 1516, is no [[11]] book.
+
+Utopia tells the story of a judge and philosopher who meets a traveler to distant lands. It is from this [[12]] that he learns all about a fascinating and unique island situated in the New World.
+
+The island is called Utopia, and there are various [[13]] of its society that set it apart from sixteenth-century Europe. For a start, the inhabitants of this island use no form of money or precious metals or jewels to [[14]] things. In fact, there is no private property at all. It is only children that amuse themselves with shiny little gems, and the gold used to weigh down their slaves, effectively "belongs" to each and every citizen.
+
+Instead of shops and markets, all the goods produced on the island are [[15]] in community warehouses. Should anyone require something, they simply request it and it is handed out as needed. Resident Utopians have neither the desire to collect material [[16]] or wealth, nor the wish to display any riches or prosperity in front of others. Instead, each is taught agricultural skills and a basic trade such as metalwork or [[17]], so that they may contribute to the good of society.
+
+Unemployment and salaries do not exist, and neither do long, taxing workdays. The islanders only [[18]] for six hours a day, and are urged to pursue a range of formative studies in their hours of leisure. Everyone enjoys the same [[19]], home-grown, home-cooked meals together in enormous dining halls and, should anyone fall ill, free hospitals welcome them with open arms.
+
+As for [[20]], faiths of every description are equally tolerated and accepted, and priests are freely permitted to tie the knot. All citizens also share a common prayer that the right form of government will one day be revealed to them.
+@end
+
+Q 11 | bank | Unit 54
+stem: （第 11 格）
+= I
+~! no ordinary book：絕非一本「普通的」書，強調其影響力之大。
+
+Q 12 | bank | Unit 54
+stem: （第 12 格）
+= B
+~! from this explorer：從這位「探險家（旅人）」口中得知那座島嶼的一切。
+
+Q 13 | bank | Unit 54
+stem: （第 13 格）
+= D
+~! various features of its society：這個社會的各種「特色」。
+
+Q 14 | bank | Unit 54
+stem: （第 14 格）
+= F
+~! use no money or jewels to purchase things：不用錢或珠寶來「購買」東西。
+
+Q 15 | bank | Unit 54
+stem: （第 15 格）
+= H
+~! goods are stored in community warehouses：物品被「存放」在社區倉庫中。
+
+Q 16 | bank | Unit 54
+stem: （第 16 格）
+= J
+~! collect material objects or wealth：收集物質「財物」或財富。
+
+Q 17 | bank | Unit 54
+stem: （第 17 格）
+= C
+~! a basic trade such as metalwork or weaving：金屬工藝或「織布」之類的基本技藝。
+
+Q 18 | bank | Unit 54
+stem: （第 18 格）
+= A
+~! only labor for six hours a day：每天只「勞動」六小時。
+
+Q 19 | bank | Unit 54
+stem: （第 19 格）
+= E
+~! the same hearty, home-cooked meals：同樣「豐盛的」家常料理。
+
+Q 20 | bank | Unit 54
+stem: （第 20 格）
+= G
+~! As for religion：至於「宗教」方面，各種信仰皆被平等接納。
+
+@group 三、篇章結構
+@bank
+A: This precious support is, of course, also spilling over into other benefits for local societies.
+B: Here, they provide completely free group therapy sessions for both women and adolescents who are depressed.
+C: The major difference, generally speaking, is that depressed individuals living in the former region simply can't afford to seek help.
+D: So too, is the large number of medical professionals who make a living by practicing psychiatry and psychology in these "rich" nations.
+E: Depression is one of the most common mental illnesses, affecting more than 8% (21 million) of American adults and 15% of youth (3.7 million) ages 12-17 each year.
+
+@passage
+It's no exaggeration to say that depression is one of the most common lifestyle illnesses in the developed world today. The huge market in developed countries for drugs to treat this serious mental condition is proof in itself. [[21]] Were it not for these treatments, in fact, many depression sufferers would not be able to remain fully functional members of their societies.
+
+And yet, this is not to say that those living in the developing world simply do not get depressed. Far from it. Poverty, unemployment, natural disasters, and substance abuse can often have just as negative an impact on mental health as can the stress of living in a rat race in a developed country. [[22]] An estimated 85% of these poor souls, in fact, receive no treatment whatsoever.
+
+StrongMinds is a charity organization with a mind to address this issue. Though based in New Jersey, its staff and volunteers currently also operate in two low-income, sub-Saharan African countries, Zambia and Uganda. [[23]] They also introduce other community- and school-based initiatives to increase awareness about depression, and how to cope with it.
+
+So far, the non-profit has reached out to over three hundred thousand individuals. They're also happy to report that four fifths of these "clients" remain depression-free for at least six months after treatment.
+
+[[24]] The more mental strength and peace of mind young people and mothers and aunts and sisters develop, the more able they are to be strong for others.
+@end
+
+Q 21 | bank | Unit 54
+stem: （第 21 格）請由方框中選出最適合的句子。
+= D
+~! 承接「已開發國家治療憂鬱症藥物市場龐大，本身即是證明」，(D) 補充說明在這些「富有」國家中，靠精神醫學與心理治療維生的醫療專業人員數量龐大，與前句的證據並列（So too）。
+
+Q 22 | bank | Unit 54
+stem: （第 22 格）請由方框中選出最適合的句子。
+= C
+~! 承接「貧窮、失業、天災同樣會對心理健康造成負面影響」，(C) 指出主要差異在於開發中地區的憂鬱症患者根本「負擔不起」尋求協助，呼應後句「估計有 85% 的這些可憐人完全沒有接受治療」。
+
+Q 23 | bank | Unit 54
+stem: （第 23 格）請由方框中選出最適合的句子。
+= B
+~! 承接「StrongMinds 目前也在尚比亞與烏干達運作」，(B) 說明他們在當地提供完全免費的女性與青少年團體治療，呼應後句「他們也推動其他社區與學校的倡議活動」。
+
+Q 24 | bank | Unit 54
+stem: （第 24 格）請由方框中選出最適合的句子。
+= A
+~! 承接「五分之四的個案在治療後至少六個月維持無憂鬱症狀」，(A) 說明這份珍貴的支持也正外溢，為當地社會帶來其他益處，呼應後句「年輕人、母親、阿姨與姊妹發展出的心理韌性越多，就越能成為他人的支柱」。

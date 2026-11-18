@@ -64,6 +64,12 @@ UNITS = [
     {'id': 'cz46', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 46', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
     {'id': 'cz47', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 47', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
     {'id': 'cz48', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 48', 'sub': 'Technology・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz49', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 49', 'sub': 'Plants・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz50', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 50', 'sub': 'Plants・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz51', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 51', 'sub': 'Plants・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz52', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 52', 'sub': 'Plants・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz53', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 53', 'sub': 'Society・綜合測驗・文意選填・篇章結構'},
+    {'id': 'cz54', 'book': 'cloze', 'kind': 'unit', 'title': 'Unit 54', 'sub': 'Society・綜合測驗・文意選填・篇章結構'},
 ]
 assert all(u['book'] in {b['id'] for b in BOOKS} for u in UNITS), 'unit with unknown book'
 assert all(u.get('kind') in ('unit', 'trans', 'write') for u in UNITS), 'unit without kind'
@@ -83,7 +89,9 @@ UNIT_OF = {'tr-1': 'tr1', 'tr-2': 'tr2', 'tr-3': 'tr3', 'tr-4': 'tr4', 'tr-r1': 
            'wr-1': 'wr1', 'wr-2': 'wr2', 'gs1-vocab': 'gs1',
            'gsat-08': 'w8', 'gsat-09': 'w9', 'gsat-10': 'w10',
            'cloze-41': 'cz41', 'cloze-42': 'cz42', 'cloze-43': 'cz43', 'cloze-44': 'cz44',
-           'cloze-45': 'cz45', 'cloze-46': 'cz46', 'cloze-47': 'cz47', 'cloze-48': 'cz48'}
+           'cloze-45': 'cz45', 'cloze-46': 'cz46', 'cloze-47': 'cz47', 'cloze-48': 'cz48',
+           'cloze-49': 'cz49', 'cloze-50': 'cz50', 'cloze-51': 'cz51', 'cloze-52': 'cz52',
+           'cloze-53': 'cz53', 'cloze-54': 'cz54'}
 
 # Level 3–5 (imported from Vocaboo by tools/import_vocaboo.py): one section per workbook unit,
 # material/l35-NN.txt, grouped ten units per sidebar group.
@@ -100,6 +108,8 @@ ORDER = ['u1-vocab', 'u1-drill', 'u1-cloze', 'u1-struct', 'u1-reading',
          'tr-1', 'tr-2', 'tr-3', 'tr-4', 'tr-r1', 'wr-1', 'wr-2',
          'cloze-41', 'cloze-42', 'cloze-43', 'cloze-44',
          'cloze-45', 'cloze-46', 'cloze-47', 'cloze-48',
+         'cloze-49', 'cloze-50', 'cloze-51', 'cloze-52',
+         'cloze-53', 'cloze-54',
          'gsat-08', 'gsat-09', 'gsat-10']
 FILES = {'u1-vocab': 'u1-words.txt', 'u1-drill': 'u1-drill.txt', 'u1-cloze': 'u1-cloze.txt',
          'u1-struct': 'u1-struct.txt', 'u1-reading': 'u1-reading.txt',
@@ -115,6 +125,9 @@ FILES = {'u1-vocab': 'u1-words.txt', 'u1-drill': 'u1-drill.txt', 'u1-cloze': 'u1
          'cloze-43': 'cloze-43.txt', 'cloze-44': 'cloze-44.txt',
          'cloze-45': 'cloze-45.txt', 'cloze-46': 'cloze-46.txt',
          'cloze-47': 'cloze-47.txt', 'cloze-48': 'cloze-48.txt',
+         'cloze-49': 'cloze-49.txt', 'cloze-50': 'cloze-50.txt',
+         'cloze-51': 'cloze-51.txt', 'cloze-52': 'cloze-52.txt',
+         'cloze-53': 'cloze-53.txt', 'cloze-54': 'cloze-54.txt',
          'gsat-08': 'gsat-08.txt', 'gsat-09': 'gsat-09.txt', 'gsat-10': 'gsat-10.txt'}
 ORDER += [f'l35-{n:02d}' for n in L35_UNITS]
 FILES.update({f'l35-{n:02d}': f'l35-{n:02d}.txt' for n in L35_UNITS})
@@ -423,6 +436,37 @@ CONTEXT = {
     'cyberbully': 'n. 網路霸凌者；v. 網路霸凌', 'cyberbullies': 'n. 網路霸凌者（cyberbully 的複數）',
     'boysdancetoo': '主題標籤：#boysdancetoo（男生也跳舞）',
     'theta': 'n. 希臘字母 θ；Theta rhythm θ 腦波（冥想、放鬆時出現）',
+    # Cloze Power-Up Unit 49–52「Plants」
+    'trysdale': '人名：Trysdale（O. Henry 短篇小說中的男主角）',
+    'ventomarme': '西班牙語：Ventomarme，意為「來帶我走」（O. Henry 短篇小說中仙人掌上的學名雙關）',
+    'subterranea': '生物學名：Pinanga subterranea（婆羅洲發現的地下開花結果棕櫚）',
+    'pinanga': '生物學名：Pinanga subterranea（婆羅洲發現的地下開花結果棕櫚）',
+    'borneo': '地名：婆羅洲（東南亞島嶼）',
+    'chinchon': '人名：Countess of Chinchón 欽瓊伯爵夫人（傳說中奎寧樹命名由來的西班牙貴族）',
+    'cinchona': '專有名詞：cinchona 金雞納樹（樹皮可提煉奎寧，用於治療瘧疾）',
+    'quinine': 'n. 奎寧（治療瘧疾的藥物，提煉自金雞納樹皮）',
+    'quina': '西班牙語：quina，金雞納樹的別名',
+    'ecuador': '地名：厄瓜多（南美洲國家）',
+    'jalapa': '生物學名：Mirabilis jalapa 紫茉莉（又稱「四點鐘花」）',
+    'mirabilis': '生物學名：Mirabilis jalapa 紫茉莉（又稱「四點鐘花」）',
+    'cuscuta': '生物學名：Cuscuta 菟絲子屬（俗稱「女巫的頭髮」的寄生植物）',
+    'guyana': '地名：蓋亞那（南美洲國家，國徽圖案含王蓮）',
+    'amazonica': '生物學名：Victoria amazonica 亞馬遜王蓮（以英國維多利亞女王命名）',
+    'caimans': 'n. 凱門鱷（caiman 的複數，南美洲的鱷魚近親）',
+    'yamaki': '人名／專有名詞：the Yamaki pine，山木家族栽培並捐贈給美國國家植物園的著名日本五葉松盆栽',
+    'hiroshima': '地名：廣島（日本城市，二戰原子彈轟炸地點）',
+    'arboretum': 'n. 植物園（尤指以樹木收藏為主的植物園，如 U.S. National Arboretum）',
+    # Cloze Power-Up Unit 53–54「Society」
+    'kacey': '人名：Kacey Wong 黃國才（香港藝術家，以可變形街頭雕塑聞名）',
+    'wong': '人名：Kacey Wong 黃國才（香港藝術家，以可變形街頭雕塑聞名）',
+    'polygyny': 'n. 一夫多妻制', 'polyandry': 'n. 一妻多夫制',
+    'neubauer': '人名：Luisa Neubauer（德國漢堡出身的年輕氣候運動人士）',
+    'luisa': '人名：Luisa Neubauer（德國漢堡出身的年輕氣候運動人士）',
+    'strongminds': '專有名詞：StrongMinds（總部位於美國紐澤西、於尚比亞與烏干達提供憂鬱症治療的慈善組織）',
+    'zambia': '地名：尚比亞（非洲南部國家）', 'uganda': '地名：烏干達（非洲東部國家）',
+    'utopia': '專有名詞：Utopia《烏托邦》（Thomas More 於 1516 年所著，描述理想社會的著作；亦指書中虛構的島嶼）',
+    'xenophobia': 'n. 仇外心理、排外情結', 'xenophobic': 'a. 仇外的、排外的',
+    'ageism': 'n. 年齡歧視',
 }
 
 def build_dictionary(sections, ecdict_path):

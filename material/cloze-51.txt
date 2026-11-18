@@ -1,0 +1,231 @@
+# Cloze Power-Up · Unit 51 — Plants
+# Transcribed from a teacher-provided fillable PDF ("Units 49–54", typed text, not a scan of the
+# original textbook — no page images, so this section has no @pages / 原書頁面核對.
+# Answers cross-checked against the teacher-supplied answer-key photo "51: ACBDD BACBC BHAJEFGCDI DABE" — every one of the 24 answers matches.
+@section cloze-51 | Unit 51 | Plants | 綜合測驗・文意選填・篇章結構
+@overview Cloze Power-Up Unit 51（Plants）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+The Countess of Chinchón, so the legend goes, exhibited all the classic symptoms. Chills and spells of fever took turns tormenting her. At times, the sweat poured off the noblewoman; at others, she could not keep a bite of anything down. Her husband, the 17th-century Spanish governor of Peru, concluded that she had [[1]] malaria.
+
+In a desperate attempt to save her life, he reluctantly [[2]] and permitted her to drink a special mixture made with the bark of a local tree. This species was claimed [[3]] powerful medicinal properties and had long been greatly esteemed in indigenous cultures for its healing powers. Wonders never ceased, for the lady did recover. The life-saving tree was promptly named "cinchona," derived from her title.
+
+[[4]] this tale is true to actual events is still disputed. However, what is undoubted is that the cinchona tree is indeed the source of the most reliable [[5]] mankind currently has for malaria. The cinchona tree is the official national tree of both Peru and Ecuador and is also known as the "quina." Without it, the malaria cure "quinine" wouldn't exist.
+@end
+
+Q 1 | choice | Unit 51
+stem: （第 1 格）
+A: contracted
+B: flattered
+C: interpreted
+D: scratched
+= A
+~! contracted malaria：染上瘧疾（contract 作「感染（疾病）」解）。
+
+Q 2 | choice | Unit 51
+stem: （第 2 格）
+A: reflected on ancient tales
+B: mingled with foreign pals
+C: bowed to local wisdom
+D: marveled at mystical landscape
+= C
+~! bowed to local wisdom：順從在地智慧；讓妻子服用當地原住民慣用的樹皮偏方。
+
+Q 3 | choice | Unit 51
+stem: （第 3 格）
+A: that it has
+B: to have
+C: that it had
+D: to have had
+= B
+~! be claimed to have...：被認為具有…（屬性）；claim 之後接 to V 表「據稱」。
+
+Q 4 | choice | Unit 51
+stem: （第 4 格）
+A: How
+B: Why
+C: Where
+D: Whether
+= D
+~! Whether...is still disputed：這則傳說是否屬實仍有爭議，Whether 引導名詞子句作主詞。
+
+Q 5 | choice | Unit 51
+stem: （第 5 格）
+A: quotation
+B: vessel
+C: knuckle
+D: remedy
+= D
+~! the most reliable remedy：人類目前對瘧疾最可靠的「療法」。
+
+@passage
+The four o'clock family is not the bunch of neighbors you run into every afternoon at teatime. It is, instead, a group of nearly three hundred species of flowering plants.
+
+These colorful plants are referred to as "four o'clocks," because their flowers [[6]] open late in the day. They then usually remain in this inviting pose until dawn, hoping to attract the attention of nighttime pollinators.
+
+Pollinators, primarily insects, play a crucial role in plant reproduction by transferring powdery pollen from one flower to another. [[7]] bees commonly perform this role during daylight hours, four o'clocks are often fertilized at night by creatures like beetles, flies, crickets, and moths.
+
+[[8]] Mirabilis jalapa, arguably the most high-profile among all four o'clocks, other helpful pollinators such as butterflies and hummingbirds can also play a reproductive role. Larger winged visitors are [[9]] nearer by the vibrant colors and sweet scent of the Mirabilis jalapa flowers themselves.
+
+The main goal of these collaborative creatures is to utilize their lengthy tongues or beaks to acquire the nectar [[10]] is the sweet substance stored within every flower. Before advancing to the next Mirabilis jalapa plant, which may display shades of purple, pink, white, or red, they ensure they are adequately coated in pollen.
+@end
+
+Q 6 | choice | Unit 51
+stem: （第 6 格）
+A: brutally
+B: typically
+C: digitally
+D: intensely
+= B
+~! typically open late in the day：這類花「通常」在傍晚才開，呼應其名稱「四點鐘花」。
+
+Q 7 | choice | Unit 51
+stem: （第 7 格）
+A: While
+B: Unless
+C: Since
+D: Before
+= A
+~! While...：雖然蜜蜂白天常擔任授粉者，四點鐘花卻多在夜間由甲蟲等昆蟲授粉，表對比。
+
+Q 8 | choice | Unit 51
+stem: （第 8 格）
+A: In contrast to
+B: On top of
+C: In the case of
+D: As a result of
+= C
+~! In the case of Mirabilis jalapa...：就 Mirabilis jalapa 這個例子而言，除了它以外，蝴蝶、蜂鳥等也能授粉。
+
+Q 9 | choice | Unit 51
+stem: （第 9 格）
+A: inferred
+B: lured
+C: shunned
+D: unified
+= B
+~! lured nearer by vibrant colors and sweet scent：被鮮豔的色彩與甜美的香氣「吸引」靠近。
+
+Q 10 | choice | Unit 51
+stem: （第 10 格）
+A: which
+B: what
+C: , which
+D: , where
+= C
+~! 逗號 + which 引導非限定用法子句，補充說明 nectar（花蜜）即為花中儲存的甜美物質。
+
+@group 二、文意選填
+@bank
+A: means
+B: opinion
+C: transmitted
+D: members
+E: absorbed
+F: entities
+G: conclude
+H: realm
+I: pops
+J: ward off
+
+@passage
+With regard to how and when plants communicate with each other and their surrounding environment, human observers have only begun to explore the surface. This is the [[11]] shared by many researchers and experts in the field of plant communication. As we dig a little deeper into this [[12]], we are discovering more about how virtually all root-growing species "speak" their mind.
+
+From towering trees to miniature mint, evidence suggests that all species use both electrical and chemical [[13]] to get their messages across. These mysterious methods allow leaves, for instance, to send electrical warnings to stems and roots about the presence of predators or pests. Once alerted, these collaborative plant parts can release toxins or strong scents to [[14]] unwelcome visitors. Similarly, roots can sense a lack of moisture in the soil. Then they fire off electrical pulses to instruct leaves to preserve as much [[15]] water as possible.
+
+Other plants in physical contact with these communicating [[16]], or close enough to detect their electrical activity, can and do respond similarly. At present, we can't yet [[17]] with any certainty whether this is intentionally done to spread information beyond the individual plant. However, what we know for sure is that very clear messages are constantly [[18]] from leaf to leaf and branch to branch, sometimes crossing entire forests and fields in the process.
+
+Even more incredibly, [[19]] of the animal kingdom are often included in these "discussions." These volatile chemicals released by fruit-bearing branches and vines, for example, can alert birds, beasts, and insects to the fact that their goods are ripe. Certain plants, like tomato plants and cactuses, are also able to produce ultrasonic [[20]]. These can be detected by insects, bats, and mice and are sometimes, believe it or not, even a call for help!
+@end
+
+Q 11 | bank | Unit 51
+stem: （第 11 格）
+= B
+~! the opinion shared by many researchers：許多研究者共同抱持的「看法」。
+
+Q 12 | bank | Unit 51
+stem: （第 12 格）
+= H
+~! dig deeper into this realm：深入探究這個「領域」。
+
+Q 13 | bank | Unit 51
+stem: （第 13 格）
+= A
+~! electrical and chemical means：電訊與化學「方式／手段」。
+
+Q 14 | bank | Unit 51
+stem: （第 14 格）
+= J
+~! release toxins or scents to ward off unwelcome visitors：釋放毒素或氣味以「驅趕」不速之客。
+
+Q 15 | bank | Unit 51
+stem: （第 15 格）
+= E
+~! preserve as much absorbed water as possible：盡量保留已「吸收」的水分。
+
+Q 16 | bank | Unit 51
+stem: （第 16 格）
+= F
+~! communicating entities：正在溝通的（植物）「個體」。
+
+Q 17 | bank | Unit 51
+stem: （第 17 格）
+= G
+~! can't yet conclude with any certainty：目前還無法確定地「斷定」。
+
+Q 18 | bank | Unit 51
+stem: （第 18 格）
+= C
+~! messages are constantly transmitted：訊息不斷地被「傳遞」。
+
+Q 19 | bank | Unit 51
+stem: （第 19 格）
+= D
+~! members of the animal kingdom：動物界的「成員」。
+
+Q 20 | bank | Unit 51
+stem: （第 20 格）
+= I
+~! ultrasonic pops：超音波的「爆裂聲」（可被昆蟲、蝙蝠、老鼠偵測到）。
+
+@group 三、篇章結構
+@bank
+A: In addition, henna is also used extensively in body art.
+B: Within three days of the application, they develop into darker shades of brick red.
+C: The species is named after the Scottish physician Isaac Lawson, a good friend of Linnaeus.
+D: The henna tree, Lawsonia inermis, is native to the semi-dry regions of Asia, North Africa, and northern Australia.
+E: Henna trees thrive when grown in hot climates characterized by daily highs ranging from 35 to 45 degrees Celsius.
+
+@passage
+Ever since the Bronze Age, humans have maintained a close relationship with the henna tree. A rich dye extracted from this precious plant was once used to color the hair of ancient Egyptian kings. The use and applications of henna then branched out significantly around five thousand years ago.
+
+[[21]] From these places, it had later spread to many parts of the Middle East and South Asia. As is still the case today, leaves from the henna tree are widely used to dye leather, wool, cotton, and other materials in shades of orange or red. They are also harvested to create mixtures for dyeing hair and nails in a similar way. Eyebrows, beards, fingernails, and sometimes entire heads of hair are colored with this dye during religious ceremonies, festivals, and special occasions like weddings and birthdays.
+
+[[22]] For this purpose, a paste is prepared by grinding henna leaves into powder and mixing this powder with a diluting agent such as water, tea, or lemon juice. It usually takes 48 hours for a special active chemical in the mixture to be released, after which it is applied directly to the skin. Various instruments, including twigs, feathers, pens, and brushes, are used for artistic application. In some regions, cake icing cones are employed, while Moroccan henna artists traditionally use syringes.
+
+Henna stains or "tattoos" usually start off light red in color, growing gradually darker over time. [[23]] They then start to fade, vanishing completely within three weeks.
+
+[[24]] As for minimum temperatures, these smooth-skinned, multi-branched, short trees rarely survive lows of five degrees and under.
+@end
+
+Q 21 | bank | Unit 51
+stem: （第 21 格）請由方框中選出最適合的句子。
+= D
+~! 承接「用途在五千年前大幅擴散開來」，(D) 先點出指甲花樹（Lawsonia inermis）原生於亞洲、北非與澳洲北部的半乾燥地區，才能呼應後句「從這些地方，它後來才傳播到中東與南亞各地」的 These places。
+
+Q 22 | bank | Unit 51
+stem: （第 22 格）請由方框中選出最適合的句子。
+= A
+~! 承接前段「在節慶、婚禮等場合用來染色」，(A) 補充說明指甲花也被廣泛用於身體彩繪，呼應後句「為此目的，將葉子磨成粉調成糊狀」的 For this purpose。
+
+Q 23 | bank | Unit 51
+stem: （第 23 格）請由方框中選出最適合的句子。
+= B
+~! 承接「染色或『刺青』剛開始顏色較淺，隨時間逐漸變深」，(B) 具體說明三天內會變成更深的磚紅色，呼應後句「接著開始褪色，三週內完全消失」的時間順序。
+
+Q 24 | bank | Unit 51
+stem: （第 24 格）請由方框中選出最適合的句子。
+= E
+~! 承接上段關於染色的敘述，轉入對指甲花樹本身生長條件的介紹，(E) 說明其在日高溫 35–45 度的炎熱氣候中生長最好，呼應後句「至於最低溫，這種樹很難在五度以下的低溫存活」的 As for minimum temperatures 對比。

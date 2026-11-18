@@ -1,0 +1,229 @@
+# Cloze Power-Up · Unit 49 — Plants
+# Transcribed from a teacher-provided fillable PDF ("Units 49–54", typed text, not a scan of the
+# original textbook — no page images, so this section has no @pages / 原書頁面核對.
+# Answers cross-checked against the teacher-supplied answer-key photo "49: BACCA ACCDB BDJHFEAGIC ABDE" — every one of the 24 answers matches.
+@section cloze-49 | Unit 49 | Plants | 綜合測驗・文意選填・篇章結構
+@overview Cloze Power-Up Unit 49（Plants）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+Picture an underwater meadow of green grassy ribbons gently swaying back and forth in the cool blue currents of the Mediterranean Sea. This meadow [[1]] many small bushes made up of centimeter-thick, ribbon-like leaves that can grow up to a meter and a half long, with up to 17 parallel veins running through each leaf.
+
+Together, these bushes form a vast colony that covers an area of seafloor about 5 miles wide and grows at a depth of 100 feet. This impressive meadow can absorb as much carbon as an area of rainforest of the same size can, [[2]] its extensive coverage and growth over 100,000 years.
+
+Not only that, but this "Neptune grass," [[3]] named after the Greek god of the sea, has been purifying its native waters and providing a hospitable habitat for diverse communities of underwater plants and animals. For ages, the Neptune grass has been sustaining underwater ecosystems by sheltering them from currents and predators.
+
+However, the increasing severity of marine pollution is leading to this ancient seagrass [[4]] and at risk of disappearing. To [[5]] this tragic tide, it's essential that we act quickly to reduce the amount of pollution entering the oceans. We cannot afford to delay conservation efforts to protect this "flowering fruit of the sea" that has flourished since prehistoric times.
+@end
+
+Q 1 | choice | Unit 49
+stem: （第 1 格）
+A: serves as
+B: consists of
+C: accounts for
+D: makes do
+= B
+~! consist of：由…組成；這片草原由許多小灌叢「組成」。
+
+Q 2 | choice | Unit 49
+stem: （第 2 格）
+A: thanks to
+B: in favor of
+C: with regard to
+D: speaking of
+= A
+~! thanks to...：多虧、由於；因為廣大的覆蓋範圍與十萬年的生長，才能吸收這麼多碳。
+
+Q 3 | choice | Unit 49
+stem: （第 3 格）
+A: fluidly
+B: grimly
+C: aptly
+D: vocally
+= C
+~! aptly named：恰如其分地命名；以海神之名稱呼這片海草，十分貼切。
+
+Q 4 | choice | Unit 49
+stem: （第 4 格）
+A: to damage
+B: is damaged
+C: being damaged
+D: damage
+= C
+~! being damaged 與後面 at risk（of disappearing）的形容詞片語並列，皆說明 seagrass 目前的狀態。
+
+Q 5 | choice | Unit 49
+stem: （第 5 格）
+A: arrest
+B: tailor
+C: charge
+D: lobby
+= A
+~! arrest this tragic tide：遏止這股令人痛心的趨勢（arrest 作「遏止」解）。
+
+@passage
+If you happen to be keeping a houseplant for the first time, Sansevieria trifasciata is an excellent choice. It is extremely tolerant of low light conditions and irregular watering. What's more, studies have shown that this evergreen West African wonder can [[6]] and remove many of the harmful toxins found in indoor air.
+
+The primary reason for the popularity of this plant, however, is its spectacular long and thin but stiff leaves. These sturdy leaves emerge from a circular leaf base near ground level, usually reaching up to a yard in length. They grow in clusters of three, [[7]] a deeper green hue as the plant matures, and come naturally decorated with eye-catching green and gray bands. On top of that, the leaves end in sharp tips at the top resembling flames. This striking feature often makes the plant a [[8]] choice for distinguished office corners and elegant doorways.
+
+Due to these prominent [[9]] leaves, this popular pot plant is also often called Saint George's Sword. Its coloring and shape, as well as its African roots, have also earned it the alternative nickname of "snake plant." Finally, as a [[10]] to the sharpness of its leafy parts, Sansevieria trifasciata also goes by the humorous name of "mother-in-law's tongue." No matter what name it is known by, this plant stands out for its unique qualities and remains a sought-after addition to any indoor space.
+@end
+
+Q 6 | choice | Unit 49
+stem: （第 6 格）
+A: filter
+B: outfit
+C: grant
+D: phase
+= A
+~! 研究顯示這種常綠植物能「過濾」並去除室內空氣中許多有害毒素。
+
+Q 7 | choice | Unit 49
+stem: （第 7 格）
+A: tap into
+B: pile up
+C: take on
+D: turn to
+= C
+~! take on a deeper green hue：（隨植株成熟）呈現出更深的綠色調。
+
+Q 8 | choice | Unit 49
+stem: （第 8 格）
+A: prefer
+B: preferring
+C: preferred
+D: prefers
+= C
+~! 此格為形容詞用法，makes the plant a preferred choice（使這種植物成為「受青睞的」選擇）。
+
+Q 9 | choice | Unit 49
+stem: （第 9 格）
+A: eco-friendly
+B: far-reaching
+C: able-bodied
+D: blade-like
+= D
+~! blade-like leaves：葉片形似刀刃，呼應下句「聖喬治之劍」的別名。
+
+Q 10 | choice | Unit 49
+stem: （第 10 格）
+A: quest
+B: tribute
+C: profile
+D: patent
+= B
+~! as a tribute to...：作為對…的致敬；「丈母娘的舌頭」這個別名正是在向其葉片的尖銳致敬（戲稱）。
+
+@group 二、文意選填
+@bank
+A: drastic
+B: treasured
+C: replaceable
+D: erasing
+E: swallowed
+F: latter
+G: recovery
+H: region
+I: collecting
+J: protection
+
+@passage
+Not very far into the third decade of the 21st century, Texas lawmakers were compelled to take action. They were forced to declare two of the state's [[11]] plant species officially "endangered." These plants play an important role in preserving local biodiversity.
+
+Rapid urban expansion in the state is gradually [[12]] habitats where wild flowers and other branched beings once flourished. In consequence, the existence of many of these plants is being threatened. Urgent federal [[13]], in fact, is necessary if they are to survive.
+
+One of the species recently added to the endangered list is "prostrate milkweed." Indigenous to the [[14]], this rare member of the milkweed family nonetheless plays an indispensable role in the life cycle of monarch butterflies. The [[15]] prefer this natural nursery where they deposit their eggs in the spring, and the plant's steady decline is already impacting on their population. The more land is [[16]] up by human activity in the form of construction and drilling for oil, the more milkweed-sustaining soil is lost.
+
+But for [[17]] governmental measures, a local purple wild flower would have continued to suffer the same fate. Several territories identified as critical habitats for the "bracted twistflower" are now protected by federal law. Digging up, cutting down, or even just picking this type of flower is no longer legal either. There are now hopes that the species will recover adequately in the next few years to once more thrive in the area.
+
+Such a(n) [[18]] would, of course, be good news for local bees. These lively insects often call on wild flowers of this nature when [[19]] ingredients for their honey. This once again highlights just how important it is to keep a protective eye on all plant species. Compared to building a border wall or developing industry, a flower or flowering plant might seem tiny or entirely [[20]]. And yet, its vital role in Nature's intricate ways can never be underestimated.
+@end
+
+Q 11 | bank | Unit 49
+stem: （第 11 格）
+= B
+~! two of the state's treasured plant species：州內「珍視」的植物物種。
+
+Q 12 | bank | Unit 49
+stem: （第 12 格）
+= D
+~! erasing habitats：都市擴張逐漸「抹去」野花棲地。
+
+Q 13 | bank | Unit 49
+stem: （第 13 格）
+= J
+~! federal protection：聯邦（層級的）保護措施。
+
+Q 14 | bank | Unit 49
+stem: （第 14 格）
+= H
+~! indigenous to the region：原生於此地區。
+
+Q 15 | bank | Unit 49
+stem: （第 15 格）
+= F
+~! the latter：指前句提到的兩者（帝王蝶家族／帝王蝶）中「後者」，即帝王蝶偏好此處產卵。
+
+Q 16 | bank | Unit 49
+stem: （第 16 格）
+= E
+~! land is swallowed up：土地被（開發、鑽油）「吞噬」。
+
+Q 17 | bank | Unit 49
+stem: （第 17 格）
+= A
+~! but for drastic governmental measures：若非「強硬的」政府措施（but for 表「若非」）。
+
+Q 18 | bank | Unit 49
+stem: （第 18 格）
+= G
+~! such a recovery：這樣的（物種）「復甦」對當地蜜蜂也是好消息。
+
+Q 19 | bank | Unit 49
+stem: （第 19 格）
+= I
+~! when collecting ingredients：（蜜蜂）在「採集」蜂蜜原料時造訪野花。
+
+Q 20 | bank | Unit 49
+stem: （第 20 格）
+= C
+~! entirely replaceable：（相較於建高牆、發展工業）一株花朵似乎完全「可被取代」，但其實不然。
+
+@group 三、篇章結構
+@bank
+A: Years before, he had lied to her about his fluency in Spanish to impress her.
+B: And yet, he had no desire to shatter her illusions, especially after proposing to her.
+C: The delivery boy had no idea the small cactus carried such meaning for the couple.
+D: Trysdale was perplexed and offended by the gesture, but he didn't know how to respond.
+E: It was only years later that he learned that "Ventomarme" meant "Come and get me" in Spanish.
+
+@passage
+Cactuses are not often the subject of fiction, yet these resilient desert plants can tell intriguing tales. With fleshy, thorny stems that store water, cactuses are well-suited to survive in the hot, arid conditions of regions such as the American Southwest.
+
+One short story by renowned American author O. Henry features a cactus and its unfortunate owner. The owner was an arrogant man named Trysdale, who kept a cactus in his apartment. The desert plant was a gift from a special young lady he had hoped to marry. [[21]] However, in reality, he could hardly speak a word of this foreign tongue. When she complimented his supposed bilingual skills, Trysdale was too caught up in her flattery to tell the truth. He was acutely aware that her fondness for him was in large part based on white lies and vain boasts. [[22]]
+
+Instead of giving an immediate "yes," the lady shyly promised to send her answer the following day and Trysdale generously agreed, confident she'd shortly be his wife. The next morning, when the young lady's servant arrived, all that awaited Trysdale was an odd-looking cactus labeled with an even odder scientific name: "Ventomarme." [[23]] Even when he saw her again days later, his hurt pride refused to beg for an explanation. She, for her part, turned just as cold at his emotionless response. As a result, their once intimate relationship was left in tatters.
+
+[[24]] The cactus signified the woman's implicit message that she accepted his proposal—it was also a final test to see if Trysdale would be honest with her.
+@end
+
+Q 21 | bank | Unit 49
+stem: （第 21 格）請由方框中選出最適合的句子。
+= A
+~! 承接「仙人掌是心儀女子所贈」，(A) 說明他多年前曾謊稱自己會說西班牙文以討好對方，呼應後句「However, 事實上他幾乎不會說這種外語」的轉折。
+
+Q 22 | bank | Unit 49
+stem: （第 22 格）請由方框中選出最適合的句子。
+= B
+~! 承接「他清楚知道對方的愛慕多半建立在善意謊言與虛誇之上」，(B) 說明他並不想戳破她的幻想，尤其是在求婚之後，語氣自然承接。
+
+Q 23 | bank | Unit 49
+stem: （第 23 格）請由方框中選出最適合的句子。
+= D
+~! 承接「僕人只送來一株標著怪異學名『Ventomarme』的仙人掌」，(D) 說明 Trysdale 感到困惑又被冒犯，卻不知如何反應，呼應後句「即使日後再見面，他也拉不下臉去問清楚」。
+
+Q 24 | bank | Unit 49
+stem: （第 24 格）請由方框中選出最適合的句子。
+= E
+~! 本段要先補述「多年後他才得知『Ventomarme』在西班牙文裡其實是『來帶我走』的意思」，(E) 補上這個遲來的真相，才能銜接後句「這株仙人掌其實暗示她接受了他的求婚，同時也是在試探他是否誠實」的說明。

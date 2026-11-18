@@ -1,0 +1,237 @@
+# Cloze Power-Up · Unit 52 — Plants
+# Transcribed from a teacher-provided fillable PDF ("Units 49–54", typed text, not a scan of the
+# original textbook — no page images, so this section has no @pages / 原書頁面核對.
+# Answers cross-checked against the teacher-supplied answer-key photo "52: CDBAA BDCBB JBHDCGEAFI ACED" — every one of the 24 answers matches.
+@section cloze-52 | Unit 52 | Plants | 綜合測驗・文意選填・篇章結構
+@overview Cloze Power-Up Unit 52（Plants）。一、綜合測驗（1–10，選擇題）；二、文意選填（11–20，A–J 選項）；三、篇章結構（21–24，A–E 選項）。答案已與老師提供的解答逐題核對，全部相符。
+
+@group 一、綜合測驗
+
+@passage
+Now and then, one comes across a tree or hedge or bush that looks for all the world like it's covered in spaghetti. [[1]] closer inspection, one finds that this decoration is not, in fact, pasta. It's witches' hair.
+
+"Witches' hair" is a common nickname for Cuscuta or dodder, an intriguing plant found in both tropical and moderate climates. A "parasite" in nature, it [[2]] by living on, and feeding off, other plants. Just as a flea clings to the fur of some poor itchy domestic animal and dines on its blood, the parasitic dodder very rudely moves in and sponges off crops, trees, or flowering plants capable of producing their own nutrients. Since they themselves completely lack "chlorophyll"—that green coloring plants use to absorb sunlight—they are wholly dependent on these [[3]] hosts.
+
+Once such accommodation has been found, the dodder wraps its thin vine-like stems around the nutrient-provider's leaves or branches. It then deploys a special kind of root, known as a "haustorium," to [[4]] this private property and access precious plant resources contained within.
+
+[[5]], it is conceivable that certain plants less willing to be hosts have acid and organic compound defenses against such bothersome tenants. Some also cover themselves in fine, hair-like growths to prevent this "spaghetti" from attaching itself too firmly.
+@end
+
+Q 1 | choice | Unit 52
+stem: （第 1 格）
+A: About
+B: Below
+C: Upon
+D: Before
+= C
+~! Upon closer inspection：仔細一看（固定用法，表「一…就」）。
+
+Q 2 | choice | Unit 52
+stem: （第 2 格）
+A: wrinkles
+B: clusters
+C: vanishes
+D: survives
+= D
+~! it survives by living on and feeding off other plants：菟絲子靠寄生在其他植物身上「存活」。
+
+Q 3 | choice | Unit 52
+stem: （第 3 格）
+A: harassing
+B: harassed
+C: harass
+D: harasses
+= B
+~! these harassed hosts：被「騷擾」的宿主（過去分詞作形容詞）。
+
+Q 4 | choice | Unit 52
+stem: （第 4 格）
+A: bore into
+B: serve as
+C: fill out
+D: make up
+= A
+~! bore into this private property：鑽入這片「私有領地」（指宿主植物內部）。
+
+Q 5 | choice | Unit 52
+stem: （第 5 格）
+A: Naturally
+B: Avoidably
+C: Currently
+D: Surprisingly
+= A
+~! Naturally：自然地、理所當然地；既然菟絲子會寄生，宿主演化出防禦機制也是合理的。
+
+@passage
+Located at the focal point of Guyana's coat of arms, aptly named the "Land of Waters," is a remarkable depiction of a plant. At its core [[6]] a sizable, circular leaf, accompanied on each side by a captivating lotus-like flower. Notably, this particular water lily bears the unique distinction of being named after an English queen, recognized as Victoria amazonica.
+
+As the Latin title suggests, the royal celebrity [[7]] was Queen Victoria (crowned 1837), and it is when surrounded by the Amazon Basin's slow-moving waters, that this lily feels most at home. In its natural environment, therefore, you're most likely to observe said flowers and giant leaf floating peacefully on a shiny Amazonian surface.
+
+The leaf in particular is not hard to spot. [[8]] a diameter of over three meters, it is, in fact, the biggest leaf in the entire water plant kingdom. A massive green, fleshy dish lined with spikes underneath to discourage consumption, it can easily support the weight of a human child. Alligator-like reptiles known as "caimans" are often seen [[9]] on these leaves. Local lizards and birds too, stroll across them without any fear whatsoever of getting wet.
+
+Next to these [[10]] fresh-water pads, even Victoria amazonica's splendid white flowers look rather small. Nonetheless themselves up to 40 centimeters in diameter and weighing over 1.5 kilograms, they only bloom for two or three days.
+@end
+
+Q 6 | choice | Unit 52
+stem: （第 6 格）
+A: has
+B: lies
+C: lays
+D: sees
+= B
+~! At its core lies a leaf：倒裝句，地方副詞片語置於句首，主詞 a leaf 置後，動詞用 lies（位於）。
+
+Q 7 | choice | Unit 52
+stem: （第 7 格）
+A: under debate
+B: on end
+C: at stake
+D: in question
+= D
+~! the royal celebrity in question：這裡所指的那位王室名人（即維多利亞女王）。
+
+Q 8 | choice | Unit 52
+stem: （第 8 格）
+A: About
+B: To
+C: With
+D: At
+= C
+~! With a diameter of over three meters：直徑超過三公尺（With 表「具有…特徵」）。
+
+Q 9 | choice | Unit 52
+stem: （第 9 格）
+A: rest
+B: resting
+C: rested
+D: to be rested
+= B
+~! be seen resting on...：被看見正在葉片上「休息」（see sb/sth V-ing）。
+
+Q 10 | choice | Unit 52
+stem: （第 10 格）
+A: gracious
+B: enormous
+C: literary
+D: imaginary
+= B
+~! these enormous fresh-water pads：這些「碩大的」淡水葉片，相較之下花朵顯得較小。
+
+@group 二、文意選填
+@bank
+A: regulate
+B: at first glance
+C: shortcomings
+D: unimpressed
+E: growth
+F: harshness
+G: thrive
+H: to no end
+I: habitable
+J: encounters
+
+@passage
+If you've ever come across a soft, moist mat of green growing on the face of a rock, you've probably been introduced to "moss." Granted, such [[11]] are not particularly exciting. Without any roots or seeds to speak of, and without any internal tissues for conducting water and nutrients like most plants possess, mosses do not, [[12]], appear to offer many talking points.
+
+The only time most hikers or waterfall admirers give these spongy land plants any thought at all, perhaps, is when a particular stepping stone or tree root is more slippery than most surfaces. Then this flat, flowerless plant pad is cursed [[13]] and the need for its very existence is called into question.
+
+For those in the know, however, there's far more to moss than meets the [[14]] eye. Severely lacking in conventional plant parts they might be, but mosses more than make up for these [[15]] in other ways.
+
+For starters, they quite often form the foundation for other plant life. Since they can retain several times their own weight in moisture, they create water-rich environments for other species to [[16]] in. At the same time, just their mere presence stabilizes the soil and prevents erosion, aiding plant [[17]] and forest formation even further.
+
+In many ecosystems, moss also helps to [[18]] the temperature of the earth below. Themselves being able to withstand anything from nearly minus 270 to 100-degree-Celsius conditions, they can have either a cooling or warming effect, as is required. In the [[19]] of the environment, mosses are found in desert conditions photosynthesizing (using sunlight to convert CO2 and water into oxygen) at 40 degrees. They're also found growing six kilometers above sea level in some of the least [[20]] high-mountain settings on Earth.
+
+Such staggering adaptive and life-nurturing merits are, in all likelihood, the reason why moss has been on this planet for over 400 million years.
+@end
+
+Q 11 | bank | Unit 52
+stem: （第 11 格）
+= J
+~! such encounters：像這樣（與苔蘚的）「相遇」。
+
+Q 12 | bank | Unit 52
+stem: （第 12 格）
+= B
+~! do not, at first glance, appear to...：乍看之下，苔蘚似乎沒什麼好談的。
+
+Q 13 | bank | Unit 52
+stem: （第 13 格）
+= H
+~! cursed to no end：被罵個「沒完沒了」。
+
+Q 14 | bank | Unit 52
+stem: （第 14 格）
+= D
+~! meets the unimpressed eye：映入那不以為然、「不感興趣的」眼睛。
+
+Q 15 | bank | Unit 52
+stem: （第 15 格）
+= C
+~! make up for these shortcomings：彌補這些「缺陷、不足之處」。
+
+Q 16 | bank | Unit 52
+stem: （第 16 格）
+= G
+~! create environments for other species to thrive in：為其他物種創造能「蓬勃生長」的環境。
+
+Q 17 | bank | Unit 52
+stem: （第 17 格）
+= E
+~! aiding plant growth：幫助植物「生長」。
+
+Q 18 | bank | Unit 52
+stem: （第 18 格）
+= A
+~! helps to regulate the temperature：幫助「調節」地表溫度。
+
+Q 19 | bank | Unit 52
+stem: （第 19 格）
+= F
+~! In the harshness of the environment：在環境的「嚴苛」條件下。
+
+Q 20 | bank | Unit 52
+stem: （第 20 格）
+= I
+~! the least habitable high-mountain settings：最不「適合居住」的高山環境。
+
+@group 三、篇章結構
+@bank
+A: This is done in order to artificially restrict its growth, and to artistically style it into a specific shape.
+B: Keeping a bonsai tree alive is not a difficult task, but there are a few things you should be aware of.
+C: Though considerably diminished in size, these amazing plants can bear leaves and blossoms just like normal trees.
+D: The Yamaki pine has stood several severe tests over time, none less so than the World War II bombing of Hiroshima.
+E: Collectors are often prepared to fork out hundreds of thousands of dollars for particularly old, rare, or magnificent specimens.
+
+@passage
+The ancient Far Eastern art of bonsai is one that's been passed on for dynasties. In short, it is the Japanese practice of growing a dwarfed tree specimen in a small, shallow tray of soil. Usually, moreover, this continues uninterrupted for very long periods of time.
+
+Throughout these years, perhaps even centuries of devoted attention, its branches, trunk, and roots are consistently trimmed and trained. [[21]]
+
+The result of all this constant expert care and diligent dedication is a spectacular, fully mature tree in miniature. [[22]] Depending on the species cultivated, they can even produce cones, berries, and fruit.
+
+Considering all the time and effort needed to grow these living natural monuments, it's not surprising that the finest bonsai can fetch a high price. They're regularly sold at auction much like sculptures and paintings. [[23]]
+
+One of the most highly valued bonsai trees in the world today is of the Japanese white pine variety and known simply as "the Yamaki pine." The Yamaki family had cultivated this woody work of art for no fewer than five generations at its Hiroshima nursery. It was then very generously donated to the U.S. National Arboretum, a federal botanical garden devoted to trees.
+
+[[24]] It is over four hundred years old and is today valued at around $1.3 million. In select cases, it seems, money really does grow on trees.
+@end
+
+Q 21 | bank | Unit 52
+stem: （第 21 格）請由方框中選出最適合的句子。
+= A
+~! 承接「枝幹、樹根持續被修剪與訓練」，(A) 說明這麼做是為了人為限制生長並塑成特定造型，直接解釋前句修剪、訓練的目的。
+
+Q 22 | bank | Unit 52
+stem: （第 22 格）請由方框中選出最適合的句子。
+= C
+~! 承接「精心照料後呈現出縮小版的成熟樹木」，(C) 說明雖然體積大幅縮小，這些植物仍能像一般樹木一樣長葉開花，呼應後句「視樹種而定，甚至能結出毬果、漿果與果實」。
+
+Q 23 | bank | Unit 52
+stem: （第 23 格）請由方框中選出最適合的句子。
+= E
+~! 承接「頂級盆栽常能賣出高價，常如雕塑、畫作般在拍賣會上出售」，(E) 補充說明收藏家常願意為特別古老、稀有或壯觀的盆栽砸下數十萬美元。
+
+Q 24 | bank | Unit 52
+stem: （第 24 格）請由方框中選出最適合的句子。
+= D
+~! 承接「這株五葉松被 Yamaki 家族栽培超過五代，後捐贈給美國國家植物園」，(D) 補充說明這株「Yamaki pine」歷經多次嚴苛考驗，包括廣島原爆，呼應後句「樹齡超過四百年，現今估價約一百三十萬美元」。
