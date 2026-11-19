@@ -3,7 +3,7 @@
    items: group | entries | bank | passage | q   (q.type: choice | multi | bank | fill | trans)
    Translation (trans) questions: students answer on paper; the app only offers a "看參考答案" button,
    controlled by a teacher switch (state.transOn, remembered in localStorage). */
-const CACHE='workbook-reader-v13'; // keep in sync with sw.js
+const CACHE='workbook-reader-v14'; // keep in sync with sw.js
 const STORE='workbook-reader-v1';
 const exam=window.EXAM,dict=window.DICTIONARY||{};
 const $=s=>document.querySelector(s),esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -12,6 +12,7 @@ const writeStore=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch{toa
 let state={section:'',book:'',bookSection:{},picks:{},drafts:{},revealed:{},positions:{},font:18,dark:false,words:{},transOn:true,groupTab:{},...readStore(STORE,{})};
 if(!state.groupTab)state.groupTab={};
 let mode='home',section,book,showAll=false,wordFilter='all',search='',tipTimer,toastTimer,scrollTimer,installPrompt;
+let activeQKey=null,dockCollapsed=false;
 function persist(){writeStore(STORE,state)}
 function toast(t){const el=$('#toast');el.textContent=t;el.hidden=false;clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.hidden=true,2400)}
 
@@ -69,7 +70,8 @@ function renderBank(b){const words=b.opts.every(o=>o.length<=24);return `<detail
 function altsHtml(q){const alts=q.an.filter(a=>a.l==='替換'),extra=q.an.filter(a=>a.l!=='替換');
  return (alts.length?`<div class="alts-title">可替換的說法</div><ul class="alts">${alts.map(a=>{const i=a.t.indexOf(':');return i<0?`<li>${wordify(a.t)}</li>`:`<li><b>${wordify(a.t.slice(0,i))}</b> → ${wordify(a.t.slice(i+1).trim())}</li>`}).join('')}</ul>`:'')
   +extra.map(a=>`<p class="tn">${a.l?`<span class="exp-tag">${esc(a.l)}</span>`:''}${a.d?'<span class="tag-derived">推導</span>':''}${wordify(a.t)}</p>`).join('')}
-function renderQuestion(q){const s=section,key=qkey(s,q),revealed=isRevealed(s,q),pick=state.picks[key]??'',draft=state.drafts[key]??'';let body='',tag='';
+/* shared body/tag markup for a question, used by both the inline qcard and the fixed bottom dock */
+function questionBody(q){const s=section,key=qkey(s,q),revealed=isRevealed(s,q),pick=state.picks[key]??'',draft=state.drafts[key]??'';let body='',tag='';
  if(q.type==='choice'||q.type==='multi'||q.type==='bank'){
   const chips=q.type==='bank'&&q.opts.every(o=>o.length<=24);
   const btn=(o,i)=>{const L=String.fromCharCode(65+i),sel=q.type==='multi'?pick.includes(L):pick===L,ok=revealed&&q.ans.includes(L);return `<button type="button" class="${chips?'chip':'option'} ${sel?'selected':''} ${ok?'correct':''} ${revealed&&sel&&!ok?'wrong':''}" data-choice="${key}" data-letter="${L}" aria-pressed="${sel}"><span class="letter">${L}</span>${chips?`<span>${wordify(o)}</span>`:`<span>${text(o)}</span>`}</button>`};
@@ -82,13 +84,31 @@ function renderQuestion(q){const s=section,key=qkey(s,q),revealed=isRevealed(s,q
   body='';
   if(revealed&&q.ans){tag=isWrite(q)?(q.an.some(x=>x.d)?'範文 · 推導':'範文'):q.an.some(a=>a.d)?'參考答案 · 推導':'參考答案';body+=`<div class="text-answer trans-answer">${wordify(q.ans)}${altsHtml(q)}<p class="tn">${isWrite(q)?'範文僅供參考。':'這題的英文說法不只一種，以上僅供參考。'}</p></div>`}
  }
+ return {body,tag}}
+function renderQuestion(q){const s=section,key=qkey(s,q),revealed=isRevealed(s,q),{body,tag}=questionBody(q);
  const showBtn=canSee(q)&&!!q.ans;
  return `<article class="qcard" id="q-${key}"><div class="qtop"><span class="qnum">${esc(qLabel(q))}</span>${tag?`<span class="answer-tag">${esc(tag)}</span>`:''}</div><div class="qstem">${text(q.stem,s)}</div>${q.type==='multi'?'<p class="hint">本題為多選。</p>':''}${body}<div class="qactions">${showBtn?`<button class="reveal" data-reveal="${key}">${revealed?'收起答案 ↑':isWrite(q)?'看範文 ↓':isTrans(q)?'看參考答案 ↓':'顯示答案 ↓'}</button>`:`<span class="hint">${!q.ans?'學生在紙上寫作（本題沒有範文）':'參考答案已關閉'}</span>`}${showBtn&&!isTrans(q)?`<a class="to-analysis" href="#analysis/${s.id}/${q.n}">查看解析 ↗</a>`:'<span></span>'}</div></article>`}
+/* compact version of a question rendered inside the fixed bottom dock, with prev/next jump controls */
+function renderDockQuestion(key){const hit=qIndex[key];if(!hit||hit.s!==section)return '';const{s,q}=hit,revealed=isRevealed(s,q),{body,tag}=questionBody(q);
+ const showBtn=canSee(q)&&!!q.ans,qs=questions(s),idx=qs.findIndex(x=>x.n===q.n),prevK=idx>0?qkey(s,qs[idx-1]):'',nextK=idx<qs.length-1?qkey(s,qs[idx+1]):'';
+ return `<div class="qdock-card">
+  <div class="qdock-top">
+   <button type="button" class="qdock-nav" data-dock-jump="${esc(prevK)}" ${prevK?'':'disabled'} aria-label="上一題">‹</button>
+   <div class="qdock-meta"><span class="qnum">${esc(qLabel(q))}</span><span class="qdock-pos">${idx+1} / ${qs.length}</span>${tag?`<span class="answer-tag">${esc(tag)}</span>`:''}</div>
+   <button type="button" class="qdock-nav" data-dock-jump="${esc(nextK)}" ${nextK?'':'disabled'} aria-label="下一題">›</button>
+  </div>
+  <div class="qstem">${text(q.stem,s)}</div>${q.type==='multi'?'<p class="hint">本題為多選。</p>':''}${body}
+  <div class="qactions">${showBtn?`<button class="reveal" data-reveal="${key}">${revealed?'收起答案 ↑':isWrite(q)?'看範文 ↓':isTrans(q)?'看參考答案 ↓':'顯示答案 ↓'}</button>`:`<span class="hint">${!q.ans?'學生在紙上寫作（本題沒有範文）':'參考答案已關閉'}</span>`}${showBtn&&!isTrans(q)?`<a class="to-analysis" href="#analysis/${s.id}/${q.n}">查看解析 ↗</a>`:'<span></span>'}</div>
+ </div>`}
 function renderItem(it){switch(it.t){case 'group':return `<div class="sectionbar groupbar"><h2>${esc(it.title)}</h2></div>`;case 'entries':return it.list.map(renderEntry).join('');case 'bank':return renderBank(it);case 'passage':return `<div class="reading-card"><div class="article-label">THE PASSAGE / 文章</div><div class="passage">${it.paras.map(p=>`<p>${text(p,section,true)}</p>`).join('')}</div></div>`;case 'q':return renderQuestion(it)}return ''}
 function answeredCount(s){return questions(s).filter(q=>{const k=qkey(s,q);return q.type==='fill'?(state.drafts[k]||'').trim():state.picks[k]}).length}
 function groupSegments(s){const pre=[],segs=[];let cur=null;for(const it of s.items){if(it.t==='group'){cur={title:it.title,items:[]};segs.push(cur)}else if(cur)cur.items.push(it);else pre.push(it)}return{pre,segs}}
 const gtabLabel=t=>String(t).replace(/^[一二三四五六七八九十]+、\s*/,'');
 function renderBankDock(b){const short=b.opts.every(o=>o.length<=24);return `<div class="bank-dock ${short?'short':'long'}" id="bankDock"><button class="dock-toggle" id="dockToggle" aria-expanded="true"><span>選項${short?'（單字庫）':'（句庫）'}</span><span class="dock-caret">▾</span></button><div class="dock-body">${b.opts.map((o,i)=>`<div class="dock-opt"><b>${String.fromCharCode(65+i)}</b><span>${wordify(o)}</span></div>`).join('')}</div></div>`}
+/* fixed bottom dock: mirrors whichever question is currently in view, so students don't scroll between the passage and the answer options */
+function renderQDock(){const qs=questions(section);if(!qs.length)return '';
+ if(!activeQKey||!qIndex[activeQKey]||qIndex[activeQKey].s!==section)activeQKey=qkey(section,qs[0]);
+ return `<div class="qdock ${dockCollapsed?'collapsed':''}" id="qDock"><button type="button" class="qdock-toggle" id="qDockToggle" aria-expanded="${!dockCollapsed}"><span>${dockCollapsed?'展開作答區 ▴':'收起作答區 ▾'}</span></button><div class="qdock-body">${renderDockQuestion(activeQKey)}</div></div>`}
 function renderRead(){const nq=questions(section).length,done=answeredCount(section);
  const {pre,segs}=groupSegments(section),hasTabs=segs.length>=2;
  if(!state.groupTab)state.groupTab={};
@@ -98,7 +118,7 @@ function renderRead(){const nq=questions(section).length,done=answeredCount(sect
  let bodyHtml,dock='';
  if(tab==='all'){bodyHtml=section.items.map(renderItem).join('')}
  else{const seg=segs[tab],bank=seg.items.find(it=>it.t==='bank'),flow=seg.items.filter(it=>it.t!=='bank');bodyHtml=pre.map(renderItem).join('')+flow.map(renderItem).join('');if(bank)dock=renderBankDock(bank)}
- return `${hero()}${tabbar}<div class="toolbar"><span class="hint">✦ 點單字查義 · 點選項作答</span>${nq?`<label class="switch"><input type="checkbox" id="showAll" ${showAll?'checked':''}>顯示全部答案</label>`:''}</div>${transSwitch()}${section.overview?`<div class="overview">${esc(section.overview)}</div>`:''}${section.pages&&section.pages.length?`<div class="sectionbar"><span></span><button class="sourcebtn" id="openSource">原書頁面核對 ↗</button></div>`:''}${nq?`<div class="progress-label">已作答 ${done} / ${questions(section).filter(q=>!isTrans(q)).length} 題</div>`:''}${bodyHtml}${dock}${navrow()}<div class="notebox">${esc(exam.notice||'')}</div>`}
+ return `${hero()}${tabbar}<div class="toolbar"><span class="hint">✦ 點單字查義 · 點選項作答</span>${nq?`<label class="switch"><input type="checkbox" id="showAll" ${showAll?'checked':''}>顯示全部答案</label>`:''}</div>${transSwitch()}${section.overview?`<div class="overview">${esc(section.overview)}</div>`:''}${section.pages&&section.pages.length?`<div class="sectionbar"><span></span><button class="sourcebtn" id="openSource">原書頁面核對 ↗</button></div>`:''}${nq?`<div class="progress-label">已作答 ${done} / ${questions(section).filter(q=>!isTrans(q)).length} 題</div>`:''}${bodyHtml}${dock}${navrow()}<div class="notebox">${esc(exam.notice||'')}</div>${renderQDock()}`}
 
 /* ---------- analysis ---------- */
 function renderAnalysisQ(q){const s=section,key=qkey(s,q),hide=isTrans(q)&&!state.transOn;let ctx=q.type==='bank'||/^（第/.test(q.stem)?blankContext(s,q):'';const excerpt=ctx?wordify(ctx):text(q.stem,s);
@@ -120,6 +140,18 @@ function renderBook(){const secs=bookSections(book),last=secs.length&&lastSectio
 function renderWords(){const all=Object.values(state.words),starred=all.filter(w=>w.star).length;return `<section class="hero"><div class="eyebrow">YOUR WORDS / 通勤的累積</div><h1>我的單字</h1><div class="pillrow"><span class="pill">${all.length} 個查過的字</span><span class="pill">${starred} 個收藏</span></div></section><input class="search" id="wordSearch" placeholder="搜尋英文或繁中詞義…" aria-label="搜尋單字" value="${esc(search)}"><div class="filters"><button data-filter="all" class="${wordFilter==='all'?'active':''}">全部</button><button data-filter="star" class="${wordFilter==='star'?'active':''}">★ 收藏</button><button id="exportWords">匯出單字</button></div><div id="wordList">${wordRows()}</div>`}
 function wordRows(){const list=Object.values(state.words).filter(w=>(wordFilter!=='star'||w.star)&&(!search||`${w.word} ${w.meaning}`.toLowerCase().includes(search.toLowerCase()))).sort((a,b)=>b.time-a.time);return list.length?list.map(w=>`<article class="word-row"><div><h3>${text(w.word)}</h3><p>${esc(w.meaning)}</p></div><button class="starbtn" data-star="${esc(w.word.toLowerCase())}" aria-label="${w.star?'取消收藏':'收藏'} ${esc(w.word)}" aria-pressed="${!!w.star}">${w.star?'★':'☆'}</button></article>`).join(''):`<div class="empty">${wordFilter==='star'?'還沒有收藏單字。<br>點單字旁的 ☆ 就能留下重點。':'讓第一個單字，成為這趟路的起點。<br>到題目頁點一下任何英文單字，詞義會停留 2 秒，並自動收進這裡。'}</div>`}
 
+/* ---------- dock positioning / active-question tracking ---------- */
+function syncNavHeight(){const nav=$('.bottom');if(nav)document.documentElement.style.setProperty('--navh',nav.offsetHeight+'px')}
+function syncDockSpace(){const layout=document.querySelector('.layout'),dock=$('#qDock');
+ if(dock&&mode==='read'){layout&&(layout.style.paddingBottom=(dock.offsetHeight+40)+'px');document.body.classList.add('has-qdock')}
+ else{layout&&(layout.style.paddingBottom='');document.body.classList.remove('has-qdock')}}
+function pickActiveKey(){const cards=[...document.querySelectorAll('#main .qcard[id^="q-"]')];if(!cards.length)return null;
+ const line=innerHeight*0.38;let best=null,bestDist=Infinity;
+ for(const c of cards){const r=c.getBoundingClientRect(),d=Math.abs(r.top-line);if(d<bestDist){bestDist=d;best=c}}
+ return best?best.id.slice(2):null}
+function updateDockOnScroll(){if(mode!=='read')return;const key=pickActiveKey();if(!key||key===activeQKey)return;
+ activeQKey=key;const body=document.querySelector('#qDock .qdock-body');if(body){body.innerHTML=renderDockQuestion(activeQKey);syncDockSpace()}}
+
 /* ---------- routing / render ---------- */
 function unitSwitch(extra=''){const cur=unitOf(section&&section.unit),kinds=KINDS.filter(([k])=>liveUnits(book,k).length),curKind=kindOf(cur),units=liveUnits(book,curKind);if(!units.length)return '';
  const tabs=kinds.length>1?`<div class="kind-tabs" role="tablist">${kinds.map(([k,label])=>{const last=unitOf((state.kindUnit||{})[book.id+'/'+k]),u=last&&last.book===book.id&&kindOf(last)===k&&unitSections(last).length?last:liveUnits(book,k)[0];return `<a role="tab" class="kind-tab ${k===curKind?'active':''}" aria-selected="${k===curKind}" href="${lessonHref(unitEntry(u))}">${label}<small>${liveUnits(book,k).length}</small></a>`}).join('')}</div>`:'';
@@ -134,18 +166,22 @@ function render(){const parts=location.hash.slice(1).split('/');const r=parts[0]
  else if(isLesson()){book=bookById(state.book)||books[0];section=exam.sections.find(s=>s.id===parts[1])||lastSection(book)||exam.sections[0];book=bookOf(section)}
  else{book=bookById(state.book)||books[0];section=lastSection(book)}
  state.book=book.id;if(isLesson()){state.section=section.id;state.bookSection[book.id]=section.id;const u=unitOf(section.unit);if(u){state.unitSection={...(state.unitSection||{}),[u.id]:section.id};state.kindUnit={...(state.kindUnit||{}),[book.id+'/'+kindOf(u)]:u.id}}}persist();
+ activeQKey=null;dockCollapsed=false;
  $('#main').innerHTML=mode==='home'?renderHome():mode==='book'?renderBook():mode==='words'?renderWords():mode==='analysis'?renderAnalysis():renderRead();
  $('#chapterList').innerHTML=sidebar();
  document.querySelectorAll('[data-nav]').forEach(a=>{const nav=a.dataset.nav;a.classList.toggle('active',nav===mode||(nav==='home'&&mode==='book'));if(nav==='read'||nav==='analysis')a.href=section?'#'+nav+'/'+section.id:'#book/'+book.id});
  document.title=`${mode==='home'?'首頁':mode==='book'?book.title+' · 目錄':mode==='words'?'我的單字':section.title+' · '+(mode==='analysis'?'解析備課':'題目閱讀')}｜Workbook 隨身讀`;
- requestAnimationFrame(()=>{if(isLesson()&&parts[2]){document.getElementById((mode==='analysis'?'a-':'q-')+section.id+'-'+parts[2])?.scrollIntoView()}else window.scrollTo(0,isLesson()?state.positions[mode+'/'+section.id]||0:0)})}
-function rerenderHere(){const y=scrollY;$('#main').innerHTML=mode==='home'?renderHome():mode==='book'?renderBook():mode==='read'?renderRead():mode==='words'?renderWords():renderAnalysis();window.scrollTo(0,y)}
+ syncNavHeight();
+ requestAnimationFrame(()=>{if(isLesson()&&parts[2]){document.getElementById((mode==='analysis'?'a-':'q-')+section.id+'-'+parts[2])?.scrollIntoView()}else window.scrollTo(0,isLesson()?state.positions[mode+'/'+section.id]||0:0);updateDockOnScroll();syncDockSpace()})}
+function rerenderHere(){const y=scrollY;$('#main').innerHTML=mode==='home'?renderHome():mode==='book'?renderBook():mode==='read'?renderRead():mode==='words'?renderWords():renderAnalysis();window.scrollTo(0,y);requestAnimationFrame(()=>{updateDockOnScroll();syncDockSpace()})}
 function chooseSection(id){state.section=id;persist();location.hash=mode+'/'+id}
 function setTrans(on){state.transOn=on;persist();applySettings();if(isLesson())rerenderHere()}
 
 /* ---------- events ---------- */
 document.addEventListener('click',e=>{
  const word=e.target.closest('.word');if(word){e.preventDefault();e.stopPropagation();const raw=word.dataset.word.replaceAll('’',"'"),key=raw.toLowerCase(),d=lookup(raw);clearTimeout(tipTimer);document.querySelector('.word.tapped')?.classList.remove('tapped');word.classList.add('tapped');const tip=$('#wordTip');tip.innerHTML=`<strong>${esc(raw)}${d.phonetic?`<small>/${esc(d.phonetic)}/</small>`:''}</strong>${esc(d.meaning)}`;tip.hidden=false;const rect=word.getBoundingClientRect(),w=tip.offsetWidth,h=tip.offsetHeight;tip.style.left=Math.max(14,Math.min(rect.left,innerWidth-w-14))+'px';tip.style.top=Math.max(10,rect.top>h+20?rect.top-h-9:Math.min(innerHeight-h-90,rect.bottom+9))+'px';tipTimer=setTimeout(()=>{tip.hidden=true;word.classList.remove('tapped')},2000);state.words[key]={word:key,...d,star:state.words[key]?.star||false,time:Date.now()};persist();return}
+ const djump=e.target.closest('[data-dock-jump]');if(djump){const k=djump.dataset.dockJump;if(k)document.getElementById('q-'+k)?.scrollIntoView({behavior:'smooth',block:'center'});return}
+ const qdt=e.target.closest('#qDockToggle');if(qdt){dockCollapsed=!dockCollapsed;const d=$('#qDock');if(d){d.classList.toggle('collapsed',dockCollapsed);qdt.querySelector('span').textContent=dockCollapsed?'展開作答區 ▴':'收起作答區 ▾';qdt.setAttribute('aria-expanded',!dockCollapsed)}syncDockSpace();return}
  const gap=e.target.closest('[data-gap]');if(gap){e.preventDefault();document.getElementById(`q-${section.id}-${gap.dataset.gap}`)?.scrollIntoView({behavior:'smooth'});return}
  const gtab=e.target.closest('[data-gtab]');if(gtab){const v=gtab.dataset.gtab;if(!state.groupTab)state.groupTab={};state.groupTab[section.id]=v==='all'?'all':+v;persist();rerenderHere();window.scrollTo(0,0);return}
  const dockT=e.target.closest('#dockToggle');if(dockT){const d=$('#bankDock');if(d){d.classList.toggle('collapsed');dockT.setAttribute('aria-expanded',d.classList.contains('collapsed')?'false':'true')}return}
@@ -162,7 +198,9 @@ document.addEventListener('input',e=>{if(e.target.dataset.draft){state.drafts[e.
 function applySettings(){document.documentElement.style.setProperty('--reading',state.font+'px');document.body.classList.toggle('dark',state.dark);$('#fontValue').textContent=state.font+' px';$('#darkToggle').checked=state.dark;$('#transToggle2').checked=state.transOn}
 $('#fontDown').onclick=()=>{state.font=Math.max(16,state.font-1);applySettings();persist()};$('#fontUp').onclick=()=>{state.font=Math.min(26,state.font+1);applySettings();persist()};$('#settingsBtn').onclick=()=>$('#settings').showModal();
 window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();installPrompt=e});$('#installBtn').onclick=async()=>{if(installPrompt){await installPrompt.prompt();installPrompt=null}else{$('#installHelp').style.background='var(--wash)';toast('請依下方說明，從瀏覽器加入主畫面。')}};
-window.addEventListener('hashchange',render);window.addEventListener('scroll',()=>{clearTimeout(scrollTimer);scrollTimer=setTimeout(()=>{if(section&&isLesson()){state.positions[mode+'/'+section.id]=scrollY;persist()}},200)},{passive:true});
+window.addEventListener('hashchange',render);
+window.addEventListener('scroll',()=>{updateDockOnScroll();clearTimeout(scrollTimer);scrollTimer=setTimeout(()=>{if(section&&isLesson()){state.positions[mode+'/'+section.id]=scrollY;persist()}},200)},{passive:true});
+window.addEventListener('resize',()=>{syncNavHeight();syncDockSpace()});
 function offlineStatus(ready=false){const el=$('#offlineState');el.textContent=ready?'可離線閱讀':navigator.onLine?'正在準備離線…':'目前離線';el.classList.toggle('ready',ready)}
 if('serviceWorker'in navigator){navigator.serviceWorker.addEventListener('message',e=>{if(e.data==='offline-ready')offlineStatus(true);if(e.data==='offline-error'){$('#offlineState').textContent='離線快取待重試'}});navigator.serviceWorker.register('sw.js').then(async()=>{await navigator.serviceWorker.ready;const cache=await caches.open(CACHE);offlineStatus(!!(await cache.match(new URL('offline-ready',location.href).href)))}).catch(()=>{$('#offlineState').textContent='僅線上閱讀'})}else $('#offlineState').textContent='僅線上閱讀';
 applySettings();render();

@@ -82,3 +82,20 @@ input.response{min-height:46px}.tag-derived{display:inline-block;font-size:10px;
 .dark .kind-tab.active{background:#dce6a5;color:#163c35}.dark .unit-chip.active{background:#dce6a5;color:#163c35}.dark .kind-tab small{background:#0000001f}
 @media(max-width:680px){.mobile-switch{display:grid;margin:18px 0 0}}
 .side-caption{display:block;margin-bottom:14px}
+
+/* ---- Fixed bottom question dock (读题作答固定区): mirrors whichever question is in view
+   so students don't have to scroll between the passage and the answer options ---- */
+.qdock{position:fixed;left:0;right:0;bottom:var(--navh,74px);z-index:25;max-width:1400px;margin:0 auto;background:var(--paper);border-top:1px solid var(--line);box-shadow:0 -10px 30px #18392e26}
+.qdock-toggle{width:100%;display:flex;justify-content:center;align-items:center;gap:6px;border:0;border-radius:0;background:var(--wash);color:var(--muted);font-size:12px;min-height:34px;padding:8px}
+.qdock-body{padding:14px 5vw 18px;max-height:46vh;overflow:auto}
+.qdock.collapsed .qdock-body{display:none}
+.qdock-card{max-width:850px;margin:0 auto}
+.qdock-top{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.qdock-nav{min-height:34px;min-width:34px;padding:0;border-radius:10px;font-size:17px;line-height:1;flex:0 0 auto}
+.qdock-nav:disabled{opacity:.3;cursor:default}
+.qdock-meta{flex:1;display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap}
+.qdock-pos{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+.qdock .qcard,.qdock .qstem{margin:0}
+.qdock .qstem{font-size:calc(var(--reading) - 2px)}
+@media(max-width:680px){.qdock{bottom:var(--navh,64px)}.qdock-body{padding:12px 16px 16px}.qdock-meta{gap:6px}}
+body.has-qdock .bottom{z-index:30}
